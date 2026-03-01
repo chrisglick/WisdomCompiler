@@ -4,14 +4,7 @@ Author: V. Ganesan
 title: Berzerk
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[Berzerk]]
-```
 
-
-
-```query
-[source:"Berzerk"]
-```
+*No passages collected yet.*

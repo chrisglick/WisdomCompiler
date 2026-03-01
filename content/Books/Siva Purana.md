@@ -4,14 +4,9 @@ Author: V. Ganesan
 title: Siva Purana
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[Siva Purana]]
-```
 
+## Passages
 
-
-```query
-[source:"Siva Purana"]
-```
+- [[great secret of the five-fold duties]]

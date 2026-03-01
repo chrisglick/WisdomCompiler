@@ -4,14 +4,9 @@ Author: Osho
 title: Vigyan Bhairav Tantra Volume 1
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[Vigyan Bhairav Tantra Volume 1]]
-```
 
+## Passages
 
-
-```query
-[source:"Vigyan Bhairav Tantra Volume 1"]
-```
+- [[All that can be done can be done through understanding]]

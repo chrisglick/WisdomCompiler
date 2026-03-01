@@ -4,6 +4,7 @@ Author: V. Ganesan
 title: A Very Special Patron - Saint Anthony Mary Claret
 source: https://catholicism.org/anthony-claret.html
 tags:
+draft: true
 ---
 ```dataview
 TABLE text

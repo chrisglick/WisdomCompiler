@@ -5,7 +5,7 @@ Page: "0"
 image_name: IMG_1224.png
 Source Type:
 tags:
+ShowImage: false
 ---
-![[IMG_1224.png]]
 
-text::I'm nothing. I am so small.
+I'm nothing. I am so small.

@@ -4,14 +4,9 @@ Author: V. Ganesan
 title: The Search
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[The Search]]
-```
 
+## Passages
 
-
-```query
-[source:"The Search"]
-```
+- [[the inner voice is not a voice it is silence]]

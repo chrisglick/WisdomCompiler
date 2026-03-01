@@ -5,7 +5,7 @@ Page: "0"
 image_name: IMG_1222.png
 Source Type:
 tags:
+ShowImage: false
 ---
-![[IMG_1222.png]]
 
-text::You can only perceive what true strength is when you yourself become truly strong. Anybody could come up with that line!! Why do you gotta be so haughty about it?
+You can only perceive what true strength is when you yourself become truly strong. Anybody could come up with that line!! Why do you gotta be so haughty about it?

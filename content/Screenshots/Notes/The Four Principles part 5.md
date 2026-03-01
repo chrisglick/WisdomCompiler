@@ -5,7 +5,32 @@ Page: "252"
 image_name: IMG_0495.png
 Source Type: 
 tags:
+draft: true
+ShowImage: false
 ---
-![[IMG_0495.png]]
 
-text::Those are just words. And the next moment you have a problem, you have an emotion. You feel something is wrong. But you keep declaring, “I am unborn. I am the Absolute Reality.” It is better to say nothing, to believe nothing, to be nothing, and that’s just being yourself. It’s better just to sit, and think of nothing and try to become nothing, than it is to chant mantras, or to make affirmations, or to keep saying, “I am Brahman.” Just by sitting, you will become yourself.  Can you say the Self is real or is ‘real’ a term that doesn’t exist?  If you say the Self is real, you don’t really mean it. If you meant it you wouldn’t have to say it, but you can say it when you are truly yourself, because it makes you feel better. It helps you live. It’s better than saying that my world is real or my problem is real. It’s better to say the Self is real than to say that.  What is better than that, to say nothingness is real?  Keep silent. Say nothing. When you ask yourself the question, “Where does my mind come from or where do my problems come from,” and you keep still, that’s real. The emptiness is real.  Isn’t the emptiness the same as the Self? Yes, but when you speak, you spoil it to an extent.  That’s right because the Self doesn’t know.  When you say the Self is real, that becomes personal. When there’s silence, it becomes omnipresent.  Silence is always the best policy after you say all those things to yourself. It’s in the Silence that your problems just dissolve. Try it. It really works. When you keep still after saying a lot of these things, your problems will dissolve by themselves. Do not think, “I am getting rid of my problems,” because that enhances the problems. Do not think about the problems at all, but work on yourself to see your own reality, and in reality there are no problems.  We can also note that to most people, no matter how many times I say this, their problems are very real to them. The problems hold them like a vice. They really feel their problems. To those people I say, “To the extent that you can realize that your mind is creating these problems, in reality you are mindless.” To that extent the problems begin to dissolve.” Repeat this when you wake up, when you open your eyes in the morning. Do not go through the four principles all at once. Take one at a time, even if you don’t get to the second that morning, and spend an hour or two working on the first one, that is good. You can do these things all your life if necessary instead of worrying about your problems. Take them one at a time.  There are two things that you said which I had difficulty with. One of the things you said is, never deal with a problem.  Right.  And I know we should concentrate on the positive things you were speaking about, that’s the essential teaching, to stress all the ideas you already talked about today. But still, in this period of life that we have, as we make these statements, as we move towards this goal which I can accept, still there is the life to be lived. There are issues to deal with. So it seems to me that when you say, don’t deal with the problem, this leads to enormous problems.
+Those are just words. And the next moment you have a problem, you have an emotion. You feel something is wrong. But you keep declaring, “I am unborn. I am the Absolute Reality.” It is better to say nothing, to believe nothing, to be nothing, and that’s just being yourself. It’s better just to sit, and think of nothing and try to become nothing, than it is to chant mantras, or to make affirmations, or to keep saying, “I am Brahman.” Just by sitting, you will become yourself.
+
+Can you say the Self is real or is ‘real’ a term that doesn’t exist?
+
+If you say the Self is real, you don’t really mean it. If you meant it you wouldn’t have to say it, but you can say it when you are truly yourself, because it makes you feel better. It helps you live. It’s better than saying that my world is real or my problem is real. It’s better to say the Self is real than to say that.
+
+What is better than that, to say nothingness is real?
+
+Keep silent. Say nothing. When you ask yourself the question, “Where does my mind come from or where do my problems come from,” and you keep still, that’s real. The emptiness is real.
+
+Isn’t the emptiness the same as the Self? Yes, but when you speak, you spoil it to an extent.
+
+That’s right because the Self doesn’t know.
+
+When you say the Self is real, that becomes personal. When there’s silence, it becomes omnipresent.
+
+Silence is always the best policy after you say all those things to yourself. It’s in the Silence that your problems just dissolve. Try it. It really works. When you keep still after saying a lot of these things, your problems will dissolve by themselves. Do not think, “I am getting rid of my problems,” because that enhances the problems. Do not think about the problems at all, but work on yourself to see your own reality, and in reality there are no problems.
+
+We can also note that to most people, no matter how many times I say this, their problems are very real to them. The problems hold them like a vice. They really feel their problems. To those people I say, “To the extent that you can realize that your mind is creating these problems, in reality you are mindless.” To that extent the problems begin to dissolve.” Repeat this when you wake up, when you open your eyes in the morning. Do not go through the four principles all at once. Take one at a time, even if you don’t get to the second that morning, and spend an hour or two working on the first one, that is good. You can do these things all your life if necessary instead of worrying about your problems. Take them one at a time.
+
+There are two things that you said which I had difficulty with. One of the things you said is, never deal with a problem.
+
+Right.
+
+And I know we should concentrate on the positive things you were speaking about, that’s the essential teaching, to stress all the ideas you already talked about today. But still, in this period of life that we have, as we make these statements, as we move towards this goal which I can accept, still there is the life to be lived. There are issues to deal with. So it seems to me that when you say, don’t deal with the problem, this leads to enormous problems.

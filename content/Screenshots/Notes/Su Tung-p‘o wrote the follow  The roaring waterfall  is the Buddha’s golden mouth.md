@@ -5,7 +5,8 @@ Page: "0"
 image_name: IMG_1147.png
 Source Type: 
 tags:
+draft: true
+ShowImage: false
 ---
-![[IMG_1147.png]]
 
-text:: Su Tung-p‘o wrote the follow  The roaring waterfall  is the Buddha’s golden mouth. The mountains in the distance are his pure luminous body. How many thousands of poems have flowed through me tonight! And tomorrow I won’‘t be able to repeat even one word. 
+ Su Tung-p‘o wrote the follow  The roaring waterfall  is the Buddha’s golden mouth. The mountains in the distance are his pure luminous body. How many thousands of poems have flowed through me tonight! And tomorrow I won’‘t be able to repeat even one word. 

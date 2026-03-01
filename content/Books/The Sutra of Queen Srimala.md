@@ -4,14 +4,9 @@ Author: V. Ganesan
 title: The Sutra of Queen Śrīmālā
 source: https://www.bdk.or.jp/document/dgtl-dl/dBET_Srimala_Vimalakirti_2004.pdf
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[The Sutra of Queen Srimala]]
-```
 
+## Passages
 
-
-```query
-[source:"The Sutra of Queen Śrīmālā"]
-```
+- [[Lord, good sons and daughters who have abandoned these three (body, life, and wealth) and have accep]]

@@ -4,14 +4,9 @@ Author: V. Ganesan
 title: Calvin and Hobbes
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[Calvin and Hobbes]]
-```
 
+## Passages
 
-
-```query
-[source:"Calvin and Hobbes"]
-```
+- [[The Yukon Song]]

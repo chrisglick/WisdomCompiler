@@ -3,6 +3,7 @@ title: YouTube Teachings
 tags:
   - youtube
   - video
+draft: true
 ---
 
 # YouTube Teachings

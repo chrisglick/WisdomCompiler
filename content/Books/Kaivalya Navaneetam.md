@@ -4,14 +4,9 @@ Author: V. Ganesan
 title: Kaivalya Navaneetam
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[Kaivalya Navaneetam]]
-```
 
+## Passages
 
-
-```query
-[source:"Kaivalya Navaneetam"]
-```
+- [[Seven stages of knowledge which bestow Liberation]]

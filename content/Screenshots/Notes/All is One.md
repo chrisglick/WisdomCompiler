@@ -5,7 +5,7 @@ Page: "0"
 image_name: IMG_1232.png
 Source Type:
 tags:
+ShowImage: false
 ---
-![[IMG_1232.png]]
 
-text::All is one.
+All is one.

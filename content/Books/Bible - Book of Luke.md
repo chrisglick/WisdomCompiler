@@ -4,14 +4,7 @@ Author: V. Ganesan
 title: Bible - Book of Luke
 source: https://www.biblegateway.com/passage/?search=Luke%207&version=NIV
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[Bible - Book of Luke]]
-```
 
-
-
-```query
-[source:"Bible - Book of Luke"]
-```
+*No passages collected yet.*

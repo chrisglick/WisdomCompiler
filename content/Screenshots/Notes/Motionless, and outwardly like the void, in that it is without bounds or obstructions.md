@@ -6,10 +6,11 @@ image_name: IMG_1133.png
 Source Type:
   - screenshot
 tags:
+draft: true
+ShowImage: false
 ---
-![[IMG_1133.png]]
 
-text::motionless, and outwardly like the void, in that it is without bounds or obstructions. It is neither subjective nor objective, has no specific location, is formless, and cannot vanish. Those who hasten towards it dare not enter, fearing to hurtle down through the void with nothing to cling to or to stay their fall. So they look to the brink and retreat. This refers to all those who seek such a goal through cognition. Thus, those who seek the goal through cognition are like the fur (many), while those who obtain intuitive knowledge of the Way are like the horns (few)3
+motionless, and outwardly like the void, in that it is without bounds or obstructions. It is neither subjective nor objective, has no specific location, is formless, and cannot vanish. Those who hasten towards it dare not enter, fearing to hurtle down through the void with nothing to cling to or to stay their fall. So they look to the brink and retreat. This refers to all those who seek such a goal through cognition. Thus, those who seek the goal through cognition are like the fur (many), while those who obtain intuitive knowledge of the Way are like the horns (few)3
 
 * * *
 
@@ -44,8 +45,6 @@ take a sudden leap, and that having passed through these stages in
 nowise constitutes partial Enlightenment.
 
 c 33
-
-
 
 1 Compare this with Professor Suzuki’s: ‘That which is known as
 mind in discursive reasoning is no-mind, though without this Mind

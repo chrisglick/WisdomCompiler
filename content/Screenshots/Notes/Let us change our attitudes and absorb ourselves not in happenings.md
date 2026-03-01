@@ -6,7 +6,8 @@ image_name: 179c2fae-9f4d-4887-b665-63e1ac8fd484.jpg
 Source Type:
   - Meme
 tags: []
+ShowImage: true
 ---
-![[179c2fae-9f4d-4887-b665-63e1ac8fd484.jpg]]
+![](Screenshots/Images/179c2fae-9f4d-4887-b665-63e1ac8fd484.jpg)
 
-text::"Let us change our attitudes and absorb ourselves not in happenings, but how we acquit ourselves in responding to them."
+"Let us change our attitudes and absorb ourselves not in happenings, but how we acquit ourselves in responding to them."

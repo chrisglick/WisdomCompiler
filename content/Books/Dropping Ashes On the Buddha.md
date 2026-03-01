@@ -4,14 +4,9 @@ Author: Seung Sahn
 title: Dropping Ashes On the Buddha
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[Dropping Ashes On the Buddha]]
-```
 
+## Passages
 
-
-```query
-[source:"Dropping Ashes On the Buddha"]
-```
+- [[First you must throw away all your opinions]]

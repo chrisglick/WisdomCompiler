@@ -1,3 +1,8 @@
+---
+title: The Deliverance of Lakshmi the Cow
+draft: true
+---
+
 (193) THE DELIVERANCE OF LAKSHMI THE COW
 In my letter to you under the caption “Worship of the Cow,” I described to you the grandeur of Lakshmi, the queen of the cows, and the amount of love Bhagavan had for her. To that queen, as for his own mother, Bhagavan on Friday the 18th of June gave Videha Mukti (liberation). That morning when I went to the Ashram, I was told that Lakshmi was seriously ill and would not survive the day. So I went straight to the cow shed, without seeing Bhagavan even. The room built for the calves was vacated, cleaned and Lakshmi was given a bed of straw to lie down upon. As it was Friday, she was as usual decorated with turmeric paste, vermilion mark on the forehead and a garland of flowers round the neck and horns. Venkataratnam was sitting by the side fanning her. Lakshmi was lying down with her majestic look spreading lustre all round. She reminded me of Kamadhenu going to Kailas to do abhishekam with milk over the great Lord Siva.
 When I went to Bhagavan and prostrated before him and got up, he looked at me with a divine look. Taking it as an order, I said I would go and stay with Lakshmi. He nodded his head in assent and I went immediately. Venkataratnam gave me the fan and left. Sitting in that place I began repeating Ramana Dwadasakshari (twelve letters of Ramana Mantram), Ashtotharam (108 names of Ramana), etc. and Lakshmi appeared to hear them attentively.

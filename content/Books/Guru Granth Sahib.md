@@ -4,14 +4,9 @@ Author: V. Ganesan
 title: Guru Granth Sahib
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[Guru Granth Sahib]]
-```
 
+## Passages
 
-
-```query
-[source:"Guru Granth Sahib"]
-```
+- [[Transform your intelligence into the purest of paper]]

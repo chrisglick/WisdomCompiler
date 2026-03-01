@@ -5,7 +5,7 @@ Page: "0"
 image_name: IMG_1221.png
 Source Type:
 tags:
+ShowImage: false
 ---
-![[IMG_1221.png]]
 
-text::I feel so alone
+I feel so alone

@@ -6,7 +6,8 @@ image_name: 275c80f8-5db9-41ad-83e9-63442163498c.jpg
 Source Type:
   - Meme
 tags: []
+ShowImage: true
 ---
-![[275c80f8-5db9-41ad-83e9-63442163498c.jpg]]
+![](Screenshots/Images/275c80f8-5db9-41ad-83e9-63442163498c.jpg)
 
-text::Fortunate is the man who does not lose himself in the labyrinths of philosophy, but goes straight to the Source from which they all rise.  
+Fortunate is the man who does not lose himself in the labyrinths of philosophy, but goes straight to the Source from which they all rise.  

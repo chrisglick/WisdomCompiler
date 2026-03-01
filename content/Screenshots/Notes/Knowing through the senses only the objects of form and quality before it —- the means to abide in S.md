@@ -6,10 +6,10 @@ image_name: IMG_0022.png
 Source Type:
   - screenshot
 tags:
+ShowImage: false
 ---
-![[IMG_0022.png]]
 
-text::Knowing through the senses only the objects of form and quality before it —- the means to abide in Self is to begin enquiring inwardly, “Who am I?”
+Knowing through the senses only the objects of form and quality before it —- the means to abide in Self is to begin enquiring inwardly, “Who am I?”
 
 185b. For the extroverted intellect, the means to abide in Self is to begin enquiring inwardly “Who am I, who suffer greatly, knowing through the senses only the objects of form and quality before me?”
 

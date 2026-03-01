@@ -6,7 +6,8 @@ image_name: 377fb013-2a04-4198-bf7e-7aa2cc24a877.jpg
 Source Type:
   - Meme
 tags: []
+ShowImage: true
 ---
-![[377fb013-2a04-4198-bf7e-7aa2cc24a877.jpg]]
+![](Screenshots/Images/377fb013-2a04-4198-bf7e-7aa2cc24a877.jpg)
 
-text::Let not a day pass without communion with nature which is so divine! The trees, the flowers, the birds, the sky! Be alert and subtle to receive and respond to the divinity around you.
+Let not a day pass without communion with nature which is so divine! The trees, the flowers, the birds, the sky! Be alert and subtle to receive and respond to the divinity around you.

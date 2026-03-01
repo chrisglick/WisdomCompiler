@@ -4,14 +4,9 @@ Author: V. Ganesan
 title: Book Title
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[The Path of Self Knowledge]]
-```
 
+## Passages
 
-
-```query
-[source:"The Path of Self Knowledge"]
-```
+- [[all that one is responsible for is the purity and disinterestedness of it]]

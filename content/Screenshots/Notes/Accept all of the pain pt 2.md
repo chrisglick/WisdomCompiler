@@ -5,7 +5,7 @@ Page: "0"
 image_name: IMG_1329.png
 Source Type: 
 tags:
+ShowImage: false
 ---
-![[IMG_1329.png]]
 
-text::Accept all of the pain! I just need to take it all in! There's nothing to be scared of!
+Accept all of the pain! I just need to take it all in! There's nothing to be scared of!

@@ -4,14 +4,9 @@ Author: V. Ganesan
 title: The Incredible Sai Baba
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[The Incredible Sai Baba]]
-```
 
+## Passages
 
-
-```query
-[source:"The Incredible Sai Baba"]
-```
+- [[Only one who is unattached things earthly and heavenly alike can attain to Divine Knowledge]]

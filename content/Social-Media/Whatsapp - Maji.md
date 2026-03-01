@@ -4,6 +4,7 @@ Author: ???
 title: Send in Whatsapp
 source: Whatsapp
 tags:
+draft: true
 ---
 ```dataview
 TABLE text

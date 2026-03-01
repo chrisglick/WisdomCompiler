@@ -5,7 +5,7 @@ Page: "0"
 image_name: IMG_0056.jpeg
 Source Type:
 tags:
+ShowImage: false
 ---
-![[IMG_0056.jpeg]]
 
-text::146. And you, O soul at peace! Return to your Lord well pleased with Him and He well pleased with you. So enter you among My chosen servants, And enter you My Garden. (The Holy Quran, al-Fajr 89:28-31) 
+146. And you, O soul at peace! Return to your Lord well pleased with Him and He well pleased with you. So enter you among My chosen servants, And enter you My Garden. (The Holy Quran, al-Fajr 89:28-31) 

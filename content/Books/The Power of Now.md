@@ -4,14 +4,9 @@ Author: Eckhart Tolle
 title: The Power of Now
 source: https://shop.eckharttolle.com/collections/books/products/the-power-of-now
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[The Power of Now]]
-```
 
+## Passages
 
-
-```query
-[source:"The Power of Now"]
-```
+- [[Clearing the Pain Body]]

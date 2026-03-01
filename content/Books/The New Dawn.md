@@ -4,14 +4,12 @@ Author: Osho
 title: The New Dawn
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[The New Dawn]]
-```
 
+## Passages
 
-
-```query
-[source:"The New Dawn"]
-```
+- [[Enter into the silence of the temple]]
+- [[The dangerous path - identify with EVERYTHING]]
+- [[The loneliness transforms into aloneness]]
+- [[You are not a foreigner in existence]]

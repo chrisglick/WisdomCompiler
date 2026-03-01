@@ -5,7 +5,8 @@ Page: "0"
 image_name: IMG_1657.png
 Source Type: 
 tags:
+draft: true
+ShowImage: false
 ---
-![[IMG_1657.png]]
 
-text::There is only one God - the language, location, and system may be different.
+There is only one God - the language, location, and system may be different.

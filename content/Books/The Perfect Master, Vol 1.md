@@ -4,14 +4,11 @@ Author: Osho
 title: Book Title
 source: https://oshoworld.com/wp-content/uploads/2020/11/ebooks/English/096_The_Perfect_Master_Vol1.pdf
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[The Perfect Master, Vol 1]]
-```
 
+## Passages
 
-
-```query
-[source:"The Perfect Master, Vol 1"]
-```
+- [[But the prisoner has become too identified with the prison cell]]
+- [[It is only living a thing totally that one transcends it]]
+- [[absolute consciousness that there is no way to know that there is nothing to know that there is nobo]]

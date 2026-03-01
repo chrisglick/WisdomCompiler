@@ -4,14 +4,9 @@ Author: V. Ganesan
 title: Book Title
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[Early Islamic Mysticism]]
-```
 
+## Passages
 
-
-```query
-[source:"Early Islamic Mysticism"]
-```
+- [[You have been given guidance through innate disposition]]

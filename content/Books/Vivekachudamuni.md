@@ -4,14 +4,7 @@ Author: V. Ganesan
 title: Book Title
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[Vivekachadamuni]]
-```
 
-
-
-```query
-[source:"Vivekachadamuni"]
-```
+*No passages collected yet.*

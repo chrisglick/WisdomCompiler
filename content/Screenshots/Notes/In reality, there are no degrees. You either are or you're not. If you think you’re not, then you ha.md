@@ -5,10 +5,11 @@ Page: "257"
 image_name: IMG_1171.png
 Source Type: 
 tags:
+draft: true
+ShowImage: false
 ---
-![[IMG_1171.png]]
 
-test::In reality, there are no degrees. You either are or you're not. If you think you’re not, then you have to fetch for yourself. If you think you are, you'll think about these things, and then you'll go and do something. But you won’t be doing it. It will do itself. See, when you say it’s not me doing it, you believe that you are the one, you are the body. You don’t say it’s not me doing it. You ask the question, “To whom does it come?” There’s a difference. It keeps the me out of it completely.
+In reality, there are no degrees. You either are or you're not. If you think you’re not, then you have to fetch for yourself. If you think you are, you'll think about these things, and then you'll go and do something. But you won’t be doing it. It will do itself. See, when you say it’s not me doing it, you believe that you are the one, you are the body. You don’t say it’s not me doing it. You ask the question, “To whom does it come?” There’s a difference. It keeps the me out of it completely.
 
 What kind of answer can one expect when you ask who is it for?
 
@@ -28,5 +29,4 @@ new ball game. You’re on God’s team, and you're well taken
 care of, but it’s different. There are no words to explain it.
 
 ~257~
-
 

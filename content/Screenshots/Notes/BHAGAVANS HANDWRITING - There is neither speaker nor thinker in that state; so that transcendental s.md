@@ -6,7 +6,8 @@ image_name: 60aef88c-0d1e-472b-8980-f7a00323d329.jpg
 Source Type:
   - Meme
 tags:
+ShowImage: true
 ---
-![[60aef88c-0d1e-472b-8980-f7a00323d329.jpg]]
+![](Screenshots/Images/60aef88c-0d1e-472b-8980-f7a00323d329.jpg)
 
-text::BHAGAVAN'S HANDWRITING :  There is neither speaker nor thinker in that state; so that transcendental state is called Silence.  
+BHAGAVAN'S HANDWRITING :  There is neither speaker nor thinker in that state; so that transcendental state is called Silence.  

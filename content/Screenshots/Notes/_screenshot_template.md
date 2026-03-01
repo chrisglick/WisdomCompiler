@@ -8,6 +8,7 @@ tags:
 published:
 publish_date:
 last_posted:
+draft: true
 ---
 ![[0c5c6fc9-e7f2-4fdd-99ba-ebd2fe76c3d4.jpg]]
 

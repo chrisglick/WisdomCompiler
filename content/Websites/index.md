@@ -3,6 +3,7 @@ title: Spiritual Websites
 tags:
   - websites
   - resources
+draft: true
 ---
 
 # Spiritual Websites

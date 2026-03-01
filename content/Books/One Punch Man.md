@@ -4,17 +4,10 @@ Author: V. Ganesan
 title: One Punch Man
 source: url
 tags:
+draft: false
 ---
-```dataview
-TABLE text
-WHERE source = [[One Punch Man]]
-```
-2025-07-04, 12:07:02
 
+## Passages
 
-
-
-
-```query
-[source:"One Punch Man"]
-```
+- [[Accept all of the pain pt 2]]
+- [[accept all of the pain]]

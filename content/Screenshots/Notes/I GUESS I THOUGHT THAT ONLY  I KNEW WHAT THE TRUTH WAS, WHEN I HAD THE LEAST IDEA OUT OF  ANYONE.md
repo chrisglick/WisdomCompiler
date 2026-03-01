@@ -6,7 +6,8 @@ image_name: IMG_1192.png
 Source Type:
   - Meme
 tags:
+ShowImage: true
 ---
-![[IMG_1192.png]]
+![](Screenshots/Images/IMG_1192.png)
 
-text::I GUESS I THOUGHT THAT ONLY  I KNEW WHAT THE TRUTH WAS, WHEN I HAD THE LEAST IDEA OUT OF  ANYONE... 
+I GUESS I THOUGHT THAT ONLY  I KNEW WHAT THE TRUTH WAS, WHEN I HAD THE LEAST IDEA OUT OF  ANYONE... 

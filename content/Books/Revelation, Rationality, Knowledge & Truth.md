@@ -4,15 +4,9 @@ Author: Mirza Tahir Ahmad
 title: Revelation, Rationality, Knowledge & Truth
 source: https://www.alislam.org/library/books/revelation/index.html
 tags:
+draft: false
 ---
-```dataview
-```dataview
-TABLE text
-WHERE source = [[**Revelation, Rationality, Knowledge & Truth**]]
-```
 
+## Passages
 
-
-```query
-[source:"Revelation, Rationality, Knowledge & Truth"]
-```
+- [[This chapter deals with all the preparatory steps which were needed before the creation of bio-units]]
