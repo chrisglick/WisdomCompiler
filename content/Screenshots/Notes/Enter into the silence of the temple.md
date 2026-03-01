@@ -1,0 +1,11 @@
+---
+Edited: true
+source: "[[The New Dawn]]"
+Page: "0"
+image_name: IMG_1309.png
+Source Type: []
+tags: []
+---
+![[IMG_1309.png]]
+
+text::You are not conditioned because you have never been with anybody.  Meditation is my method to demolish your past, and your mind is nothing but your past. Meditation is my method to give you a new birth, a new beginning, a revolution in your being, so that you can find reality as an experience for your thirsting soul, not answers for your questions.  Questions and answers are just intellectual. You need a real encounter with existence. Only that can help you to blossom, to be liberated, to be enlightened. Silence is perfectly the right path. If your heart has heard and felt something of silence and is entering into the mystery of existence, then forget all about your questions and forget all about answers. Just be silent. And as you become more and more silent, the mystery will go on opening its doors to you. Door upon door, peak upon peak ... there is no end.  Life is such an eternal miracle, and it opens its doors only to the magic of silence. Whoever has understood silence has known the science, the magic, the art, the knack of entering into reality as if it is your own home. In fact it is.  Questions and answers will keep you outside the temple and will never allow you to enter the temple. Leave questions and answers where people leave their shoes, and enter into the silence of the temple. Silence is the way. That will bring you a new dawn, a new explosion of light, an overwhelming dance — a dance in which the stars and the trees and the ocean will be your partners. The whole existence will be your music. I don’t teach anything about God, I teach simply about experiencing the dance of this mysterious life ... and you will know about God. God is not a person, but only the fragrance when you have come  The New Dawn 318 Osho 
