@@ -1,11 +1,14 @@
 ---
 sticker: emoji//1f4d6
 Author: 
-title: The Vimalakīrti Sutra
+title: The Vimalakirti Sutra
 source: https://www.bdk.or.jp/document/dgtl-dl/dBET_Srimala_Vimalakirti_2004.pdf
 tags:
 draft: false
 ---
+
+## Read Online
+- [The Vimalakirti Sutra — BDK English Tripitaka (PDF)](https://www.bdk.or.jp/document/dgtl-dl/dBET_Srimala_Vimalakirti_2004.pdf)
 
 ## Passages
 

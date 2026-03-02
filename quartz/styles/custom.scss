@@ -1,3 +1,111 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Mobile responsiveness improvements
+@media all and ($mobile) {
+  // Prevent horizontal scroll — constrain all containers to viewport
+  html {
+    overflow-x: hidden;
+  }
+
+  body {
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+
+  .page {
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
+
+  // Force all content to respect viewport width
+  .page > #quartz-body {
+    max-width: 100vw;
+    overflow-x: hidden;
+
+    .center {
+      overflow-x: hidden;
+      max-width: 100%;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+    }
+  }
+
+  // Article content must wrap — critical for long links and text
+  article {
+    max-width: 100%;
+    overflow-wrap: break-word;
+    word-break: break-word;
+
+    a {
+      word-break: break-word;
+      overflow-wrap: break-word;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  // Better touch targets for links and interactive elements
+  .sidebar.left a,
+  .explorer a,
+  .backlinks a,
+  footer a {
+    display: inline-block;
+    min-height: 44px;
+    line-height: 44px;
+  }
+
+  // Tighter spacing on mobile
+  .page > #quartz-body .page-header {
+    padding-top: 0.5rem;
+  }
+
+  // Scale headings down for mobile
+  .page article > h1 {
+    font-size: 1.5rem;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+
+  h3 {
+    font-size: 1.05rem;
+  }
+
+  // Better readability for body text
+  p, li, td {
+    font-size: 0.95rem;
+    line-height: 1.65;
+  }
+
+  // Prevent wide tables from breaking layout
+  .table-container {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  // Explorer items need breathing room on touch
+  #explorer-ul li > a {
+    padding: 0.35rem 0;
+  }
+
+  // Blockquotes need tighter margins on mobile
+  blockquote {
+    margin: 0.75rem 0;
+    padding-left: 0.75rem;
+  }
+
+  // Code blocks shouldn't force wide layout
+  pre {
+    max-width: calc(100vw - 2rem);
+    overflow-x: auto;
+  }
+}

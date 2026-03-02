@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Get the Book
+- [One Punch Man — ONE / Yusuke Murata (Amazon)](https://www.amazon.com/dp/1421585642)
+
 ## Passages
 
 - [[Accept all of the pain pt 2]]

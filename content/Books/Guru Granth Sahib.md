@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Guru Granth Sahib — full text (SearchGurbani.com)](https://www.searchgurbani.com/guru-granth-sahib/ang-by-ang)
+
 ## Passages
 
 - [[Transform your intelligence into the purest of paper]]

@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Revelation, Rationality, Knowledge & Truth — Mirza Tahir Ahmad (alislam.org)](https://www.alislam.org/library/books/revelation/index.html)
+
 ## Passages
 
 - [[This chapter deals with all the preparatory steps which were needed before the creation of bio-units]]

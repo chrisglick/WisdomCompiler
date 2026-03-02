@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Yoga Vasistha — full text (Venkatesananda translation)](https://www.arshabodha.org/documents/Yoga%20Vasistha.pdf)
+
 ## Passages
 
 - [[Give up the desire that tends to bondage and the desire for liberation too.txt]]

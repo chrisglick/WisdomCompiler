@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Ramana Periya Puranam — V. Ganesan (aham.com)](https://www.aham.com/RamanaPeriyaPuranam/)
+
 ## Passages
 
 - [[If the ego and all its experiences are dismissed as passing shadows the ever present ultimate realit]]

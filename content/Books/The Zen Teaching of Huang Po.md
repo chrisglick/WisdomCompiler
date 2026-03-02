@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [The Zen Teaching of Huang Po — full text (Archive.org)](https://archive.org/details/in.gov.ignca.27657/page/13/mode/2up)
+
 ## Passages
 
 - [[All the concepts you have formed in the past must be discarded and replaced by void]]

@@ -4,7 +4,7 @@ Author: V. Ganesan
 title: Berzerk
 source: url
 tags:
-draft: false
+draft: true
 ---
 
 *No passages collected yet.*

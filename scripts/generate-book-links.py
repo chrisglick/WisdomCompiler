@@ -120,11 +120,57 @@ def rebuild_frontmatter(filepath: Path) -> str:
     return text[:end + 3]
 
 
-def rewrite_page(filepath: Path, notes: list[str], section_title: str = "Passages"):
-    """Rewrite a page: preserve frontmatter, replace body with wikilinks."""
-    frontmatter_block = rebuild_frontmatter(filepath)
+def extract_link_section(filepath: Path) -> str:
+    """Extract any '## Read Online' or '## Get the Book' section from existing body.
 
-    lines = [frontmatter_block, "", f"## {section_title}", ""]
+    Only captures the header and markdown link lines (starting with '- ['),
+    not any trailing content like '*No passages collected yet.*'.
+    """
+    text = filepath.read_text(encoding="utf-8")
+    for header in ["## Read Online", "## Get the Book"]:
+        idx = text.find(header)
+        if idx == -1:
+            continue
+        # Find the next ## header to bound the section
+        next_header = text.find("\n## ", idx + len(header))
+        if next_header == -1:
+            block = text[idx:]
+        else:
+            block = text[idx:next_header]
+        # Keep only the header and link lines
+        lines = []
+        for line in block.strip().split("\n"):
+            stripped = line.strip()
+            if stripped.startswith("## ") or stripped.startswith("- ["):
+                lines.append(line)
+        return "\n".join(lines) if lines else ""
+    return ""
+
+
+def set_frontmatter_draft(filepath: Path, draft: bool):
+    """Set draft: true/false in frontmatter."""
+    text = filepath.read_text(encoding="utf-8")
+    if "draft:" in text:
+        text = re.sub(r"draft:\s*(true|false)", f"draft: {'true' if draft else 'false'}", text)
+    else:
+        # Insert draft field before closing ---
+        end = text.find("---", 3)
+        if end != -1:
+            text = text[:end] + f"draft: {'true' if draft else 'false'}\n" + text[end:]
+    filepath.write_text(text, encoding="utf-8")
+
+
+def rewrite_page(filepath: Path, notes: list[str], section_title: str = "Passages"):
+    """Rewrite a page: preserve frontmatter and link sections, replace passages."""
+    frontmatter_block = rebuild_frontmatter(filepath)
+    link_section = extract_link_section(filepath)
+
+    lines = [frontmatter_block, ""]
+    if link_section:
+        lines.append(link_section)
+        lines.append("")
+    lines.append(f"## {section_title}")
+    lines.append("")
     for note in sorted(notes):
         lines.append(f"- [[{note}]]")
     lines.append("")  # trailing newline
@@ -148,13 +194,22 @@ def main():
 
         if notes:
             rewrite_page(f, notes)
+            set_frontmatter_draft(f, draft=False)
             print(f"  Book: {book_name} -> {len(notes)} passages")
             book_count += 1
         else:
-            # Still remove dataview blocks even if no notes found
+            # Preserve link sections even for empty books
+            link_section = extract_link_section(f)
             fm_block = rebuild_frontmatter(f)
-            f.write_text(fm_block + "\n\n*No passages collected yet.*\n", encoding="utf-8")
-            print(f"  Book: {book_name} -> 0 passages (cleared dataview)")
+            body_parts = [fm_block, ""]
+            if link_section:
+                body_parts.append(link_section)
+                body_parts.append("")
+            body_parts.append("*No passages collected yet.*")
+            body_parts.append("")
+            f.write_text("\n".join(body_parts), encoding="utf-8")
+            set_frontmatter_draft(f, draft=True)
+            print(f"  Book: {book_name} -> 0 passages (drafted)")
             book_count += 1
 
     print(f"\nProcessed {book_count} book files")
@@ -170,12 +225,21 @@ def main():
 
         if notes:
             rewrite_page(f, notes, section_title="Passages")
+            set_frontmatter_draft(f, draft=False)
             print(f"  Teacher: {teacher_name} -> {len(notes)} passages")
             teacher_count += 1
         else:
+            link_section = extract_link_section(f)
             fm_block = rebuild_frontmatter(f)
-            f.write_text(fm_block + "\n\n*No passages collected yet.*\n", encoding="utf-8")
-            print(f"  Teacher: {teacher_name} -> 0 passages")
+            body_parts = [fm_block, ""]
+            if link_section:
+                body_parts.append(link_section)
+                body_parts.append("")
+            body_parts.append("*No passages collected yet.*")
+            body_parts.append("")
+            f.write_text("\n".join(body_parts), encoding="utf-8")
+            set_frontmatter_draft(f, draft=True)
+            print(f"  Teacher: {teacher_name} -> 0 passages (drafted)")
             teacher_count += 1
 
     print(f"Processed {teacher_count} teacher files")

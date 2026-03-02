@@ -1,11 +1,14 @@
 ---
 sticker: emoji//1f4d6
 Author: V. Ganesan
-title: Book Title
+title: The Path of Self Knowledge
 source: url
 tags:
 draft: false
 ---
+
+## Read Online
+- [The Path of Self Knowledge — Arthur Osborne (Sri Ramanasramam)](https://www.sriramanamaharshi.org/downloadbooks/the-path-of-sri-ramana/)
 
 ## Passages
 

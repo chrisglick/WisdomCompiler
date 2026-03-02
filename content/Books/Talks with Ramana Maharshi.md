@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Talks with Sri Ramana Maharshi — full text (Sri Ramanasramam)](https://www.sriramanamaharshi.org/downloadbooks/talks-with-sri-ramana-maharshi/)
+
 ## Passages
 
 - [[Abhyasa consists in withdrawal within the Self every time you are disturbed by thought]]

@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Ribhu Gita — Sri Ramanasramam (PDF)](https://www.sriramanamaharshi.org/downloadbooks/ribhu-gita/)
+
 ## Passages
 
 - [[By knowing which all is renounced ever abide as that itself.txt]]

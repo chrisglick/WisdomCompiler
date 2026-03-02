@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Ashtavakra Gita — full text (Nityaswarupananda translation)](https://www.holybooks.com/ashtavakra-gita/)
+
 ## Passages
 
 - [[Even amidst great action the wise one remains still]]

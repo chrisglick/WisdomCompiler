@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Guru Vachaka Kovai — Muruganar (Happiness of Being, PDF)](https://www.happinessofbeing.com/Guru_Vachaka_Kovai.pdf)
+
 ## Passages
 
 - [[Bhagavan does not intend to deny the necessity or wisdom of taking a reasonable and moderate care of]]

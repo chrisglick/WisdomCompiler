@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Silence of the Heart — Robert Adams (Archive.org)](https://archive.org/details/SilenceOfTheHeart)
+
 ## Passages
 
 - [[The Four Principles of Self Realization]]

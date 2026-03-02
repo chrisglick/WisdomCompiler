@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Consciousness and the Absolute — Nisargadatta Maharaj (Archive.org)](https://archive.org/details/consciousness-and-the-absolute-nisargadatta-maharaj)
+
 ## Passages
 
 - [[My state never felt the creation and dissolution of the universe]]

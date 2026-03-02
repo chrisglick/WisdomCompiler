@@ -1,11 +1,14 @@
 ---
 sticker: emoji//1f4d6
 Author: Hazrat Mirza Ghulam Ahmad
-title: Haqiqatul-Wahi (The Philosophy of Divine Revelation)
+title: Haqiqatul-Wahi - The Philosophy of Divine Revelation
 source: https://www.alislam.org/book/haqiqatul-wahi/
 tags:
 draft: false
 ---
+
+## Read Online
+- [Haqiqatul-Wahi — Hazrat Mirza Ghulam Ahmad (alislam.org)](https://www.alislam.org/book/haqiqatul-wahi/)
 
 ## Passages
 

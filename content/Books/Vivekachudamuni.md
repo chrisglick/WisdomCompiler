@@ -1,10 +1,10 @@
 ---
 sticker: emoji//1f4d6
 Author: V. Ganesan
-title: Book Title
+title: Vivekachudamuni
 source: url
 tags:
-draft: false
+draft: true
 ---
 
 *No passages collected yet.*

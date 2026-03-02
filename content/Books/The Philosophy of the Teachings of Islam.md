@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [The Philosophy of the Teachings of Islam — Hazrat Mirza Ghulam Ahmad (alislam.org)](https://www.alislam.org/book/philosophy-teachings-islam/)
+
 ## Passages
 
 - [[A fire leaps up from our inside like lightning and another fire descends upon us from above]]

@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [The Incredible Sai Baba — Arthur Osborne (Archive.org)](https://archive.org/details/incrediblesaibab0000osbo)
+
 ## Passages
 
 - [[Only one who is unattached things earthly and heavenly alike can attain to Divine Knowledge]]

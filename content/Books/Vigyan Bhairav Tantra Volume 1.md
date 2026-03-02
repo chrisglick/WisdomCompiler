@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+## Read Online
+- [Vigyan Bhairav Tantra — Osho (OshoWorld.com)](https://www.oshoworld.com/e-books/eng_vigyan.asp)
+
 ## Passages
 
 - [[All that can be done can be done through understanding]]
