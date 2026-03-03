@@ -1,6 +1,6 @@
 ---
 sticker: emoji//1f4d6
-Author: 
+Author: Traditional
 title: The Vimalakirti Sutra
 source: https://www.bdk.or.jp/document/dgtl-dl/dBET_Srimala_Vimalakirti_2004.pdf
 tags:

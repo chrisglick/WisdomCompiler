@@ -1,14 +1,6 @@
 ---
-sticker: emoji//1f4d6
-Author: Nisargadatta Maharaj
-title: Consciousness and the Absolute
-source: url
-tags:
 draft: false
 ---
-
-## Read Online
-- [Consciousness and the Absolute — Nisargadatta Maharaj (Archive.org)](https://archive.org/details/consciousness-and-the-absolute-nisargadatta-maharaj)
 
 ## Passages
 

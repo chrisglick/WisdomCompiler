@@ -1,6 +1,6 @@
 ---
 sticker: emoji//1f4d6
-Author: V. Ganesan
+Author: Arthur Osborne
 title: The Path of Self Knowledge
 source: url
 tags:

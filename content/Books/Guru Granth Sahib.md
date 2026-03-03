@@ -1,6 +1,6 @@
 ---
 sticker: emoji//1f4d6
-Author: V. Ganesan
+Author: Guru Arjan Dev
 title: Guru Granth Sahib
 source: url
 tags:

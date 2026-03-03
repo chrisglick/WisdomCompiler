@@ -1,6 +1,6 @@
 ---
 sticker: emoji//1f4d6
-Author: V. Ganesan
+Author: Adi Shankaracharya
 title: Vivekachudamuni
 source: url
 tags:

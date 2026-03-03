@@ -1,6 +1,6 @@
 ---
 sticker: emoji//1f4d6
-Author: V. Ganesan
+Author: Tandavaraya Swami
 title: Kaivalya Navaneetam
 source: url
 tags:
