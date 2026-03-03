@@ -24,9 +24,11 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import RandomQuote from "./RandomQuote"
+import ArticleImage from "./ArticleImage"
 
 export {
   ArticleTitle,
+  ArticleImage,
   Content,
   TagContent,
   FolderContent,

@@ -26,6 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.ArticleImage(),
     Component.TagList(),
   ],
   left: [
@@ -47,7 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
         if (!name) return true
         const excluded = [
           "tags",
-          "screenshots",
+          "images",
           "social-media",
           "lakshmi the cow",
           "about",
@@ -57,7 +58,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -84,7 +84,7 @@ export const defaultListPageLayout: PageLayout = {
         if (!name) return true
         const excluded = [
           "tags",
-          "screenshots",
+          "images",
           "social-media",
           "lakshmi the cow",
           "about",

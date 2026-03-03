@@ -2,6 +2,8 @@
 draft: false
 ---
 
+Takehiko Inoue (b. 1967) is a Japanese manga artist celebrated for *Slam Dunk* and *Vagabond*. *Vagabond* is a sweeping adaptation of the life of legendary swordsman Miyamoto Musashi, exploring themes of strength, solitude, and enlightenment through the way of the sword. His art is regarded as among the finest in manga history.
+
 ## Passages
 
 - [[All is One]]

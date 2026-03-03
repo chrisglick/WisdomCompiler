@@ -1,0 +1,19 @@
+---
+Edited: true
+source: ""
+Page: "0"
+image_name: IMG_0722.PNG
+Source Type: []
+tags: []
+ShowImage: false
+---
+
+I first came to Sri Ramana Ashram on November 1st 1935. I had heard of Bhagavan through Brunton’s book, A Search in Secret India, and immediately decided that here was my Guru. Directly I could settle up my affairs I left my house and possessions in Majorca and went home to England for a short stay with my sisters before finally leaving for India.
+
+Off and on for a number of years I had been practicing some form of meditation on my return from work in the evening, (I was at that time employed in Chile), and, after I finally retired, in my own home. This meditation of mine actually turned out to be very much the same that I learnt later when I came to Tiruvannamalai. I had argued that since God had created the world, (there must be some beginning somewhere, and this necessitated a Creator), it was only out of Himself that He could have done so, for if there was some other apart from Himself then He could not be God, undisputed and omnipotent.
+
+So I decided that the seeker himself was God or, as Bhagavan puts it, the Self. My method of meditation then, was to make the mind cease from thinking as an individual and just rest in its God-head: “Do not think. Be!” I recognised, of course, the danger of a blank and was under no delusion that such a blank could be a goal or an end in itself. This form of meditation I carried on, off and on, from 1924 until I came to Tiruvannamalai eleven years later. But in between times were periods when I did not meditate at all. I had a conviction that I could not lead a worldly life and at the same time strive after spiritual attainment; the two things for me dwelt in separate compartments. I had not then realized the truth of Advaita that there could be no splitting in this way, that the worldly life was just as unreal as the unworldly life, or, if you prefer, that both were as real as each other. They were prarabdha, which had in any case to be worked out; that actually there was no such thing as good and evil, only attachment; that actions were actions and it was identifying oneself with such that mattered and not the actions in themselves. I still believed in the importance of morals, as such, as absolute standards, and, so my meditation could be nothing but a spasmodic affair.
+
+No doubt in some ways, at least as a beginning, this was good, for in the earlier stages there must be a rule or some sort of code to keep oneself concentrated on the work, though this rule will automatically drop away in time. However, as time went on, I became convinced that my attitude had been wrong, that, whatever one’s life, a short period of meditation should be practiced each day, preferably in the early morning.
+
+That the method that I devised of stilling the mind and concentrating on my own essential core, which I had decided was God, differed little from the method of seeking out the Self by constant enquiry and search for the Witness as taught by Bhagavan, there can be no doubt. I was lucky that the Truth came to me so easily. Of course it bore out Bhagavan’s saying that, “Chadwick was with us before, he was one of us. He had some desire to be born in the West, and that he has now fulfilled.” So it seems that the memory of the teaching given in a previous birth was bearing fruit in this. I arrived at Tiruvannamalai by the early morning train. It was a bright clear day at the beginning of winter and I was immediately struck by the wonderful atmosphere of the place, which one almost felt that one could take hold of, so potent was it. I was met at the station by Ganapathi Sastry. I had asked the Ashram to send someone to meet me and so naturally concluded that this was the person, but it transpired that, though he had once been one of their men, at the time he was out of favour and had no 

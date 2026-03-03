@@ -3,8 +3,8 @@
 Fix image embeds in screenshot notes for Quartz compatibility.
 
 Converts Obsidian wikilink image embeds and broken relative paths:
-  ![[IMG_1192.png]]       ->  ![](Screenshots/Images/IMG_1192.png)
-  ![](../Images/IMG.png)  ->  ![](Screenshots/Images/IMG.png)
+  ![[IMG_1192.png]]       ->  ![](Images/IMG_1192.png)
+  ![](../Images/IMG.png)  ->  ![](Images/IMG.png)
 
 Uses full content-root paths so Quartz's CrawlLinks fallback
 (pathToRoot + canonicalSlug) resolves correctly from any depth.
@@ -15,8 +15,8 @@ Re-runnable: safe to run multiple times.
 import re
 from pathlib import Path
 
-NOTES_DIR = Path(__file__).parent.parent / "content" / "Screenshots" / "Notes"
-IMAGES_DIR = Path(__file__).parent.parent / "content" / "Screenshots" / "Images"
+NOTES_DIR = Path(__file__).parent.parent / "content" / "Wisdom Quotes"
+IMAGES_DIR = Path(__file__).parent.parent / "content" / "Wisdom Quotes" / "Images"
 
 # Pattern matches ![[filename.ext]] where ext is an image type
 WIKILINK_IMAGE_RE = re.compile(
@@ -36,11 +36,11 @@ def fix_note(filepath: Path) -> bool:
 
     def replace_wikilink(match):
         filename = match.group(1)
-        return f"![](Screenshots/Images/{filename})"
+        return f"![](Images/{filename})"
 
     def replace_relative(match):
         filename = match.group(1)
-        return f"![](Screenshots/Images/{filename})"
+        return f"![](Images/{filename})"
 
     text = WIKILINK_IMAGE_RE.sub(replace_wikilink, text)
     text = RELATIVE_IMAGE_RE.sub(replace_relative, text)

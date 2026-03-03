@@ -2,6 +2,10 @@
 draft: false
 ---
 
+Ramana Maharshi (1879-1950) was an Indian sage who attained self-realization at age sixteen. He spent the rest of his life at the holy mountain Arunachala in Tiruvannamalai, South India. His core teaching was Self-enquiry (*Atma Vichara*) — "Who am I?" — as the direct path to liberation.
+
+[Sri Ramanasramam (Official)](https://www.sriramanamaharshi.org/)
+
 ## Passages
 
 - [[Attention to ones own Self is the only raft]]

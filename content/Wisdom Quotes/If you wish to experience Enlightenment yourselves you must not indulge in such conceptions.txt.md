@@ -1,0 +1,27 @@
+---
+Edited: true
+source: "[[The Zen Teaching of Huang Po]]"
+Page: "42"
+image_name: IMG_1135.PNG
+Source Type: 
+tags:
+ShowImage: false
+---
+
+Bodhisattvas, together with all wriggling things possessed of life, share in this great Nirvanic nature. This nature is Mind; Mind is the Buddha, and the Buddha is the Dharma. Any thought apart from this truth is entirely a wrong thought. You cannot use Mind to seek Mind, the Buddha to seek the Buddha, or the Dharma to seek the Dharma. So you students of the Way should immediately refrain from conceptual thought. Let a tacit understanding be all! Any mental process must lead to error. There is just a transmission of Mind with Mind. This is the proper view to hold. Be careful not to look outwards to material surroundings, To mistake material surroundings for Mind is to mistake a thief for your son. There is a story of a man who mistook a thief for his long-lost son and, giving him a warm welcome, enabled the latter to sneak away with most of his possessions. Those who place reliance on material things are in danger of losing that most valuable of all possessions—the key to the riddle of life which unlocks Nirvana’s gate. 15. It is only in contradistinction to greed, anger: and ignorance that abstinence, calm and wisdom exist. With- out illusion, how could there be Enlightenment? Therefore Bodhidharma said: ‘The Buddha enunciated all Dharmas in order to eliminate every vestige of conceptual thinking. IfI refrained entirely from conceptual thought, what would be the use of all the Dharmas? Attach yourselves to nothing beyond the pure Buddha-Nature which is the original source of all things. Suppose you were to adorn the Void with countless jewels, how could they remain in Position? The Buddha-Nature is like the Void; though you were to adorn it with inestimable merit and wisdom, how could they remain there?! They would only serve to conceal its original Nature and to render it invisible.
+
+That which is called the Doctrine of Mental Origins (followed by certain other sects) postulates that all things are built up in Mind and that they manifest themselves upon contact with external environment, ceasing to be manifest when that environment is not present. But it is wrong to conceive of an environment separate from the pure, unvarying nature of all things.”
+
+That which is called the Mirror of Concentration and Wisdom (another reference to non-Zen Mahayana doctrine) requires the use of sight, hearing, feeling and cognition, which lead to successive states of calm and agitation. But these involve conceptions based on environmental objects; they are, temporary expedients appertaining to one of the lower categories of ‘roots of goodness’. And this category of ‘roots of goodness’ merely enables people to understand what is said to them. If you wish to experience Enlightenment yourselves, you must not indulge in such conceptions. They are all environmental Dharmas concerning things which are and things which are not, based on existence and non-existence. If only you will avoid concepts of existence and non-existence in regard to absolutely everything, you will then perceive THE DHARMA.
+
+* * *
+
+1 Other Buddhist sects attach great importance to the acquisition of merit and wisdom, but this implies a dualistic conception of reality which Zen considers an insuperable obstacle to realization of the One
+
+ind.
+
+* This constitutes a warning against another type of dualism.
+
+3 Roots of goodness are believed by some Mahday4naists to be ‘En- lightenment-potentials’ of varying degrees of strength with which individuals are reborn in accordance with the varying merits gained in former lives. ~
+
+43 

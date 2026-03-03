@@ -1,7 +1,7 @@
 """
 Generate random quotes data from vault screenshot notes.
 
-Scans content/Screenshots/Notes/ for edited notes with readable filenames,
+Scans content/Wisdom Quotes/ for edited notes with readable filenames,
 extracts quote text (note title) and source, outputs quartz/components/scripts/randomquote.inline.ts.
 
 Usage: python scripts/generate-quotes.py
@@ -10,7 +10,7 @@ Usage: python scripts/generate-quotes.py
 import os
 import re
 
-NOTES_DIR = os.path.join("content", "Screenshots", "Notes")
+NOTES_DIR = os.path.join("content", "Wisdom Quotes")
 OUTPUT_FILE = os.path.join("quartz", "components", "scripts", "randomquote.inline.ts")
 
 # UUID pattern to skip machine-generated filenames
@@ -108,7 +108,7 @@ def is_good_quote(title):
 
 def title_to_slug(title):
     """Convert note title to Quartz-compatible slug path."""
-    return f"Screenshots/Notes/{title}"
+    return f"Wisdom-Quotes/{title}"
 
 
 def main():

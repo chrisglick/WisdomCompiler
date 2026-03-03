@@ -8,6 +8,6 @@ tags:
 
 # Wisdom Quotes
 
-A collection of 600+ passages from spiritual classics — photographed, transcribed, and organized. Browse by book, teacher, or use search to find quotes by tradition or theme.
+Over 600 curated passages from spiritual classics — photographed from books, transcribed, and organized by source. Each quote links back to its book or teacher.
 
-Browse quotes organized by source in **[Books & Scriptures](../Books/)** or **[Teachers](../Teachers/)**.
+Browse by source in **[Books & Scriptures](/Books/)** or **[Teachers](/Teachers/)**, or explore quotes below.

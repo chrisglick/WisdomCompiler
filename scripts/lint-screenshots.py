@@ -14,11 +14,11 @@ Re-runnable: safe to run multiple times (idempotent).
 import re
 from pathlib import Path
 
-NOTES_DIR = Path(__file__).parent.parent / "content" / "Screenshots" / "Notes"
+NOTES_DIR = Path(__file__).parent.parent / "content" / "Wisdom Quotes"
 
 # Image embed line pattern
 IMAGE_EMBED_RE = re.compile(
-    r'^!\[\]\(Screenshots/Images/[^\)]+\.(?:png|jpg|jpeg|gif|bmp|svg|webp|PNG|JPG|JPEG)\)\s*$',
+    r'^!\[\]\(Images/[^\)]+\.(?:png|jpg|jpeg|gif|bmp|svg|webp|PNG|JPG|JPEG)\)\s*$',
     re.MULTILINE
 )
 

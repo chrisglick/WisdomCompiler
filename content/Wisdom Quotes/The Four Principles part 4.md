@@ -1,0 +1,28 @@
+---
+Edited: true
+source: "[[Silence of the Heart]]"
+Page: "249"
+image_name: IMG_0494.PNG
+Source Type: 
+tags:
+ShowImage: false
+---
+
+You’ve got to depend on yourself to take care of everything. Now, your Self is yourself. There’s one Self, so we take care of each other. Did you ever think of that? When you think of others you're making a mistake. The feeling will come to you one day that you are all others. There are no others, there is just the Self appearing as others. So, how do you treat others? Asyou treat yourself. You don’t think aboutit. You don’t think that that person’s worthy and that person’s not, so I’m going to help this person, not that person. You give of yourself automatically. You do not think about it because everything is yourself, and that includes the mineral kingdom, the vegetable kingdom, the animal kingdom, the human kingdom, and everything else you don’t understand. They’re all part of the One. What you do to the One, you do to everything. How you treat one person is how you treat the whole universe because everything is One.
+
+Now, these four principles I gave you have to do with all these things. You’re supposed to ponder these things.
+
+Mou Are Not Mour Problems
+
+Most of us have been searching for reality for many years. We've been to many teachers, many groups. But we still haven’t found peace. Why? Because we’re searching. That’s a direct, succinct answer. Because we’re searching for some- thing. No matter how many times I emphasize there’s nothing to search for, people still search. Sometimes it would be better if we tore up all the books. Books are only to motivate us, to make us know there’s something else. But there comesa time when we have to go within and try to understand what this body really is. The truth, of course, is not a teaching. I do not
+
+~250~
+
+philosophize. I do not give a teaching, as a rule. I simply give a confession, and to most people it means nothing. But we’re not trying to attract most people. Those who feel something in their heart will always come to satsang. And you'll always attract a teacher that is more to your liking.
+
+I do not consider myself a teacher or a guru. I do not consider myself anything at all. But, the Reality thatis left over is your reality. It is Omnipresence. There is one Unqualified Reality, and this is it, right here, right now. There are no bodies here. What you see is your own business. When you see others, you’re making a mistake. There never were others. We're always looking for something. We want to find the right teacher. The right teacher is where you are. Person, place or thing is not the right teacher. You probably saw the movie Siddhartha, where he found the river and the peace of the forest. Even that’s a mistake, because he took the river seriously, and made too much of the forest. He was the forest. He was the river. What we’re seeking is utter foolishness. There’s nothing to seek.
+
+I get so many calls. People tell me their problems all the time. And I really don’t know how to respond. To whom shall I tell my problems? There just are not any problems. There are no problems. You may say to yourself, “If he only knew my problems.” But, if you live in the moment, is there a problem right now, this second? There’s nothing. Nothing is your real nature. A problem begins only when you start thinking. But if you learn not to think, where’s the problem? So, we have to empty the mind, and then get rid of the mind. And we cannot empty the mind by thinking. Only by observation. Only when there is no thought is there reality. There’s no sense saying to yourself, “Iam Parabrahman, Absolute Reality. lam unborn.”
+
+~251~
+

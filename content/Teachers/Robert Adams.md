@@ -2,6 +2,10 @@
 draft: false
 ---
 
+Robert Adams (1928-1997) was an American Advaita teacher who, as a young man, traveled to India and sat with Ramana Maharshi. He later taught in Sedona, Arizona, emphasizing silence, self-inquiry, and what he called the "Four Principles of Self-Realization." His talks are collected in *Silence of the Heart*.
+
+[Robert Adams Infinity Institute](https://www.robertadamsinfinityinstitute.org/)
+
 ## Passages
 
 - [[The Four Principles of Self Realization]]

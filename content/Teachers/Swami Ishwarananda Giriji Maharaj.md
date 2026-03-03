@@ -2,6 +2,8 @@
 draft: false
 ---
 
+Swami Ishwarananda Giriji Maharaj is a revered Indian saint and spiritual master in the tradition of Advaita Vedanta. His teachings emphasize surrender, devotion, and direct communion with the divine through sadhana and inner stillness.
+
 ## Passages
 
 - [[All the sadhana that we do is meant to invoke a strong experiential feeling of belongingness]]

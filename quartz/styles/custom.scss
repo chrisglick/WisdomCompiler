@@ -1,34 +1,67 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
-// Mobile responsiveness improvements
+// === GLOBAL FIXES (all viewports) ===
+
+// Fix the classic 100vw bug: base.scss sets `html { width: 100vw }` but
+// 100vw includes scrollbar width, making content wider than visible viewport.
+//
+// iOS Safari fix: base.scss sets `text-size-adjust: none` which Safari ignores.
+// Safari only respects `-webkit-text-size-adjust: 100%`. Without it, Safari
+// auto-inflates text in portrait mode, pushing content wider than viewport.
+html {
+  width: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+// Constrain body to viewport width
+body {
+  max-width: 100%;
+}
+
+// Ensure padding/border don't add to element width — prevents overflow
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+// Page container constrained to viewport
+.page {
+  max-width: 100%;
+}
+
+// Flex/grid children must shrink to fit container (Safari fix)
+// Safari's default `min-width: auto` on flex/grid items prevents shrinking
+// below content size, causing overflow on narrow viewports.
+.page > #quartz-body,
+.page > #quartz-body > * {
+  min-width: 0;
+}
+
+// === MOBILE RESPONSIVENESS ===
 @media all and ($mobile) {
-  // Prevent horizontal scroll — constrain all containers to viewport
-  html {
-    overflow-x: hidden;
-  }
-
-  body {
-    overflow-x: hidden;
-    max-width: 100vw;
-  }
-
-  .page {
-    max-width: 100vw;
-    overflow-x: hidden;
-  }
-
-  // Force all content to respect viewport width
+  // Fix grid column: 'auto' sizes to content (can overflow viewport).
+  // minmax(0, 1fr) constrains to available space.
   .page > #quartz-body {
-    max-width: 100vw;
-    overflow-x: hidden;
+    grid-template-columns: minmax(0, 1fr);
+  }
 
-    .center {
-      overflow-x: hidden;
-      max-width: 100%;
-      word-wrap: break-word;
-      overflow-wrap: break-word;
+  // Sidebar header wraps when items exceed viewport width
+  .page > #quartz-body .sidebar.left {
+    flex-wrap: wrap;
+    max-width: 100%;
+
+    > * {
+      min-width: 0;
     }
+  }
+
+  // Right sidebar constrained on mobile
+  .page > #quartz-body .sidebar.right {
+    max-width: 100%;
+    min-width: 0;
   }
 
   // Article content must wrap — critical for long links and text
@@ -45,6 +78,16 @@
     img {
       max-width: 100%;
       height: auto;
+    }
+  }
+
+  // Content area respects viewport width
+  .page > #quartz-body {
+    .center {
+      max-width: 100%;
+      min-width: 0;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
     }
   }
 
@@ -80,9 +123,9 @@
     font-size: 1.05rem;
   }
 
-  // Better readability for body text
+  // Readable body text — 1rem = 16px base, proper line height
   p, li, td {
-    font-size: 0.95rem;
+    font-size: 1rem;
     line-height: 1.65;
   }
 
@@ -103,9 +146,9 @@
     padding-left: 0.75rem;
   }
 
-  // Code blocks shouldn't force wide layout
+  // Code blocks scroll horizontally within their container
   pre {
-    max-width: calc(100vw - 2rem);
+    max-width: 100%;
     overflow-x: auto;
   }
 }

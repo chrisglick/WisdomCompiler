@@ -2,6 +2,8 @@
 draft: false
 ---
 
+Ashtavakra is an ancient Vedic sage traditionally credited with the *Ashtavakra Gita*, a dialogue with King Janaka on the nature of Self, reality, and liberation. The text is among the most radical and direct expressions of Advaita (non-dual) philosophy, pointing to the already-free nature of consciousness.
+
 ## Passages
 
 - [[Even amidst great action the wise one remains still]]

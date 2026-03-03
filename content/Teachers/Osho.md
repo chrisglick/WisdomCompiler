@@ -2,6 +2,10 @@
 draft: false
 ---
 
+Osho (1931-1990), also known as Bhagwan Shree Rajneesh, was an Indian mystic and spiritual teacher. He gave thousands of discourses drawing from Zen, Sufism, Tantra, Taoism, and the Western philosophical tradition. His teachings emphasize meditation, awareness, and the courage to live with total freedom.
+
+[Osho International (Official)](https://www.osho.com/)
+
 ## Passages
 
 - [[Enter into the silence of the temple]]

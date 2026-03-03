@@ -2,6 +2,8 @@
 draft: false
 ---
 
+Huang Po (d. ~850) was a towering Chinese Chan (Zen) Buddhist master of the Tang dynasty and teacher of Linji Yixuan, founder of the Rinzai school. His teachings, recorded by the layman Pei Xiu, survive as *The Zen Teaching of Huang Po* — one of the most uncompromising expressions of the One Mind doctrine.
+
 ## Passages
 
 - [[All the concepts you have formed in the past must be discarded and replaced by void]]

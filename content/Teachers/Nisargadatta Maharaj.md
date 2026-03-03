@@ -2,6 +2,8 @@
 draft: false
 ---
 
+Nisargadatta Maharaj (1897-1981) was an Indian spiritual teacher of Advaita Vedanta who taught from a small loft in Mumbai. His dialogues, compiled in *I Am That*, are regarded as one of the most direct and uncompromising expressions of non-dual wisdom. His teaching centered on the nature of consciousness and the sense "I Am."
+
 ## Passages
 
 - [[My state never felt the creation and dissolution of the universe]]

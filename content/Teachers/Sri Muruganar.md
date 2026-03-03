@@ -2,6 +2,8 @@
 draft: false
 ---
 
+Sri Muruganar (1890-1973) was a Tamil poet and one of the foremost devotees of Ramana Maharshi. His masterwork *Guru Vachaka Kovai* is considered the most faithful and comprehensive record of Ramana's teachings, rendered in exquisite Tamil verse. He is regarded as Ramana's poet-saint.
+
 ## Passages
 
 - [[Bhagavan does not intend to deny the necessity or wisdom of taking a reasonable and moderate care of]]

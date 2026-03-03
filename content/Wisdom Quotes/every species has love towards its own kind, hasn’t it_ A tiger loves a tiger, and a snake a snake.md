@@ -1,0 +1,11 @@
+---
+Edited: true
+source: "[[Letters from Sri Ramanasramam]]"
+Page: "0"
+image_name: IMG_0083.PNG
+Source Type:
+tags:
+ShowImage: false
+---
+
+Bhagavan replied, “We ourselves may not have any love for them, but every species has love towards its own kind, hasn’t it? A tiger loves a tiger, and a snake a snake. So also a thief loves a thief and a debauchee a debauchee. Thus, love is always existent. There is a picture presented to you on a screen. That screen is asti, omnipresent, and the light that shows the pictures is bhati and priyam, lustre and love. The pictures with names and forms come and go. If one is not deluded by them and discards them, the canvas screen, which has been there all through, remains as it is. We see pictures on the screen with the help of a small light in an atmosphere of darkness; if that darkness be dispelled by a big light, can the pictures be visible? The whole place becomes luminous and lustrous. If, in the same way, you see the world with the small light called mind, you find it full of different colours. But if you see it with the big light known as Self-realization (atma-jnana), you will find that it is one continuous universal light and nothing else.” 

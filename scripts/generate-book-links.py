@@ -3,7 +3,7 @@
 Generate static markdown links for Book and Teacher pages.
 
 Replaces Obsidian dataview queries with static wikilinks by:
-1. Scanning all Screenshots/Notes for their `source` frontmatter
+1. Scanning all Wisdom Quotes for their `source` frontmatter
 2. Grouping notes by source (book or teacher name)
 3. Rewriting each Book/Teacher page with a list of wikilinks
 
@@ -16,7 +16,7 @@ from pathlib import Path
 from collections import defaultdict
 
 CONTENT_DIR = Path(__file__).parent.parent / "content"
-SCREENSHOTS_DIR = CONTENT_DIR / "Screenshots" / "Notes"
+SCREENSHOTS_DIR = CONTENT_DIR / "Wisdom Quotes"
 BOOKS_DIR = CONTENT_DIR / "Books"
 TEACHERS_DIR = CONTENT_DIR / "Teachers"
 

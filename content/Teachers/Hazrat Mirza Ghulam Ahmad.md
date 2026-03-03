@@ -2,6 +2,10 @@
 draft: false
 ---
 
+Hazrat Mirza Ghulam Ahmad (1835-1908) was an Indian religious leader who founded the Ahmadiyya Muslim Community. He claimed to be the promised Messiah and Mahdi awaited by Muslims, and wrote extensively on Islamic theology, spirituality, and the rational defense of faith. His major works include *Haqiqatul-Wahi* and *The Philosophy of the Teachings of Islam*.
+
+[Ahmadiyya Muslim Community (Official)](https://www.alislam.org/)
+
 ## Passages
 
 - [[A fire leaps up from our inside like lightning and another fire descends upon us from above]]
