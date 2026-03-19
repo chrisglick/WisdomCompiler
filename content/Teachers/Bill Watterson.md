@@ -1,5 +1,6 @@
 ---
 draft: false
+image: "wikimedia_commons_1335ee60618a_Bill_Watterson_at_Kenyon.jpg"
 tradition: "Wisdom through art and storytelling"
 period: "b. 1958"
 lineage: "American cartooning tradition; influenced by Walt Kelly (Pogo), Charles Schulz (Peanuts), George Herriman (Krazy Kat)"
