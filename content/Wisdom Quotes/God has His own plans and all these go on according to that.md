@@ -1,13 +1,14 @@
 ---
-Edited: false
+Edited: true
 source: "[[Ramana Maharshi]]"
 Page: "0"
 image_name: 46dcd429-ffce-4f2f-a735-1178488e7397.jpg
 Source Type:
   - Meme
-tags:
-draft: true
+draft: false
 ShowImage: true
+tags:
+  - divine
 ---
 ![](Images/46dcd429-ffce-4f2f-a735-1178488e7397.jpg)
 

@@ -4,9 +4,12 @@ source: "[[Yoga Vasistha]]"
 Page: "0"
 image_name: IMG_1389.JPEG
 Source Type: 
-tags:
 draft: true
 ShowImage: false
+tags:
+  - knowledge-wisdom
+  - nature-creation
+  - self-knowledge
 ---
 
 In the absence of the ‘taste’ (direct knowledge) of cosmic intelligence, the senses endeavour to apprehend their objects and vainly imagine that such contact gives rise to meaningful experience! Surely, the infinite and inexhaustible intelligence (consciousness) dwells in all these; however on account of the absence of self-knowledge, it appears to be ignorant of itself and therefore limited and finite.

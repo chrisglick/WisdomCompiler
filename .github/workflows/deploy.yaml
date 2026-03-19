@@ -1,0 +1,37 @@
+name: Build & Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [v4]
+    paths: ['content/**', 'quartz/**', 'quartz.config.ts', 'quartz.layout.ts']
+  schedule:
+    # Weekly rebuild every Monday at 6 AM UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npx quartz build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy public --project-name=wisdom-compiler --commit-dirty=true --branch=v4

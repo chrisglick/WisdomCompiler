@@ -4,8 +4,13 @@ source: "[[Vigyan Bhairav Tantra Volume 1]]"
 Page: "371"
 image_name: IMG_0242.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - knowledge-wisdom
+  - meditation
+  - nature-creation
 ---
 
 A great musician is creating music. No father can feel so much fulfilled as a musician feels when great music is created, and no son can give so much happiness to any parent as a great piece of music can give to the musician, or great poetry can give to the poet. Because he is creating on higher realms, nature relieves him of lower creation: the energy has moved higher. Tantra says, do not fight with the energy, allow the energy to move higher. And there are many realms of higher movement and many dimensions.

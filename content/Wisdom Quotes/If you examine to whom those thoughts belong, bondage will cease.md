@@ -4,8 +4,18 @@ source: ""
 Page: "0"
 image_name: IMG_0943.PNG
 Source Type: []
-tags: []
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - guru-teacher
+  - knowledge-wisdom
+  - liberation
+  - love-devotion
+  - mind
+  - scripture
+  - self-knowledge
+  - surrender
 ---
 
 Us being the loss of oneself. Birth and death pertain to the body only; but they are superimposed on the Self, giving rise to the delusion that birth and death relate to the Self.

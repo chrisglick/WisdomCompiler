@@ -4,8 +4,13 @@ source: "[[Consciousness and the Absolute]]"
 Page: "102"
 image_name: IMG_1331.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - ego
+  - knowledge-wisdom
+  - mind
+  - nature-creation
+  - self-knowledge
 ---
 
 In the consciousness hierarchy there are three stages:

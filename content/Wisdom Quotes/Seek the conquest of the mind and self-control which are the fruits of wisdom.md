@@ -4,8 +4,13 @@ source: "[[Yoga Vasistha]]"
 Page: "0"
 image_name: IMG_1777.PNG
 Source Type: []
-tags: []
 ShowImage: false
+tags:
+  - knowledge-wisdom
+  - liberation
+  - mind
+  - nature-creation
+  - silence
 ---
 
 The eternal is not attained by rites and rituals, by pilgrimages nor by wealth; it is to be attained only by the conquest of one’s mind, by the cultivation of wisdom. Hence everyone — gods, demons, demi-gods or men should constantly seek (whether one is walking, falling or sitting) the conquest of the mind and self-control which are the fruits of wisdom.

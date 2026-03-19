@@ -5,8 +5,13 @@ Page: "0"
 image_name: 662b6b4f-ad57-4bce-af6a-8c2b173bacf7.jpg
 Source Type:
   - Meme
-tags: []
 ShowImage: true
+tags:
+  - ego
+  - guru-teacher
+  - knowledge-wisdom
+  - self-knowledge
+  - surrender
 ---
 ![](Images/662b6b4f-ad57-4bce-af6a-8c2b173bacf7.jpg)
 

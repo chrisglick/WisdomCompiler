@@ -4,8 +4,11 @@ source: "[[Letters from Sri Ramanasramam]]"
 Page: "196"
 image_name: IMG_0240.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - guru-teacher
+  - knowledge-wisdom
+  - nature-creation
 ---
 
 Yesterday a lady devotee showed Bhagavan her notebook in which she had copied out the five verses of “Ekatma Panchakam”. Bhagavan saw in that notebook two verses composed by him for his devotees when they first started celebrating his birthday, and told us the following incident:

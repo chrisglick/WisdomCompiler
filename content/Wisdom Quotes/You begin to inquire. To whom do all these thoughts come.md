@@ -4,8 +4,17 @@ source: "[[Silence of the Heart]]"
 Page: "70"
 image_name: IMG_1214.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - ego
+  - knowledge-wisdom
+  - meditation
+  - mind
+  - nature-creation
+  - self-knowledge
+  - service
+  - silence
 ---
 
 everything from your mind, to empty the mind. To whom does the ego come? And you smile to yourself. You keep still.
@@ -18,9 +27,9 @@ This is why when you get up in the morning and you say to yourself, “I slept w
 
 do this finally, when the I is in the Source, it is just like when you’re in deep sleep, except that you're conscious. Think about this for a moment.
 
-In deep sleep you have no I, for it has returned to the Source. You're totally happy, but you’re unconscious of it. When you attain what we call Self-realization, it means the I has returned to the Source while you're awake. There’s nobody left to think. There’s no one left to worry, or to fret, or to be unhappy. You have merged with the Infinite, with the All- Pervading Brahman. If you understand this, and you practice this, you will become the happiest person in the world. For on the way to finding the I-Source you begin to feel happier and happier every day. The old thoughts melt away. The old you dissolves. You become free.
+In deep sleep you have no I, for it has returned to the Source. You're totally happy, but you’re unconscious of it. When you attain what we call Self-realization, it means the I has returned to the Source while you're awake. There’s nobody left to think. There’s no one left to worry, or to fret, or to be unhappy. You have merged with the Infinite, with the All-Pervading Brahman. If you understand this, and you practice this, you will become the happiest person in the world. For on the way to finding the I-Source you begin to feel happier and happier every day. The old thoughts melt away. The old you dissolves. You become free.
 
-Whatever you identify with, that’s what you become. Therefore, stop identifying with worldly things. Identify with yourself. Now, how do you do this? It begins in the morning, as | told you before. That’s the time when your mind has been free. Because you slept, you’ve had a semblance of peace. Being in deep sleep is an unconscious method of Self-realization. You’re realized when you are asleep, but you are unconscious. So you’re not aware of it. You want to be consciously asleep. When you’re consciously asleep, you're awake. You're awake to your Self, to Reality to what Is, to l Am.
+Whatever you identify with, that’s what you become. Therefore, stop identifying with worldly things. Identify with yourself. Now, how do you do this? It begins in the morning, as I told you before. That’s the time when your mind has been free. Because you slept, you’ve had a semblance of peace. Being in deep sleep is an unconscious method of Self-realization. You’re realized when you are asleep, but you are unconscious. So you’re not aware of it. You want to be consciously asleep. When you’re consciously asleep, you're awake. You're awake to your Self, to Reality to what Is, to l Am.
 
 When you get up in the morning, immediately before the thoughts come, identify with the Self. Now how do you do this? Simply say to yourself, “I. .1.” That’s all you have to do. “I... 1.” You're doing this before your thoughts come. Maybe in the beginning you can only do this for a couple of seconds, but that’s good. Even those couple of seconds will make your day fulfilled, and you'll feel happy during the day. As time passes,
 

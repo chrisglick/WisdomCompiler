@@ -4,8 +4,12 @@ source: "[[Consciousness and the Absolute]]"
 Page: "62"
 image_name: IMG_1350.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - guru-teacher
+  - liberation
+  - nature-creation
 ---
 
 May 14, 1980

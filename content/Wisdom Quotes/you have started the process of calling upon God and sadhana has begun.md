@@ -5,8 +5,11 @@ Page: "0"
 image_name: 28c1b5cf-31d7-4a51-a5f4-0c959835505d.jpg
 Source Type:
   - Meme
-tags:
 ShowImage: true
+tags:
+  - divine
+  - guru-teacher
+  - meditation
 ---
 ![](Images/28c1b5cf-31d7-4a51-a5f4-0c959835505d.jpg)
 

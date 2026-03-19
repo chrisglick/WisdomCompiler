@@ -4,8 +4,12 @@ source: "[[Yoga Vasistha]]"
 Page: "0"
 image_name: IMG_1368.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - knowledge-wisdom
+  - mind
+  - nature-creation
+  - self-knowledge
 ---
 
 MANDAVYA said:

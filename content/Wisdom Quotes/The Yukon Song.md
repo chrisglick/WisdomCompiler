@@ -4,8 +4,9 @@ source: "[[Calvin and Hobbes]]"
 Page: "0"
 image_name: IMG_1202.PNG
 Source Type:
-tags:
 ShowImage: true
+tags:
+  - surrender
 ---
 
 The Yukon Song. My tiger friend has got the sled, And I have packed a snack, Were all set for the trip ahead, We're never coming back! We’re abandoning this life we've led! So long, Mom and Pop! We’re sick of doing what you've said, And now it's going to stop!

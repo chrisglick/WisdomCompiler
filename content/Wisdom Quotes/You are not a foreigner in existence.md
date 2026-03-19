@@ -4,8 +4,10 @@ source: "[[The New Dawn]]"
 Page: "0"
 image_name: IMG_1311.JPEG
 Source Type: []
-tags: []
 ShowImage: false
+tags:
+  - knowledge-wisdom
+  - nature-creation
 ---
 
 Don't act out of your knowledge, but act out of your consciousness. Don't be dictated to by any discipline, howsoever old, howsoever ancient. Withdraw yourself from all conditionings and live an unconditional, spontaneous, moment-to-moment, changing, flowing and relaxed life.

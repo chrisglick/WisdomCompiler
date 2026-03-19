@@ -4,8 +4,15 @@ source: "[[The Perfect Master, Vol 1]]"
 Page: "91"
 image_name: IMG_1712.PNG
 Source Type: []
-tags: []
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - ego
+  - guru-teacher
+  - liberation
+  - love-devotion
+  - self-knowledge
 ---
 
 If you really want to be with a Master you will have to become a genuine inquiry. Not philosophic curiosity, but an inquiry in which your life and death are involved. An inquiry which is going to transmute you. An inquiry that is going to become a metamorphosis.

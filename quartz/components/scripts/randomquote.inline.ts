@@ -150,6 +150,21 @@ const quotes = [
   { text: "You who intend to celebrate the birthday", source: "Letters from Sri Ramanasramam", slug: "Wisdom-Quotes/You who intend to celebrate the birthday" },
 ]
 
+function sluggify(s: string): string {
+  return s
+    .split("/")
+    .map((segment) =>
+      segment
+        .replace(/\s/g, "-")
+        .replace(/&/g, "-and-")
+        .replace(/%/g, "-percent")
+        .replace(/\?/g, "")
+        .replace(/#/g, ""),
+    )
+    .join("/")
+    .replace(/\/$/, "")
+}
+
 document.addEventListener("nav", () => {
   const container = document.getElementById("random-quote")
   if (!container) return
@@ -162,5 +177,5 @@ document.addEventListener("nav", () => {
 
   quoteEl.textContent = q.text
   sourceEl.textContent = "\u2014 " + q.source
-  if (linkEl) linkEl.href = "/" + q.slug
+  if (linkEl) linkEl.href = "/" + sluggify(q.slug)
 })

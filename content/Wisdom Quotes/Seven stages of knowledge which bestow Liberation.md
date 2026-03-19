@@ -4,8 +4,15 @@ source: "[[Kaivalya Navaneetam]]"
 Page: "70"
 image_name: IMG_1307.PNG
 Source Type: []
-tags: []
 ShowImage: false
+tags:
+  - divine
+  - knowledge-wisdom
+  - liberation
+  - meditation
+  - mind
+  - nature-creation
+  - silence
 ---
 
 These are the seven states of ignorance. I shall now tell you the seven stages of knowledge which bestow Liberation. The elders have analyzed them as: 1. Subheccha: desire for Truth; 2. Vicharana: investigation into the Truth; 3. Tanumanasi: pure and attenuated mind; 4.

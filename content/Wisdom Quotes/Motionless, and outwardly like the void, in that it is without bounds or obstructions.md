@@ -5,9 +5,15 @@ Page: "0"
 image_name: IMG_1133.PNG
 Source Type:
   - screenshot
-tags:
 draft: true
 ShowImage: false
+tags:
+  - knowledge-wisdom
+  - liberation
+  - love-devotion
+  - mind
+  - nature-creation
+  - scripture
 ---
 
 motionless, and outwardly like the void, in that it is without bounds or obstructions. It is neither subjective nor objective, has no specific location, is formless, and cannot vanish. Those who hasten towards it dare not enter, fearing to hurtle down through the void with nothing to cling to or to stay their fall. So they look to the brink and retreat. This refers to all those who seek such a goal through cognition. Thus, those who seek the goal through cognition are like the fur (many), while those who obtain intuitive knowledge of the Way are like the horns (few)3

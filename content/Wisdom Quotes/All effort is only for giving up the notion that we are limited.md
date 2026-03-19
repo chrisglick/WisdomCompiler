@@ -4,8 +4,14 @@ source: "[[Day by Day with Bhagavan]]"
 Page: "173"
 image_name: IMG_0839.PNG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - knowledge-wisdom
+  - love-devotion
+  - mind
+  - nature-creation
 ---
 
  Afternoon

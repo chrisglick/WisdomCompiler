@@ -4,8 +4,17 @@ source: "[[Ramana Periya Purnam]]"
 Page: "171"
 image_name: IMG_0244.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - ego
+  - guru-teacher
+  - knowledge-wisdom
+  - love-devotion
+  - mind
+  - nature-creation
+  - service
+  - silence
 ---
 
 Bhagavan touched this rock and this water flows perennially.” He solemnly added, “Never doubt a sage’s statements or actions. How can you doubt that Moses was not endowed with that grace by God to bring water from that rock? Be careful, Ganesan.” This corrected my spiritual thinking, because he brought my mind back to the Heart. If you again go to the mind, the intellect, you will continue to doubt how water can come out of a rock. Even now if you go to Skandashram, though it has been hidden, you can put your hand and feel the spring coming right from the bottom of the rock and not from the sand. Moreover, below it lies another flat rock.
@@ -16,9 +25,9 @@ Coming to stay permanently in the ashram at a very young age gave me the advanta
 
 Viswanatha Swami, I was immensely satisfied that I could persuade him to translate Talks with Sri Ramana Maharshi into Tamil. One solid reason for my strong pleadings with him was that Sri Bhagavan had himself made Viswantha Swami translate most of the Sanskrit texts selected by him into Tamil. This was how, in the 1970s, the first volume of Talks with Sri Ramana Maharshi was first brought out in Tamil as Bhagavat Vachanaamrutam. It was an instant success! After some time, the comprehensive volume too was published. The special feature of this book is that the Swami having been present when the talks took place, has used mostly the very words used by Bhagavan.
 
-In 1979, both Viswanatha Swami and I planned that for Bhagavan’s birth centenary in 1980, we needed to work together and bring out issues dealing exclusively with the direct teachings of Bhagavan. Unfortunately, Viswanatha Swami had a sun stroke. He came to my office and said, “I am ill. Come to my room.” I followed him into his room, where his behavior was alarmingly abnormal. He kept standing and sitting restlessly, like a clockwork toy. | was shocked and upset, not knowing what to do. “Do not pay attention to my body. | am inwardly in a blissful state. Attend to the inward state of mine,” he counseled. “Send a telegram to my brother. | will not give you trouble to nurse me for long. The second day | will drop my body. Bury me in the simplest way - | want no rituals. But come in the evening at four, | have a message for you.” | went at the appointed time.
+In 1979, both Viswanatha Swami and I planned that for Bhagavan’s birth centenary in 1980, we needed to work together and bring out issues dealing exclusively with the direct teachings of Bhagavan. Unfortunately, Viswanatha Swami had a sun stroke. He came to my office and said, “I am ill. Come to my room.” I followed him into his room, where his behavior was alarmingly abnormal. He kept standing and sitting restlessly, like a clockwork toy. I was shocked and upset, not knowing what to do. “Do not pay attention to my body. I am inwardly in a blissful state. Attend to the inward state of mine,” he counseled. “Send a telegram to my brother. I will not give you trouble to nurse me for long. The second day I will drop my body. Bury me in the simplest way - I want no rituals. But come in the evening at four, I have a message for you.” I went at the appointed time.
 
-In that seemingly restless state of standing and sitting, he again told me, “Do not pay attention to the body. Listen to what | am saying.” This is Viswanatha Swami’s message and it has been guiding me very powerfully: “The body is affected, perhaps the mind also. But, the spirit, the Heart, is unaffected, and the Heart is speaking through me. Though there is so much of confusion, turbulence and misery in manifestation, all of that belongs to the realm of the mind only - the ignorant mind split as object and subject. All experiences of life are relative, related to the experiencer who is nothing but a shadow having no intrinsic reality of his own. The reality in every person is the ultimate, pure existence which is the pure state of ‘| AM’, the awareness- absolute, which does not split into subject and object. It is the only thing that matters. If the ego and all its experiences are dismissed as passing shadows, the ever present, ultimate reality alone will be self evident. If one even intellectually is convinced of this truth, one will gain detachment and mental peace. We should
+In that seemingly restless state of standing and sitting, he again told me, “Do not pay attention to the body. Listen to what I am saying.” This is Viswanatha Swami’s message and it has been guiding me very powerfully: “The body is affected, perhaps the mind also. But, the spirit, the Heart, is unaffected, and the Heart is speaking through me. Though there is so much of confusion, turbulence and misery in manifestation, all of that belongs to the realm of the mind only - the ignorant mind split as object and subject. All experiences of life are relative, related to the experiencer who is nothing but a shadow having no intrinsic reality of his own. The reality in every person is the ultimate, pure existence which is the pure state of ‘I AM’, the awareness- absolute, which does not split into subject and object. It is the only thing that matters. If the ego and all its experiences are dismissed as passing shadows, the ever present, ultimate reality alone will be self evident. If one even intellectually is convinced of this truth, one will gain detachment and mental peace. We should
 
 171
 

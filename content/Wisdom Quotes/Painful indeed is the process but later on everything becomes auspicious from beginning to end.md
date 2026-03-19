@@ -1,12 +1,14 @@
 ---
-Edited: false
+Edited: true
 source: Siva Purana
 Page: "46"
 image_name: IMG_0119.PNG
 Source Type: 
-tags:
-draft: true
+draft: false
 ShowImage: false
+tags:
+  - divine
+  - meditation
 ---
 
 Maheshvara is to be heard, glorified and meditated upon.

@@ -4,9 +4,14 @@ source: "[[Talks with Ramana Maharshi]]"
 Page: "98"
 image_name: IMG_1392.PNG
 Source Type: 
-tags:
 draft: true
 ShowImage: false
+tags:
+  - divine
+  - knowledge-wisdom
+  - mind
+  - nature-creation
+  - self-knowledge
 ---
 
 Talks with Sri Ramana Maharshi

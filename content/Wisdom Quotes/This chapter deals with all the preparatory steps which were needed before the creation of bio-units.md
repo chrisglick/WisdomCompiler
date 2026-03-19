@@ -4,8 +4,9 @@ source: "[[Revelation, Rationality, Knowledge & Truth]]"
 Page: "369"
 image_name: IMG_0097.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - nature-creation
 ---
 
 Chemistry is largely divided into two major branches — inorganic chemistry and organic chemistry. Inorganic chemistry relates to compounds which are mineral in nature and are not the product of life. The mere presence of carbon does not entitle them to be called organic. Water, sodium chloride and potassium are inorganic because they are also widely found outside living cells. However, carbon dioxide is considered inorganic, despite the fact that it is manufactured by living organisms during respiration.

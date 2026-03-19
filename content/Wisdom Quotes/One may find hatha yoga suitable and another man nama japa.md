@@ -4,8 +4,15 @@ source: "[[Talks with Ramana Maharshi]]"
 Page: "569"
 image_name: IMG_1388.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - knowledge-wisdom
+  - love-devotion
+  - meditation
+  - mind
+  - nature-creation
+  - self-knowledge
 ---
 
 M.: The enquiry into the Self is inclusive of all, faith, devotion, jnana, yoga and all.

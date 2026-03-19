@@ -5,8 +5,10 @@ Page: "0"
 image_name: 2353f8b1-9d9b-46ec-9ff5-1288b3c7887a.jpg
 Source Type:
   - Meme
-tags: []
 ShowImage: true
+tags:
+  - divine
+  - guru-teacher
 ---
 ![](Images/2353f8b1-9d9b-46ec-9ff5-1288b3c7887a.jpg)
 

@@ -4,8 +4,13 @@ source: "[[Day by Day with Bhagavan]]"
 Page: "0"
 image_name: IMG_1182.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - ego
+  - knowledge-wisdom
+  - surrender
 ---
 
 Answer: By whatever path you go, you will have to lose yourself in the One. Surrender is complete only when you reach the stage “Thou art all’ and ‘Thy will be done’.

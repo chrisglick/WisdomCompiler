@@ -1,8 +1,34 @@
 ---
 draft: false
+image: "openverse_flickr_c6de749d63cf_Sri_Nisargadatta_Maharaj.jpg"
+tradition: "Navnath Sampradaya (Advaita Vedanta)"
+period: "1897-1981"
+lineage: "Navnath tradition → Sri Siddharameshwar Maharaj → Nisargadatta Maharaj"
+core_teaching: "Abide in the sense 'I Am' — prior to the I Am, you are the Absolute"
+recommended_start: "[[Consciousness and the Absolute]]"
 ---
 
-Nisargadatta Maharaj (1897-1981) was an Indian spiritual teacher of Advaita Vedanta who taught from a small loft in Mumbai. His dialogues, compiled in *I Am That*, are regarded as one of the most direct and uncompromising expressions of non-dual wisdom. His teaching centered on the nature of consciousness and the sense "I Am."
+> *"When you are very quiet, you have arrived at the basis of everything."*
+
+## Who Was Nisargadatta Maharaj?
+
+Nisargadatta Maharaj (1897-1981) was a humble bidi (cigarette) seller in Mumbai who became one of the most celebrated spiritual teachers of the 20th century. Born Maruti Shivrampant Kambli, he met his guru Sri Siddharameshwar Maharaj in 1933, who told him: "You are not what you take yourself to be. Find out what you are."
+
+He followed this instruction with total dedication, and within three years attained realization. He continued selling bidis from a tiny shop while teaching from the cramped loft above — never adopting the trappings of a spiritual master. Seekers from around the world climbed those narrow stairs to sit with him.
+
+## Core Teaching
+
+Nisargadatta's method is devastatingly direct: hold onto the sense **"I Am"** — not "I am this" or "I am that" — just the pure sense of being. When you abide there long enough, you discover that even the "I Am" is temporary. What you truly are is **prior to consciousness itself** — the Absolute, which has no qualities, no experience, and no limitation.
+
+## Tradition & Lineage
+
+Navnath Sampradaya (a lineage of nine Nath masters) → Sri Siddharameshwar Maharaj → **Nisargadatta Maharaj**
+
+His most famous work, *I Am That*, compiled from his talks, has become a cornerstone of modern Advaita teaching.
+
+## Where to Start
+
+Begin with [[Consciousness and the Absolute]] for his most mature and distilled teaching, or *I Am That* for the full breadth of his dialogues with seekers.
 
 ## Passages
 

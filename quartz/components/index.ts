@@ -24,6 +24,8 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import RandomQuote from "./RandomQuote"
+import DailyWisdom from "./DailyWisdom"
+import SourceBanner from "./SourceBanner"
 import ArticleImage from "./ArticleImage"
 
 export {
@@ -54,4 +56,6 @@ export {
   Flex,
   ConditionalRender,
   RandomQuote,
+  DailyWisdom,
+  SourceBanner,
 }

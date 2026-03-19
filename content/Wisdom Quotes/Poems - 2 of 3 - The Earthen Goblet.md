@@ -4,9 +4,11 @@ source: "[[Day by Day with Bhagavan]]"
 Page: "11"
 image_name: IMG_0800.PNG
 Source Type: 
-tags:
 draft: true
 ShowImage: false
+tags:
+  - knowledge-wisdom
+  - nature-creation
 ---
 
 Which moulded us, what though without a flaw, To shape, which is against our being’s law.

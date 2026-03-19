@@ -4,9 +4,15 @@ source: ""
 Page: "0"
 image_name: RenderedImage.jpg
 Source Type: []
-tags: []
 draft: true
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - love-devotion
+  - meditation
+  - mind
+  - nature-creation
 ---
 
 “Ocean of nectar full of grace, engulfing the universe, universal splendour, Oh Arunachala the supreme Seif, be thou the sun and open the lotus of my Heart in bliss.

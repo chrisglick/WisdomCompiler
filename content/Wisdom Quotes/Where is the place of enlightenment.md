@@ -4,8 +4,13 @@ source: "[[The Vimalakirti Sutra]]"
 Page: "111"
 image_name: IMG_1773.PNG
 Source Type: []
-tags: []
 ShowImage: false
+tags:
+  - liberation
+  - meditation
+  - mind
+  - nature-creation
+  - self-knowledge
 ---
 
 The Buddha told Radiance Ornament Youth, “You go inquire about Vimalakirti’s illness.”

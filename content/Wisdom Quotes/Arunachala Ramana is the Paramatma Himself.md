@@ -4,8 +4,12 @@ source: "[[Letters from Sri Ramanasramam]]"
 Page: "166"
 image_name: IMG_0031.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - knowledge-wisdom
+  - love-devotion
 ---
 
 I give below the prose translation of those Malayalam verses given in Ramana Leela:

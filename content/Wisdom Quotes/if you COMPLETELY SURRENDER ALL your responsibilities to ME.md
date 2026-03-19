@@ -5,8 +5,9 @@ Page: "0"
 image_name: 70b3cf46-7e3c-453b-8329-49b5ecfa74a6.jpg
 Source Type:
   - Meme
-tags:
 ShowImage: true
+tags:
+  - surrender
 ---
 ![](Images/70b3cf46-7e3c-453b-8329-49b5ecfa74a6.jpg)
 

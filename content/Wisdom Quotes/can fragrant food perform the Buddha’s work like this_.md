@@ -4,8 +4,11 @@ source: "[[The Vimalakirti Sutra]]"
 Page: "0"
 image_name: IMG_0049.JPEG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - meditation
+  - nature-creation
+  - service
 ---
 
 7. “Like this, this food eliminates all the poisons of the afflictions and then is digested.”

@@ -4,8 +4,14 @@ source: "[[The Perfect Master, Vol 1]]"
 Page: "164"
 image_name: IMG_0302.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - knowledge-wisdom
+  - love-devotion
+  - mind
+  - nature-creation
 ---
 
 Not to be a scholar means one is no more interested in the trivial: one is interested only in the real, in the ultimately real. One is not interested in theories any more: one is interested only in existential experiencing.

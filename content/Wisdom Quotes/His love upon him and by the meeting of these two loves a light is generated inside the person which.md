@@ -4,8 +4,13 @@ source: "[[The Philosophy of the Teachings of Islam]]"
 Page: "0"
 image_name: IMG_0059.PNG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - love-devotion
+  - nature-creation
+  - scripture
 ---
 
 This means that God requires that we should offer ourselves to be sacrificed in His cause. We shall achieve steadfastness when all our faculties and powers are devoted to His cause and our death and our life are all for His sake, as He has sake… That is, proclaim, O Prophet: My prayer and my sacrifices and my living and my dying are all for the sake of Allah.

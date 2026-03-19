@@ -4,8 +4,14 @@ source: "[[Silence of the Heart]]"
 Page: "249"
 image_name: IMG_0494.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - mind
+  - nature-creation
+  - scripture
+  - silence
 ---
 
 You’ve got to depend on yourself to take care of everything. Now, your Self is yourself. There’s one Self, so we take care of each other. Did you ever think of that? When you think of others you're making a mistake. The feeling will come to you one day that you are all others. There are no others, there is just the Self appearing as others. So, how do you treat others? Asyou treat yourself. You don’t think aboutit. You don’t think that that person’s worthy and that person’s not, so I’m going to help this person, not that person. You give of yourself automatically. You do not think about it because everything is yourself, and that includes the mineral kingdom, the vegetable kingdom, the animal kingdom, the human kingdom, and everything else you don’t understand. They’re all part of the One. What you do to the One, you do to everything. How you treat one person is how you treat the whole universe because everything is One.
@@ -14,7 +20,7 @@ Now, these four principles I gave you have to do with all these things. You’re
 
 Mou Are Not Mour Problems
 
-Most of us have been searching for reality for many years. We've been to many teachers, many groups. But we still haven’t found peace. Why? Because we’re searching. That’s a direct, succinct answer. Because we’re searching for some- thing. No matter how many times I emphasize there’s nothing to search for, people still search. Sometimes it would be better if we tore up all the books. Books are only to motivate us, to make us know there’s something else. But there comesa time when we have to go within and try to understand what this body really is. The truth, of course, is not a teaching. I do not
+Most of us have been searching for reality for many years. We've been to many teachers, many groups. But we still haven’t found peace. Why? Because we’re searching. That’s a direct, succinct answer. Because we’re searching for something. No matter how many times I emphasize there’s nothing to search for, people still search. Sometimes it would be better if we tore up all the books. Books are only to motivate us, to make us know there’s something else. But there comesa time when we have to go within and try to understand what this body really is. The truth, of course, is not a teaching. I do not
 
 ~250~
 

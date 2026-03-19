@@ -4,9 +4,16 @@ source: "[[Silence of the Heart]]"
 Page: "252"
 image_name: IMG_0495.PNG
 Source Type: 
-tags:
 draft: true
 ShowImage: false
+tags:
+  - divine
+  - meditation
+  - mind
+  - nature-creation
+  - scripture
+  - service
+  - silence
 ---
 
 Those are just words. And the next moment you have a problem, you have an emotion. You feel something is wrong. But you keep declaring, “I am unborn. I am the Absolute Reality.” It is better to say nothing, to believe nothing, to be nothing, and that’s just being yourself. It’s better just to sit, and think of nothing and try to become nothing, than it is to chant mantras, or to make affirmations, or to keep saying, “I am Brahman.” Just by sitting, you will become yourself.

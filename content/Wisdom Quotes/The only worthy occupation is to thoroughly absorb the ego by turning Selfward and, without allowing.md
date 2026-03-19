@@ -4,8 +4,15 @@ source: "[[Guru Vachaka Kovai]]"
 Page: "53"
 image_name: IMG_0020.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - ego
+  - guru-teacher
+  - knowledge-wisdom
+  - meditation
+  - mind
+  - self-knowledge
 ---
 
 Self, so when an aspirant’s attachment to his body is being removed through enquiry, he [i.e. the ego] will feel that he is going to die, hence some aspirants experience during their sadhana a fear of death and sometimes even a physical shaking or great heat, and so in this verse Sri Bhagavan clears the aspirant’s doubts and explains these phenomena.

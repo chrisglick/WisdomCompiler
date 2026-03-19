@@ -4,9 +4,11 @@ source: "[[Day by Day with Bhagavan]]"
 Page: "10"
 image_name: IMG_0799.PNG
 Source Type: 
-tags:
 draft: true
 ShowImage: false
+tags:
+  - death-impermanence
+  - nature-creation
 ---
 
 THE EARTHEN GOBLET

@@ -4,8 +4,13 @@ source: "[[The Vimalakirti Sutra]]"
 Page: "0"
 image_name: IMG_0051.PNG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - liberation
+  - meditation
+  - nature-creation
+  - scripture
+  - service
 ---
 
 In order to accumulate the medicines of the Dharma, one should not abide in the unconditioned; in order to bestow medicines according [to the needs of sentient beings], one should not exhaust the conditioned. In order to understand the illnesses of sentient beings, one should not abide in the unconditioned; in order to extinguish the illnesses of sentient beings, one should not exhaust the conditioned. O good sirs, a bodhisattva who cultivates this Dharma does not either exhaust the conditioned or abide in the unconditioned. This is called ‘the teaching of the emancipation of the exhaustible and inexhaustible.’ You should learn this.”

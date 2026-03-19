@@ -4,8 +4,12 @@ source: "[[Consciousness and the Absolute]]"
 Page: "22"
 image_name: IMG_1353.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - mind
+  - nature-creation
+  - self-knowledge
 ---
 
 M: Yes, of course, I can do that, but you must listen to me, you must have complete faith in whatever I tell you about yourself, and you must behave accordingly. By nature I am non-manifest, yet I am manifested, but I am really not manifested. Can you live like that, as the non-manifest?

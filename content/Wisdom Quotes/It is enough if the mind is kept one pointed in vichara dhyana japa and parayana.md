@@ -4,8 +4,16 @@ source: "[[Ramana Periya Purnam]]"
 Page: "127"
 image_name: IMG_0243.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - guru-teacher
+  - liberation
+  - love-devotion
+  - meditation
+  - mind
+  - scripture
+  - self-knowledge
+  - service
 ---
 
 In 1932, after serving Bhagavan personally day and night for twelve years, Kunju Swami wanted to intensify his practice of Self Enquiry by keeping himself aloof from the ashram. He trained a young man called Madhava Swami to attend on Bhagavan. Kunju Swami waited for the day to tell Bhagavan that he was retiring from service and that he would be staying in Palaakothu in the next compound. He was hesitant as he did not know how to break the news to his master. While still in this dilemma, one day as he entered the hall he heard Bhagavan explaining to others that real service to him did not mean attending to his physical needs but practicing his teachings. Once before he had said, “It is no use in saying, ‘I have been doing personal service to the guru.’ One should abide by the teaching of the guru every day.” A few days later on another occasion, he heard Bhagavan say, “The best service to the guru is engaging in Self Enquiry, meditation and other spiritual practices with purity of body, speech and mind.” He kept chancing upon Bhagavan saying this morning and evening for several days. He had been hesitating to tell Bhagavan of his plans, but Bhagavan himself had taken the cue and given him an answer. Another day when he entered Bhagavan’s hall, Bhagavan was quoting from the Kaivalya Navaneetam wherein the disciple asks the guru how he can repay him for the grace he has received from him. The guru replies, “The highest return the disciple can render to the guru is to remain fixed in the Self without being disturbed by obstacles and outward distractions.”

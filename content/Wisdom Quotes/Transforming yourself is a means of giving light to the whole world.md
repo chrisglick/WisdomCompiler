@@ -5,8 +5,10 @@ Page: 108
 image_name: 4f563da7-8136-48b7-834b-6338d4aad3ab.jpg
 Source Type:
   - Meme
-tags:
 ShowImage: true
+tags:
+  - guru-teacher
+  - nature-creation
 ---
 ![](Images/4f563da7-8136-48b7-834b-6338d4aad3ab.jpg)
 

@@ -4,8 +4,15 @@ source: "[[Guru Vachaka Kovai]]"
 Page: "62"
 image_name: IMG_0025.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - ego
+  - guru-teacher
+  - knowledge-wisdom
+  - love-devotion
+  - mind
+  - self-knowledge
 ---
 
 the feet of the Guru or God, is that his ego-sense, “I am the body”, is to be crushed by Self-Knowledge.

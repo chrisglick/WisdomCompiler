@@ -4,8 +4,15 @@ source: "[[Silence of the Heart]]"
 Page: "266"
 image_name: IMG_0182.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - ego
+  - knowledge-wisdom
+  - meditation
+  - mind
+  - nature-creation
+  - self-knowledge
+  - service
 ---
 
 So the wise person searches for truth now, and tries to become free now.

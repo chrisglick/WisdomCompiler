@@ -4,9 +4,17 @@ source: "[[Ramana Periya Purnam]]"
 Page: "416"
 image_name: IMG_0564.PNG
 Source Type: 
-tags:
 draft: true
 ShowImage: false
+tags:
+  - death-impermanence
+  - guru-teacher
+  - love-devotion
+  - meditation
+  - mind
+  - nature-creation
+  - scripture
+  - self-knowledge
 ---
 
 Ramana Periya Puranam

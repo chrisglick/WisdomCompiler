@@ -4,8 +4,9 @@ source: "[[The Search]]"
 Page: "94"
 image_name: IMG_0700.PNG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - silence
 ---
 
 Question 5 BELOVED OSHO, HOW FAR CAN ONE RELY ON ONE’S ’INNER VOICE’?

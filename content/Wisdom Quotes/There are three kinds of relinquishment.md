@@ -4,8 +4,11 @@ source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
 image_name: IMG_1575.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - mind
+  - service
+  - surrender
 ---
 
 THE CHUN CHOU RECORD

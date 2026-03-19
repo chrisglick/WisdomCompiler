@@ -5,9 +5,12 @@ Page: "0"
 image_name: IMG_1155.PNG
 Source Type:
   - screenshot
-tags:
 draft: true
 ShowImage: false
+tags:
+  - liberation
+  - mind
+  - silence
 ---
 
 occurring? What more? What new experiences after enlightenment?”

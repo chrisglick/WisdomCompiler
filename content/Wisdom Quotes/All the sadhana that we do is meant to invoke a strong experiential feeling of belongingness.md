@@ -5,8 +5,10 @@ Page: "0"
 image_name: b22c849b-8f72-4dfb-b7cb-f95c7d1a59cd-1.jpg
 Source Type:
   - Meme
-tags: []
 ShowImage: true
+tags:
+  - love-devotion
+  - meditation
 ---
 ![](Images/b22c849b-8f72-4dfb-b7cb-f95c7d1a59cd-1.jpg)
 

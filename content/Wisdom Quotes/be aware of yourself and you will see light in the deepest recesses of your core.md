@@ -4,8 +4,13 @@ source: "[[Consciousness and the Absolute]]"
 Page: "90"
 image_name: IMG_1325.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - knowledge-wisdom
+  - meditation
+  - mind
+  - self-knowledge
 ---
 
 90 / Consciousness and the Absolute

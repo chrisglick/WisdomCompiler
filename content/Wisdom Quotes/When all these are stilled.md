@@ -5,8 +5,9 @@ Page: "0"
 image_name: a6aaa6b2-4fb6-43e4-911e-c4c25d174b95.jpg
 Source Type:
   - Meme
-tags: []
 ShowImage: true
+tags:
+  - knowledge-wisdom
 ---
 ![](Images/a6aaa6b2-4fb6-43e4-911e-c4c25d174b95.jpg)
 

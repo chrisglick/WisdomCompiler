@@ -4,9 +4,19 @@ source: "[[Ramana Periya Purnam]]"
 Page: "0"
 image_name: IMG_0565.PNG
 Source Type: 
-tags:
 draft: true
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - guru-teacher
+  - humility
+  - knowledge-wisdom
+  - liberation
+  - meditation
+  - mind
+  - self-knowledge
+  - service
 ---
 
 Mantra, japa, dhyana and vichara - all are different names only. As long as they require some kind of effort, we give them these names. When the goal is realized, they go on effortlessly. What was formerly the means now becomes the goal.”

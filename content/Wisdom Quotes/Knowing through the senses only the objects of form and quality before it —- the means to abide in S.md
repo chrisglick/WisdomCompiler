@@ -5,8 +5,10 @@ Page: "57"
 image_name: IMG_0022.PNG
 Source Type:
   - screenshot
-tags:
 ShowImage: false
+tags:
+  - knowledge-wisdom
+  - self-knowledge
 ---
 
 Knowing through the senses only the objects of form and quality before it —- the means to abide in Self is to begin enquiring inwardly, “Who am I?”

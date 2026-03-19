@@ -5,8 +5,10 @@ Page: "0"
 image_name: 15948871-6fea-41c8-bc69-79c0eca88460.jpg
 Source Type:
   - Meme
-tags: []
 ShowImage: true
+tags:
+  - knowledge-wisdom
+  - service
 ---
 +![](Images/15948871-6fea-41c8-bc69-79c0eca88460.jpg)
 

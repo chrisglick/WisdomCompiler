@@ -8,4 +8,4 @@ tags:
 ShowImage: false
 ---
 
-1. Each gliding along in its orbit (Sarah al-Anbiya} 21:34). [Publisher] 
+1. Each gliding along in its orbit (Surah al-Anbiya, 21:34). [Publisher] 

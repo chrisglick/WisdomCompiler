@@ -4,8 +4,15 @@ source: "[[Guru Vachaka Kovai]]"
 Page: "79"
 image_name: IMG_1772.JPEG
 Source Type: []
-tags: []
 ShowImage: false
+tags:
+  - divine
+  - ego
+  - guru-teacher
+  - knowledge-wisdom
+  - love-devotion
+  - nature-creation
+  - silence
 ---
 
 269. Truly, perfect discipleship — which is the steadfast Supreme Devotion that flares up with the merging of the ego into the Light of Supreme Stillness (i.e. Self-Consciousness) — is alone the right Guruship. Thus you should know.

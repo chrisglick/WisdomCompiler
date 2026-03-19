@@ -4,8 +4,17 @@ source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
 image_name: IMG_1585.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - knowledge-wisdom
+  - liberation
+  - meditation
+  - mind
+  - nature-creation
+  - scripture
+  - self-knowledge
+  - service
 ---
 
 THE WAN LING RECORD

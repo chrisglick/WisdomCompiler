@@ -4,8 +4,12 @@ source: "[[Siva Purana]]"
 Page: "0"
 image_name: IMG_0120.PNG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - liberation
+  - love-devotion
+  - nature-creation
 ---
 
 Siva said :-—

@@ -4,8 +4,14 @@ source: "[[Dropping Ashes On the Buddha]]"
 Page: "178"
 image_name: IMG_0413.PNG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - guru-teacher
+  - knowledge-wisdom
+  - liberation
+  - meditation
+  - mind
+  - nature-creation
 ---
 
 How can you teach other people if you don’t understand yourself?

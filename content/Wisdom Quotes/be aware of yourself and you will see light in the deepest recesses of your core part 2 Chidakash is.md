@@ -4,8 +4,17 @@ source: "[[Consciousness and the Absolute]]"
 Page: "92"
 image_name: IMG_1326.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - guru-teacher
+  - knowledge-wisdom
+  - love-devotion
+  - mind
+  - nature-creation
+  - self-knowledge
+  - surrender
 ---
 
  must have that deep urge to know yourself. Grace is always there. Your first conviction, that "you are", which is prior to words, to that you have given the form of a body. Give up this bodily identity. Prior to words you are, just be that.

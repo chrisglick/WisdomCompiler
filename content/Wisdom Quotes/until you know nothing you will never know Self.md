@@ -4,8 +4,11 @@ source: "[[Ashtavakra Gita]]"
 Page: "0"
 image_name: IMG_1373.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - guru-teacher
+  - liberation
+  - nature-creation
 ---
 
 16.7

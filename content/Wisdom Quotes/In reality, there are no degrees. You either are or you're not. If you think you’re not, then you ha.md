@@ -4,9 +4,12 @@ source: "[[Silence of the Heart]]"
 Page: "257"
 image_name: IMG_1171.PNG
 Source Type: 
-tags:
 draft: true
 ShowImage: false
+tags:
+  - divine
+  - mind
+  - service
 ---
 
 In reality, there are no degrees. You either are or you're not. If you think you’re not, then you have to fetch for yourself. If you think you are, you'll think about these things, and then you'll go and do something. But you won’t be doing it. It will do itself. See, when you say it’s not me doing it, you believe that you are the one, you are the body. You don’t say it’s not me doing it. You ask the question, “To whom does it come?” There’s a difference. It keeps the me out of it completely.

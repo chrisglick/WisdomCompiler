@@ -4,9 +4,15 @@ source: ""
 Page: "0"
 image_name: IMG_0687.PNG
 Source Type: []
-tags: []
 draft: true
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - love-devotion
+  - meditation
+  - mind
+  - nature-creation
 ---
 
 CHAPTER 3. PERCEIVING THE BULL

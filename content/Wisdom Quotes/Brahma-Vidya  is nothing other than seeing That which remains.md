@@ -5,8 +5,11 @@ Page: "0"
 image_name: 3797f2af-e389-45d3-a3aa-0c6490fb820e.jpg
 Source Type:
   - Meme
-tags: []
 ShowImage: true
+tags:
+  - guru-teacher
+  - knowledge-wisdom
+  - nature-creation
 ---
 ![](Images/3797f2af-e389-45d3-a3aa-0c6490fb820e.jpg)
 

@@ -5,8 +5,10 @@ Page: "0"
 image_name: 6696dc78-fda2-4833-bae2-221ff20d870b.jpg
 Source Type:
   - Meme
-tags: []
 ShowImage: true
+tags:
+  - death-impermanence
+  - mind
 ---
 ![](Images/6696dc78-fda2-4833-bae2-221ff20d870b.jpg)
 

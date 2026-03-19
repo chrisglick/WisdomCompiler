@@ -4,8 +4,10 @@ source: "[[Consciousness and the Absolute]]"
 Page: "0"
 image_name: IMG_1323.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - nature-creation
+  - silence
 ---
 
 Anyone in that condition, where the consciousness is present but the registration of the existence of the body is not, even in that state the conditions in the body change constantly. All of this is an appearance in consciousness; therefore, consciousness has to suffer all of the changing conditions.

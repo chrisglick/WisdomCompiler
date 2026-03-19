@@ -4,8 +4,15 @@ source: "[[Silence of the Heart]]"
 Page: "246"
 image_name: IMG_0492.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - liberation
+  - love-devotion
+  - mind
+  - nature-creation
+  - self-knowledge
+  - silence
 ---
 
 the way it appears. Everything is appearance. The trap is, that we get pulled into the appearance. We react to it. We feel hurt. We feel slandered. We feel something is wrong. We have negative emotions because we are falling for a false premise—that the world is real.

@@ -1,8 +1,30 @@
 ---
 draft: false
+image: "wikimedia_commons_8bed7894ec8e_Mirza_Ghulam_Ahmad_with_son.jpg"
+tradition: "Islam (Ahmadiyya)"
+period: "1835-1908"
+lineage: "Founded the Ahmadiyya Muslim Community; claimed fulfillment of Islamic, Christian, and Hindu messianic prophecies"
+core_teaching: "The rational defense of faith, the living reality of divine revelation, and the spiritual transformation of the soul through three ascending states"
+recommended_start: "[[The Philosophy of the Teachings of Islam]]"
 ---
 
-Hazrat Mirza Ghulam Ahmad (1835-1908) was an Indian religious leader who founded the Ahmadiyya Muslim Community. He claimed to be the promised Messiah and Mahdi awaited by Muslims, and wrote extensively on Islamic theology, spirituality, and the rational defense of faith. His major works include *Haqiqatul-Wahi* and *The Philosophy of the Teachings of Islam*.
+> *"From the day when that light is generated in a person, he ceases to be earthly and becomes heavenly."*
+
+## Who Was Hazrat Mirza Ghulam Ahmad?
+
+Hazrat Mirza Ghulam Ahmad (1835-1908) was an Indian religious leader who founded the Ahmadiyya Muslim Community in Qadian, Punjab. He claimed to be the promised Messiah and Mahdi awaited by Muslims, as well as the metaphorical second coming foretold in Christian and other traditions. A prolific writer, he authored over eighty books defending Islam through reason, spiritual experience, and scriptural exegesis.
+
+His life unfolded during the height of the British Raj, when Islam faced challenges from Christian missionaries, Hindu reform movements, and the rising tide of secular materialism. He responded not with retreat but with intellectual vigor, insisting that true faith could withstand any rational inquiry.
+
+## Core Teaching
+
+At the heart of his teaching is a map of the soul's journey through three stages: the self that commands evil (*nafs-e-ammara*), the self-reproaching soul (*nafs-e-lawwama*), and the soul at peace (*nafs-e-mutma'inna*). This is not mere theology but a lived progression -- the gradual purification of human nature through prayer, moral striving, and surrender to God.
+
+He taught that divine revelation did not end with the Prophet Muhammad but continues as a living reality for those who seek God with sincerity. The spiritual path, in his view, culminates in a state where "a fire leaps up from inside like lightning and another fire descends from above" -- the meeting of human longing and divine grace.
+
+## Where to Start
+
+Begin with [[The Philosophy of the Teachings of Islam]], his most celebrated address, which maps the soul's transformation with clarity and beauty. For a deeper intellectual engagement, [[Revelation, Rationality, Knowledge & Truth]] by his successor offers an expansive companion.
 
 [Ahmadiyya Muslim Community (Official)](https://www.alislam.org/)
 

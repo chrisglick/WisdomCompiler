@@ -4,8 +4,11 @@ source: "[[The Vimalakirti Sutra]]"
 Page: "124"
 image_name: IMG_1774.PNG
 Source Type: []
-tags: []
 ShowImage: false
+tags:
+  - knowledge-wisdom
+  - liberation
+  - meditation
 ---
 
 “It is as the Buddha has explained: ‘It is impossible for someone with bonds to emancipate others from their bonds. It is only possible for someone without bonds to emancipate others from their bonds.’ Therefore, bodhisattvas should not generate bonds.

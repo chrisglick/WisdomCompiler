@@ -4,10 +4,14 @@ source: "[[Day by Day with Bhagavan]]"
 Page: "12"
 image_name: IMG_0801.PNG
 Source Type: 
-tags: 
 model: local@llama3:8b
 draft: true
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - service
+  - silence
 ---
 
 But now that I am brimming with The silence of the Lord

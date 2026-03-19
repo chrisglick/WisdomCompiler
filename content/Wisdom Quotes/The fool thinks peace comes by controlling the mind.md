@@ -4,8 +4,15 @@ source: "[[Ashtavakra Gita]]"
 Page: "0"
 image_name: IMG_0110.PNG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - guru-teacher
+  - knowledge-wisdom
+  - liberation
+  - mind
+  - nature-creation
+  - self-knowledge
+  - silence
 ---
 
 Unable to stand steady

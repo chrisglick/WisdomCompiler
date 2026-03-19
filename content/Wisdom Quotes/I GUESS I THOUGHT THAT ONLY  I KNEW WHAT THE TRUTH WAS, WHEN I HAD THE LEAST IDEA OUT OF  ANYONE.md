@@ -5,8 +5,10 @@ Page: "0"
 image_name: IMG_1192.PNG
 Source Type:
   - Meme
-tags:
 ShowImage: true
+tags:
+  - ego
+  - mind
 ---
 ![](Images/IMG_1192.png)
 

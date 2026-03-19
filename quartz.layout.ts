@@ -17,13 +17,14 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.RandomQuote(),
+      component: Component.DailyWisdom(),
       condition: (page) => page.fileData.slug === "index",
     }),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    Component.SourceBanner(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.ArticleImage(),

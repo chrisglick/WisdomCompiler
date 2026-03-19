@@ -5,8 +5,10 @@ Page: "0"
 image_name: 4ef2f5b9-f8b5-4fee-a15e-1ec87229269d.jpg
 Source Type:
   - Meme
-tags:
 ShowImage: true
+tags:
+  - mind
+  - nature-creation
 ---
 ![](Images/4ef2f5b9-f8b5-4fee-a15e-1ec87229269d.jpg)
 

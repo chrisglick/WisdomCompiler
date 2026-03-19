@@ -4,8 +4,12 @@ source: "[[The Philosophy of the Teachings of Islam]]"
 Page: "0"
 image_name: IMG_0060.JPEG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - love-devotion
+  - scripture
 ---
 
 That is, those who deny you do look at you, yet they do not see you.

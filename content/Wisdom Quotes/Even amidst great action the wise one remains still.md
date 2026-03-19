@@ -4,8 +4,11 @@ source: "[[Ashtavakra Gita]]"
 Page: "0"
 image_name: IMG_1378.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - nature-creation
+  - service
+  - silence
 ---
 
 18.56

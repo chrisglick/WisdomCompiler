@@ -4,8 +4,13 @@ source: "[[The Vimalakirti Sutra]]"
 Page: "0"
 image_name: IMG_0052.PNG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - knowledge-wisdom
+  - liberation
+  - scripture
+  - service
 ---
 
 The Vimalakirti Sutra

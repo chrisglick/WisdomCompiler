@@ -16,9 +16,11 @@ tags:
 
 ## Explore
 
-- **[Books & Scriptures](./Books/)** — 30+ spiritual texts with curated passages and free links to read online. Ashtavakra Gita, Talks with Ramana Maharshi, Guru Granth Sahib, Yoga Vasistha, and more.
-- **[Teachers](./Teachers/)** — Ramana Maharshi, Swami Ishwarananda Giriji Maharaj, and others
+- **[Books & Scriptures](./Books/)** — 18+ spiritual texts with curated passages and free links to read online. Ashtavakra Gita, Talks with Ramana Maharshi, Yoga Vasistha, and more.
+- **[Teachers](./Teachers/)** — Ramana Maharshi, Swami Ishwarananda Giriji Maharaj, Huang Po, and others
 - **[Wisdom Quotes](./Wisdom-Quotes/)** — 600+ curated passages from spiritual classics, organized by source
+- **[Concepts](./Concepts)** — Browse by theme: surrender, ego, silence, liberation, love. See how the same truths echo across all traditions.
+- **[Wisdom Threads](./Threads/)** — Cross-tradition explorations showing how mystics across centuries and continents speak the same language of the spirit.
 
 ## What Is This?
 

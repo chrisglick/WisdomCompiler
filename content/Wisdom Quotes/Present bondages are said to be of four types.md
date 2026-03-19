@@ -4,8 +4,11 @@ source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
 image_name: IMG_0132.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - guru-teacher
+  - meditation
+  - mind
 ---
 
 “I have not read the Panchadasi,” said the devotee.

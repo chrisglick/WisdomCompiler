@@ -4,9 +4,15 @@ source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
 image_name: IMG_1391.PNG
 Source Type: 
-tags:
 draft: true
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - knowledge-wisdom
+  - liberation
+  - mind
+  - nature-creation
 ---
 
 Talks with Sri Ramana Maharshi

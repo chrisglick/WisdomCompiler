@@ -4,8 +4,14 @@ source: "[[Silence of the Heart]]"
 Page: "248"
 image_name: IMG_0493.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - humility
+  - mind
+  - nature-creation
+  - service
+  - silence
 ---
 
 side of the coin one day and be the poorest, most miserable person on earth. That’s the way it works. You may say to me, “My neighbor never has any problems. It’s like he fell into a pot of gold. Everything he touches turns into money. He’s as happy as a horse. He’s got a beautiful wife, a big house, everything he could possibly need, and look at me! You know, that guy’s life hasn’t changed for forty years.”
@@ -22,5 +28,5 @@ When Ramana Maharshi was being robbed, his devotees wanted to attack the robbers
 
 What this really means is that we, as human beings, become last, not first. That’s what Jesus meant when he said, “Those who go first will be last, and those who are last will be first.” You have to develop great humility. Do not long for anything. Do not want to be rich, or famous or great, and do not say, I want to be poor and have nothing, either. They’re both wrong. Just be yourself. When you are yourself, you will be amazed how the universe takes care of you.
 
-It’s like the body with vitamins and medicines. Your body is a natural healing factory and able to heal itself. When you start taking too many vitamins, when you start taking medi- cines too much, the body says, “Well, you’ve made that into your God, so now you have to depend on it.” Then you have to keep taking vitamins for the rest of your life or you get sick. Think about that.
+It’s like the body with vitamins and medicines. Your body is a natural healing factory and able to heal itself. When you start taking too many vitamins, when you start taking medicines too much, the body says, “Well, you’ve made that into your God, so now you have to depend on it.” Then you have to keep taking vitamins for the rest of your life or you get sick. Think about that.
 

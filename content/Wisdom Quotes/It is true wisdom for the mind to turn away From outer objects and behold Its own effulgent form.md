@@ -5,8 +5,10 @@ Page: "0"
 image_name: 5ba89a54-201c-4c7b-8ebd-4b9dc870534f.jpg
 Source Type:
   - Meme
-tags:
 ShowImage: true
+tags:
+  - knowledge-wisdom
+  - mind
 ---
 ![](Images/5ba89a54-201c-4c7b-8ebd-4b9dc870534f.jpg)
 

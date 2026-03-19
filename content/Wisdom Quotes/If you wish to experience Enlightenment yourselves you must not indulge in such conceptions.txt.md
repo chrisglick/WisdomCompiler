@@ -4,11 +4,18 @@ source: "[[The Zen Teaching of Huang Po]]"
 Page: "42"
 image_name: IMG_1135.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - knowledge-wisdom
+  - liberation
+  - meditation
+  - mind
+  - nature-creation
+  - service
+  - silence
 ---
 
-Bodhisattvas, together with all wriggling things possessed of life, share in this great Nirvanic nature. This nature is Mind; Mind is the Buddha, and the Buddha is the Dharma. Any thought apart from this truth is entirely a wrong thought. You cannot use Mind to seek Mind, the Buddha to seek the Buddha, or the Dharma to seek the Dharma. So you students of the Way should immediately refrain from conceptual thought. Let a tacit understanding be all! Any mental process must lead to error. There is just a transmission of Mind with Mind. This is the proper view to hold. Be careful not to look outwards to material surroundings, To mistake material surroundings for Mind is to mistake a thief for your son. There is a story of a man who mistook a thief for his long-lost son and, giving him a warm welcome, enabled the latter to sneak away with most of his possessions. Those who place reliance on material things are in danger of losing that most valuable of all possessions—the key to the riddle of life which unlocks Nirvana’s gate. 15. It is only in contradistinction to greed, anger: and ignorance that abstinence, calm and wisdom exist. With- out illusion, how could there be Enlightenment? Therefore Bodhidharma said: ‘The Buddha enunciated all Dharmas in order to eliminate every vestige of conceptual thinking. IfI refrained entirely from conceptual thought, what would be the use of all the Dharmas? Attach yourselves to nothing beyond the pure Buddha-Nature which is the original source of all things. Suppose you were to adorn the Void with countless jewels, how could they remain in Position? The Buddha-Nature is like the Void; though you were to adorn it with inestimable merit and wisdom, how could they remain there?! They would only serve to conceal its original Nature and to render it invisible.
+Bodhisattvas, together with all wriggling things possessed of life, share in this great Nirvanic nature. This nature is Mind; Mind is the Buddha, and the Buddha is the Dharma. Any thought apart from this truth is entirely a wrong thought. You cannot use Mind to seek Mind, the Buddha to seek the Buddha, or the Dharma to seek the Dharma. So you students of the Way should immediately refrain from conceptual thought. Let a tacit understanding be all! Any mental process must lead to error. There is just a transmission of Mind with Mind. This is the proper view to hold. Be careful not to look outwards to material surroundings, To mistake material surroundings for Mind is to mistake a thief for your son. There is a story of a man who mistook a thief for his long-lost son and, giving him a warm welcome, enabled the latter to sneak away with most of his possessions. Those who place reliance on material things are in danger of losing that most valuable of all possessions—the key to the riddle of life which unlocks Nirvana’s gate. 15. It is only in contradistinction to greed, anger: and ignorance that abstinence, calm and wisdom exist. Without illusion, how could there be Enlightenment? Therefore Bodhidharma said: ‘The Buddha enunciated all Dharmas in order to eliminate every vestige of conceptual thinking. IfI refrained entirely from conceptual thought, what would be the use of all the Dharmas? Attach yourselves to nothing beyond the pure Buddha-Nature which is the original source of all things. Suppose you were to adorn the Void with countless jewels, how could they remain in Position? The Buddha-Nature is like the Void; though you were to adorn it with inestimable merit and wisdom, how could they remain there?! They would only serve to conceal its original Nature and to render it invisible.
 
 That which is called the Doctrine of Mental Origins (followed by certain other sects) postulates that all things are built up in Mind and that they manifest themselves upon contact with external environment, ceasing to be manifest when that environment is not present. But it is wrong to conceive of an environment separate from the pure, unvarying nature of all things.”
 
@@ -22,6 +29,6 @@ ind.
 
 * This constitutes a warning against another type of dualism.
 
-3 Roots of goodness are believed by some Mahday4naists to be ‘En- lightenment-potentials’ of varying degrees of strength with which individuals are reborn in accordance with the varying merits gained in former lives. ~
+3 Roots of goodness are believed by some Mahayanists to be ‘Enlightenment-potentials’ of varying degrees of strength with which individuals are reborn in accordance with the varying merits gained in former lives. ~
 
 43 

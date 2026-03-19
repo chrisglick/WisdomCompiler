@@ -4,8 +4,12 @@ source: "[[Day by Day with Bhagavan]]"
 Page: "0"
 image_name: IMG_1181.PNG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - knowledge-wisdom
+  - love-devotion
 ---
 
 Lord Ganesa. You say you offer your body, soul and all possessions to God. Were they yours that you could offer them? At best, you can only say, ‘I falsely imagined till now that all these which are yours (God’s) were mine. Now I realise they are yours. I shall no more act as if they are mine.’ And this knowledge that there is nothing but God or Self, that I and mine don’t exist and that only the Self exists, is jnana.” He added, ““Thus there is no difference between bhakti and jnana. Bhakti is jnana mata or mother of jnana.’

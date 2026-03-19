@@ -4,8 +4,16 @@ source: ""
 Page: "0"
 image_name: IMG_0722.PNG
 Source Type: []
-tags: []
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - meditation
+  - mind
+  - nature-creation
+  - scripture
+  - self-knowledge
+  - service
 ---
 
 I first came to Sri Ramana Ashram on November 1st 1935. I had heard of Bhagavan through Brunton’s book, A Search in Secret India, and immediately decided that here was my Guru. Directly I could settle up my affairs I left my house and possessions in Majorca and went home to England for a short stay with my sisters before finally leaving for India.

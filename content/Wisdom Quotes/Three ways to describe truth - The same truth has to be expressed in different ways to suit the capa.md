@@ -4,8 +4,16 @@ source: "[[Day by Day with Bhagavan]]"
 Page: "174"
 image_name: IMG_0840.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - guru-teacher
+  - knowledge-wisdom
+  - liberation
+  - love-devotion
+  - mind
+  - nature-creation
 ---
 
 Bhagavan remarked on this, “Somebody has told him so. I do not teach only the ajata doctrine. I approve of all schools. The same truth has to be expressed in different ways to suit the capacity of the hearer. The ajata doctrine says, ‘Nothing exists except the one reality. There is no birth or death, no projection or drawing in, no sadhaka, no mumukshu, no mukta, no bondage, no liberation. The one unity alone exists ever. To such as find it difficult to grasp this truth and who ask, ‘How can we ignore this solid world we see all around us?’, the dream experience is pointed out and they are told, ‘All that you see depends on the seer. Apart from the seer, there is no seen.’ This is called the drisht-srishti vada or the argument that one first creates out of his mind and then sees what his mind itself has created. To such as cannot grasp even this and who further argue, ‘The dream experience is so short, while the world always exists. The dream experience was limited to me. But the world is felt and seen not only by me, but by so many, and we cannot call such a world non-existent’, the argument called srisht-drishti vada is addressed and they are told, ‘God first created such and such a thing, out of such and such an element, and then something else, and so forth.’ That alone will satisfy this class. Their mind is otherwise not satisfied and they ask themselves, ‘How can all geography, all maps, all sciences, stars, planets and the rules governing or relating to them and all knowledge be totally untrue?’ To such it is best to say, “Yes. God created all this and so you see it.” Dr.M. said, “But all these cannot be true; only one doctrine can be true.” Bhagavan said, “All these are only to suit the capacity of the learner. The absolute can only be one.”

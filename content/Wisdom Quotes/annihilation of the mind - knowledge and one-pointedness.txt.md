@@ -4,8 +4,14 @@ source: "[[Talks with Ramana Maharshi]]"
 Page: "241"
 image_name: IMG_1412.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - guru-teacher
+  - knowledge-wisdom
+  - meditation
+  - mind
+  - scripture
 ---
 
 Then the experience of a young disciple was mentioned. The young man, educated and in good circumstances, in good health and sober mind, was once facing Sri Bhagavan’s picture in his home and meditating on the figure. The figure suddenly appeared animated with life, which threw the young man into a spasm of fear. He called out for his mother. His mother came and asked him what the matter was. He was surrounded by his relatives who were perplexed by his appearance. He was aware of their presence, but was still overpowered by a mysterious force which he tried to resist. He became unconscious for a short time. Fear seized him as he regained consciousness. The people became anxious and tried to bring him round with medicines.

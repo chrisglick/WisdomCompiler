@@ -4,8 +4,12 @@ source: "[[The Philosophy of the Teachings of Islam]]"
 Page: "0"
 image_name: IMG_0065.PNG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - divine
+  - love-devotion
+  - nature-creation
+  - scripture
 ---
 
 That is, we are closer to him than his jugular vein.

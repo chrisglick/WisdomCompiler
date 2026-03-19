@@ -5,8 +5,9 @@ Page: "0"
 image_name: 7a0769f9-2b27-4145-bf67-7539038b135e.jpg
 Source Type:
   - Meme
-tags:
 ShowImage: true
+tags:
+  - mind
 ---
 ![](Images/7a0769f9-2b27-4145-bf67-7539038b135e.jpg)
 

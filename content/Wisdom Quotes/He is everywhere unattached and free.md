@@ -4,8 +4,15 @@ source: "[[Ashtavakra Gita]]"
 Page: "0"
 image_name: IMG_1374.JPEG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - guru-teacher
+  - humility
+  - love-devotion
+  - mind
+  - silence
 ---
 
 The liberated soul does not blame or praise, give or take,

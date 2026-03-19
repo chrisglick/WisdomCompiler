@@ -4,8 +4,11 @@ source: "[[Haqiqatul-Wahi - The Philosophy of Divine Revelation]]"
 Page: 84
 image_name: IMG_0116.JPEG
 Source Type:
-tags:
 ShowImage: false
+tags:
+  - divine
+  - love-devotion
+  - nature-creation
 ---
 
 Man boasts to worship God, but can worship be done merely by

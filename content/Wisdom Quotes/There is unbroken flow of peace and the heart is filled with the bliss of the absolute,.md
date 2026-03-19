@@ -4,8 +4,17 @@ source: "[[Yoga Vasistha]]"
 Page: "0"
 image_name: IMG_1776.PNG
 Source Type: []
-tags: []
 ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - knowledge-wisdom
+  - liberation
+  - mind
+  - nature-creation
+  - self-knowledge
+  - service
+  - silence
 ---
 
 VASISTHA continued:

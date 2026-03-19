@@ -5,9 +5,12 @@ Page: "0"
 image_name: 091a306a-9bf5-4aed-9dc7-e6ae50f7773c.jpg
 Source Type:
   - Meme
-tags: 
 Author: "[[Swami Ishwarananda Giriji Maharaj]]"
 ShowImage: true
+tags:
+  - ego
+  - guru-teacher
+  - nature-creation
 ---
 ![](Images/091a306a-9bf5-4aed-9dc7-e6ae50f7773c.jpg)
 

@@ -5,8 +5,11 @@ Page: "0"
 image_name: 2e86f627-fee1-47f2-9f4c-977d70a6edb4.jpg
 Source Type:
   - Meme
-tags:
 ShowImage: true
+tags:
+  - ego
+  - love-devotion
+  - self-knowledge
 ---
 ![](Images/2e86f627-fee1-47f2-9f4c-977d70a6edb4.jpg)
 

@@ -4,8 +4,14 @@ source: "[[Yoga Vasistha]]"
 Page: "0"
 image_name: IMG_1369.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - knowledge-wisdom
+  - mind
+  - self-knowledge
+  - service
+  - silence
 ---
 
 VASISTHA continued:

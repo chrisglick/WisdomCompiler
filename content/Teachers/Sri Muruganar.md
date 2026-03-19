@@ -1,8 +1,29 @@
 ---
 draft: false
+tradition: "Advaita Vedanta (via Ramana Maharshi)"
+period: "1890-1973"
+lineage: "Foremost devotee-poet of Ramana Maharshi; composed Guru Vachaka Kovai under Ramana's direct guidance"
+core_teaching: "The annihilation of the ego through devotion and self-inquiry, expressed in the precision of Tamil verse"
+recommended_start: "[[Guru Vachaka Kovai]]"
 ---
 
-Sri Muruganar (1890-1973) was a Tamil poet and one of the foremost devotees of Ramana Maharshi. His masterwork *Guru Vachaka Kovai* is considered the most faithful and comprehensive record of Ramana's teachings, rendered in exquisite Tamil verse. He is regarded as Ramana's poet-saint.
+> *"Supreme Devotion flares up with the merging of the ego into the Light of Supreme Stillness."*
+
+## Who Was Sri Muruganar?
+
+Sri Muruganar (1890-1973) was a Tamil poet of extraordinary gifts who, upon meeting Ramana Maharshi in 1923, surrendered everything -- his literary career, his social standing, his very sense of self -- at the Maharshi's feet. What emerged from that surrender was some of the most luminous devotional poetry in the Tamil language.
+
+Before meeting Ramana, Muruganar was already an accomplished poet and Tamil scholar. But in Ramana's presence, his considerable literary powers were transformed into an instrument of transmission. He did not merely write about Ramana's teachings -- he rendered them in verse so precise that Ramana himself reviewed and approved the compositions, sometimes dictating corrections.
+
+## Core Teaching
+
+Sri Muruganar's masterwork, *Guru Vachaka Kovai* ("The Garland of Guru's Sayings"), is considered the most faithful and comprehensive record of Ramana Maharshi's oral teachings, organized thematically and rendered in classical Tamil verse. It covers the full range of Ramana's instruction: self-inquiry, surrender, the nature of the ego, the reality of the Self, and the relationship between guru and devotee.
+
+His poetry teaches that the spiritual path is not accumulation but dissolution -- the heroic act is not conquering the world but turning inward, arresting the outward-rushing mind, and allowing the ego to merge into its source.
+
+## Where to Start
+
+Begin with [[Guru Vachaka Kovai]], the definitive collection of Ramana's teachings through Muruganar's verse. The translation by David Godman and Sadhu Om is particularly recommended.
 
 ## Passages
 

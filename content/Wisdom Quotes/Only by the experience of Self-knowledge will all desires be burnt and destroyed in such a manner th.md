@@ -4,9 +4,14 @@ source:
 Page: "0"
 image_name: IMG_1379.JPEG
 Source Type: 
-tags:
 draft: true
 ShowImage: false
+tags:
+  - guru-teacher
+  - knowledge-wisdom
+  - meditation
+  - nature-creation
+  - self-knowledge
 ---
 
 37. Only by the experience of Self-knowledge will all desires be burnt and destroyed in such a manner that they can never again revive. Nobody has ever overcome the power of desires merely by fighting and struggling for any number of years against the wandering nature of the five senses.

@@ -4,8 +4,14 @@ source: "[[Ashtavakra Gita]]"
 Page: "0"
 image_name: IMG_1376.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - divine
+  - mind
+  - nature-creation
+  - self-knowledge
+  - service
+  - silence
 ---
 
 Ashtavakra said:

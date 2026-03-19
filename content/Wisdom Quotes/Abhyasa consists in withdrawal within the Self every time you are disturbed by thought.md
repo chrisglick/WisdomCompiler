@@ -4,8 +4,13 @@ source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
 image_name: IMG_0772.PNG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - guru-teacher
+  - love-devotion
+  - meditation
+  - mind
+  - self-knowledge
 ---
 
 Abhyasa consists in withdrawal within the Self every time you are disturbed by thought. It is not concentration or destruction of the mind but withdrawal into the Self.

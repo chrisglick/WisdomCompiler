@@ -5,8 +5,12 @@ Page: "0"
 image_name: 54c832f3-a623-4c28-a1e2-b261f40ef790.jpg
 Source Type:
   - Meme
-tags:
 ShowImage: true
+tags:
+  - divine
+  - guru-teacher
+  - liberation
+  - meditation
 ---
 ![](Images/54c832f3-a623-4c28-a1e2-b261f40ef790.jpg)
 

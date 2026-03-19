@@ -5,8 +5,11 @@ Page: "0"
 image_name: IMG_0023.JPEG
 Source Type:
   - screenshot
-tags: []
 ShowImage: false
+tags:
+  - love-devotion
+  - mind
+  - self-knowledge
 ---
 
 187. O mind, it is not wise for you to come out [in the form of thoughts]; it is best to go within. Hide yourself deep within the Heart and escape from the tricks of

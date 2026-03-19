@@ -4,8 +4,14 @@ source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
 image_name: IMG_1348.JPEG
 Source Type: 
-tags:
 ShowImage: false
+tags:
+  - knowledge-wisdom
+  - mind
+  - nature-creation
+  - service
+  - silence
+  - surrender
 ---
 
 Q: If that is so, what Dharma do all the Buddhas teach when they manifest themselves in the world?
