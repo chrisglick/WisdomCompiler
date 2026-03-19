@@ -476,8 +476,12 @@ translated by John Blofeld...
 - [x] Run OCR audit script on 651 quotes — `scripts/audit-quotes.py` ✅
 - [x] Triage 453 drafts into fix/discard piles — report at `production/ai/quote-audit-report.md` ✅
 - [ ] AI-assisted repair of fixable quotes (85 published with issues, 286 fixable drafts)
-- [ ] Source and add teacher images for 16 pages
-- [ ] Deploy and verify
+- [x] Source and add teacher images for 6 pages (Ramana, Nisargadatta, Osho, Huang Po, Mirza Ghulam Ahmad, Khalifa IV) ✅
+- [x] Compress teacher images (12MB → 420KB), remove duplicates ✅
+- [x] Badge-style teacher banner (circular photo left, name right, gradient card) ✅
+- [x] Hide images folder from site navigation (draft: true on .md files) ✅
+- [ ] Source images for remaining 10 teachers
+- [x] Deploy and verify ✅
 
 ### Phase 2: Intelligence (P3-P5) — ~12-20 hours
 - [x] Design and implement keyword taxonomy — 16 concepts ✅
@@ -490,6 +494,7 @@ translated by John Blofeld...
 
 ### Phase 3: Vitality (P6-P8) — ~8-14 hours
 - [x] Build `DailyWisdom.tsx` component with date-based selection ✅
+- [x] Fix DailyWisdom quote link 404s (added client-side sluggify) ✅
 - [x] Set up GitHub Actions for scheduled builds — `.github/workflows/deploy.yaml` ✅
 - [ ] Add `RecentNotes` to homepage
 - [ ] Create contemplative calendar data
@@ -552,3 +557,20 @@ translated by John Blofeld...
   - Contemplative calendar, community features
   - Deploy to Cloudflare Pages
 - Context for next iteration: Build succeeds locally. Needs deploy + GitHub secrets setup for CI/CD.
+
+### Iteration 2 — 2026-03-18 (Evening session — bug fixes, images, deploy)
+- Phase reached: COMPLETE (for this iteration's scope)
+- Work done:
+  - Fixed 149 quote link 404s — added sluggify() to DailyWisdom + RandomQuote inline scripts
+  - Badge-style teacher hero banner — circular photo left, name right, gradient card
+  - Compressed 6 teacher images (12MB → 420KB total), removed 12 unreferenced duplicates
+  - Hidden images folder from site (draft: true on provenance .md files)
+  - 4 deploys to Cloudflare Pages (one CF API outage encountered, resolved)
+  - Committed 565 files changed (5bf9dbe)
+- Remaining:
+  - Source images for 10 more teachers (only 6 of 16 have images)
+  - AI-assisted OCR repair of published quotes with issues
+  - 4 more Wisdom Threads
+  - RecentNotes on homepage
+  - Contemplative calendar, community features
+  - GitHub secrets for CI/CD automation
