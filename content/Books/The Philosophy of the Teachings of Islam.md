@@ -15,7 +15,7 @@ draft: false
 - [[A fire leaps up from our inside like lightning and another fire descends upon us from above]]
 - [[A person’s paradise is developed inside him]]
 - [[And you threw not when you did throw, but it was Allah Who threw]]
-- [[And you, O soul at peace! Return to your Lord well pleased with Him and He well pleased with you_]]
+- [[And you, O soul at peace! Return to your Lord well pleased with Him and He well pleased with you]]
 - [[But to prefer God over everything and to accept every hardship of the world]]
 - [[But when we look into the faculties of man and try to discover what is their highest reach, we find ]]
 - [[Divine grace still bestows this bounty upon those who seek it]]

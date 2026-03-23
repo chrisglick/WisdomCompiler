@@ -13,4 +13,4 @@ tags:
 ---
 ![](Images/44395896-a27c-41c5-a96a-756eb0f5fb79.jpg)
 
-“Still the mind perfectly - even for a few minutes; a thousand unholy vasanas will die out.”  ~SWAMI SHRI ISHWARANAND GIRI 
+“Still the mind perfectly - even for a few minutes; a thousand unholy vasanas will die out.”

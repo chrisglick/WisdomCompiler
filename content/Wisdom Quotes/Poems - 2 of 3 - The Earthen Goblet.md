@@ -47,5 +47,3 @@ I was a fashioner of swords,
 
 In days that now are gone, Which on a hundred battle-fields Glittered and gleamed and shone;
 
-11
-

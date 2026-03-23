@@ -1,0 +1,12 @@
+---
+Edited: true
+source: ""
+Page: "0"
+image_name: IMG_1302.PNG
+Source Type: []
+tags: []
+draft: false
+ShowImage: false
+---
+
+There is a remedy for sorrow; a remedy for sorrow is possible. @ 

@@ -94,6 +94,9 @@ Note: The `.github/workflows/` CI files are inherited from upstream Quartz and g
 | `scripts/generate-book-links.py` | Scans screenshot notes, regenerates passage lists on book/teacher pages |
 | `scripts/generate-quotes.py` | Extracts quotes from vault for the RandomQuote component |
 | `production/ai/SESSION-*.md` | AI-assisted development session notes |
+| `production/templates/NEW-BOOK.md` | Template and guide for adding a new book page |
+| `production/templates/NEW-TEACHER.md` | Template and guide for adding a new teacher page |
+| `production/QUOTE-DESIGN-DOC.md` | Design spec for wisdom quote file structure |
 
 ## Customization Details
 

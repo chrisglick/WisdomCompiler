@@ -12,6 +12,7 @@ draft: false
 
 ## Passages
 
+- [[Attention to ones own Self is the only raft]]
 - [[Bhagavan does not intend to deny the necessity or wisdom of taking a reasonable and moderate care of]]
 - [[Brahma-Vidya  is nothing other than seeing That which remains]]
 - [[For the extroverted intellect, the means to abide in Self is to begin enquiring inwardly]]
@@ -22,6 +23,9 @@ draft: false
 - [[One’s fear and quaking of one’s body while one is entering samadhi is due]]
 - [[Power of Supreme Silence which consumes all by remaining as mere Existence-Self-Consciousness]]
 - [[Supreme Devotion that flares up with the merging of the ego into the Light of Supreme Stillness]]
+- [[The Guru kills without killing with the glance of His eyes]]
 - [[The only worthy occupation is to thoroughly absorb the ego by turning Selfward and, without allowing]]
 - [[Those alone are good actions karmas which are done lovingly and with a peaceful and pure mind]]
 - [[To arrest the mind — which tries to rush outwards — securely within, is the truly heroic act of the ]]
+- [[What measure is there to measure the Self]]
+- [[You fly about like birds from another world]]

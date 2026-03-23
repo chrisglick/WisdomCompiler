@@ -13,4 +13,4 @@ tags:
 ---
 ![](Images/2e86f627-fee1-47f2-9f4c-977d70a6edb4.jpg)
 
-Complete erasure of the ego is necessary to conquer destiny, whether you achieve this through self-enquiry or bhakti-marga. Sri Ramana  Maharshi .  ~Day by Day, 4 28-6-46
+Complete erasure of the ego is necessary to conquer destiny, whether you achieve this through self-enquiry or bhakti-marga.

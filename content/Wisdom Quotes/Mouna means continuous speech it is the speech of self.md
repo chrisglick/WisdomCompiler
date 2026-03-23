@@ -1,0 +1,22 @@
+---
+Edited: true
+source: "[[Letters from Sri Ramanasramam]]"
+Page: "0"
+image_name: IMG_0138.JPEG
+Source Type: 
+draft: false
+ShowImage: false
+tags:
+  - guru-teacher
+  - nature-creation
+  - self-knowledge
+  - silence
+---
+
+It is the same with every one of these things. There are a number of rivers, some flow straight, some wind and twist zig-zag, but all of them ultimately become merged in the ocean. In the same way, all paths become merged in the path of Self-enquiry, just as all languages become merged in Silence (mouna). Mouna means continuous speech; it does not mean that it is a vacuum. It is the speech of self, identifying with the Self. It is Self-luminous. Everything is in the Self. In Tamil Nad a great person composed and sang a song the purport of which is, “We are like a screen,
+
+and the whole world appears like pictures on it. Silence is full and all-pervading’. Like the saying, (om purnamadah purnamidam purnat purnam udachyate),* everything appears to be the same for the Realized Soul. Even though he sees something it is as good as his not seeing it.”
+
+So saying, Bhagavan was once more silent.
+
+* “From the Fullness when the Full is taken the Full remains.” 

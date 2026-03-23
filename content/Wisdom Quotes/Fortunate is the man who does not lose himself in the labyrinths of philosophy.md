@@ -5,7 +5,9 @@ Page: "0"
 image_name: 275c80f8-5db9-41ad-83e9-63442163498c.jpg
 Source Type:
   - Meme
-tags: []
+tags:
+  - knowledge-wisdom
+  - self-knowledge
 ShowImage: true
 ---
 ![](Images/275c80f8-5db9-41ad-83e9-63442163498c.jpg)

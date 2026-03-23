@@ -12,4 +12,6 @@ draft: false
 
 ## Passages
 
+- [[Tell me O Swan your ancient tale from what land do you come]]
+- [[The divine Name chanting it one is transported across]]
 - [[Transform your intelligence into the purest of paper]]

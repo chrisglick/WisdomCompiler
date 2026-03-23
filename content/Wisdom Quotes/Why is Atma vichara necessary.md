@@ -1,0 +1,15 @@
+---
+Edited: true
+source: "[[Talks with Ramana Maharshi]]"
+Page: "0"
+image_name: IMG_1395.JPEG
+Source Type: 
+draft: false
+ShowImage: false
+tags:
+  - self-knowledge
+---
+
+D.: Why is Atma vichara necessary?
+
+M.: Ifyou do not make Atma vichara, then loka vichara creeps in. That which is not, is sought for, but not that which is obvious. When once you have found what you seek, vichara (enquiry) also ceases and you rest init. As long as one is confusing the body with the Atman, Atman is said to be lost and one is said to seek for it, but the ATMAN itself is never lost. It always exists. A body is said to be Atman, an indriya is said to be Atman, then there is the Jivatman and Paramatman and what not. There are a thousand and one things called Atman. The search for Atman is to know that which is really Atman. 

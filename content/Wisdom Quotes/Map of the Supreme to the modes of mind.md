@@ -51,5 +51,3 @@ modes knowledge seen as objects (phala chaitanya)
 
 The modes of mind take shape as external objects and the light reflected on the modes illumines the objects. Now neglecting the modes
 
-97
-

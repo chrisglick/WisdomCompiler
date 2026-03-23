@@ -1,0 +1,19 @@
+---
+Edited: true
+source: "[[Ramana Periya Purnam]]"
+Page: "0"
+image_name: IMG_1509.JPEG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - guru-teacher
+---
+
+When Bhagavan was in Virupaksha Cave, Echamma, who installed a picture of Bhagavan and a picture of Seshadri Swami in her house, decided to do puja with a lakh of tender leaves, and began it after informing Bhagavan about it. By the tme she had finished the puya with fifty thousand leaves, summer had set in, and she could not gather any more leaves even though she wandered all over the mountain. She got ured, and went to Bhagavan to ventilate her grievances. Bhagavan said, “If you cannot get the leaves, why not pinch yourselfand do puja?” She said, “Oh, but that will be painful!” Bhagavan said, “If it pains you to pinch your body, is it not painful to the tree when you cut its leaves?” She turned pale and asked, “Why did you not tell me earlier, Swami?” He replied, “When you know that pinching the body is painful, why did you not know that the tree will be equally pained if you rob it of its leaves? Do I have to tell you that?”
+
+That tender leaves should not be cut from trees is also stated in the s/oka in “Devikalottara Stotra” in Jnanachara
+
+Vicharapadalam, given below: a AIC 5 Fad, = fas nN \ yatta Hala Gea pear Roots should not be pulled out. Leaves should not be
+
+pinched. Living beings should not be harmed. Flowers should not be plucked. 

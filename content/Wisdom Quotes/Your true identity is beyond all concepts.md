@@ -1,0 +1,32 @@
+---
+Edited: true
+source: "[[The Nectar of Immortality]]"
+Page: "0"
+image_name: IMG_1573.JPEG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - death-impermanence
+  - guru-teacher
+  - knowledge-wisdom
+  - mind
+  - nature-creation
+  - surrender
+---
+
+92 + The Nectar of Immortality
+
+V: There are many gurus and many paths. How do we select a right guru and a correct path?
+
+M: Many visitors come here. And many of them are mainly interested in subjects connected with body and mind, but I am not interested in these topics. Rarely someone wants knowledge of the Self. My present subject matter is: Whatev- er is gone, does not vanish and die, but disperses and mani- fests into multiplicity. While the consciousness leaves the body, it remains ample, widespread and manifest.
+
+In the manifest world, avatars and social workers have for thousands of years been trying to bring about a change. But in spite of their collective efforts, there has been no improve- ment at all. Human beings all have the same type of mind and intellect in which they are embroiled and caught up. But no improvement is possible in that state. I always go by the basic principle in the background. Unknowingly, everything is happening against that background, from that principle. A person is normally engaged in activities that may be consid- ered good or bad, but are actually just mental occupation.
+
+Everybody is trying to protect and preserve the time fac- tor—that is, the consciousness. So long as time is there, con- sciousness is there; and time is there so long as the body is present.
+
+When the life span is over, time has gone. When time has gone, consciousness is gone. As long as the beingness is there, activities proceed. Once you realize that you are not the body, then there is no more attraction for the manifesta- tion.
+
+When a firm conviction is established that one is not the body, one’s behavior has become just like that of the five ele- ments, claiming no credit as things are merely happening by themselves. Such a one can have no needs and demands.
+
+Many people clothed in spiritual attitudes are not inclined to give up their bodily identity. In the name of spiri- tuality, they go on pursuing creeds, faiths and disciplines. But 

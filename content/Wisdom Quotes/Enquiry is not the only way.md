@@ -1,0 +1,15 @@
+---
+Edited: true
+source: "[[Letters from Sri Ramanasramam]]"
+Page: "0"
+image_name: IMG_0136.PNG
+Source Type: 
+draft: false
+ShowImage: false
+tags:
+  - guru-teacher
+  - meditation
+  - self-knowledge
+---
+
+Bhagavan answered him: “Enquiry is not the only way. If one does spiritual practice (sadhana) with name and form, repetition of holy names (japa), or any of these methods with grim determination and perseverance, one becomes THAT: According to the capacity of each individual, one spiritual practice is said to be better than another and several shades and variations of them have been given. Some people are a long way from ‘Tiruvannamalai, some are very near; some are in Tiruvannamalai, while some get into Bhagavan’s hall itself. For those who come into the hall, it is enough, if they are told as they step in, ‘Here is the Maharshi’, and they realize him immediately. For others they have to be told which route to take, which trains to catch, where to change, which road to turn into. In like manner, the particular path to be taken must be prescribed according to the capacity of the practiser (sadhaka). These spiritual practices are not for knowing one’s own Self, which is all-pervading, but only for getting rid of the objects of desire. When all these are discarded, one 

@@ -12,6 +12,9 @@ draft: false
 
 ## Passages
 
+- [[After enlightenment nothing happens all happening stops disappears]]
 - [[But the prisoner has become too identified with the prison cell]]
+- [[I am cool you throw fire at me and it becomes cool]]
 - [[It is only living a thing totally that one transcends it]]
+- [[Live in this world because this world gives a ripening]]
 - [[absolute consciousness that there is no way to know that there is nothing to know that there is nobo]]

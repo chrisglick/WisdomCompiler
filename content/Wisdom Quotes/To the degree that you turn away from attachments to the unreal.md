@@ -1,0 +1,25 @@
+---
+Edited: true
+source: "[[Kaivalya Navaneetam]]"
+Page: "0"
+image_name: IMG_1290.PNG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - guru-teacher
+  - knowledge-wisdom
+  - meditation
+  - mind
+  - nature-creation
+---
+
+Master: Though the reflection in a pool of water appears head downwards and tremulous, yet when the figure on the ground is considered, which remains upright and steady, that worthless image is then seen as unreal.
+
+105. Knowledge is the cause, and objects the effects. It is fruitless to discuss how the phantoms of names and forms came into being and how they will vanish. Not caring how this long-drawn out dream of the world came into being, or how it is withdrawn, only remain aware as the
+
+Consciousness-Self which is all-embracing.
+
+106. To the degree that you turn away from attachments to the unreal, your inner vision of Reality develops. If by a steady practice of this kind the mind comes under control
+
+and becomes aware as Consciousness-Self, you can abide as 

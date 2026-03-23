@@ -1,0 +1,15 @@
+---
+Edited: true
+source: "[[Dune]]"
+Page: "0"
+image_name: IMG_1476.JPEG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - nature-creation
+---
+
+Church and State, scientific reason and faith, the individual and his community, even progress and tradition—all of these can be reconciled in the teachings of Muad’Dib. He taught us that there exist no intransigent opposites except in the beliefs of men. Anyone can rip aside the veil of Time. You can discover the future in the past or in your own imagination. Doing this, you win back your consciousness in your inner being. You know then that the universe is a coherent whole and you are indivisible from it.
+
+—THE PREACHER AT ARRAKEEN AFTER HARQ AL-ADA 

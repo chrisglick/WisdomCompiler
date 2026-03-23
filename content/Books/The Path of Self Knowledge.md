@@ -12,4 +12,8 @@ draft: false
 
 ## Passages
 
+- [[Moral nobility and not social respectability]]
+- [[Non-duality means that only the Absolute is]]
+- [[The doctrine of Advaita Non-duality taught by the ancient Rishis]]
+- [[The things that keep us busy are interminable]]
 - [[all that one is responsible for is the purity and disinterestedness of it]]

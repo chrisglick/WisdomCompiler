@@ -22,5 +22,3 @@ The letter also said, “Jnaneswar Maharaj has said God will never forsake his b
 
 The letter went on to say, “Ramana Maharshi is an exponent of ajata doctrine of Advaita Vedanta. Of course it is a bit difficult”
 
-173
-

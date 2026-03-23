@@ -1,0 +1,19 @@
+---
+Edited: true
+source: "[[Letters from Sri Ramanasramam]]"
+Page: "0"
+image_name: IMG_1624.PNG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - knowledge-wisdom
+---
+
+Letters from Sri Ramanasramam 111
+
+He is the king of hell who says that he is the body which 1s hell itself. He is Narayana who ascertains who Naraka 1s, and destroys him with His vision of wisdom, Jnana Drishu. That is the auspicious day of Narakachathurdast.
+
+Venba. BTS Qo HlL_omev ujL_o Aas waGlocorGer Catt. — Boos LOTUIT MMeHWI BTL LOTWSRISSMT oomolurrerflitHev Sunt oucflum Glsorfl.
+
+The false belief that this hell-like house called body is me, is Naraka himself. To destroy that false belief and let the self shine as Self, 1s Dipaval. 

@@ -1,0 +1,24 @@
+---
+Edited: true
+source: "[[The New Dawn]]"
+Page: "0"
+image_name: IMG_1500.PNG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - meditation
+  - mind
+---
+
+So the first thing: as | see you, | see you miserable. You may be thinking you are enjoying life. Think again, meditate on the fact — are you really enjoying it? If you are enjoying it, then there is no problem. Enjoy it with my blessings. But | Know you are not enjoying it. You simply believe... because to see the naked fact of your misery will be too much, unbearable. So you go on pretending to yourself that you are enjoying life.
+
+You go on smiling to hide your tears. You go on dressing yourself, painting yourself, to hide your wounds. You go on somehow, deceiving others and deceiving yourself that you are happy. It is not so. If you are happy, you have attained; then there is no need to meditate. If you are happy, then there is no need for any religion for you.
+
+Religion is needed as a means; religion is not the end. It is a method for those who are not yet happy, for those who are still in misery, in darkness, who are still in anguish and anxiety.
+
+But | know: the anxiety is so much that you need a shelter, the anguish is so much that you need a dream, so that somehow you can hope — hope for the future, the tomorrow.
+
+Your heaven and your happiness is always somewhere else; it is never where you are. Real happiness is always here, it is always now. It knows no other time and no other space. If you are really happy, only happiness exists; you don’t exist. Remember it: only in misery, you and misery — two things — exist. In happiness, only happiness.
+
+Happiness is non-dual, what we call in India adwait. Misery is dual. In misery you are always two. Misery is a division of your being; cut apart, you are not an organic unity. Something goes against you. Something is there you never wanted to be there, but it is there, a thorn in the flesh. You suffer it in the hope that tomorrow it will not be so. But remember your yesterday? Your yesterday was also the same, and you were waiting for today because this today was tomorrow then. Now it has come. Nothing has happened. In the same way your other tomorrows will go on coming, but they always 

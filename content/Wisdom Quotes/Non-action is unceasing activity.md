@@ -1,0 +1,15 @@
+---
+Edited: true
+source: "[[Talks with Ramana Maharshi]]"
+Page: "0"
+image_name: IMG_1484.JPEG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - guru-teacher
+  - service
+  - silence
+---
+
+Sri Bhagavan remarked: Non-action is unceasing activity. The sage is characterised by eternal and intense activity. His stillness is like the apparent stillness of a fast rotating top (gyroscope). Its very speed cannot be followed by the eye and so it appears to be still. Yet it is rotating. So is the apparent inaction of the sage.  This must be explained because the people generally mistake stillness to be inertness. It is not so.  24th December, 1938 

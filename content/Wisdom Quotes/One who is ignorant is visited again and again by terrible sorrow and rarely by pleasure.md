@@ -20,4 +20,3 @@ Keeping company with such fools is like sitting in a forest on a tree which is a
 
 Ignorance of the self is the source of all troubles and calamities. Is there a single trouble that does not spring from ignorance of the self? This entire creation is pervaded by ignorance which sustains it. One who is ignorant is visited again and again by terrible sorrow and rarely by pleasure.
 
-225 

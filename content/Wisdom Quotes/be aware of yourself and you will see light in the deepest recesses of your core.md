@@ -17,7 +17,7 @@ tags:
 
 M: Don't even accept the concept that you have to do anything.
 
-Q: What should I do with the pain? M: The way it has come, it will go. Q: Have I to becume idle?
+Q: What should I do with the pain? M: The way it has come, it will go. Q: Have I to become idle?
 
 M: Jump about! You understand what I say but you are afraid that whatever so-called knowledge you have collected is being devalued. Krishnamurti said whatever he has said, very rightly, but do you assimilate it thoroughly? Whatever Maharaj tells you, you try to absorb it through concepts.
 

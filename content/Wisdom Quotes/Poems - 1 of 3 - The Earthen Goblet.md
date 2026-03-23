@@ -39,5 +39,3 @@ In patient rows we stand, pitchers of clay — Under a copper-clouded sky of gol
 
 Although we have no language, yet we feel A bitterness towards the Potter’s wheel
 
-10
-

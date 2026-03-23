@@ -12,4 +12,9 @@ draft: false
 
 ## Passages
 
+- [[I chose the milk and was told you have chosen well]]
+- [[Nothing can be found to exist nothing is perceived as lacking]]
+- [[Pouring God into God if you know what I mean]]
+- [[Rabia would douse the fires of hell and burn paradise so none love for any reason but sincere love]]
+- [[The mystics concern is to quench his thirst]]
 - [[You have been given guidance through innate disposition]]

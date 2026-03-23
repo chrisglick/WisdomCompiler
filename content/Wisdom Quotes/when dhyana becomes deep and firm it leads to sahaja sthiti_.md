@@ -22,5 +22,3 @@ When thus you were abandoned by the jewel (spirit of total renunciation), you pi
 
 This is the meaning of the first parable.
 
-309
-

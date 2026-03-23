@@ -12,7 +12,10 @@ draft: false
 
 ## Passages
 
+- [[Ashtavakra said seeing hearing touching smelling the wise one is free]]
+- [[Ashtavakra said the wise one is content with whatever comes]]
 - [[Even amidst great action the wise one remains still]]
+- [[Having recognised oneself as the ocean the sage walks in peace]]
 - [[He is everywhere unattached and free]]
 - [[How can one whose innermost heart has been scorched by the sun of sorrow that comes from duty be hap]]
 - [[I am infinite space]]

@@ -1,0 +1,16 @@
+---
+Edited: true
+source: "[[Early Islamic Mysticism]]"
+Page: "0"
+image_name: IMG_1504.JPEG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - divine
+  - nature-creation
+---
+
+The mystic’s concern is to quench his thirst, to nourish his being, to explore his interiority and to come into rapport with existence and all that it contains. And it contains all the joys, and all the beauties, and all the blessings, and all the benedictions. The scholar is content only to think about these things. He is not really thirsty; otherwise he would seek water, not a treatise on water; he would go to the well, not to the library. The mystic goes to the well and the scholar goes to the library. They are absolute strangers to each other.
+
+Zarathustra: The Laughing Prophet 36 Osho 

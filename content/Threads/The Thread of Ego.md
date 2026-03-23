@@ -24,8 +24,8 @@ Ramana Maharshi taught that the ego is nothing but the "I-thought" — the first
 
 Huang Po points to the same truth with different language: your "original Buddha-Nature" is already perfect, but you obscure it with concepts, preferences, and the illusion that there is something to attain.
 
-- [[Our original Buddha-Nature is, in highest truth, devoid of any atom of objectivity_]]
-- [[If you wish to experience Enlightenment yourselves you must not indulge in such conceptions.txt]]
+- [[Our original Buddha-Nature is, in highest truth, devoid of any atom of objectivity]]
+- [[If you wish to experience Enlightenment yourselves you must not indulge in such conceptions]]
 - [[First you must throw away all your opinions]]
 
 ## In Contemporary Teaching

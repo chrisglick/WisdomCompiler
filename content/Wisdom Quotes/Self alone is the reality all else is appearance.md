@@ -1,0 +1,33 @@
+---
+Edited: true
+source: "[[Yoga Vasistha]]"
+Page: "0"
+image_name: IMG_1407.JPEG
+Source Type: 
+draft: false
+ShowImage: false
+tags:
+  - death-impermanence
+  - divine
+  - ego
+  - knowledge-wisdom
+  - love-devotion
+  - mind
+  - nature-creation
+---
+
+VASISTHA continued:
+
+I lived in the abode of Lord Siva, known as Kaildsa, for sometime, worship- ping Lord Siva and practising austerities. One day I saw a great light in the forest, With my insight I enquired into its nature. | saw that it was Lord Siva himself.
+
+I saluted the Lord and asked him: “Lord, what is the method of worshipping the Lord which destroys all sins and promotes all auspiciousness?”
+
+THE LORD said:
+
+Do you know who ‘god’ is? God is not Visnu, or Siva or Brahma; not the wind, the sun or the moon; not the brahmana or the king; nor I nor you; not Laksmi nor the mind (intellect). God is without form and undivided (not in the objects); that splendour (devanam) which is not made and which has neither beginning nor end is known as god (deva) or Lord Siva which is pure consciousness. That alone is fit to be worshipped; and that alone is all.
+
+If one is unable to worship this Siva, then he is encouraged to worship the form. The latter yields finite results but the former bestows infinite bliss. He who ignores the infinite and is devoted to the finite abandons a pleasure-garden and seeks the thorny bush. However, sages sometimes worship a form playfully.
+
+Now for the articles used in the worship: wisdom, self-control and the percep- tion of the self in all beings are the foremost among those articles. The self alone is Lord Siva who is fit to be worshipped at all times with the flowers of wisdom.
+
+Indeed only the infinite consciousness (cid-akasa) which alone exists even after the cosmic dissolution, exists even now, utterly devoid of objectivity. All these mountains, the whole world, the firmament, the self, the jiva or the individuality and all the elements of which this world is constituted — all these are naught but pure consciousness. Before the so-called creation when only this pure conscious- ness existed, where were all these (heaven etc.)? Space (akasa), supreme or infinite space (paramakasam), absolute space (brahmakasam), creation, consciousness — are mere words and they indicate the same truth even as synonyms do. Even as the duality experienced in dream is illusory, the duality implied in the creation of the world is illusory. Even as the objects seem to exist and function in the inner world of consciousness in a dream, objects seem to exist and function in the outer world of consciousness during the wakeful state. Nothing really happens in both these states. Even as consciousness alone is the reality in the dream state, conscious- ness alone is the substance in the wakeful state too. That is the Lord, that is the supreme truth, that you are, that am I and that is all. 

@@ -1,0 +1,21 @@
+---
+Edited: true
+source: "[[Talks with Ramana Maharshi]]"
+Page: "0"
+image_name: IMG_1398.JPEG
+Source Type: 
+draft: false
+ShowImage: false
+tags:
+  - divine
+  - surrender
+---
+
+Talk 207.
+
+Deep sleep is only the state of non-duality. Can the difference between the individual and Universal souls persist there? Sleep implies forgetfulness of all differences: This alone constitutes happiness. See how carefully people prepare their beds to gain that happiness. Soft cushions, pillows and all the rest are meant to induce sound sleep, that is to say to end wakefulness. And yet the soft bed, etc., are of no use in the state of deep sleep itself. The implication is that all efforts are meant only to end ignorance. They have no use after realisation.
+
+Talk 208.
+
+It is enough that one surrenders oneself. Surrender is to give oneself up to the original cause of one’s being. Do not delude yourself by imagining such source to be some God outside you. One’s source is within yourself. Give yourself up to it. That means that you should seek the source and merge in it. Because you imagine yourself to be out of it, you raise the question “Where is the source?” Some contend that the sugar cannot taste its own sweetness and that a taster must taste and enjoy it. Similarly, an individual cannot be the Supreme and enjoy the
+

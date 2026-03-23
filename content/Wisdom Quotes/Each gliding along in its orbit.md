@@ -5,6 +5,8 @@ Page: "0"
 image_name: IMG_0115.JPEG
 Source Type:
 tags:
+  - scripture
+  - nature-creation
 ShowImage: false
 ---
 

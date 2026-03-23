@@ -5,6 +5,8 @@ Page: "0"
 image_name: IMG_1218.JPEG
 Source Type:
 tags:
+  - knowledge-wisdom
+  - self-knowledge
 ShowImage: true
 ---
 

@@ -1,0 +1,23 @@
+---
+Edited: true
+source: "[[The Ribhu Gita]]"
+Page: "0"
+image_name: IMG_1422.JPEG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - divine
+  - meditation
+  - nature-creation
+  - silence
+---
+
+TOPIC OF THE SUMMARY OF ALL SETTLED CONCLUSIONS 14.46
+
+45. This is rare to come by in this world, rare in all the three worlds. “I am Brahman.” There is no doubt of this. You should steadfastly have this conviction. Then, renouncing everything, abide in Silence, at ease.
+
+46. Suta:
+
+Meditating on the connection between heaven and earth, immersed in the limbs of yoga and the practices such as yama, niyama, and others, and smeared with holy ashes, rid of the bondage of sheaths, with their intent fully turned toward Bliss and their hearts joyous with the desire for the Supreme, the devotees of Siva become Siva themselves.
+

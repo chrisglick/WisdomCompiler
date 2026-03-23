@@ -1,0 +1,33 @@
+---
+Edited: true
+source: "[[The Zen Teaching of Huang Po]]"
+Page: "0"
+image_name: IMG_1141.PNG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - divine
+  - liberation
+  - meditation
+  - mind
+  - nature-creation
+  - service
+---
+
+As Chih Kung’ once said: ‘The Buddha is really the creation of your own Mind. How, then, can he be sought through scriptures?’ Though you study how to attain the Three Grades of Bodhisattvahood, the Four Grades of Sainthood, and the Ten Stages of a Bodhisattva’s Progress to Enlightenment until your mind is full of them, you will merely be balancing yourself between ‘ordinary’ and ‘Enlightened’. Not to see that all methods of following the Way are ephemeral is samsaric Dharma.
+
+Its strength once spent, the arrow falls to earth.
+
+You build up lives which won’t fulfil your hopes. How far below the Transcendental Gate
+
+From which one leap will gain the Buddha’s realm!4
+
+? A famous quotation from the Diamond Sitra.
+
+* Prince of Devils—here used figuratively.
+
+° A famous sixth-century monk.
+
+* This verse is from the ‘Song of Enlightenment’ attributed to Yung Chia, a seven-century monk. This fascinating work has been translated in full by Dr. Walter Liebenthal and published in the Journal of Oriental Studies of the Catholic University of Peiping, Vol. VI, 1941.
+

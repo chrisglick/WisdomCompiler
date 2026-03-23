@@ -1,0 +1,13 @@
+---
+Edited: true
+source: "[[Tripura Rahasya]]"
+Page: "0"
+image_name: IMG_1431.JPEG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - silence
+---
+
+9. His greatness was like red hot coal hidden in embers. Every inch of his body filled one with exhilaration so that I had a refreshing feeling in his mere proximity.  [Note: The sensation of peace or of ananda is the symptom of satsanga.] 

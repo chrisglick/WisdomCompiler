@@ -12,4 +12,7 @@ draft: false
 
 ## Passages
 
+- [[It is that spiritual power which will make him transcend]]
 - [[Only one who is unattached things earthly and heavenly alike can attain to Divine Knowledge]]
+- [[Sai Baba teachings on devotion and surrender]]
+- [[The more simple a life he leads the fewer needs he has]]

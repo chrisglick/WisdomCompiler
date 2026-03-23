@@ -20,5 +20,3 @@ Bhagavan remarked on this, “Somebody has told him so. I do not teach only the 
 
 The letter further said, “Avyabhicharini bhakti is the only necessary thing.’ As Dr.M. did not understand what avyabhicharini bhakti meant, Bhagavan explained that it only meant bhakti to God without any other thought occupying the mind. Bhagavan said, “This word, ananya bhakti, ekagrata bhakti, all mean the same thing.” The letter continued, “In the
 
-174
-

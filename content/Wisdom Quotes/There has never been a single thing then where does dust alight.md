@@ -1,0 +1,17 @@
+---
+Edited: true
+source: "[[The Zen Teaching of Huang Po]]"
+Page: "0"
+image_name: IMG_1456.JPEG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - mind
+  - service
+  - surrender
+---
+
+THE CHUN CHOU RECORD
+
+is expressed in these perceptions, it neither forms part of them nor is separate from them. You should not start REASONING from these perceptions, nor allow them to give rise to conceptual thought; yet nor should you seek the One Mind apart from them or abandon them in your pur- suit of the Dharma. Do not keep them nor abandon them nor dwell in them nor cleave to them. Above, below and around you, all is spontaneously existing, for there is nowhere which is outside the Buddha-Mind. 

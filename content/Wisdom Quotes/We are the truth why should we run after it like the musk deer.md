@@ -1,0 +1,23 @@
+---
+Edited: true
+source: "[[Ramana Periya Purnam]]"
+Page: "0"
+image_name: IMG_1027.PNG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - death-impermanence
+  - guru-teacher
+  - love-devotion
+  - meditation
+  - mind
+---
+
+of a large picture of Bhagavan. Me Sat in the chair and breathed his last, consciously: by the time | arrived, he was no more. The doctor’s verdict that his death was instantaneous was proof enough to me that when he died, Pitaji was fully conscious. For me, personally, Pitaji was a hero. He refused to succumb to the demands of his body, but conquered its travails by turning his full attention to Bhagavan. He had such implicit faith in Bhagavan that the master absorbed him in full consciousness! | strongly felt that though he was a family man, Pitaji’s body had every right to be interred within the ashram grounds. | managed to convince those who were opposed to this. Pitaji’s body was interred next to Chadwick’s and Cohen’s samadhis — devotees even today pay homage to it. He is the only grihastha among the saints and sannyasins interred in Ramanasramam.
+
+Truth is not just a concept meant to be run after. You yourself are the real truth. Bhagavan used to refer to Vedantic scriptures that talk about the scent of the musk deer. The deer is unaware that the scent comes from its own body and therefore runs in search of this wonderful fragrance. Some of these deer, it is said, run themselves to death in search of this wonderful fragrance. Why should we, like the musk deer, run after the truth? We are the truth. Why move out? Let us remain as the truth within the Heart. With Bhagavan’s grace, Arunachala will absorb us. Remaining in the truth is being absorbed in Arunachala.
+
+Once Bhagavan was asked who was a dhira. Bhagavan replied, “One who knows who he is.” Dhira literally means courageous. To remain as the truth is the highest form of valour and courage. All of Bhagavan’s old devotees had this quality. We have to share the lives of these devotees to remind ourselves that we are also always, only dhiras. This state of absorption takes place all the time - in the now.
+
+We have come to Arunachala in order to merge with Arunachala. Bhagavan referred to this as ‘aikkivam aakkikkol‘, Bhagavan was not praying just for his mother when he said, “Absorb her into your Self.” He was praying for each one of us. We have to wake up. This is our wake up call. Let us not run in vain after the truth like the musk deer. Let us understand that truth is within us. That state of realization is absorption; it is also Arunachala. Bhagavan said of Arunachala, “Heart, thy name is Arunachala.” This Heart, the core of our being, is Arunachala. Plunging within and staying in one’s Self is being absorbed in Arunachala. This state does not take place in space or time. It is in the eternal now, the now which we are eternally in. 

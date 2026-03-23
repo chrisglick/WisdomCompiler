@@ -1,0 +1,27 @@
+---
+Edited: true
+source: "[[The New Dawn]]"
+Page: "0"
+image_name: IMG_1150.PNG
+Source Type: []
+draft: false
+ShowImage: false
+tags:
+  - divine
+  - nature-creation
+  - silence
+---
+
+is a cause for a complaint.
+
+"THE TRUTH IS THAT THE BOWL IS THE DESIRES OF MAN, AND THE GOLD WHAT MAN IS GIVEN. THERE IS NO END TO MAN'S CAPACITY TO DEVOUR, WITHOUT BEING IN ANY WAY CHANGED.”
+
+And things go on showering on you, and you never change, you remain at most the same! You devour everything, but nothing transforms you.
+
+"SEE, THE BOWL HAS EATEN NEARLY ALL YOUR WEALTH, BUT IT IS STILL A CARVED SEA- COCONUT, AND HAS NOT PARTAKEN OF THE NATURE OF GOLD IN ANY RESPECT.”
+
+Remember this. If you start feeling grateful, you will be transformed. You will start changing your being from baser metal into gold — this is what alchemy is all about, and this is what sannyas is all about. Sannyas is the purest alchemy, the new alchemy, the science of transforming the baser into the higher. And the bridge is gratitude.
+
+Feel grateful! Search for causes to be grateful, and you will find INFINITE causes. In the morning the sun rises and there is enough cause, MORE than enough, to dance and sing. God has risen in the sun. And by the evening when the sun is setting, sing and dance! Soon the night is coming with its beautiful darkness and all those stars. Soon the mystery will surround you, the mystery of darkness and the coolness of darkness and the silence of darkness and its infinite music.
+
+Just go on looking for reasons to celebrate, and you WILL become religious. And, slowly slowly, each gratitude felt deeply transforms you. Desires never transform, only gratitude transforms — and they are diametrically opposite. Desire means: "Give me more! I am complaining. I am demanding.” Gratitude says: ”You have given me so much that | never deserved in the first place. I am grateful, I am thanking.” 

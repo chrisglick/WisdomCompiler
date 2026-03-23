@@ -12,4 +12,5 @@ draft: false
 
 ## Passages
 
+- [[Painful indeed is the process but later on everything becomes auspicious from beginning to end]]
 - [[great secret of the five-fold duties]]
