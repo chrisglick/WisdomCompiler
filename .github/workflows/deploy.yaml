@@ -29,10 +29,12 @@ jobs:
       - name: Build site
         run: npx quartz build
 
+      - name: Install Wrangler
+        run: npm install -g wrangler
+
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          wranglerVersion: '3'
           command: pages deploy public --project-name=wisdom-compiler --commit-dirty=true --branch=v4
