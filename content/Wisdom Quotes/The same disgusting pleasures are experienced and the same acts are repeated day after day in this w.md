@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1366.JPEG
+image_name: IMG_1366.webp
 Source Type: 
 ShowImage: false
 tags:

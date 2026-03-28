@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1676.PNG
+image_name: IMG_1676.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - mind
   - nature-creation
   - silence
+title: "When the mind is purified consciousness shines forth"
 ---
 
 240 Tripura Rahasya

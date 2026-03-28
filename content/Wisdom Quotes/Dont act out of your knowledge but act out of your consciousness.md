@@ -1,14 +1,15 @@
 ---
 Edited: true
-source: ""
+source: "[[Osho]]"
 Page: "0"
-image_name: IMG_1311.JPEG
+image_name: IMG_1311.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - knowledge-wisdom
   - nature-creation
+title: "Dont act out of your knowledge but act out of your..."
 ---
 
 Don't act out of your knowledge, but act out of your consciousness. Don't be dictated to by any discipline, howsoever old, howsoever ancient. Withdraw yourself from all conditionings and live an unconditional, spontaneous, moment-to-moment, changing, flowing and relaxed life.

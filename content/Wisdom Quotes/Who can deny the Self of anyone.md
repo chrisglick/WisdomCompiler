@@ -2,11 +2,12 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1464.JPEG
+image_name: IMG_1464.webp
 Source Type: []
 tags: []
 draft: false
 ShowImage: false
+title: "Who can deny the Self of anyone"
 ---
 
 Talk 498.

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1662.JPEG
+image_name: IMG_1662.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - self-knowledge
   - service
+title: "Realisation of Self requires absolute purity of mind"
 ---
 
 47. Realisation of Self requires absolute purity only and no concentration of mind. For this reason, the Self is said to be unknowable (meaning not objectively knowable).

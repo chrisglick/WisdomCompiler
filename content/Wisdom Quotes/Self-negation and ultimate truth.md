@@ -2,9 +2,9 @@
 Edited: true
 source: "[[Vivekachudamani]]"
 Page: "0"
-image_name: IMG_1783.JPEG
+image_name: IMG_1783.webp
 Source Type: []
-draft: false
+draft: true
 ShowImage: false
 tags:
   - love-devotion

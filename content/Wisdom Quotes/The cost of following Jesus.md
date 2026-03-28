@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Bible - Book of Luke]]"
 Page: "0"
-image_name: IMG_0109.JPEG
+image_name: IMG_0109.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - divine
   - service
+title: "The cost of following Jesus"
 ---
 
 The Cost of Following Jesus

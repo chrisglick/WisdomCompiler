@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1371.JPEG
+image_name: IMG_1371.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -15,6 +15,7 @@ tags:
   - nature-creation
   - self-knowledge
   - silence
+title: "He who stands rooted in self-knowledge is liberated here..."
 ---
 
 netherworld arise and fall, like waves on the ocean. Even as in the ocean the big fish eat the small ones, all these countless beings feed upon one another and are helplessly blown around in space on account of their conditioning. And the stars in space move in their own orbits because of conditioning. Now rising, now setting, now bright, now dark (and said to have several spots or defects), the moon continues to revolve around the earth and is not abandoned, because of conditioning.

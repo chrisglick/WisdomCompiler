@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
-image_name: IMG_1456.JPEG
+image_name: IMG_1456.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - mind
   - service
   - surrender
+title: "There has never been a single thing then where does dust..."
 ---
 
 THE CHUN CHOU RECORD

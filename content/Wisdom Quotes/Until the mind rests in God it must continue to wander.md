@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1483.PNG
+image_name: IMG_1483.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -15,6 +15,7 @@ tags:
   - mind
   - nature-creation
   - self-knowledge
+title: "Until the mind rests in God it must continue to wander"
 ---
 
 Talks with Sri Ramana Maharshi

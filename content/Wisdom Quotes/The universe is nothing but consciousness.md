@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1677.PNG
+image_name: IMG_1677.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - mind
   - self-knowledge
   - silence
+title: "The universe is nothing but consciousness"
 ---
 
 Chapter XXII 241

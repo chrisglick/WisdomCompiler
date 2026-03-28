@@ -2,7 +2,7 @@
 Edited: false
 source: "[[Swami Ishwarananda Giriji Maharaj]]"
 Page: "0"
-image_name: e9e3c0bf-d4fa-4ed6-b3dc-98235a68a9ce.jpg
+image_name: e9e3c0bf-d4fa-4ed6-b3dc-98235a68a9ce.webp
 Source Type: []
 draft: true
 ShowImage: false

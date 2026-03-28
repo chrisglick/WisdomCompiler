@@ -2,7 +2,7 @@
 Edited: true
 source: "[[In Search of the Miraculous]]"
 Page: "0"
-image_name: IMG_1508.JPEG
+image_name: IMG_1508.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - knowledge-wisdom
   - nature-creation
   - service
+title: "People understand what knowledge means but they..."
 ---
 
 "People understand what 'knowledge' means. And they understand the possibility of different levels of knowledge. They understand that knowledge may be lesser or greater, that is to say, of one quality or of another quality. But they do not understand this in relation to 'being.' 'Being,' for them, means simply ‘existence’ to which is opposed just 'non-existence.' They do not understand that being or existence may be of very different levels and categories. Take for instance the being of a mineral and of a plant. It is a different being. The being of a plant and of an animal is again a different being. The being of an animal and of a man is a different being. But the being of two people can differ from one another more than the being of a mineral and of an animal. This is exactly what people do not understand. And they do not understand that knowledge depends on being. Not only do they not understand this latter but they definitely do not wish to understand it. And especially in Western culture it is considered that a man may possess great knowledge, for example he may be an able scientist, make discoveries, advance science, and at the same time he may be, and has the right to be, a petty, egoistic, caviling, mean, envious, vain, naive, and absent- minded man. It seems to be considered here that a professor must always forget his umbrella everywhere.

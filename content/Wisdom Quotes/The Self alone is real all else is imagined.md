@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1669.PNG
+image_name: IMG_1669.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - divine
   - knowledge-wisdom
   - mind
+title: "The Self alone is real all else is imagined"
 ---
 
 178 Tripura Rahasya

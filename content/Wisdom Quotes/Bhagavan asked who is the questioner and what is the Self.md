@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1497.PNG
+image_name: IMG_1497.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - nature-creation
   - self-knowledge
+title: "Bhagavan asked who is the questioner and what is the Self"
 ---
 
 Talk 641.

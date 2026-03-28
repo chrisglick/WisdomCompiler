@@ -4,6 +4,11 @@ Author: Suri Nagamma
 title: Letters from Sri Ramanasramam
 source: https://archive.org/download/ramanamaharishiebooks/Ramana%20Maharishi%20eBooks/Letters%20from%20Sri%20Ramanasramam.pdf
 tags:
+category: teaching
+tradition: Advaita Vedanta
+description: "Intimate letters describing daily life and spontaneous teachings at Ramana Maharshi's ashram — a window into the sage's living presence."
+difficulty: approachable
+teacher: "[[Ramana Maharshi]]"
 draft: false
 ---
 

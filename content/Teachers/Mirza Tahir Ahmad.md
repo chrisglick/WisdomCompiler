@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 image: "wikimedia_commons_f394d0e49484_KhalifaIV_Surrey.jpg"
 tradition: "Islam (Ahmadiyya)"
 period: "1928-2003"
@@ -8,4 +8,6 @@ core_teaching: "The harmony of divine revelation with reason, science, and the n
 recommended_start: "[[Revelation, Rationality, Knowledge & Truth]]"
 ---
 
-*No passages collected yet.*
+## Passages
+
+- [[This chapter deals with all the preparatory steps which were needed before the creation of bio-units]]

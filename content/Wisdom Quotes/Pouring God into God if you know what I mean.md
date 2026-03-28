@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Early Islamic Mysticism]]"
 Page: "0"
-image_name: IMG_0162.JPEG
+image_name: IMG_0162.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - guru-teacher
   - scripture
   - silence
+title: "Pouring God into God if you know what I mean"
 ---
 
 A Sanskrit consecration of food taken from the Gita is as follows:

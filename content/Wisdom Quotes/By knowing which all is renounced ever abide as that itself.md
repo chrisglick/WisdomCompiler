@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Ribhu Gita]]"
 Page: "0"
-image_name: IMG_1282.PNG
+image_name: IMG_1282.webp
 Source Type:
 ShowImage: false
 tags:

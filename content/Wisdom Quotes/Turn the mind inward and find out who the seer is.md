@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1396.JPEG
+image_name: IMG_1396.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - nature-creation
   - scripture
+title: "Turn the mind inward and find out who the seer is"
 ---
 
 Talks with Sri Ramana Maharshi

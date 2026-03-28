@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Bhagavad Gita]]"
 Page: "0"
-image_name: IMG_0161.PNG
+image_name: IMG_0161.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -14,6 +14,7 @@ tags:
   - nature-creation
   - scripture
   - service
+title: "Food consecration mantra from the Bhagavad Gita"
 ---
 
 Food should be cooked with mantra and/or love. The vibrations of the person preparing the food enter into food cooked over fire. A Sanskrit mantra which can be used for preparing food is:

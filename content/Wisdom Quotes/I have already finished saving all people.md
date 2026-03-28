@@ -2,7 +2,7 @@
 Edited: true
 source: ""
 Page: "0"
-image_name: 60763770155__18A41A24-2280-4027-A8C4-BC9359A39C26.JPG
+image_name: 60763770155__18A41A24-2280-4027-A8C4-BC9359A39C26.webp
 Source Type: []
 ShowImage: false
 tags:

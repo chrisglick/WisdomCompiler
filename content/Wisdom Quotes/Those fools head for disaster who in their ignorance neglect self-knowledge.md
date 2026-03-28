@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Kaivalya Navaneetam]]"
 Page: "0"
-image_name: IMG_1600.PNG
+image_name: IMG_1600.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -14,6 +14,7 @@ tags:
   - meditation
   - mind
   - self-knowledge
+title: "Those fools head for disaster who in their ignorance..."
 ---
 
 59. Those fools head for disaster who in their ignorance attribute to God the six evils (lust, anger, greed, delusion, conceit and jealousy) ,7! which are of their own making, but the wise will gain untainted deliverance who recognize the

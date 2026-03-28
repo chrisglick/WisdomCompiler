@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_1531.JPEG
+image_name: IMG_1531.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - guru-teacher
   - mind
   - nature-creation
+title: "The Vedas contain the truth but the truth cannot be..."
 ---
 
 Letters from Sri Ramanasramam 524

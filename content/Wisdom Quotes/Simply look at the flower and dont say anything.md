@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Coming Home to Yourself]]"
 Page: "0"
-image_name: IMG_1099.PNG
+image_name: IMG_1099.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - love-devotion
   - mind
   - nature-creation
+title: "Simply look at the flower and dont say anything"
 ---
 
 How you look at things depends on you, not on things. Unless you come to a point where you drop the interpreting mind and look directly, look immediately, mind is your mediator. It brings you things distorted; it brings you things mixed with interpretations. They are not pure.

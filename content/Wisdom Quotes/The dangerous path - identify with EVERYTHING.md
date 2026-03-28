@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The New Dawn]]"
 Page: "0"
-image_name: IMG_1310.JPEG
+image_name: IMG_1310.webp
 Source Type: []
 ShowImage: false
 tags:

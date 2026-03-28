@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1413.JPEG
+image_name: IMG_1413.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -14,6 +14,7 @@ tags:
   - mind
   - nature-creation
   - self-knowledge
+title: "That which rises as I is the mind it is only the mind"
 ---
 
 Talks with Sri Ramana Maharshi 30th November, 1936

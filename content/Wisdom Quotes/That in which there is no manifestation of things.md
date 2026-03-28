@@ -2,13 +2,14 @@
 Edited: true
 source: "[[The Ribhu Gita]]"
 Page: "0"
-image_name: IMG_1700.PNG
+image_name: IMG_1700.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - nature-creation
   - self-knowledge
+title: "That in which there is no manifestation of things"
 ---
 
 25. That in which there is no manifestation of things, in which there is no victory or defeat, and in which there is no utterance of statements—ever abide as That itself.

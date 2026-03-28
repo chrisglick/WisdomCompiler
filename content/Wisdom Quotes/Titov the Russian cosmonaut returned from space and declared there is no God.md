@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "0"
-image_name: IMG_1493.JPEG
+image_name: IMG_1493.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - divine
   - nature-creation
+title: "Titov the Russian cosmonaut returned from space and..."
 ---
 
 Titov, the Russian cosmonaut, returned from space and was asked by Nikita Khrushchev privately whether he had seen anyone there. The story goes that he replied, ”Yes, | really did see God,” to which Khrushchev answered: ”! know that already, but you know our policy, so please don’t tell anybody.”

@@ -4,6 +4,11 @@ Author: Kahlil Gibran
 title: The Prophet
 source: https://www.gutenberg.org/ebooks/58585
 tags:
+category: poetry
+tradition: Multiple
+description: "Kahlil Gibran's timeless prose poetry on love, freedom, death, and the human spirit — a universal spiritual classic."
+difficulty: approachable
+teacher: ""
 draft: false
 ---
 

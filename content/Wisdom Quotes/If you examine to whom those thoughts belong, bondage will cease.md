@@ -2,7 +2,7 @@
 Edited: true
 source: ""
 Page: "0"
-image_name: IMG_0943.PNG
+image_name: IMG_0943.webp
 Source Type: []
 ShowImage: false
 tags:

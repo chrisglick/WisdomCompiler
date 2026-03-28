@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_0772.PNG
+image_name: IMG_0772.webp
 Source Type: 
 ShowImage: false
 tags:

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1458.JPEG
+image_name: IMG_1458.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - divine
   - guru-teacher
   - nature-creation
+title: "Bhagavan discoursed on the nature of the heart"
 ---
 
 Vil 30th SEPTEMBER

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Perfect Master, Vol 1]]"
 Page: "164"
-image_name: IMG_0302.PNG
+image_name: IMG_0302.webp
 Source Type: 
 ShowImage: false
 tags:

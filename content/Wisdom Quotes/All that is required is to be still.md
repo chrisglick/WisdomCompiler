@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1402.JPEG
+image_name: IMG_1402.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - knowledge-wisdom
   - mind
   - silence
+title: "All that is required is to be still"
 ---
 
 Talks with Sri Ramana Maharshi 8th September, 1936

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "403"
-image_name: IMG_1522.JPEG
+image_name: IMG_1522.webp
 Source Type: 
 ShowImage: false
 tags:

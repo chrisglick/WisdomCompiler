@@ -4,6 +4,11 @@ Author: Eckhart Tolle
 title: A New Earth
 source: url
 tags:
+category: teaching
+tradition: Contemporary
+description: A guide to awakening to your life's purpose by transcending ego-based consciousness. Tolle offers practical insights for recognizing and dissolving the patterns of mind that create suffering.
+difficulty: approachable
+teacher: "[[Eckhart Tolle]]"
 draft: false
 ---
 

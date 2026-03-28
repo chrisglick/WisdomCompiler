@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_1183.PNG
+image_name: IMG_1183.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - nature-creation
   - self-knowledge
   - surrender
+title: "The attempts of so-called social reformers are futile"
 ---
 
 try to obliterate them. The attempts of so-called social reformers, to do away with such classes or divisions as varnasrama has created, have not succeeded, but have only created new divisions and added a few more castes or classes to the already existing ones, such as the Brahmo-Samajists and the Arya-Samajists. The only solution is for each man to realise his true nature.

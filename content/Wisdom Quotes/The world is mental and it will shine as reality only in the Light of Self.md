@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1472.PNG
+image_name: IMG_1472.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - meditation
   - nature-creation
   - service
+title: "The world is mental and it will shine as reality only in..."
 ---
 
 Talk 530. The following is taken from the diary of Annamalai Swami, a good devotee of Sri Bhagavan and resident of Sri Ramanasramam:

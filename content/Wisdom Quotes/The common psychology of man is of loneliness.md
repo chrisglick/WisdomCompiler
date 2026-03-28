@@ -1,8 +1,8 @@
 ---
 Edited: true
-source: ""
+source: "[[Osho]]"
 Page: "0"
-image_name: IMG_1308.JPEG
+image_name: IMG_1308.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - death-impermanence
   - knowledge-wisdom
   - nature-creation
+title: "The common psychology of man is of loneliness"
 ---
 
 The common psychology of man is of loneliness. He does everything to avoid it. But whatever you do, it is always there, just like your shadow. You may not look at it, but you know it is there. And once in a while you cannot resist the temptation either: you will look and you will find it always there. You cannot escape from your shadow. In the same way you cannot escape from your loneliness just by creating friendships, relationships, marriages, organizations — religious, political, social. They give you a little relief, but they don’t transform anything.

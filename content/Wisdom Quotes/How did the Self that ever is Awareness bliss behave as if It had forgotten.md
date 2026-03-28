@@ -2,9 +2,9 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1186.PNG
+image_name: IMG_1186.webp
 Source Type: []
-draft: false
+draft: true
 ShowImage: false
 tags:
   - guru-teacher

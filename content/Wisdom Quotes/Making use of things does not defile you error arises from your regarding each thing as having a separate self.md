@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
-image_name: IMG_1457.JPEG
+image_name: IMG_1457.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - nature-creation
   - scripture
+title: "Making use of things does not defile you error arises..."
 ---
 
 THE ZEN TEACHING OF HUANG PO

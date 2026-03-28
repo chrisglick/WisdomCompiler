@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Kaivalya Navaneetam]]"
 Page: "0"
-image_name: IMG_1290.PNG
+image_name: IMG_1290.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - meditation
   - mind
   - nature-creation
+title: "To the degree that you turn away from attachments to the..."
 ---
 
 Master: Though the reflection in a pool of water appears head downwards and tremulous, yet when the figure on the ground is considered, which remains upright and steady, that worthless image is then seen as unreal.

@@ -2,10 +2,10 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "0"
-image_name: IMG_1715.PNG
+image_name: IMG_1715.webp
 Source Type: []
 tags: []
-draft: false
+draft: true
 ShowImage: false
 ---
 

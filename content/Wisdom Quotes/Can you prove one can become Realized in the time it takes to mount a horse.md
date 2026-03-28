@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_1525.JPEG
+image_name: IMG_1525.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - love-devotion
   - mind
   - service
+title: "Can you prove one can become Realized in the time it..."
 ---
 
 Letters from Sri Ramanasramam 406

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Consciousness and the Absolute]]"
 Page: "106"
-image_name: IMG_1333.PNG
+image_name: IMG_1333.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -14,6 +14,7 @@ tags:
   - knowledge-wisdom
   - mind
   - nature-creation
+title: "You are just like space because space is the beginning..."
 ---
 
 106 / Consciousness and the Absolute

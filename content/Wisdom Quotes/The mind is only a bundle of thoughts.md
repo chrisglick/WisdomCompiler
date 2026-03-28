@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1443.JPEG
+image_name: IMG_1443.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - divine
   - nature-creation
+title: "The mind is only a bundle of thoughts"
 ---
 
 VI. 21st SEPTEMBER 46

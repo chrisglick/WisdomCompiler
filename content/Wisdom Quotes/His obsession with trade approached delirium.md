@@ -2,7 +2,7 @@
 Edited: true
 source: "[[A Very Special Patron - Saint Anthony Mary Claret]]"
 Page: "0"
-image_name: IMG_0007.PNG
+image_name: IMG_0007.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - guru-teacher
   - love-devotion
   - mind
+title: "His obsession with trade approached delirium"
 ---
 
 10:10 PM Sun Jun 5 SF o@ & 90% &% want to study advanced techniques in the great trade center of Barcelona. The discovery of his rare

@@ -2,11 +2,12 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1455.JPEG
+image_name: IMG_1455.webp
 Source Type: []
 tags: []
 draft: false
 ShowImage: false
+title: "The idea of one Self being aware of another Self is absurd"
 ---
 
 Talks with Sri Ramana Maharshi

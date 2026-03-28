@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "0"
-image_name: IMG_1494.PNG
+image_name: IMG_1494.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -16,6 +16,7 @@ tags:
   - scripture
   - self-knowledge
   - silence
+title: "The sage does not teach by words but by his living presence"
 ---
 
 Ramana Periya Puranam

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1190.PNG
+image_name: IMG_1190.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - knowledge-wisdom
   - meditation
   - self-knowledge
+title: "The state of Self-realisation must be beyond triputis"
 ---
 
 Bhagavan further added, “Whatever may be said to suit the different capacities of different men, the truth is, the state of Self-realisation must be beyond ¢triputis. The Self is not something of which jnana or ajnana can be predicated. It is beyond ajnana and jnana. The Self is the Self; that is all that can be said of it.”

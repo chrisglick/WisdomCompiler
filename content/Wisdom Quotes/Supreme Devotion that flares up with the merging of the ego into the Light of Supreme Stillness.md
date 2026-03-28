@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Guru Vachaka Kovai]]"
 Page: "79"
-image_name: IMG_1772.JPEG
+image_name: IMG_1772.webp
 Source Type: []
 ShowImage: false
 tags:

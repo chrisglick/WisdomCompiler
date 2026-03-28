@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Consciousness and the Absolute]]"
 Page: "0"
-image_name: IMG_1332.JPEG
+image_name: IMG_1332.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - death-impermanence
   - mind
   - nature-creation
+title: "Both experience and experiencer will disappear"
 ---
 
 Maharaj: Both experience and experiencer will disappear. I will not elaborate further. Changes get expressed in the consciousness and so consciousness becomes subtler and subtler. Forms get dissolved. The first step on the road to spirituality is to develop that conviction that I am not the male or the female.

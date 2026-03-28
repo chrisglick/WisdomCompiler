@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Incredible Sai Baba]]"
 Page: "98"
-image_name: IMG_1313.JPEG
+image_name: IMG_1313.webp
 Source Type: []
 ShowImage: false
 tags:

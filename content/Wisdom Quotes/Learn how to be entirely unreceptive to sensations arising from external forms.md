@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
-image_name: IMG_1339.PNG
+image_name: IMG_1339.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - mind
   - nature-creation
   - scripture
+title: "Learn how to be entirely unreceptive to sensations..."
 ---
 
 THE ZEN TEACHING OF HUANG PO
@@ -25,9 +26,6 @@ progress is a matter of stages. If you are that kind of person, you are as far f
 A: This is due to a misunderstanding arising from your own delusions. You cannot argue that the Universal Nature does in fact contain real objects on the grounds that ‘no real objects to be perceived’ would only be true if there were nothing of the kind we caxt perceptible. The nature of the Absolute is neither perceptible nor imperceptible; and with phenomena it is just the same. But to one who has discovered his real nature, how can there be anywhere or anything separate from it? Thus, the six forms. of life arising from the four kinds of birth, together with the great world-systems of the universe with their rivers and moun- tains, are ALL of one pure substance with our own nature. Therefore is it said: ‘The perception of a phenomenon Is the perception of the Universal Nature, since phenomena and Mind are one and the same.’ It is only because you cling to outward forms that you come to ‘see’, ‘hear’, ‘feel’ and ‘know’ things as individual entities. True perception is beyond your powers so long as you indulge in these.*
 
 1In this passage it is argued that, though individual entities Do exist in a certain superficial sense, they never lose their fundamental oneness.
-
-118
-
 THE WAN LING RECORD
 
 By such means you will fall among the followers of the usual Mahayana and Theravadin doctrines who rely upon deep PERCEPTION to arrive at a true understanding. There- fore they see what is near and fail to see what is far away, but no one on the right path thinks thus. I assure you there is no ‘inner’ or ‘outer’, or ‘near’ or ‘far’. The fundamental nature of all phenomena is close beside you, but you do not sEE even that; yet you still go on talking of your in- ability to see what is far away. What meaning can this sort of talk possibly have?

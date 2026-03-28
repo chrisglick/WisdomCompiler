@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_1521.JPEG
+image_name: IMG_1521.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - knowledge-wisdom
   - scripture
   - self-knowledge
+title: "Bhagavan said his state of being was beyond subject and..."
 ---
 
 Letters from Sri Ramanasramam 402

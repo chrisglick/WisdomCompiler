@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Silence of the Heart]]"
 Page: "0"
-image_name: IMG_1036.PNG
+image_name: IMG_1036.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -17,6 +17,7 @@ tags:
   - self-knowledge
   - service
   - silence
+title: "If you know yourself it will take care of the person"
 ---
 
 yourself. If you know yourself, it will take care of the person. For your Self is that person. The greater you know yourself, the greater help the person will receive. For it is only One, and you are That. But when you separate yourself by saying this person is doing this and I’m trying to stop this person, there is duality. And things will get progressively worse. But if you know who you are, then what will happen to this person is what is supposed to happen. I know that’s hard. Sometimes you want to grab the person and shake them, and you want to interfere and do something for them. Yet if we could only remember that everything is in its right place and see who we are, that would take care of everything.

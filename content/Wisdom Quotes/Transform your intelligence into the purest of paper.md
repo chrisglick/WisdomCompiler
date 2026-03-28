@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Guru Granth Sahib]]"
 Page: "0"
-image_name: IMG_1316.JPEG
+image_name: IMG_1316.webp
 Source Type: 
 ShowImage: false
 tags:

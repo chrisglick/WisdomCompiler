@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Path of Self Knowledge]]"
 Page: "0"
-image_name: IMG_5317.PNG
+image_name: IMG_5317.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - mind
   - nature-creation
   - scripture
+title: "Moral nobility and not social respectability"
 ---
 
 moral nobility and not social respectability. We are called to a higher loyalty, to a more excellent way.

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[In Search of the Miraculous]]"
 Page: "0"
-image_name: IMG_1506.PNG
+image_name: IMG_1506.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - love-devotion
   - nature-creation
   - service
+title: "If knowledge is given to all nobody will gain anything"
 ---
 
 ciple. If knowledge is given to all, nobody will get any. If it is preserved among a few, each will receive not only enough to keep, but to increase, what he receives.

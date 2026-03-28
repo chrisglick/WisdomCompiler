@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1390.JPEG
+image_name: IMG_1390.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - guru-teacher
   - mind
   - self-knowledge
+title: "How to know the Real I as distinct from the false I"
 ---
 
 Mr. Ramamurthi: How to know the ‘Real I’ as distinct from the ‘false I’.

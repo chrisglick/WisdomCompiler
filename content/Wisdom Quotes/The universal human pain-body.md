@@ -2,7 +2,7 @@
 Edited: true
 source: "[[A New Earth]]"
 Page: "0"
-image_name: IMG_0974.PNG
+image_name: IMG_0974.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - ego
   - mind
   - silence
+title: "The universal human pain-body"
 ---
 
 twitching. The waiter came to take his plate. The man started arguing with him. “The food was no good. It was dreadful.” “Then why did you eat it?” asked the waiter. And that really set him off. He started shouting, became abusive. Vile words were coming out of his mouth; intense, violent hatred filled the room. One could feel that energy entering the cells of one's body looking for something to latch on to. Now he was shouting at the other guests too, but for some strange reason ignoring me completely as I sat in intense Presence. I suspected that the universal human pain-body had come back to tell me, “You thought you defeated me. Look, I'm still here.” I also considered the possibility that the released energy field left behind after our session followed me to the restaurant and attached itself to the one person in whom it found a compatible vibrational frequency, that is to say, a heavy pain-body.

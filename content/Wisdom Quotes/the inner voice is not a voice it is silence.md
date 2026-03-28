@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Search]]"
 Page: "94"
-image_name: IMG_0700.PNG
+image_name: IMG_0700.webp
 Source Type:
 ShowImage: false
 tags:

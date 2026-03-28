@@ -4,6 +4,11 @@ Author: Ribhu
 title: The Ribhu Gita
 source: url
 tags:
+category: scripture
+tradition: Advaita Vedanta
+description: "A powerful Advaita scripture from the Siva Purana — Ribhu's teaching to Nidagha on the absolute non-dual reality of Brahman."
+difficulty: advanced
+teacher: ""
 draft: false
 ---
 

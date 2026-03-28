@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Kaivalya Navaneetam]]"
 Page: "0"
-image_name: IMG_1599.PNG
+image_name: IMG_1599.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - meditation
   - mind
   - nature-creation
+title: "The Self remains untainted how can there be the..."
 ---
 
 Brahman, and remains untainted, how can there be the

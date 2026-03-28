@@ -2,12 +2,13 @@
 Edited: true
 source: "[[Bible - Book of Luke]]"
 Page: "0"
-image_name: IMG_0107.PNG
+image_name: IMG_0107.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - divine
+title: "The seed is the word of God"
 ---
 
 12:59 PM Sun Jul 10

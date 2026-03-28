@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ashtavakra Gita]]"
 Page: "0"
-image_name: IMG_1502.JPEG
+image_name: IMG_1502.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - nature-creation
   - scripture
+title: "Having recognised oneself as the ocean the sage walks in..."
 ---
 
 18.29

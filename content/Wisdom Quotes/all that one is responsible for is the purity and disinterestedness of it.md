@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Path of Self Knowledge]]"
 Page: "173"
-image_name: IMG_1768.JPEG
+image_name: IMG_1768.webp
 Source Type: []
 ShowImage: false
 tags:

@@ -4,6 +4,11 @@ Author: Ramana Maharshi
 title: Upadesa Saram
 source: https://archive.org/details/Acc.No.6193UpadesaSaram1970
 tags:
+category: scripture
+tradition: Advaita Vedanta
+description: "Ramana Maharshi's thirty verses on the essence of spiritual instruction — a concise map from action to knowledge to silence."
+difficulty: intermediate
+teacher: "[[Ramana Maharshi]]"
 draft: false
 ---
 

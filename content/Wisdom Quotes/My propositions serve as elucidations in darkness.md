@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1498.PNG
+image_name: IMG_1498.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - mind
   - service
+title: "My propositions serve as elucidations in darkness"
 ---
 
 He said, "My propositions serve as elucidations in the following way: anyone who understands me eventually recognizes them as nonsensical.” Let me repeat it: "Anyone who understands me eventually recognizes them as nonsensical.” He has used them as steps to climb up beyond them. He must, so to speak, throw away the ladder after he has climbed up it.”

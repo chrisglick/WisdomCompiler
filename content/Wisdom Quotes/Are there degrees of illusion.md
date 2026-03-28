@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1454.JPEG
+image_name: IMG_1454.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - knowledge-wisdom
   - mind
   - nature-creation
+title: "Are there degrees of illusion"
 ---
 
 D..: Are there degrees of illusion?

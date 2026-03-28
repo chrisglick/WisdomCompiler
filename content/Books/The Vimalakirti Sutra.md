@@ -4,6 +4,11 @@ Author: Traditional
 title: The Vimalakirti Sutra
 source: https://www.bdk.or.jp/document/dgtl-dl/dBET_Srimala_Vimalakirti_2004.pdf
 tags:
+category: scripture
+tradition: Buddhist
+description: "A beloved Mahayana sutra where the layman Vimalakirti outshines the Buddha's disciples — demonstrating that awakening transcends monasticism."
+difficulty: intermediate
+teacher: ""
 draft: false
 ---
 

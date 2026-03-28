@@ -4,6 +4,11 @@ Author: Hazrat Mirza Ghulam Ahmad
 title: Haqiqatul-Wahi - The Philosophy of Divine Revelation
 source: https://www.alislam.org/book/haqiqatul-wahi/
 tags:
+category: teaching
+tradition: Islamic
+description: "The Promised Messiah's comprehensive work on divine revelation, spiritual experience, and the living relationship between God and humanity."
+difficulty: advanced
+teacher: "[[Hazrat Mirza Ghulam Ahmad]]"
 draft: false
 ---
 

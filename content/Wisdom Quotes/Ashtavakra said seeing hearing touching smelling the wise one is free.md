@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ashtavakra Gita]]"
 Page: "0"
-image_name: IMG_1719.JPEG
+image_name: IMG_1719.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - guru-teacher
   - nature-creation
   - surrender
+title: "Ashtavakra said seeing hearing touching smelling the..."
 ---
 
 Ashtavakra said:

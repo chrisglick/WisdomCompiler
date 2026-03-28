@@ -2,12 +2,13 @@
 Edited: true
 source: "[[Vidyeshvara Samhita]]"
 Page: "0"
-image_name: IMG_0123.JPEG
+image_name: IMG_0123.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - service
+title: "Vidyeshvara Samhita on the four castes"
 ---
 
 Vidyefvarasamhita 79

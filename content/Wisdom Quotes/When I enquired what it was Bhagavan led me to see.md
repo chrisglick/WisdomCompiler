@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_1743.PNG
+image_name: IMG_1743.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - divine
   - guru-teacher
   - knowledge-wisdom
+title: "When I enquired what it was Bhagavan led me to see"
 ---
 
 Bhagavan. When I enquired what it was, Bhagavan leisurely related to us the story as follows: “Both Tatvarayar and Swarupanandar decided to go

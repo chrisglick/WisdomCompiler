@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1407.JPEG
+image_name: IMG_1407.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -14,6 +14,7 @@ tags:
   - love-devotion
   - mind
   - nature-creation
+title: "Self alone is the reality all else is appearance"
 ---
 
 VASISTHA continued:

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1695.JPEG
+image_name: IMG_1695.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - nature-creation
   - service
+title: "Thus spake Vasistha on the nature of liberation"
 ---
 
 THUS SPAKE VASISTHA

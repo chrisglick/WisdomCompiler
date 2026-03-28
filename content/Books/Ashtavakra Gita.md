@@ -4,6 +4,11 @@ Author: Ashtavaktra
 title: Ashtavakra Gita
 source: url
 tags:
+category: scripture
+tradition: Advaita Vedanta
+description: A radical non-dual dialogue between the sage Ashtavakra and King Janaka, pointing directly at the nature of the Self with uncompromising clarity. One of the most distilled expressions of pure Advaita.
+difficulty: advanced
+teacher: "[[Ashtavakra]]"
 draft: false
 ---
 

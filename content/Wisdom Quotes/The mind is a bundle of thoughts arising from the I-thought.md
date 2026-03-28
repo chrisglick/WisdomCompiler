@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "99"
-image_name: IMG_1393.PNG
+image_name: IMG_1393.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - knowledge-wisdom
   - mind
   - nature-creation
+title: "The mind is a bundle of thoughts arising from the I-thought"
 ---
 
 Talks with Sri Ramana Maharshi E

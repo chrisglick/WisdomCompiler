@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1687.PNG
+image_name: IMG_1687.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - mind
   - nature-creation
   - surrender
+title: "Sikhidhvaja renounces his kingdom for truth"
 ---
 
 SIKHIDHVAJA said

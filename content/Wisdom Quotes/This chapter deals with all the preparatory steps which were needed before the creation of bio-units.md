@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Revelation, Rationality, Knowledge & Truth]]"
 Page: "369"
-image_name: IMG_0097.PNG
+image_name: IMG_0097.webp
 Source Type: 
 ShowImage: false
 tags:

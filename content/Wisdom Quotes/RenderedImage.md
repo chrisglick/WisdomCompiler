@@ -2,7 +2,7 @@
 Edited: false
 source: ""
 Page: "0"
-image_name: RenderedImage.jpg
+image_name: RenderedImage.webp
 Source Type: []
 draft: true
 ShowImage: false

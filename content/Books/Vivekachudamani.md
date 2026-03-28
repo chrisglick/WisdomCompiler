@@ -4,6 +4,11 @@ Author: Adi Shankaracharya
 title: Vivekachudamani
 source: https://www.advaitin.net/PranipataChaitanya/Vivekachudamani%20eBook%20FinalFinall%20.pdf
 tags:
+category: scripture
+tradition: Advaita Vedanta
+description: "Shankaracharya's 'Crest-Jewel of Discrimination' — the classic Advaita text on discerning the real from the unreal to attain liberation."
+difficulty: advanced
+teacher: ""
 draft: false
 ---
 

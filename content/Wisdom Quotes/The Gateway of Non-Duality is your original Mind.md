@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
-image_name: IMG_1340.PNG
+image_name: IMG_1340.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -15,6 +15,7 @@ tags:
   - self-knowledge
   - service
   - silence
+title: "The Gateway of Non-Duality is your original Mind"
 ---
 
 THE ZEN TEACHING OF HUANG PO
@@ -32,9 +33,6 @@ In this connection, we are told that Sudhana, after vainly seeking Bodhi in a hu
 3 Free will is not denied here, for its proper employment can snap the causal chain—a principle accepted by Buddhists of all sects.
 
 4 The six sense organs, including the brain, together with their six objects and six types of sensation.
-
-120
-
 THE WAN LING RECORD
 
 knowledge that would dawn within your minds! A mind like that could be called the Terrace of the Spirit. But while you remain lost in attachments, you condemn your bodies to be corpses or, as it is sometimes expressed, to be lifeless corpses inhabited by demons!

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "0"
-image_name: IMG_1052.PNG
+image_name: IMG_1052.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - death-impermanence
   - guru-teacher
   - nature-creation
+title: "Spiritual perfection changes even the body"
 ---
 
 Ramana Periya Puranam

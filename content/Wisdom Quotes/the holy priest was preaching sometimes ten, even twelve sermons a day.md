@@ -2,7 +2,7 @@
 Edited: true
 source: "[[A Very Special Patron - Saint Anthony Mary Claret]]"
 Page: "0"
-image_name: IMG_0010.JPEG
+image_name: IMG_0010.webp
 Source Type:
 ShowImage: false
 tags:

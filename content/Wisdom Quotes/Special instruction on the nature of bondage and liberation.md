@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Kaivalya Navaneetam]]"
 Page: "0"
-image_name: IMG_1766.PNG
+image_name: IMG_1766.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - scripture
   - service
+title: "Special instruction on the nature of bondage and liberation"
 ---
 
 16: Special Instruction

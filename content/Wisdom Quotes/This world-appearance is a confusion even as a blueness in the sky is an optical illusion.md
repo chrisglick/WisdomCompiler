@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1460.PNG
+image_name: IMG_1460.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - nature-creation
   - self-knowledge
   - surrender
+title: "This world-appearance is a confusion even as a blueness..."
 ---
 
 VASISTHA continued:

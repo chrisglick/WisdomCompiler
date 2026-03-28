@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Mob Psycho 100]]"
 Page: "0"
-image_name: IMG_1192.PNG
+image_name: IMG_1192.webp
 Source Type:
   - Meme
 ShowImage: true

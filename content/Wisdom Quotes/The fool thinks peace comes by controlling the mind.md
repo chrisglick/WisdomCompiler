@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ashtavakra Gita]]"
 Page: "0"
-image_name: IMG_0110.PNG
+image_name: IMG_0110.webp
 Source Type:
 ShowImage: false
 tags:

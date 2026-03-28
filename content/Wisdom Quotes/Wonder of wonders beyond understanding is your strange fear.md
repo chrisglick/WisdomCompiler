@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1187.PNG
+image_name: IMG_1187.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - knowledge-wisdom
   - mind
   - silence
+title: "Wonder of wonders beyond understanding is your strange fear"
 ---
 
 Wonder of wonders, beyond understanding

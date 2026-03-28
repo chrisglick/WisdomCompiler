@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Bible - Book of Luke]]"
 Page: "0"
-image_name: IMG_0106.JPEG
+image_name: IMG_0106.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - divine
   - guru-teacher
   - service
+title: "I have not found such great faith even in Israel"
 ---
 
 listening, he entered Capernaum.

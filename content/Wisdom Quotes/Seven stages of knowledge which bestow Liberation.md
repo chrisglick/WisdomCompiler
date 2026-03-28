@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Kaivalya Navaneetam]]"
 Page: "70"
-image_name: IMG_1307.PNG
+image_name: IMG_1307.webp
 Source Type: []
 ShowImage: false
 tags:

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Haqiqatul-Wahi - The Philosophy of Divine Revelation]]"
 Page: 84
-image_name: IMG_0116.JPEG
+image_name: IMG_0116.webp
 Source Type:
 ShowImage: false
 tags:

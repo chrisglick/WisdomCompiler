@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1684.JPEG
+image_name: IMG_1684.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - ego
   - liberation
   - mind
+title: "After renouncing everything you have come to this forest"
 ---
 
 After renouncing everything, you have come to this hermitage. However, one thing still remains to be renounced — your ego-sense. If the heart abandons the mind (the movement of thought) there is realisation of the absolute; but you are overcome by the thought of the renunciation which your renunciation has created in you. Hence, this is not the bliss that arises from total renunciation. One who has abandoned everything is not agitated by worry: if wind can sway the branches of a tree, it cannot be called immovable.

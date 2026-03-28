@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Consciousness and the Absolute]]"
 Page: "0"
-image_name: IMG_1096.PNG
+image_name: IMG_1096.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - ego
   - nature-creation
+title: "Your hunger and thirst for bliss is absolutely fulfilled"
 ---
 
 December 31, 1980

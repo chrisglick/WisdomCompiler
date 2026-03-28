@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1480.JPEG
+image_name: IMG_1480.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - meditation
   - nature-creation
   - scripture
+title: "The sense of body is a thought the thought is of the mind"
 ---
 
 Talks with Sri Ramana Maharshi

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The New Dawn]]"
 Page: "0"
-image_name: IMG_1154.PNG
+image_name: IMG_1154.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - guru-teacher
   - knowledge-wisdom
   - love-devotion
+title: "Knowledge remains the ultimate sin the tree of knowledge..."
 ---
 
 knowledge. You will see, but you will not be able to describe it. The mystery will not be demystified by your knowing it — it will be deepened, it will be thickened. Life will become more joyous.

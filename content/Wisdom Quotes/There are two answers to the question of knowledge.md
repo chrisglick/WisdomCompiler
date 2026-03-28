@@ -2,7 +2,7 @@
 Edited: true
 source: "[[In Search of the Miraculous]]"
 Page: "0"
-image_name: IMG_1505.PNG
+image_name: IMG_1505.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - knowledge-wisdom
   - meditation
   - nature-creation
+title: "There are two answers to the question of knowledge"
 ---
 
 "There are two answers to that," said G. "In the first place, this knowledge is not concealed; and in the second place, it cannot, from its very nature, become common property. We will consider the second of these statements first. I will prove to you afterwards that knowledge" (he emphasized the word) "is far more accessible to those capable of assimilating it than is usually supposed; and that the whole trouble is that people either do not want it or cannot receive it.

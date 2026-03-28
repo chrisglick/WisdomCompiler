@@ -1,8 +1,8 @@
 ---
 Edited: true
-source: ""
+source: "[[Osho]]"
 Page: "0"
-image_name: IMG_1310.JPEG
+image_name: IMG_1310.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - liberation
   - mind
   - nature-creation
+title: "The best way is to be totally a watcher"
 ---
 
 The best way is to be totally a watcher, but if you find it difficult there is an alternative. But that is harder than this, it is more difficult than this one — to get identified with every cloud that moves. If there is misery, then become absolutely miserable, then don’t hold anything back, just go with it to the very end. If you are angry, then be angry and do whatever stupidity it suggests to you to do. If some crazy cloud passes by, be crazy. But then don’t miss anything. Whatever comes to you, be totally with it in that moment, and when it is gone it is gone.

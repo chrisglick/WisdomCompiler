@@ -4,6 +4,11 @@ Author: Traditional
 title: Siva Purana
 source: url
 tags:
+category: scripture
+tradition: Hindu
+description: "Ancient Hindu scripture devoted to Lord Shiva — cosmology, devotion, and the nature of the divine destroyer and liberator."
+difficulty: advanced
+teacher:
 draft: false
 ---
 

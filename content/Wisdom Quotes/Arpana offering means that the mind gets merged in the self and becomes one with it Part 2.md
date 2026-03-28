@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "114"
-image_name: IMG_0239.PNG
+image_name: IMG_0239.webp
 Source Type: 
 ShowImage: false
 tags:

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The New Dawn]]"
 Page: "0"
-image_name: IMG_1150.PNG
+image_name: IMG_1150.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - divine
   - nature-creation
   - silence
+title: "Only gratitude transforms and they are diametrically..."
 ---
 
 is a cause for a complaint.

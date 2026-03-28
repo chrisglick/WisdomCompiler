@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Dune]]"
 Page: "0"
-image_name: IMG_1475.JPEG
+image_name: IMG_1475.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - divine
   - mind
+title: "Does your mother ever talk about morality and ethics"
 ---
 
 “Tell me, Paul,” 2 Halleck said. “Does your mother know?”

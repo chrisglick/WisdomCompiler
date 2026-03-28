@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_1526.JPEG
+image_name: IMG_1526.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -15,6 +15,7 @@ tags:
   - mind
   - nature-creation
   - self-knowledge
+title: "The Muni asked is it also stated that a Guru is necessary"
 ---
 
 Letters from Sri Ramanasramam 407

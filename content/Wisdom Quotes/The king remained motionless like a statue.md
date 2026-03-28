@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_1523.JPEG
+image_name: IMG_1523.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - knowledge-wisdom
   - self-knowledge
+title: "The king remained motionless like a statue"
 ---
 
 Letters from Sri Ramanasramam 404

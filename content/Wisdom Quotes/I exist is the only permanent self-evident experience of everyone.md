@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1191.PNG
+image_name: IMG_1191.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - guru-teacher
   - meditation
   - mind
+title: "I exist is the only permanent self-evident experience of..."
 ---
 
 The Swami then asked, ““What is the best means for Self- realisation?”

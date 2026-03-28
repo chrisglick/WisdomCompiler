@@ -4,6 +4,11 @@ Author: Frank Herbert
 title: Dune
 source: url
 tags:
+category: fiction
+tradition: Fiction
+description: Epic science fiction exploring consciousness, religion, ecology, and the nature of power. Herbert weaves together themes of prescience, messianic danger, and humanity's relationship with its environment.
+difficulty: intermediate
+teacher: ""
 draft: false
 ---
 

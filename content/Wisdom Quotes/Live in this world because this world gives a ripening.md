@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Perfect Master, Vol 1]]"
 Page: "0"
-image_name: IMG_1710.JPEG
+image_name: IMG_1710.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - ego
   - guru-teacher
   - nature-creation
+title: "Live in this world because this world gives a ripening"
 ---
 
 Live in this world because this world gives a ripening, maturity, integrity. The challenges of this world give you a centering, an awareness. And that awareness becomes the ladder. Then you can move from Zorba to Buddha.

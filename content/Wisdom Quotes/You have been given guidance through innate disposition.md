@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Early Islamic Mysticism]]"
 Page: "0"
-image_name: IMG_0164.JPEG
+image_name: IMG_0164.webp
 Source Type: []
 ShowImage: false
 tags:

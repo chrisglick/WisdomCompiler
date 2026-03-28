@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Early Islamic Mysticism]]"
 Page: "0"
-image_name: IMG_0163.JPEG
+image_name: IMG_0163.webp
 Source Type: 
 draft: false
 ShowImage: false
 tags:
   - divine
   - silence
+title: "I chose the milk and was told you have chosen well"
 ---
 
 Then we sped off until we reached the seventh heaven and I was brought before Abraham. (The Prophet, peace and blessings on him, related in the

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1405.JPEG
+image_name: IMG_1405.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - guru-teacher
   - liberation
   - silence
+title: "Keep the mind steady by gently turning it inward"
 ---
 
 Talks with Sri Ramana Maharshi

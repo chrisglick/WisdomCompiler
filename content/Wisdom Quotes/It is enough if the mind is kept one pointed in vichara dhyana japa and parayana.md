@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "127"
-image_name: IMG_0243.PNG
+image_name: IMG_0243.webp
 Source Type: 
 ShowImage: false
 tags:

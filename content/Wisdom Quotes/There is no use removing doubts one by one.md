@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1414.JPEG
+image_name: IMG_1414.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - knowledge-wisdom
   - nature-creation
   - scripture
+title: "There is no use removing doubts one by one"
 ---
 
 Talks with Sri Ramana Maharshi

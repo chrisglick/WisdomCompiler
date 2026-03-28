@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1478.JPEG
+image_name: IMG_1478.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - knowledge-wisdom
   - mind
   - silence
+title: "The Self is not born and does not die"
 ---
 
 Talks with Sri Ramana Maharshi

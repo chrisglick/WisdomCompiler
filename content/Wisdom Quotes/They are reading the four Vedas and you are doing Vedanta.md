@@ -2,9 +2,9 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_1533.JPEG
+image_name: IMG_1533.webp
 Source Type: []
-draft: false
+draft: true
 ShowImage: false
 tags:
   - divine

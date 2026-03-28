@@ -2,9 +2,9 @@
 Edited: true
 source: "[[Vivekachudamani]]"
 Page: "0"
-image_name: IMG_1741.PNG
+image_name: IMG_1741.webp
 Source Type: []
-draft: false
+draft: true
 ShowImage: false
 tags:
   - ego

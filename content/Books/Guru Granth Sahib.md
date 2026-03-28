@@ -4,6 +4,11 @@ Author: Guru Arjan Dev
 title: Guru Granth Sahib
 source: url
 tags:
+category: scripture
+tradition: Sikh
+description: "The living guru of the Sikhs — a vast collection of devotional poetry from saints across traditions, pointing to the one formless divine."
+difficulty: intermediate
+teacher: ""
 draft: false
 ---
 

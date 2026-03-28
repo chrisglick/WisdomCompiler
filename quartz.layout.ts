@@ -21,6 +21,14 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug === "index",
     }),
     Component.ConditionalRender({
+      component: Component.HomepageExplore(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.WisdomQuiz(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
@@ -28,6 +36,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.ArticleImage(),
+    Component.ConditionalRender({
+      component: Component.BookMeta(),
+      condition: (page) => {
+        const slug = page.fileData.slug ?? ""
+        return slug.startsWith("Books/") && slug !== "Books/index" && !slug.startsWith("Books/_")
+      },
+    }),
     Component.TagList(),
   ],
   left: [

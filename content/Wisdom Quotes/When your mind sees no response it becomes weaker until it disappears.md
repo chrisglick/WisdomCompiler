@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Silence of the Heart]]"
 Page: "0"
-image_name: IMG_1169.PNG
+image_name: IMG_1169.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - knowledge-wisdom
   - mind
+title: "When your mind sees no response it becomes weaker until..."
 ---
 
 So you've got to investigate your mind, and watch it all the time. See what it’s doing to you. Watch howit controls you. It makes you emotional, it makes you believe something is wrong. It makes you angry. All these things come from the mind. The idea is to be aware of this. The awareness alone leads you to the light; just being aware of that, alone. You don’t have to know any book knowledge. Just be aware of what your mind really is.

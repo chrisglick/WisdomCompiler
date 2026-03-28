@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1481.PNG
+image_name: IMG_1481.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - mind
   - nature-creation
   - service
+title: "It was pointed out that Sri Bhagavan often said the..."
 ---
 
 Talks with Sri Ramana Maharshi

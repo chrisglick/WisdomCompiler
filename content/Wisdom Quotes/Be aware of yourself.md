@@ -2,7 +2,7 @@
 Edited: false
 source: ""
 Page: "0"
-image_name: IMG_1220.JPEG
+image_name: IMG_1220.webp
 Source Type: []
 tags: []
 draft: true

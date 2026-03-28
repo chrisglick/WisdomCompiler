@@ -2,7 +2,7 @@
 Edited: false
 source: "[[Day by Day with Bhagavan]]"
 Page: "12"
-image_name: IMG_0801.PNG
+image_name: IMG_0801.webp
 Source Type: 
 model: local@llama3:8b
 draft: true

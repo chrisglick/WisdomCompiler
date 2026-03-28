@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_1561.JPEG
+image_name: IMG_1561.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - guru-teacher
   - love-devotion
   - service
+title: "Do not be so sorrow stricken the master takes care"
 ---
 
 be so sorrow stricken; perhaps even angry with me for causing the destruction of her expected little one! Can the cracked eggshell be pieced together again? Let us try!” He then put a wet cloth around the egg and said, “I hope Arunachala will save me from this sin.” He put it back and every few hours he would come and change the wet cloth. After seven days, he saw that the crack had healed and said, “Look! What a wonder! The crack has closed, and so the mother will be happy and will hatch her egg. Arunachala has freed me from the sin of causing the loss of a life!” One fine morning, the egg hatched and the little young one came out. With a gleeful face, Bhagavan took the chick in his hand, caressed it with his lips, stroked it with his soft hands and passed it on for all to admire.

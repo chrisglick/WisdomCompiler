@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Silence of the Heart]]"
 Page: "0"
-image_name: IMG_1170.PNG
+image_name: IMG_1170.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - nature-creation
   - scripture
   - service
+title: "If you become the truth the problem will take care of itself"
 ---
 
 On the contrary. You're separating both. You’re putting them into categories. There’s only One. As an example, say somebody cheated you, and you sue them in court. When you sue somebody and you’re getting involved in something like that, you’re sending up an energy. Even if you win the case, you're going to have to sue somebody else and then sue somebody else, and it never stops. You’ve set up a pattern for yourself. But if you go about it the other way, and if you know the truth about yourself, you also know the truth about the guy who cheated because you both are One.

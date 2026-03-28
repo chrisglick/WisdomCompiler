@@ -2,12 +2,13 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1672.JPEG
+image_name: IMG_1672.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - mind
+title: "The world is a projection of the mind"
 ---
 
 184 Tripura Rahasya

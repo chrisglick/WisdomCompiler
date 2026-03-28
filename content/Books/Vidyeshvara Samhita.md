@@ -4,6 +4,11 @@ Author: Vyasa
 title: Vidyeshvara Samhita
 source: https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc225543.html
 tags:
+category: scripture
+tradition: Hindu
+description: "The opening section of the Siva Purana — cosmology, devotion, and the glory of Lord Shiva as the supreme reality."
+difficulty: advanced
+teacher: ""
 draft: false
 ---
 

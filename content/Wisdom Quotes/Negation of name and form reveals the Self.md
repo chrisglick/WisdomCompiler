@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Ribhu Gita]]"
 Page: "0"
-image_name: IMG_1520.JPEG
+image_name: IMG_1520.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - knowledge-wisdom
   - mind
   - nature-creation
+title: "Negation of name and form reveals the Self"
 ---
 
 TOPIC OF THE NEGATION OF NAME AND FORM 19.44

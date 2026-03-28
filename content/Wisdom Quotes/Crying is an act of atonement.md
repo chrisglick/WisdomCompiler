@@ -2,10 +2,10 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1459.PNG
+image_name: IMG_1459.webp
 Source Type: []
 tags: []
-draft: false
+draft: true
 ShowImage: false
 ---
 

@@ -27,6 +27,12 @@ import RandomQuote from "./RandomQuote"
 import DailyWisdom from "./DailyWisdom"
 import SourceBanner from "./SourceBanner"
 import ArticleImage from "./ArticleImage"
+import BookGrid from "./BookGrid"
+import TeacherGrid from "./TeacherGrid"
+import BookMeta from "./BookMeta"
+import HomepageExplore from "./HomepageExplore"
+import SmartFolderContent from "./pages/SmartFolderContent"
+import WisdomQuiz from "./WisdomQuiz"
 
 export {
   ArticleTitle,
@@ -34,6 +40,12 @@ export {
   Content,
   TagContent,
   FolderContent,
+  SmartFolderContent,
+  BookGrid,
+  TeacherGrid,
+  BookMeta,
+  HomepageExplore,
+  WisdomQuiz,
   Darkmode,
   ReaderMode,
   Head,

@@ -2,13 +2,14 @@
 Edited: true
 source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
-image_name: IMG_1279.PNG
+image_name: IMG_1279.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - mind
   - service
+title: "Do not permit the events of your daily lives to bind you"
 ---
 
 THE WAN LING RECORD

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "0"
-image_name: IMG_0158.PNG
+image_name: IMG_0158.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -16,6 +16,7 @@ tags:
   - mind
   - nature-creation
   - scripture
+title: "The only freedom man has is to strive for and acquire jnana"
 ---
 
 The other precious teaching that Mudaliar has given us is the answer to the age old confusion of every spiritual seeker about destiny and free will. Buddhism, Jainism, Hinduism and other eastern religions generally believe in destiny. You are now a woman because you were destined to be a woman, not because you have chosen it. That is destiny. Whether you are wealthy or poor is destiny. But if everything is destined, then why should we do any spiritual sadhana at all? This was a dialogue between Mudaliar and Bhagavan one day: “I can understand, Bhagavan, that the external factors in a man’s life such as his nationality, family, profession, marriage, death etc., are all predestined according to his karma. But, can it be that his entire life down to the minutest detail is already predetermined? Now, for instance, Bhagavan, I have put this fan in my hand down on the floor. Is this also already predestined?” Bhagavan replied very firmly, “Certainly. Whatever this body is to do and whatever experiences it has to pass through is already determined when it comes into existence.”

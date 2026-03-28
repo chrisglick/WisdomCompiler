@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Ribhu Gita]]"
 Page: "0"
-image_name: IMG_1503.JPEG
+image_name: IMG_1503.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - love-devotion
   - nature-creation
   - service
+title: "All the pentads to be contemplated"
 ---
 
 DESCRIPTION OF THE TOPIC OF ALL THE PENTADS TO BE DISCARDED 18.44

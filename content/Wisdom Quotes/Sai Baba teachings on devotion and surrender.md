@@ -2,9 +2,9 @@
 Edited: true
 source: "[[The Incredible Sai Baba]]"
 Page: "0"
-image_name: IMG_1650.PNG
+image_name: IMG_1650.webp
 Source Type: []
-draft: false
+draft: true
 ShowImage: false
 tags:
   - divine

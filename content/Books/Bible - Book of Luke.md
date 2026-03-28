@@ -4,6 +4,11 @@ Author: Luke the Evangelist
 title: Bible - Book of Luke
 source: https://www.biblegateway.com/passage/?search=Luke%207&version=NIV
 tags:
+category: scripture
+tradition: Christian
+description: The life and teachings of Jesus as recorded by Luke, emphasizing compassion for the outcast, the power of parables, and the radical nature of divine love.
+difficulty: approachable
+teacher: ""
 draft: false
 ---
 

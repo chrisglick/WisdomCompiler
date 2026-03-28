@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1406.PNG
+image_name: IMG_1406.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - meditation
   - mind
   - silence
+title: "The whole world is but a long dream"
 ---
 
 BHUSUNVA continued:

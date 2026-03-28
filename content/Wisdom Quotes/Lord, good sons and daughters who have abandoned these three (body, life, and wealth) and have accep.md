@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Sutra of Queen Srimala]]"
 Page: 21
-image_name: IMG_0005.JPEG
+image_name: IMG_0005.webp
 Source Type:
 ShowImage: false
 tags:

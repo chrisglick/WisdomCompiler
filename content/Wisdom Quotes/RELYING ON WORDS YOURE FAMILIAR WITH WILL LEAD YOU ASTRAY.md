@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Vagabond]]"
 Page: "0"
-image_name: IMG_1241.PNG
+image_name: IMG_1241.webp
 Source Type:
 tags:
 ShowImage: true

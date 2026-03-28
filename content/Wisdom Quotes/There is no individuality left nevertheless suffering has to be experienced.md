@@ -2,12 +2,13 @@
 Edited: true
 source: "[[Consciousness and the Absolute]]"
 Page: "0"
-image_name: IMG_1167.PNG
+image_name: IMG_1167.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - ego
+title: "There is no individuality left nevertheless suffering..."
 ---
 
 April 10, 1981

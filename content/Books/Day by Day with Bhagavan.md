@@ -4,6 +4,11 @@ Author: A. Devaraja Mudaliar
 title: Day by Day with Bhagavan
 source: https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/BooksSudarshanChariSwamy/day%20by%20day.pdf
 tags:
+category: teaching
+tradition: Advaita Vedanta
+description: Daily records of conversations with Ramana Maharshi by Devaraja Mudaliar, capturing the Maharshi's responses to seekers on topics from self-enquiry to surrender to the nature of the guru.
+difficulty: intermediate
+teacher: "[[Ramana Maharshi]]"
 draft: false
 ---
 

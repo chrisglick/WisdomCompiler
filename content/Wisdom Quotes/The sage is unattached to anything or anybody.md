@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1372.JPEG
+image_name: IMG_1372.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - liberation
   - nature-creation
   - surrender
+title: "The sage is unattached to anything or anybody"
 ---
 
 The sage who has realised the truth and who is liberated from error here and now beholds this world as he would in deep sleep, without the least craving. He does not apprehend with his inner intelligence even those objects and experiences which seek him unsought, for his own heart is withdrawn into itself. He has no hopes for the future, he does not recall the past nor does he even live in the present; and yet he does all Asleep, he is awake; awake, he sleeps. He does all, yet he does nothing. Inwardly having renounced everything, though outwardly he appears to be busy, he is ever in a state of equilibrium. His actions are entirely non- volitional.

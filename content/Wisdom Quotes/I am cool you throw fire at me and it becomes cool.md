@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Perfect Master, Vol 1]]"
 Page: "0"
-image_name: IMG_1157.PNG
+image_name: IMG_1157.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - ego
   - guru-teacher
   - nature-creation
+title: "I am cool you throw fire at me and it becomes cool"
 ---
 
 enemies! We want to uproot you and your doctrine completely. And you are feeling sorry for us?”

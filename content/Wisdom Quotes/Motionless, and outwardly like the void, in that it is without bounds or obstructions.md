@@ -2,7 +2,7 @@
 Edited: false
 source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
-image_name: IMG_1133.PNG
+image_name: IMG_1133.webp
 Source Type:
   - screenshot
 draft: true

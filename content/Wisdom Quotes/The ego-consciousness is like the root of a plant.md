@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1469.JPEG
+image_name: IMG_1469.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - love-devotion
   - mind
   - silence
+title: "The ego-consciousness is like the root of a plant"
 ---
 
 Talks with Sri Ramana Maharshi

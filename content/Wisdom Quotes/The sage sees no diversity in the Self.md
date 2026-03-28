@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1673.JPEG
+image_name: IMG_1673.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - nature-creation
   - service
+title: "The sage sees no diversity in the Self"
 ---
 
 Chapter XIX 185

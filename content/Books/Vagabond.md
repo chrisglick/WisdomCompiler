@@ -4,6 +4,11 @@ Author: Takehiko Inoue
 title: Vagabond
 source: url
 tags:
+category: manga
+tradition: Fiction
+description: "A manga retelling of Miyamoto Musashi's journey — the way of the sword as a path to self-knowledge and inner peace."
+difficulty: approachable
+teacher: "[[Takehiko Inoue]]"
 draft: false
 ---
 

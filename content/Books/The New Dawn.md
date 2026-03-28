@@ -4,6 +4,11 @@ Author: Osho
 title: The New Dawn
 source: url
 tags:
+category: teaching
+tradition: Multiple
+description: "Osho's vision of a new humanity — discourses on meditation, creativity, and breaking free from conditioning."
+difficulty: approachable
+teacher: "[[Osho]]"
 draft: false
 ---
 

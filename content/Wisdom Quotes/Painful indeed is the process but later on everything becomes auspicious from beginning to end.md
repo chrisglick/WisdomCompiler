@@ -2,13 +2,14 @@
 Edited: true
 source: Siva Purana
 Page: "46"
-image_name: IMG_0119.PNG
+image_name: IMG_0119.webp
 Source Type: 
 draft: false
 ShowImage: false
 tags:
   - divine
   - meditation
+title: "Painful indeed is the process but later on everything..."
 ---
 
 Maheshvara is to be heard, glorified and meditated upon.

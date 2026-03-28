@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Guru Granth Sahib]]"
 Page: "0"
-image_name: IMG_1559.JPEG
+image_name: IMG_1559.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - guru-teacher
   - knowledge-wisdom
   - mind
+title: "The divine Name chanting it one is transported across"
 ---
 
 firstora Hae 9 II (20-17) sireeraag mehlaa 1. Siree Raag, First Mehl:

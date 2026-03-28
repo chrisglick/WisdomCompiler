@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1452.JPEG
+image_name: IMG_1452.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -14,6 +14,7 @@ tags:
   - mind
   - nature-creation
   - silence
+title: "Meditation is possible only if the ego is kept up"
 ---
 
 Talks with Sri Ramana Maharshi

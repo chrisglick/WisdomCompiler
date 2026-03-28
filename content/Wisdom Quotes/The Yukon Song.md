@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Calvin and Hobbes]]"
 Page: "0"
-image_name: IMG_1202.PNG
+image_name: IMG_1202.webp
 Source Type:
 ShowImage: true
 tags:

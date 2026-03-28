@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Silence of the Heart]]"
 Page: "0"
-image_name: IMG_1035.PNG
+image_name: IMG_1035.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - knowledge-wisdom
   - love-devotion
   - mind
+title: "You dont want to expand the brain you want to transcend..."
 ---
 
 Would hypnosis be useful as a means to breaking the hypnosis?

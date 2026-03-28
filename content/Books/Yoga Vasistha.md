@@ -4,6 +4,11 @@ Author: Maharishi Valmiki
 title: Yoga Vasistha
 source: url
 tags:
+category: scripture
+tradition: Advaita Vedanta
+description: "An epic dialogue between Rama and sage Vasishtha on the nature of reality, consciousness, and liberation — one of the greatest Advaita texts."
+difficulty: advanced
+teacher: ""
 draft: false
 ---
 

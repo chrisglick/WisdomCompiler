@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "164"
-image_name: IMG_1397.PNG
+image_name: IMG_1397.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - nature-creation
   - self-knowledge
   - service
+title: "Awareness is the one necessary factor states without..."
 ---
 
 Then why develop further? Because awareness then is the one necessary factor. Such states can be imitated by taking morphia, chloroform, etc. They do not lead to Moksha because they lack awareness.

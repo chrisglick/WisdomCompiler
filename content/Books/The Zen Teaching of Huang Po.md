@@ -4,6 +4,11 @@ Author: Chûn Choi
 title: The Zen Teaching of Huang Po
 source: https://archive.org/details/in.gov.ignca.27657/page/13/mode/2up
 tags:
+category: teaching
+tradition: Zen
+description: "Direct Zen transmission from master Huang Po — ruthless, compassionate pointings to the One Mind that is your original nature."
+difficulty: intermediate
+teacher: "[[Huang Po]]"
 draft: false
 ---
 

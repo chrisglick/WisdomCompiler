@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ramana Maharshi]]"
 Page: "0"
-image_name: b1d26cef-0a01-4cc1-91dd-d06f16f1752e.jpg
+image_name: b1d26cef-0a01-4cc1-91dd-d06f16f1752e.webp
 Source Type: []
 ShowImage: false
 tags:

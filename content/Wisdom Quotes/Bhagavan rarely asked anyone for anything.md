@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "0"
-image_name: IMG_1570.jpg
+image_name: IMG_1570.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - guru-teacher
   - love-devotion
   - nature-creation
+title: "Bhagavan rarely asked anyone for anything"
 ---
 
 Bhagavan rarely asked anyone for anything. Once, a stranger sat in his presence in the hall. Bhagavan looked at him and asked, “Next time, will you please bring me some cashew nuts?” Everybody was surprised. Bhagavan was a shy person and not one known to come forward to talk to new visitors. Here, most extraordinarily, he was not only volunteering to talk to a stranger but almost begging him to bring something for him. Soon everyone knew the reason. It was for the squirrels. They would not eat peanuts and were partial to cashew nuts. The ashram management felt differently: “They are only squirrels. If they are hungry, they will eat anything. We can feed them peanuts.” But they never touched the peanuts. Six or seven squirrels stood complaining in front of Bhagavan. That is what Bhagavan said, “They are cajoling me and asking me where their food is.” World War-Il was going on at the time and cashew nut production had been nationalized, making them unavailable in the market. There was no cashew in the ashram kitchen and the store had only a few which the cooks wanted to save for their cooking. Bhagavan sent for cashew four times, but they said, “These few cashew nuts are for making sweets.” Finally, Bhagavan’s boundless compassion won over his natural restraint and taciturnity to get cashew nuts for the squirrels through the visitor. Bhagavan could often be seen breaking the cashew nuts into small pieces and keeping them in a small box. The only thing he asked for was cashew for the squirrels!

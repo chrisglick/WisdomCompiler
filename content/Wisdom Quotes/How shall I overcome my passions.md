@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1384.JPEG
+image_name: IMG_1384.webp
 Source Type: 
 draft: false
 ShowImage: false
 tags:
   - guru-teacher
   - nature-creation
+title: "How shall I overcome my passions"
 ---
 
 Talk 523.

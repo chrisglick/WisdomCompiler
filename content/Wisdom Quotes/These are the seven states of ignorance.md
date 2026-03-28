@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Kaivalya Navaneetam]]"
 Page: "0"
-image_name: IMG_1307.PNG
+image_name: IMG_1307.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - meditation
   - mind
   - nature-creation
+title: "These are the seven states of ignorance"
 ---
 
 hese are the seven states of ignorance. | shall now tell

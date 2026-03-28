@@ -4,6 +4,11 @@ Author: Tandavaraya Swami
 title: Kaivalya Navaneetam
 source: url
 tags:
+category: scripture
+tradition: Advaita Vedanta
+description: "The 'Cream of Liberation' — a Tamil Advaita classic presenting the direct path to self-realization through dialogue between master and disciple."
+difficulty: advanced
+teacher: ""
 draft: false
 ---
 

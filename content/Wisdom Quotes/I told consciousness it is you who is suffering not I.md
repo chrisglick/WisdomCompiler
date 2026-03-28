@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Consciousness and the Absolute]]"
 Page: "0"
-image_name: IMG_1463.JPEG
+image_name: IMG_1463.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - guru-teacher
   - meditation
   - mind
+title: "I told consciousness it is you who is suffering not I"
 ---
 
 8 / Consciousness and the Absolute

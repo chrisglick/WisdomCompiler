@@ -2,14 +2,15 @@
 Edited: true
 source: "[[Ramana Maharshi]]"
 Page: "0"
-image_name: 46dcd429-ffce-4f2f-a735-1178488e7397.jpg
+image_name: 46dcd429-ffce-4f2f-a735-1178488e7397.webp
 Source Type:
   - Meme
 draft: false
 ShowImage: true
 tags:
   - divine
+title: "God has His own plans and all these go on according to that"
 ---
-![](Images/46dcd429-ffce-4f2f-a735-1178488e7397.jpg)
+![](Images/46dcd429-ffce-4f2f-a735-1178488e7397.webp)
 
 Sri Ramana Maharshi God has His own plans and all these go on according to that. No one need worry as to what happens. Talk 552.

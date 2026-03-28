@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Siva Purana]]"
 Page: "0"
-image_name: IMG_0120.PNG
+image_name: IMG_0120.webp
 Source Type:
 ShowImage: false
 tags:

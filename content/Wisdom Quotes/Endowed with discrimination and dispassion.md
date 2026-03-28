@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1461.JPEG
+image_name: IMG_1461.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -17,6 +17,7 @@ tags:
   - self-knowledge
   - service
   - surrender
+title: "Endowed with discrimination and dispassion"
 ---
 
 He, too, was endowed with discrimination and dispassion even at an early age, O Rama. One day while remaining alone he reflected thus: “This worldly life is really essenceless and stupid. Day and night chase each other. People repeat the same meaningless actions again and again. I regard only that as proper action which leads to the attainment beyond which there is nothing to be gained; the rest is repeated foul excretion (as in cholera).” He approached his guru Tritala and prayed, "Lord, how can one put an end to this sorrow and to old age, death and delusion which contribute to repeated birth here?”

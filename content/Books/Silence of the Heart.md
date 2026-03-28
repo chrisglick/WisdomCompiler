@@ -4,6 +4,11 @@ Author: Robert Adams
 title: Silence of the Heart
 source: url
 tags:
+category: teaching
+tradition: Advaita Vedanta
+description: "Satsang transcripts from Robert Adams — direct, gentle pointings to the silence and peace that is your true nature."
+difficulty: intermediate
+teacher: "[[Robert Adams]]"
 draft: false
 ---
 

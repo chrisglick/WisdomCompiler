@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Swami Ishwarananda Giriji Maharaj]]"
 Page: "0"
-image_name: 2353f8b1-9d9b-46ec-9ff5-1288b3c7887a.jpg
+image_name: 2353f8b1-9d9b-46ec-9ff5-1288b3c7887a.webp
 Source Type:
   - Meme
 ShowImage: true
@@ -10,6 +10,6 @@ tags:
   - divine
   - guru-teacher
 ---
-![](Images/2353f8b1-9d9b-46ec-9ff5-1288b3c7887a.jpg)
+![](Images/2353f8b1-9d9b-46ec-9ff5-1288b3c7887a.webp)
 
 “Like Arjuna, let your hands stretch out, and your voice rise from the depths of despair, to touch the divine Master seated within you, driving your Life-chariot with one hand and instructing you with the other.”  ~ SWAMI SHRI ISHWARANANDA GIRI  

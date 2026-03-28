@@ -4,6 +4,11 @@ Author: V. Ganesan
 title: Book Title
 source: url
 tags:
+category: teaching
+tradition: ""
+description: ""
+difficulty: approachable
+teacher: ""
 draft: true
 ---
 ```dataview

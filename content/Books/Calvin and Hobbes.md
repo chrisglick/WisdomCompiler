@@ -4,6 +4,11 @@ Author: Bill Watterson
 title: Calvin and Hobbes
 source: url
 tags:
+category: fiction
+tradition: Fiction
+description: Profound philosophical wisdom disguised as a comic strip about a boy and his tiger. Watterson explores wonder, imagination, mortality, and the meaning of life with disarming simplicity.
+difficulty: approachable
+teacher: "[[Bill Watterson]]"
 draft: false
 ---
 

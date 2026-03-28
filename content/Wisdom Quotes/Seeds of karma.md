@@ -2,7 +2,7 @@
 Edited: false
 source: Siva Purana
 Page: "0"
-image_name: IMG_0122.PNG
+image_name: IMG_0122.webp
 Source Type: 
 draft: true
 ShowImage: false

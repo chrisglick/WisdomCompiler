@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 tradition: "Advaita Vedanta (via Ramana Maharshi)"
 period: "1906-1970"
 lineage: "Devotee and biographer of Ramana Maharshi"
@@ -7,4 +7,6 @@ core_teaching: "Making the teachings of Ramana Maharshi accessible to the Wester
 recommended_start: "[[The Path of Self Knowledge]]"
 ---
 
-*No passages collected yet.*
+## Passages
+
+*Passages coming soon.*

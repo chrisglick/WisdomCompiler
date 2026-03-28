@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "0"
-image_name: IMG_1027.PNG
+image_name: IMG_1027.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - love-devotion
   - meditation
   - mind
+title: "We are the truth why should we run after it like the..."
 ---
 
 of a large picture of Bhagavan. Me Sat in the chair and breathed his last, consciously: by the time | arrived, he was no more. The doctor’s verdict that his death was instantaneous was proof enough to me that when he died, Pitaji was fully conscious. For me, personally, Pitaji was a hero. He refused to succumb to the demands of his body, but conquered its travails by turning his full attention to Bhagavan. He had such implicit faith in Bhagavan that the master absorbed him in full consciousness! | strongly felt that though he was a family man, Pitaji’s body had every right to be interred within the ashram grounds. | managed to convince those who were opposed to this. Pitaji’s body was interred next to Chadwick’s and Cohen’s samadhis — devotees even today pay homage to it. He is the only grihastha among the saints and sannyasins interred in Ramanasramam.

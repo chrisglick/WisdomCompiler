@@ -4,6 +4,11 @@ Author: Michael Sells
 title: Early Islamic Mysticism
 source: url
 tags:
+category: mysticism
+tradition: Sufi
+description: "A scholarly anthology of early Islamic mystical texts — Quranic passages, ascetic sayings, and Sufi poetry revealing Islam's contemplative heart."
+difficulty: intermediate
+teacher: ""
 draft: false
 ---
 

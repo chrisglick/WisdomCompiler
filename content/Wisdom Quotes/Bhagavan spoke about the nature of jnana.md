@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1692.JPEG
+image_name: IMG_1692.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -15,6 +15,7 @@ tags:
   - self-knowledge
   - service
   - silence
+title: "Bhagavan spoke about the nature of jnana"
 ---
 
 VIAL 26th DECEMBER 126

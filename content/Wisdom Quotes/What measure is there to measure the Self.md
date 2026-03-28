@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Guru Vachaka Kovai]]"
 Page: "148"
-image_name: IMG_0961.PNG
+image_name: IMG_0961.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - knowledge-wisdom
   - mind
   - nature-creation
+title: "What measure is there to measure the Self"
 ---
 
 7 Chapter Concerning the Uselessness of Measurements (Alavai Yavalat Tiran)

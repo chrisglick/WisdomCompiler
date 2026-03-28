@@ -2,7 +2,7 @@
 Edited: true
 source: "[[One Punch Man]]"
 Page: "0"
-image_name: IMG_1329.PNG
+image_name: IMG_1329.webp
 Source Type:
 tags:
   - love-devotion

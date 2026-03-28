@@ -4,6 +4,11 @@ Author: Vyasa
 title: Bhagavad Gita
 source: https://archive.org/details/gitapress-gita-roman
 tags:
+category: scripture
+tradition: Hindu
+description: The divine conversation between Krishna and Arjuna on the battlefield, addressing dharma, devotion, and self-knowledge. The most widely read scripture in the Hindu tradition and a universal guide to right action.
+difficulty: approachable
+teacher: ""
 draft: false
 ---
 

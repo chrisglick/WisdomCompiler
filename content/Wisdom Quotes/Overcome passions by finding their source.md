@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1385.JPEG
+image_name: IMG_1385.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -15,6 +15,7 @@ tags:
   - nature-creation
   - service
   - surrender
+title: "Overcome passions by finding their source"
 ---
 
 Talks with Sri Ramana Maharshi

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Path of Self Knowledge]]"
 Page: "0"
-image_name: IMG_0168.PNG
+image_name: IMG_0168.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - knowledge-wisdom
   - nature-creation
   - self-knowledge
+title: "Non-duality means that only the Absolute is"
 ---
 
 Non-duality means that only the Absolute is. The entire cosmos exists within the Absolute, having no intrinsic reality but merely manifesting the Absolute which, however, remains eternally unchanged and unmanifest, as the people and events in a man’s dream exist within him and have no reality apart from him and yet add nothing to him by their creation and subtract nothing from him by their disappearance. This means that the Absolute is the Self of the cosmos and of every being. Therefore by seeking his Self, by the constant investigation “Who am I?’ it is possible for a man to realize his identity with Universal Being. It was the purest Advaita that Sri Bhagavan taught.

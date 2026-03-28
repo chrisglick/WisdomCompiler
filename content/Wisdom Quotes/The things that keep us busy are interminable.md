@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Path of Self Knowledge]]"
 Page: "0"
-image_name: IMG_5933.JPEG
+image_name: IMG_5933.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - meditation
   - mind
   - service
+title: "The things that keep us busy are interminable"
 ---
 
 cut off. The things that keep us busy are interminable, so why not simply throw away all worldly affairs? Plans also have no limit, so why not just cut off the thinking mind? Today never ceases to come, but in each "today” more karma is created. Tomorrow also comes without fail, but few "tomorrows” are given to good actions. This year never fails to come, but defilements are endless. Next year always arrives too, but still you do not seek Bodhi. Moment succeeds moment, and thus day and night are soon past. One day succeeds the next; months slip away. Month follow month — soon next year is here. Years pass rapidly, and you find yourself at death's door. A broken vehicle cannot run; an old person cannot practice.

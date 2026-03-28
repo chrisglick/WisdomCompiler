@@ -4,6 +4,11 @@ Author: Sri Munagala S. Venkataramiah
 title: Talks with Ramana Maharshi
 source: url
 tags:
+category: teaching
+tradition: Advaita Vedanta
+description: "The most comprehensive record of Ramana Maharshi's dialogues with seekers — 600+ conversations spanning self-inquiry, surrender, and silence."
+difficulty: intermediate
+teacher: "[[Ramana Maharshi]]"
 draft: false
 ---
 

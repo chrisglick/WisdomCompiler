@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1364.PNG
+image_name: IMG_1364.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -14,6 +14,7 @@ tags:
   - mind
   - nature-creation
   - silence
+title: "Consciousness alone exists consciousness alone is all this"
 ---
 
 SUKRA replied: I am on my way to another realm, O Bali: but I shall give you in a few words the very quintessence of wisdom. Consciousness alone exists, con- sciousness alone is all this, all this is filled with consciousness. I, you and all this world, are but consciousness. If you are humble and sincere you will gain every- thing from what I have said; if not, an attempt at further explanation will be like pouring oblations into a heap of ashes.

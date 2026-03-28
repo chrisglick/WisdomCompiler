@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Ashtavakra Gita]]"
 Page: "0"
-image_name: IMG_1718.JPEG
+image_name: IMG_1718.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - liberation
   - mind
+title: "Ashtavakra said the wise one is content with whatever comes"
 ---
 
 Ashtavakra said:

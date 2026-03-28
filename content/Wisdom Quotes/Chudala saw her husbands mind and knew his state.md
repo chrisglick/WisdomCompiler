@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1683.JPEG
+image_name: IMG_1683.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - liberation
   - mind
   - nature-creation
+title: "Chudala saw her husbands mind and knew his state"
 ---
 
 At that time, Ciidala ‘saw’ her husband's mind had ripened considerably and that it was time for her to help him attain enlightenment. Having thus determined, she left the palace at night and flew to where he was. She beheld the celestials and the perfected sages in the heavens. She flew through clouds, inhaling the heavenly perfume and looking forward with great eagerness to her reunion with her husband. She was excited and her mind was agitated. Becoming aware of this mental state, she said to herself: “Ah, surely as long as there is life in the body, one’s nature does not cease to be active. Even my mind is agitated so much! Or perhaps, O mind, you are seeking your own consort. On the other hand my husband has surely forgotten all about his kingdom and me, after all these years of asceticism. In that case it is futile on your part, O mind, to get excited at the prospect of meet- ing him once again . . . I shail restore equilibrium to the heart of my husband in such a way that he will return to the kingdom, where we shall dwell together happily for a long time. That delight which is had in a state of utter equilibrium is superior to all other happiness.” 

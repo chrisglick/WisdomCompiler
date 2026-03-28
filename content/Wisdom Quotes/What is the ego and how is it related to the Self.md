@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1398.JPEG
+image_name: IMG_1398.webp
 Source Type: 
 draft: false
 ShowImage: false
 tags:
   - divine
   - surrender
+title: "What is the ego and how is it related to the Self"
 ---
 
 Talk 207.

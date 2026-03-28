@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
-image_name: IMG_1380.JPEG
+image_name: IMG_1380.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - scripture
   - service
   - silence
+title: "Restrain each single thought from arising then the..."
 ---
 
 THE ZEN TEACHING OF HUANG PO
@@ -28,9 +29,6 @@ A: Yes. Form implies matter. Those saints are only proficient in casting off wor
 Nevertheless, with the merest desire to attach yourselves to this or that, a mental symbol is soon formed, such symbols in turn giving rise to all those ‘sacred writings’ which lead you back to undergo the various kinds of re- birth. So let your symbolic conception be that of a void, for then the wordless teaching of Zen will make itself apparent to you. Know only that you must decide to
 
 1 Theravadin saints who do not accept the doctrine of void, but follow the literal meaning of the sitras.
-
-122
-
 THE WAN LING RECORD
 
 eschew all symbolizing whatever, for by this eschewal is ‘symbolized’ the Great Void in which there is neither unity nor multiplicity—that Void which is not really void, that Symbol which is no symbol. Then will the Buddhas of all the vast world-systems manifest themselves to you in a flash; you will recognize the hosts of squirming, wriggling sentient beings as no more than shadows! Continents as innumerable as grains of dust will seem no more to you than a single drop in the great ocean. To you, the pro- foundest doctrines ever heard will seem but dreams and illusions. You will recognize all minds as One and behold all things as One—including those thousands of sacred books and myriads of pious commentaries! All of them are just your One Mind. Could you but cease your groping after forms, all these true perceptions would be yours! Therefore is it written: ‘Within the Thusness of the One Mind, the various means to Enlightenment are no more than showy ornaments.’

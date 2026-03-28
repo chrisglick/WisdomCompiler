@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Silence of the Heart]]"
 Page: "0"
-image_name: IMG_1495.JPEG
+image_name: IMG_1495.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -16,6 +16,7 @@ tags:
   - scripture
   - self-knowledge
   - silence
+title: "By way of paying homage to Robert"
 ---
 
 By way of paying homage to Robert, | quote a few passages from Robert’s teachings: “The highest teaching in the world is silence - there is nothing higher than this. A devotee who sits in the company of the sage purifies his mind just by being with him. The mind automatically becomes quieter. No words are necessary. Silence is the ultimate reality and everything in this world exists through silence. This means, literally, going deep inside yourself to the dwelling where nothing is happening; this place transcends time and space. This is a brand new dimension of nothingness. That is our real home and the place to which we actually belong. In this state, there is only deep silence - there is no good, no bad and no state of trying to achieve anything. It is a state of pure being. The ultimate freedom is to reach this state of deep silence in which you transcend your body, your affairs and the universe. The other lesson to be learnt is that you are real. What you appear to be is false. Identify yourself with the real you and not the false you. Do not accept everything that you see as reality. The only freedom that you have is to turn within. One day, you will awaken from this dream, for this is also a dream, and you will be free, liberated. There is no such thing as birth or death. Nobody is born, nobody dies and nobody prevails in between. Nothing that appears exists. Only the Self exists. All this is the Self and | am that. You are the absolute reality. You are consciousness, emptiness, and sat-chit-ananda - existence, consciousness, bliss - that is your true nature. Why not abide in it and be free? Empty your mind and become still; everything will happen of its own accord. There is really nothing that you have to do - just be still. Be still and know that ‘I AM’, God. ‘I AM’ is the Self. Accept that and be free.” Salutations to Robert Adams, the great blissful, surrendered devotee of Bhagavan!

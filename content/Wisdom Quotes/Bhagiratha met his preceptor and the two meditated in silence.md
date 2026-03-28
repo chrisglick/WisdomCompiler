@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1462.JPEG
+image_name: IMG_1462.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - nature-creation
   - service
   - silence
+title: "Bhagiratha met his preceptor and the two meditated in..."
 ---
 
 Bhagiratha once again met his preceptor and the two of them roamed the coun- try, all the time engaged in spiritual dialogue: "Why do we still carry the burden of this physical body? On the other hand, why should it be discarded? Let it be as long as it will be!” They were devoid of sorrow and of rejoicing, nor could they be said to adhere to the middle path. Even if the gods and sages offered them wealth and psychic powers. they spurned them as blades of dry grass.

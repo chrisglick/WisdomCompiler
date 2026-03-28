@@ -2,9 +2,9 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "0"
-image_name: IMG_1285.PNG
+image_name: IMG_1285.webp
 Source Type: []
-draft: false
+draft: true
 ShowImage: false
 tags:
   - guru-teacher

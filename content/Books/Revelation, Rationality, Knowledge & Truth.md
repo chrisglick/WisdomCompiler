@@ -4,6 +4,11 @@ Author: Mirza Tahir Ahmad
 title: Revelation, Rationality, Knowledge & Truth
 source: https://www.alislam.org/library/books/revelation/index.html
 tags:
+category: teaching
+tradition: Islamic
+description: "A comprehensive exploration of the relationship between divine revelation, scientific reason, and the pursuit of ultimate truth."
+difficulty: advanced
+teacher: "[[Mirza Tahir Ahmad]]"
 draft: false
 ---
 

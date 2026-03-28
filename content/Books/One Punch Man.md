@@ -4,6 +4,11 @@ Author: ONE
 title: One Punch Man
 source: url
 tags:
+category: manga
+tradition: Fiction
+description: "A satirical manga exploring what happens when you achieve ultimate power — and find it meaningless without purpose and connection."
+difficulty: approachable
+teacher: "[[ONE]]"
 draft: false
 ---
 

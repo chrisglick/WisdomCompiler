@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Vagabond]]"
 Page: "0"
-image_name: IMG_1219.PNG
+image_name: IMG_1219.webp
 Source Type:
 tags:
   - self-knowledge

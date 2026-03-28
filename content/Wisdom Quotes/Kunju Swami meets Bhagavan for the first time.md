@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "0"
-image_name: IMG_1168.PNG
+image_name: IMG_1168.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - liberation
   - mind
   - service
+title: "Kunju Swami meets Bhagavan for the first time"
 ---
 
 Kunju Swami was directed by passers-by to climb up the hill to reach Bhagavan. There were three paths and he did not know which to take. (This is symbolic for all seekers: when we want to reach the truth, we encounter doubts, problems and obstacles. However, if we are steadfast in our faith, this too will be resolved by the truth itself. What we need is perseverance, one-pointedness and faith.) He chose one of the paths and met a swami, a hefty man with long, matted hair and beard. Kunju Swami felt a little frightened because he had read in mythological stories about rishis who only gave curses. He ran back and encountered a stranger who asked him where he wanted to go. “I want to go to Ramana Maharshi,” he said. “Take this path,” the stranger pointed. As Kunju Swami walked up, at a spot a little above Virupaksha cave, he saw a small hut. Mudaliar Paati, who used to feed Bhagavan every day, lived there. On seeing this youth, she asked, “Where are you going?” “I want to have darshan of Ramana Maharshi,” replied Kunju Swami. “Go this way, take a dip in this stream and then go to Maharshi. We shall be bringing food for Ramana Maharshi and we will bring some for you also.” On the way, before reaching Skandashram, he wondered, “How can I pay my homage to my master? I am going to see him for the first time!”

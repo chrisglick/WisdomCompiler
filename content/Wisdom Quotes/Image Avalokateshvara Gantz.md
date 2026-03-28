@@ -2,8 +2,9 @@
 Edited: true
 source: Gantz
 Page: "0"
-image_name: IMG_1713.PNG
+image_name: IMG_1713.webp
 Source Type: []
 tags: []
 ShowImage: false
+draft: true
 ---

@@ -2,9 +2,9 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1411.PNG
+image_name: IMG_1411.webp
 Source Type: 
-draft: false
+draft: true
 ShowImage: false
 tags:
   - divine

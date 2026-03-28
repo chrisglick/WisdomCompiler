@@ -4,6 +4,11 @@ Author: Arthur Osborne
 title: The Path of Self Knowledge
 source: url
 tags:
+category: commentary
+tradition: Advaita Vedanta
+description: "Arthur Osborne's clear exposition of Ramana Maharshi's teaching — an excellent introduction to the path of self-inquiry."
+difficulty: intermediate
+teacher: "[[Ramana Maharshi]]"
 draft: false
 ---
 

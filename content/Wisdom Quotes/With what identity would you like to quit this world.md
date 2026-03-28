@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Consciousness and the Absolute]]"
 Page: "102"
-image_name: IMG_1331.JPEG
+image_name: IMG_1331.webp
 Source Type: 
 ShowImage: false
 tags:

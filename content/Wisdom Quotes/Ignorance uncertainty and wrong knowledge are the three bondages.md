@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Kaivalya Navaneetam]]"
 Page: "0"
-image_name: IMG_1597.JPEG
+image_name: IMG_1597.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -15,6 +15,7 @@ tags:
   - mind
   - nature-creation
   - scripture
+title: "Ignorance uncertainty and wrong knowledge are the three..."
 ---
 
 89. Ignorance, uncertainty and wrong knowledge are obstacles resulting from long-standing habits in the innumerable incarnations of the past which cause trouble, and then the fruits of Realization slip away. Therefore, root

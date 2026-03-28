@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_1638.JPEG
+image_name: IMG_1638.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - nature-creation
   - self-knowledge
+title: "If Love is an attribute of the Self why is the world so..."
 ---
 
 Another devotee queried, “If priyam (Love), is a natural attribute, it should be existent no matter what the object may be. Why then is it not existent when we see a tiger or a snake?”

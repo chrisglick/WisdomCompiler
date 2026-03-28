@@ -4,6 +4,11 @@ Author: Hazrat Mirza Ghulam Ahmad
 title: The Philosophy of the Teachings of Islam
 source: url
 tags:
+category: teaching
+tradition: Islamic
+description: "A landmark address presenting Islam's teachings on the soul's journey, moral development, and the path to divine communion."
+difficulty: intermediate
+teacher: "[[Hazrat Mirza Ghulam Ahmad]]"
 draft: false
 ---
 

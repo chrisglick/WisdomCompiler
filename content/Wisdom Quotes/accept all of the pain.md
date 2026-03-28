@@ -2,7 +2,7 @@
 Edited: true
 source: "[[One Punch Man]]"
 Page: "0"
-image_name: IMG_1328.PNG
+image_name: IMG_1328.webp
 Source Type:
 ShowImage: true
 tags:

@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1394.JPEG
+image_name: IMG_1394.webp
 Source Type: 
 draft: false
 ShowImage: false
 tags:
   - guru-teacher
   - service
+title: "The Self is realized by a certain mental activity"
 ---
 
 Talk 118.

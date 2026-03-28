@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
-image_name: IMG_0138.JPEG
+image_name: IMG_0138.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - nature-creation
   - self-knowledge
   - silence
+title: "Mouna means continuous speech it is the speech of self"
 ---
 
 It is the same with every one of these things. There are a number of rivers, some flow straight, some wind and twist zig-zag, but all of them ultimately become merged in the ocean. In the same way, all paths become merged in the path of Self-enquiry, just as all languages become merged in Silence (mouna). Mouna means continuous speech; it does not mean that it is a vacuum. It is the speech of self, identifying with the Self. It is Self-luminous. Everything is in the Self. In Tamil Nad a great person composed and sang a song the purport of which is, “We are like a screen,

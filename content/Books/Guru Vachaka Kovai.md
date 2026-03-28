@@ -4,6 +4,11 @@ Author: Sri Muruganar
 title: Guru Vachaka Kovai
 source: https://www.happinessofbeing.com/Guru_Vachaka_Kovai.pdf
 tags:
+category: commentary
+tradition: Advaita Vedanta
+description: "Sri Muruganar's poetic record of Ramana Maharshi's oral teachings — considered the most precise expression of Bhagavan's philosophy."
+difficulty: advanced
+teacher: "[[Sri Muruganar]]"
 draft: false
 ---
 

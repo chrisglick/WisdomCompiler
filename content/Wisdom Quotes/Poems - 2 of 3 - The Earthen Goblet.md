@@ -2,7 +2,7 @@
 Edited: false
 source: "[[Day by Day with Bhagavan]]"
 Page: "11"
-image_name: IMG_0800.PNG
+image_name: IMG_0800.webp
 Source Type: 
 draft: true
 ShowImage: false

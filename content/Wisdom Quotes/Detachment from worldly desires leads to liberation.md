@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Kaivalya Navaneetam]]"
 Page: "0"
-image_name: IMG_1513.JPEG
+image_name: IMG_1513.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - knowledge-wisdom
   - nature-creation
   - surrender
+title: "Detachment from worldly desires leads to liberation"
 ---
 
 9: Detachment
@@ -49,9 +50,6 @@ has been extinguished by observing the ways of men.
 Seeing all things as threefold suffering, the sage becomes still.
 
 Insubstantial, transient, contemptible the world is fit only for rejection.
-
-94
-
 Was there an age or time
 
 men existed without opposites? Leave the opposites behind.

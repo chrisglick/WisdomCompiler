@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Philosophy of the Teachings of Islam]]"
 Page: "0"
-image_name: IMG_0113.JPEG
+image_name: IMG_0113.webp
 Source Type:
 ShowImage: false
 tags:

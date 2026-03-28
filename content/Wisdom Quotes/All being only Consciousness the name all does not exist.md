@@ -2,13 +2,14 @@
 Edited: true
 source: "[[The Ribhu Gita]]"
 Page: "0"
-image_name: IMG_1501.PNG
+image_name: IMG_1501.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - divine
   - nature-creation
+title: "All being only Consciousness the name all does not exist"
 ---
 
 25. All being only Consciousness, the name “all’’ never is. Renouncing all forms, be of the certitude that all is Brahman.

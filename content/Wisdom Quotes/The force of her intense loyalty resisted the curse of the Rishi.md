@@ -8,6 +8,7 @@ draft: false
 ShowImage: false
 tags:
   - death-impermanence
+title: "The force of her intense loyalty resisted the curse of..."
 ---
 
 Dattatreya

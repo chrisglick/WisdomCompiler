@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1430.JPEG
+image_name: IMG_1430.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - guru-teacher
   - love-devotion
   - mind
+title: "Sri Guru ocean of mercy can anyone drenched with Thy..."
 ---
 
 8 Tripura Rahasya

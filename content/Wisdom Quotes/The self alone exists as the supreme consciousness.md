@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Yoga Vasistha]]"
 Page: "0"
-image_name: IMG_1782.PNG
+image_name: IMG_1782.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - nature-creation
   - service
+title: "The self alone exists as the supreme consciousness"
 ---
 
 The-Supreme-Yoga-Swami-Venkatesananda @® aA Q vemng. IMIs word Mas Never realy come m0 vemg, yet Ww appears to ve — imc exposition of this truth is contained in this chapter on creation. 53 of 397

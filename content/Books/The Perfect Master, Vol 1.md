@@ -4,6 +4,11 @@ Author: Osho
 title: "The Perfect Master, Vol 1"
 source: https://oshoworld.com/wp-content/uploads/2020/11/ebooks/English/096_The_Perfect_Master_Vol1.pdf
 tags:
+category: teaching
+tradition: Sufi
+description: "Osho's discourses on the Sufi stories of Bayazid — exploring the master-disciple relationship and the alchemy of spiritual transformation."
+difficulty: intermediate
+teacher: "[[Osho]]"
 draft: false
 ---
 

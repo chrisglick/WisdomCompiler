@@ -2,12 +2,13 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "0"
-image_name: IMG_1492.JPEG
+image_name: IMG_1492.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - ego
+title: "If somebody comes back from Ramanashramam and does not..."
 ---
 
 As far as | know, if somebody comes back from Ramana, then there must be something very deeply wrong. With Shivanand it is not much of a problem, with Aurobindo also it is not much of a problem. Shivanand is just ordinary. Aurobindo is a great intellectual — a mahapundit, a great scholar. So if somebody comes away, nothing is lost; you have not lost much because there was nothing in the first place to be gained. But if you have come away from Ramana, that shows something deep like a cancer in your soul, because persons like Ramana are very rare — thousands of years pass, then sometimes that quality of being arises. Ramana is like a Buddha, a Jesus, or a Krishna — a very rare phenomenon. But | know why you could not get in tune with Ramana — because of your Shivanands and your Aurobindos. To get in tune with a Ramana means to drop your ego completely. Great courage is needed.

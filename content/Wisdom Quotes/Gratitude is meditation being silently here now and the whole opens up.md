@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The New Dawn]]"
 Page: "0"
-image_name: IMG_1151.PNG
+image_name: IMG_1151.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - meditation
   - nature-creation
   - silence
+title: "Gratitude is meditation being silently here now and the..."
 ---
 
 And things go on showering on you, and you never change, you remain at most the same! You devour everything, but nothing transforms you.

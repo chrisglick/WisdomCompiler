@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1403.JPEG
+image_name: IMG_1403.webp
 Source Type: 
 draft: false
 ShowImage: false
 tags:
   - ego
   - mind
+title: "There is no reaching the Self it is not outside you"
 ---
 
 Talks with Sri Ramana Maharshi

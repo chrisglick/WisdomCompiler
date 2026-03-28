@@ -4,6 +4,11 @@ Author: Haritayana
 title: Tripura Rahasya
 source: https://archive.org/details/TripuraRahasyaEnglishTranslation
 tags:
+category: scripture
+tradition: Advaita Vedanta
+description: "The 'Secret of the Supreme Goddess' — an Advaita classic teaching self-inquiry through the story of a seeker guided to ultimate truth."
+difficulty: advanced
+teacher: ""
 draft: false
 ---
 

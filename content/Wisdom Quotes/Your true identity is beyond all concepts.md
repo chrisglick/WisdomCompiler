@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Nectar of Immortality]]"
 Page: "0"
-image_name: IMG_1573.JPEG
+image_name: IMG_1573.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -13,6 +13,7 @@ tags:
   - mind
   - nature-creation
   - surrender
+title: "Your true identity is beyond all concepts"
 ---
 
 92 + The Nectar of Immortality

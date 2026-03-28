@@ -2,13 +2,14 @@
 Edited: true
 source: "[[Tripura Rahasya]]"
 Page: "0"
-image_name: IMG_1686.JPEG
+image_name: IMG_1686.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - liberation
   - surrender
+title: "All these things are within the Self"
 ---
 
 (On being told by the brahmana, “All these things are not yours, hence there is no meaning in renouncing them”, Sikhidhvaja said:) Surely, this hermitage is everything for me. Right now, it is mine. I shall abandon that, too. (Thus resolved, Sikhidhvaja cleansed his heart of the very idea that the hermitage was his:) Surely, now I have completely renounced everything!

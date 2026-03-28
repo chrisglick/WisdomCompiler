@@ -4,6 +4,11 @@ Author: Arthur Osborne
 title: The Incredible Sai Baba
 source: url
 tags:
+category: teaching
+tradition: Hindu
+description: "Arthur Osborne's account of the miraculous life and teachings of Shirdi Sai Baba — a saint who transcended all religious boundaries."
+difficulty: approachable
+teacher: ""
 draft: false
 ---
 

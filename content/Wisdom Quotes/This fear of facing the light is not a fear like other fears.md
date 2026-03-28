@@ -2,7 +2,7 @@
 Edited: true
 source: ""
 Page: "0"
-image_name: IMG_0144.PNG
+image_name: IMG_0144.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - death-impermanence
   - knowledge-wisdom
   - mind
+title: "This fear of facing the light is not a fear like other fears"
 ---
 
 Doubt, Fear, and Impediments.

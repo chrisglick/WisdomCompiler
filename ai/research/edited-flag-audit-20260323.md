@@ -1,0 +1,440 @@
+# Edited Flag Audit — 2026-03-23
+
+## Method
+Used git diff between d959002 and e788f13 to determine
+which files had body content changes vs frontmatter-only changes.
+
+## Summary
+- Truly edited (body changed): 258
+- Falsely edited (frontmatter-only): 167
+
+## Truly Edited (258)
+
+- Accept all of the pain pt 2.md — body_edited (+1/-0 lines)
+- After enlightenment nothing happens all happening stops disappears.md — body_edited (+5/-0 lines)
+- After renouncing everything you have come to this forest.md — body_edited (+2/-0 lines)
+- After self-realization behavior expresses itself spontaneously.md — body_edited (+2/-0 lines)
+- All being only Consciousness the name all does not exist.md — body_edited (+4/-0 lines)
+- All effort is only for giving up the notion that we are limited.md — body_edited (+0/-1 lines)
+- All it required was water and love.md — body_edited (+1/-0 lines)
+- All that is required is to be still.md — body_edited (+7/-0 lines)
+- All the pentads to be contemplated.md — body_edited (+9/-0 lines)
+- All these things are within the Self.md — body_edited (+9/-0 lines)
+- And you, O soul at peace! Return to your Lord well pleased with Him and He well pleased with you.md — body_edited (+1/-0 lines)
+- Are there degrees of illusion.md — body_edited (+7/-0 lines)
+- Arunachala means Aruna-achala being unmoved.md — body_edited (+1/-0 lines)
+- Ashtavakra said seeing hearing touching smelling the wise one is free.md — body_edited (+21/-0 lines)
+- Ashtavakra said the wise one is content with whatever comes.md — body_edited (+19/-0 lines)
+- Attention to ones own Self is the only raft.md — body_edited (+1/-1 lines)
+- Awareness is the one necessary factor states without awareness do not lead to Moksha.md — body_edited (+10/-0 lines)
+- Be as you are the Self is the real book life the written pages.md — body_edited (+2/-0 lines)
+- Be aware of yourself And accept yourself as you are.md — body_edited (+1/-0 lines)
+- Because I am not happy otherwise.md — body_edited (+2/-0 lines)
+- Bhagavan asked who is the questioner and what is the Self.md — body_edited (+5/-0 lines)
+- Bhagavan discoursed on the nature of the heart.md — body_edited (+7/-0 lines)
+- Bhagavan rarely asked anyone for anything.md — body_edited (+2/-0 lines)
+- Bhagavan said his state of being was beyond subject and object.md — body_edited (+5/-0 lines)
+- Bhagavan spoke about the nature of jnana.md — body_edited (+10/-0 lines)
+- Bhagiratha met his preceptor and the two meditated in silence.md — body_edited (+2/-0 lines)
+- Blame self exaggerate faults.md — body_edited (+1/-0 lines)
+- Bondages of the past the future and the present.md — body_edited (+1/-0 lines)
+- By knowing which all is renounced ever abide as that itself.md — body_edited (+5/-0 lines)
+- By way of paying homage to Robert.md — body_edited (+3/-0 lines)
+- Can you prove one can become Realized in the time it takes to mount a horse.md — body_edited (+4/-0 lines)
+- Chudala saw her husbands mind and knew his state.md — body_edited (+1/-0 lines)
+- Church and State scientific reason and faith.md — body_edited (+2/-0 lines)
+- Complete surrender is prescribed do that first then see for yourself.md — body_edited (+1/-0 lines)
+- Consciousness alone exists consciousness alone is all this.md — body_edited (+3/-0 lines)
+- Despite so much development taking place sorrow has not decreased.md — body_edited (+1/-0 lines)
+- Detachment from worldly desires leads to liberation.md — body_edited (+27/-0 lines)
+- Divine grace still bestows this bounty upon those who seek it.md — body_edited (+0/-1 lines)
+- Do not be so sorrow stricken the master takes care.md — body_edited (+3/-0 lines)
+- Do not exploit this gift do not try to use it for personal advantage.md — body_edited (+3/-0 lines)
+- Do not permit the events of your daily lives to bind you.md — body_edited (+5/-0 lines)
+- Does your mother ever talk about morality and ethics.md — body_edited (+8/-0 lines)
+- Dont act out of your knowledge but act out of your consciousness.md — body_edited (+3/-0 lines)
+- Each gliding along in its orbit.md — body_edited (+2/-0 lines)
+- Endowed with discrimination and dispassion.md — body_edited (+12/-0 lines)
+- Enquiry is not the only way.md — body_edited (+1/-0 lines)
+- Enter into the silence of the temple.md — body_edited (+0/-1 lines)
+- Even the clearest understanding is not enough one must work.md — body_edited (+1/-0 lines)
+- Five thousand years of human minds evolution has not demystified existence.md — body_edited (+7/-0 lines)
+- Food consecration mantra from the Bhagavad Gita.md — body_edited (+13/-0 lines)
+- For the extroverted intellect, the means to abide in Self is to begin enquiring inwardly.md — body_edited (+1/-1 lines)
+- Fortunate is the man who does not lose himself in the labyrinths of philosophy.md — body_edited (+2/-0 lines)
+- Fremen were the first humans to develop a consciousness marching.md — body_edited (+2/-0 lines)
+- Give up names and forms and meditate.md — body_edited (+2/-0 lines)
+- Give up the desire that tends to bondage and the desire for liberation too.md — body_edited (+5/-0 lines)
+- Gratitude is meditation being silently here now and the whole opens up.md — body_edited (+6/-0 lines)
+- Having many sorts of knowledge cannot compare with giving up seeking.md — body_edited (+1/-0 lines)
+- Having recognised oneself as the ocean the sage walks in peace.md — body_edited (+10/-0 lines)
+- He could not move as the force of Bhagavans presence held him.md — body_edited (+1/-0 lines)
+- He is the ocean of love and sympathy.md — body_edited (+2/-0 lines)
+- He was therefore peaceful in both pain and pleasure.md — body_edited (+2/-0 lines)
+- He who is always in pursuit of happiness but finds only sorrow.md — body_edited (+1/-0 lines)
+- He who stands rooted in self-knowledge is liberated here and now.md — body_edited (+3/-0 lines)
+- His greatness was like red hot coal hidden in embers.md — body_edited (+1/-0 lines)
+- His memory was like an omnipresent prism of prescience.md — body_edited (+1/-0 lines)
+- His obsession with trade approached delirium.md — body_edited (+2/-0 lines)
+- His vocational detour to the Society of Jesus had not been without purpose.md — body_edited (+3/-0 lines)
+- How shall I overcome my passions.md — body_edited (+8/-0 lines)
+- How to gain Divine Grace.md — body_edited (+12/-0 lines)
+- How to know the Real I as distinct from the false I.md — body_edited (+3/-0 lines)
+- I am Brahman there is no doubt of this abide in Silence at ease.md — body_edited (+4/-0 lines)
+- I am cool you throw fire at me and it becomes cool.md — body_edited (+9/-0 lines)
+- I am not the individual soul there are no differences.md — body_edited (+1/-0 lines)
+- I chose the milk and was told you have chosen well.md — body_edited (+7/-0 lines)
+- I dedicate myself entirely to thee, my Lord, as a full-blown flower unto the fast receding day.md — body_edited (+2/-0 lines)
+- I exist is the only permanent self-evident experience of everyone.md — body_edited (+3/-0 lines)
+- I have not found such great faith even in Israel.md — body_edited (+16/-0 lines)
+- I told consciousness it is you who is suffering not I.md — body_edited (+8/-0 lines)
+- If Love is an attribute of the Self why is the world so miserable.md — body_edited (+2/-0 lines)
+- If knowledge is given to all nobody will gain anything.md — body_edited (+7/-0 lines)
+- If somebody comes back from Ramanashramam and does not talk about Bhagavan.md — body_edited (+3/-0 lines)
+- If something appeared to one who has not attained realization.md — body_edited (+1/-0 lines)
+- If the ego and all its experiences are dismissed as passing shadows the ever present ultimate realit.md — body_edited (+0/-1 lines)
+- If you become the truth the problem will take care of itself.md — body_edited (+14/-0 lines)
+- If you know yourself it will take care of the person.md — body_edited (+11/-0 lines)
+- If you read the Upanishads you will find all wisdom there.md — body_edited (+1/-0 lines)
+- If you wish to experience Enlightenment yourselves you must not indulge in such conceptions.md — body_edited (+7/-0 lines)
+- Ignorance uncertainty and wrong knowledge are the three bondages.md — body_edited (+8/-0 lines)
+- In the Vasishtam it is mentioned how to deal with premonitions.md — body_edited (+2/-0 lines)
+- In truth there is no unalterable Dharma which the Tathagata could have taught.md — body_edited (+1/-0 lines)
+- Is there no way of escape from the miseries of this world.md — body_edited (+1/-0 lines)
+- It is that spiritual power which will make him transcend.md — body_edited (+1/-0 lines)
+- It is true wisdom for the mind to turn away From outer objects and behold Its own effulgent form.md — body_edited (+1/-1 lines)
+- It was pointed out that Sri Bhagavan often said the whole Vedanta.md — body_edited (+19/-0 lines)
+- Keep the mind steady by gently turning it inward.md — body_edited (+10/-0 lines)
+- Knowing yet unable to move a single cell aware of the entire universe.md — body_edited (+1/-0 lines)
+- Knowledge remains the ultimate sin the tree of knowledge vs the tree of life.md — body_edited (+7/-0 lines)
+- Kunju Swami meets Bhagavan for the first time.md — body_edited (+3/-0 lines)
+- Learn how to be entirely unreceptive to sensations arising from external forms.md — body_edited (+15/-0 lines)
+- Learn only how to avoid seeking for and attaching yourselves to anything.md — body_edited (+3/-0 lines)
+- Let us change our attitudes and absorb ourselves not in happenings.md — body_edited (+2/-0 lines)
+- Listening to me the same is possible you can listen and be as you are.md — body_edited (+3/-0 lines)
+- Live in this world because this world gives a ripening.md — body_edited (+7/-0 lines)
+- Lord Buddhas greatest grievance was that there is only suffering.md — body_edited (+1/-0 lines)
+- Making use of things does not defile you error arises from your regarding each thing as having a separate self.md — body_edited (+2/-0 lines)
+- Meditation depends on the strength of mind.md — body_edited (+1/-0 lines)
+- Meditation is possible only if the ego is kept up.md — body_edited (+17/-0 lines)
+- Meme - To know God is to love God, therefore the paths of jnana and bhakti.md — body_edited (+0/-1 lines)
+- Mind is like the void in which there is no confusion or evil.md — body_edited (+1/-0 lines)
+- Moral nobility and not social respectability.md — body_edited (+4/-0 lines)
+- Mouna means continuous speech it is the speech of self.md — body_edited (+4/-0 lines)
+- My propositions serve as elucidations in darkness.md — body_edited (+5/-0 lines)
+- Negation of name and form reveals the Self.md — body_edited (+9/-0 lines)
+- No matter how exotic human civilization becomes no man ever outgrows the universe.md — body_edited (+1/-0 lines)
+- No one lights a lamp and hides it in a clay jar.md — body_edited (+1/-0 lines)
+- Non-action is unceasing activity.md — body_edited (+1/-0 lines)
+- Non-duality means that only the Absolute is.md — body_edited (+3/-0 lines)
+- Not only was the use of vichara not confined to advanced seekers.md — body_edited (+1/-0 lines)
+- Nothing can be found to exist nothing is perceived as lacking.md — body_edited (+3/-0 lines)
+- Om Namo Bhagavate Sri Ramanaya.md — body_edited (+0/-1 lines)
+- On account of infinite consciousness all these experiences exist.md — body_edited (+3/-0 lines)
+- On the death of King George V devotees asked Bhagavan.md — body_edited (+1/-0 lines)
+- One day when your mind has stopped functioning completely you will know.md — body_edited (+2/-0 lines)
+- Only gratitude transforms and they are diametrically opposite to desires.md — body_edited (+7/-0 lines)
+- Only lovers know scholars never to be a lover needs courage.md — body_edited (+7/-0 lines)
+- Our original Buddha-Nature is, in highest truth, devoid of any atom of objectivity.md — body_edited (+1/-0 lines)
+- Overcome passions by finding their source.md — body_edited (+15/-0 lines)
+- Peace is the inner nature of humankind.md — body_edited (+1/-1 lines)
+- People understand what knowledge means but they understand it differently.md — body_edited (+5/-0 lines)
+- Pouring God into God if you know what I mean.md — body_edited (+12/-0 lines)
+- Rabia would douse the fires of hell and burn paradise so none love for any reason but sincere love.md — body_edited (+3/-0 lines)
+- Read the Gita sing it dance with it and allow it to transform you.md — body_edited (+2/-0 lines)
+- Realisation of Self requires absolute purity of mind.md — body_edited (+5/-0 lines)
+- Restrain each single thought from arising then the Eighteen Sense Realms vanish.md — body_edited (+14/-0 lines)
+- See everything in its entirety to truely see.md — body_edited (+2/-0 lines)
+- Self alone is the reality all else is appearance.md — body_edited (+8/-0 lines)
+- Sikhidhvaja renounces his kingdom for truth.md — body_edited (+8/-0 lines)
+- Simply look at the flower and dont say anything.md — body_edited (+6/-0 lines)
+- Sorrow is all there is there is nothing other than sorrow.md — body_edited (+1/-0 lines)
+- Special instruction on the nature of bondage and liberation.md — body_edited (+25/-0 lines)
+- Spiritual perfection changes even the body.md — body_edited (+5/-0 lines)
+- Sri Guru ocean of mercy can anyone drenched with Thy kindness ever be afflicted.md — body_edited (+5/-0 lines)
+- Start looking at things without the mind.md — body_edited (+3/-0 lines)
+- Take your power back and forget all this nonsense about a mind and a body.md — body_edited (+11/-0 lines)
+- Tattvaraya composed a bharani in honour of his Guru Swarupananda.md — body_edited (+2/-0 lines)
+- Tell me O Swan your ancient tale from what land do you come.md — body_edited (+1/-0 lines)
+- That in which there is no manifestation of things.md — body_edited (+4/-0 lines)
+- That in which there is the fullness of Consciousness ever abide as That itself.md — body_edited (+9/-0 lines)
+- That is because surrender means the Self itself.md — body_edited (+1/-0 lines)
+- That which IS is only one it is omnipresent and universal.md — body_edited (+3/-0 lines)
+- That which rises as I is the mind it is only the mind.md — body_edited (+7/-0 lines)
+- The Almighty has no address nor location where He can be found.md — body_edited (+1/-0 lines)
+- The Buddha is really the creation of your own Mind.md — body_edited (+8/-0 lines)
+- The Gateway of Non-Duality is your original Mind.md — body_edited (+17/-0 lines)
+- The Guru kills without killing with the glance of His eyes.md — body_edited (+5/-0 lines)
+- The Muni asked is it also stated that a Guru is necessary.md — body_edited (+8/-0 lines)
+- The Self alone is real all else is imagined.md — body_edited (+5/-0 lines)
+- The Self alone remains after all illusion is destroyed.md — body_edited (+10/-0 lines)
+- The Self is not born and does not die.md — body_edited (+16/-0 lines)
+- The Self is not somewhere far away you are always that.md — body_edited (+3/-0 lines)
+- The Self is realized by a certain mental activity.md — body_edited (+3/-0 lines)
+- The Self remains untainted how can there be the distinctions of caste.md — body_edited (+7/-0 lines)
+- The Ultimate knowledge does not have any knowledge.md — body_edited (+7/-0 lines)
+- The Vedas contain the truth but the truth cannot be expressed in words.md — body_edited (+4/-0 lines)
+- The appearance of a thing and its use differ in different states.md — body_edited (+1/-0 lines)
+- The archer sees the mark upon the path of the infinite.md — body_edited (+1/-0 lines)
+- The attempts of so-called social reformers are futile.md — body_edited (+3/-0 lines)
+- The best way is to be totally a watcher.md — body_edited (+4/-0 lines)
+- The common psychology of man is of loneliness.md — body_edited (+6/-0 lines)
+- The cost of following Jesus.md — body_edited (+13/-0 lines)
+- The distress of the mind is got rid of by enquiry into the nature of the self.md — body_edited (+2/-0 lines)
+- The divine Name chanting it one is transported across.md — body_edited (+15/-0 lines)
+- The doctrine of Advaita Non-duality taught by the ancient Rishis.md — body_edited (+2/-0 lines)
+- The dualities of shame attraction and aversion.md — body_edited (+1/-0 lines)
+- The ego-consciousness is like the root of a plant.md — body_edited (+6/-0 lines)
+- The first thing as I see you I see you miserable.md — body_edited (+6/-0 lines)
+- The force of her intense loyalty resisted the curse of the Rishi.md — body_edited (+4/-0 lines)
+- The highest form of grace is silence.md — body_edited (+17/-0 lines)
+- The idea of one Self being aware of another Self is absurd.md — body_edited (+5/-0 lines)
+- The king remained motionless like a statue.md — body_edited (+4/-0 lines)
+- The mind is a bundle of thoughts arising from the I-thought.md — body_edited (+14/-0 lines)
+- The mind is only a bundle of thoughts.md — body_edited (+7/-0 lines)
+- The more simple a life he leads the fewer needs he has.md — body_edited (+1/-0 lines)
+- The mystics concern is to quench his thirst.md — body_edited (+2/-0 lines)
+- The one Consciousness called the mind has become the world.md — body_edited (+1/-0 lines)
+- The only freedom man has is to strive for and acquire jnana.md — body_edited (+4/-0 lines)
+- The quest of the Self alone is the direct path to right awareness.md — body_edited (+7/-0 lines)
+- The regret felt because of inability to fulfil desires becomes a Sadhus strength.md — body_edited (+1/-0 lines)
+- The sage does not teach by words but by his living presence.md — body_edited (+4/-0 lines)
+- The sage is unattached to anything or anybody.md — body_edited (+5/-0 lines)
+- The sage sees no diversity in the Self.md — body_edited (+6/-0 lines)
+- The seed is the word of God.md — body_edited (+10/-0 lines)
+- The self alone exists as the supreme consciousness.md — body_edited (+4/-0 lines)
+- The sense of body is a thought the thought is of the mind.md — body_edited (+12/-0 lines)
+- The sleep state is free from thoughts and the Self shines.md — body_edited (+3/-0 lines)
+- The state of Self-realisation must be beyond triputis.md — body_edited (+2/-0 lines)
+- The state we call realisation is simply being oneself.md — body_edited (+1/-0 lines)
+- The things that keep us busy are interminable.md — body_edited (+8/-0 lines)
+- The trance-state of prophecy is like no other vision.md — body_edited (+2/-0 lines)
+- The universal human pain-body.md — body_edited (+4/-0 lines)
+- The universe is just there that is the only way.md — body_edited (+2/-0 lines)
+- The universe is nothing but consciousness.md — body_edited (+4/-0 lines)
+- The whole world is but a long dream.md — body_edited (+4/-0 lines)
+- The world is a projection of the mind.md — body_edited (+4/-0 lines)
+- The world is mental and it will shine as reality only in the Light of Self.md — body_edited (+7/-0 lines)
+- The world which is afflicted with sorrow is of our own making.md — body_edited (+1/-0 lines)
+- There are two answers to the question of knowledge.md — body_edited (+5/-0 lines)
+- There has never been a single thing then where does dust alight.md — body_edited (+2/-0 lines)
+- There is a remedy for sorrow.md — body_edited (+1/-0 lines)
+- There is always a prevailing mystique in any civilization.md — body_edited (+1/-0 lines)
+- There is no individuality left nevertheless suffering has to be experienced.md — body_edited (+5/-0 lines)
+- There is no liberation for a person of mere book knowledge.md — body_edited (+6/-0 lines)
+- There is no reaching the Self it is not outside you.md — body_edited (+4/-0 lines)
+- There is no use removing doubts one by one.md — body_edited (+19/-0 lines)
+- There is only one God - the language, location, and system may be different.md — body_edited (+1/-0 lines)
+- These are the seven states of ignorance.md — body_edited (+14/-0 lines)
+- This course would have been better for every seeker.md — body_edited (+1/-0 lines)
+- This fear of facing the light is not a fear like other fears.md — body_edited (+9/-0 lines)
+- This world-appearance is a confusion even as a blueness in the sky is an optical illusion.md — body_edited (+6/-0 lines)
+- Those fools head for disaster who in their ignorance neglect self-knowledge.md — body_edited (+11/-0 lines)
+- Three ways to describe truth - The same truth has to be expressed in different ways to suit the capa.md — body_edited (+0/-1 lines)
+- Thus spake Vasistha on the nature of liberation.md — body_edited (+12/-0 lines)
+- Titov the Russian cosmonaut returned from space and declared there is no God.md — body_edited (+3/-0 lines)
+- To the degree that you turn away from attachments to the unreal.md — body_edited (+5/-0 lines)
+- Tu hi tu it is You only You.md — body_edited (+1/-0 lines)
+- Turn the mind inward and find out who the seer is.md — body_edited (+9/-0 lines)
+- Until the mind rests in God it must continue to wander.md — body_edited (+14/-0 lines)
+- Vidyeshvara Samhita on the four castes.md — body_edited (+4/-0 lines)
+- We are the truth why should we run after it like the musk deer.md — body_edited (+4/-0 lines)
+- What exists is the one Self only.md — body_edited (+10/-0 lines)
+- What great tapas this Ramaneswara Maharshi is doing.md — body_edited (+8/-0 lines)
+- What is a bodhisattva who does not abide in the unconditioned.md — body_edited (+3/-0 lines)
+- What is concentration but the absolute consciousness of reality.md — body_edited (+5/-0 lines)
+- What is the ego and how is it related to the Self.md — body_edited (+4/-0 lines)
+- What measure is there to measure the Self.md — body_edited (+6/-0 lines)
+- Whatever has the impress of misery on it cannot be real.md — body_edited (+1/-0 lines)
+- Whatever is happening is consciousness experiencing itself.md — body_edited (+19/-0 lines)
+- When Bhagavan was in Virupaksha Cave Echamma came daily.md — body_edited (+4/-0 lines)
+- When I enquired what it was Bhagavan led me to see.md — body_edited (+4/-0 lines)
+- When the eye of knowledge is opened one realizes one remains in the Self.md — body_edited (+2/-0 lines)
+- When the mind is purified consciousness shines forth.md — body_edited (+4/-0 lines)
+- When your mind sees no response it becomes weaker until it disappears.md — body_edited (+2/-0 lines)
+- Where is the mind and where are the thoughts arising from it.md — body_edited (+12/-0 lines)
+- Who can deny the Self of anyone.md — body_edited (+3/-0 lines)
+- Why is Atma vichara necessary.md — body_edited (+2/-0 lines)
+- With divine grace you can attain realisation even in an instant.md — body_edited (+1/-0 lines)
+- Wonder of wonders beyond understanding is your strange fear.md — body_edited (+17/-0 lines)
+- Yes he has come back that was my doing.md — body_edited (+2/-0 lines)
+- You are just like space because space is the beginning and end of everything.md — body_edited (+16/-0 lines)
+- You cannot be reasonable to become liberated.md — body_edited (+2/-0 lines)
+- You dont want to expand the brain you want to transcend the brain.md — body_edited (+21/-0 lines)
+- You fly about like birds from another world.md — body_edited (+1/-0 lines)
+- You will recognize all minds as One and behold all things as One.md — body_edited (+14/-0 lines)
+- Your hunger and thirst for bliss is absolutely fulfilled.md — body_edited (+9/-0 lines)
+- Your true identity is beyond all concepts.md — body_edited (+8/-0 lines)
+- annihilation of the mind - knowledge and one-pointedness.md — body_edited (+9/-0 lines)
+- be aware of yourself and you will see light in the deepest recesses of your core.md — body_edited (+1/-1 lines)
+- can fragrant food perform the Buddha’s work like this.md — body_edited (+5/-0 lines)
+
+## Falsely Edited (167)
+
+- A Jnani need not prostrate before anybody nor need he give his blessings to anybody.md — frontmatter_only
+- A fire leaps up from our inside like lightning and another fire descends upon us from above.md — no_body_diff_in_batch
+- A person’s paradise is developed inside him.md — no_body_diff_in_batch
+- Abhyasa consists in withdrawal within the Self every time you are disturbed by thought.md — no_body_diff_in_batch
+- After some time, Ashtavakra Muni happened to pass that side and, while he was about to take rest und.md — frontmatter_only
+- All that can be done can be done through understanding.md — no_body_diff_in_batch
+- All the concepts you have formed in the past must be discarded and replaced by void.md — no_body_diff_in_batch
+- All the sadhana that we do is meant to invoke a strong experiential feeling of belongingness.md — no_body_diff_in_batch
+- And you threw not when you did throw, but it was Allah Who threw.md — no_body_diff_in_batch
+- Arpana offering means that the mind gets merged in the self and becomes one with it Part 2.md — no_body_diff_in_batch
+- Arpana offering means that the mind gets merged in the self and becomes one with it.md — no_body_diff_in_batch
+- Arunachala Ramana is the Paramatma Himself.md — no_body_diff_in_batch
+- As for future bondages.md — no_body_diff_in_batch
+- BHAGAVANS HANDWRITING - There is neither speaker nor thinker in that state; so that transcendental s.md — no_body_diff_in_batch
+- Bhagavan does not intend to deny the necessity or wisdom of taking a reasonable and moderate care of.md — no_body_diff_in_batch
+- Bodhisattvas, together with all wriggling things possessed of life, share in this great Nirvanic nat.md — no_body_diff_in_batch
+- Both experience and experiencer will disappear.md — no_body_diff_in_batch
+- Brahma-Vidya  is nothing other than seeing That which remains.md — no_body_diff_in_batch
+- But the prisoner has become too identified with the prison cell.md — no_body_diff_in_batch
+- But to prefer God over everything and to accept every hardship of the world.md — no_body_diff_in_batch
+- But when we look into the faculties of man and try to discover what is their highest reach, we find .md — no_body_diff_in_batch
+- By mercy is really meant not conceiving of a Buddha to be Enlightened.md — no_body_diff_in_batch
+- By whatever path you go you will have to lose yourself in the One.md — no_body_diff_in_batch
+- Clearing the Pain Body.md — no_body_diff_in_batch
+- Complete erasure of the ego is necessary.md — frontmatter_only
+- Conquering a thousand elephants is nothing beside this Gurus power to conquer the rutting elephants .md — no_body_diff_in_batch
+- Dharma is neither preached in words nor otherwise signified.md — no_body_diff_in_batch
+- Dont believe your thoughts.md — no_body_diff_in_batch
+- Even amidst great action the wise one remains still.md — no_body_diff_in_batch
+- First you must throw away all your opinions.md — no_body_diff_in_batch
+- From the day when that light is generated in a person, he ceases to be earthly and becomes heavenly.md — no_body_diff_in_batch
+- Gateway of the Stillness beyond all Activity.md — no_body_diff_in_batch
+- God has His own plans and all these go on according to that.md — no_body_diff_in_batch
+- God has fashioned human nature such that it is like a receptacle that cannot remain empty of some fo.md — no_body_diff_in_batch
+- Guru is not merely the perfection you wish  to conquer.md — frontmatter_only
+- Having many sorts of knowledge cannot compare with giving up SEEKING for anything.md — no_body_diff_in_batch
+- He is everywhere unattached and free.md — no_body_diff_in_batch
+- He is washed and cleansed and God inscribes love of virtue upon his heart and casts out from it the .md — no_body_diff_in_batch
+- His love upon him and by the meeting of these two loves a light is generated inside the person which.md — no_body_diff_in_batch
+- How can one whose innermost heart has been scorched by the sun of sorrow that comes from duty be hap.md — no_body_diff_in_batch
+- I GUESS I THOUGHT THAT ONLY  I KNEW WHAT THE TRUTH WAS, WHEN I HAD THE LEAST IDEA OUT OF  ANYONE.md — no_body_diff_in_batch
+- I am infinite space.md — no_body_diff_in_batch
+- I falsely imagined till now that all these which are yours.md — no_body_diff_in_batch
+- I have already finished saving all people.md — no_body_diff_in_batch
+- If all the false ideas and impressions are swept away and thrown out what remains is a feeling of pl.md — no_body_diff_in_batch
+- If only you will avoid concepts of existence and non-existence in regard to absolutely everything yo.md — no_body_diff_in_batch
+- If you examine to whom those thoughts belong, bondage will cease.md — no_body_diff_in_batch
+- In olden days, when we were doing the cooking during summer, we used to have a pot into which we put.md — no_body_diff_in_batch
+- In order to understand the illnesses of sentient beings, one should not abide in the unconditioned; .md — no_body_diff_in_batch
+- In the deep sleep state we lay down our ego.md — no_body_diff_in_batch
+- It is enough if the mind is kept one pointed in vichara dhyana japa and parayana.md — no_body_diff_in_batch
+- It is impossible for someone with bonds to emancipate others from their bonds.md — no_body_diff_in_batch
+- It is only living a thing totally that one transcends it.md — no_body_diff_in_batch
+- Knowing through the senses only the objects of form and quality before it —- the means to abide in S.md — no_body_diff_in_batch
+- Knowledge is of three kinds.md — no_body_diff_in_batch
+- Let not a day pass without communion with nature which is so divine.md — no_body_diff_in_batch
+- Liberation is not had except through the cessation of all notions.md — no_body_diff_in_batch
+- Like the sky he provides shelter under his shade.md — no_body_diff_in_batch
+- Lord, good sons and daughters who have abandoned these three (body, life, and wealth) and have accep.md — no_body_diff_in_batch
+- Lord, which of us is the clevererIf You have given Yourself up to me, I enjoy endless bliss, but of .md — no_body_diff_in_batch
+- Most people are so totally identified with their strong feelings of likes and dislikes that they are.md — no_body_diff_in_batch
+- My state never felt the creation and dissolution of the universe.md — no_body_diff_in_batch
+- O mind, it is not wise for you to come out (in the form of thoughts) it is best to go within. Hide y.md — no_body_diff_in_batch
+- O you that ridicule idol-worship, having not discovered through heart-melting love its secret, how i.md — no_body_diff_in_batch
+- O you that ridicule idol-worship.md — no_body_diff_in_batch
+- One may find hatha yoga suitable and another man nama japa.md — no_body_diff_in_batch
+- One should stand straight and firm despite one’s helplessness and weakness and lack of comfort from .md — no_body_diff_in_batch
+- One’s fear and quaking of one’s body while one is entering samadhi is due.md — no_body_diff_in_batch
+- Only one who is unattached things earthly and heavenly alike can attain to Divine Knowledge.md — no_body_diff_in_batch
+- Only when your minds cease dwelling upon anything whatsoever will you come to an understanding of th.md — no_body_diff_in_batch
+- Painful indeed is the process but later on everything becomes auspicious from beginning to end.md — no_body_diff_in_batch
+- Poem - The nature of the Mind when understood.md — no_body_diff_in_batch
+- Power of Supreme Silence which consumes all by remaining as mere Existence-Self-Consciousness.md — no_body_diff_in_batch
+- Present bondages are said to be of four types.md — no_body_diff_in_batch
+- RELYING ON WORDS YOURE FAMILIAR WITH WILL LEAD YOU ASTRAY.md — no_body_diff_in_batch
+- Ramana Bhagavan attained jnana without any effort in an ordinary house in a narrow lane in the centr.md — no_body_diff_in_batch
+- Rare is the one who believes nothing and is never confused.md — no_body_diff_in_batch
+- Realisation now consists in getting rid of this false idea that one is not realised.md — no_body_diff_in_batch
+- Sahaja Nishta.md — no_body_diff_in_batch
+- Satguru Parabrahman is all love for no- knowingness.md — no_body_diff_in_batch
+- Seek the conquest of the mind and self-control which are the fruits of wisdom.md — no_body_diff_in_batch
+- Self-surrender is the same as Self-knowledge.md — frontmatter_only
+- Seven stages of knowledge which bestow Liberation.md — no_body_diff_in_batch
+- So many things in this world cannot be expressed with words. Some things can not be explained.md — no_body_diff_in_batch
+- Suppose I ask you to go and wake all those people up in the dream and tell them they are not real. W.md — no_body_diff_in_batch
+- Supreme Devotion that flares up with the merging of the ego into the Light of Supreme Stillness.md — no_body_diff_in_batch
+- The Four Principles of Self Realization.md — no_body_diff_in_batch
+- The Four Principles part 3.md — no_body_diff_in_batch
+- The Four Principles part 4.md — no_body_diff_in_batch
+- The Operation of the Practical Ordinances of the Law.md — no_body_diff_in_batch
+- The Yukon Song.md — no_body_diff_in_batch
+- The answers to any questions that are put to you will emerge like an echo from within and they will .md — no_body_diff_in_batch
+- The approach to it is called the Gateway of the Stillness beyond all Activity.md — no_body_diff_in_batch
+- The dangerous path - identify with EVERYTHING.md — no_body_diff_in_batch
+- The fool thinks peace comes by controlling the mind.md — no_body_diff_in_batch
+- The four principles of Enlightenment.md — no_body_diff_in_batch
+- The four principles part 2.md — no_body_diff_in_batch
+- The greatest form of ego for an individual is to present himself as a teacher and become a guru.md — no_body_diff_in_batch
+- The king said that he was at the very moment placing at the feet of the Guru his body, his mind, his.md — no_body_diff_in_batch
+- The loneliness transforms into aloneness.md — no_body_diff_in_batch
+- The naked light in a windless place.md — no_body_diff_in_batch
+- The only worthy occupation is to thoroughly absorb the ego by turning Selfward and, without allowing.md — no_body_diff_in_batch
+- The real worship of him is to be in mouna (silence).md — no_body_diff_in_batch
+- The relinquishment of ALL delusions leaves no Dharma on which to lay hold.md — no_body_diff_in_batch
+- The same disgusting pleasures are experienced and the same acts are repeated day after day in this w.md — no_body_diff_in_batch
+- The three kinds of relinquishment.md — no_body_diff_in_batch
+- Then from some left-overs amongst our things, he took out some limes and squeezed the juice into the.md — no_body_diff_in_batch
+- There are three kinds of relinquishment.md — no_body_diff_in_batch
+- There is no conflict between work and wisdom.md — no_body_diff_in_batch
+- There is unbroken flow of peace and the heart is filled with the bliss of the absolute,.md — no_body_diff_in_batch
+- These are the three states of spiritual ranks.md — no_body_diff_in_batch
+- They teach the three emancipations of emptiness, signlessness, wishlessness and nonactivation.md — no_body_diff_in_batch
+- This bounty is most rare and is the height of good fortune. For him on whom it is bestowed everythin.md — no_body_diff_in_batch
+- This chapter deals with all the preparatory steps which were needed before the creation of bio-units.md — no_body_diff_in_batch
+- This verse clearly proclaims that those people who were nurtured in this life on the love of God.md — no_body_diff_in_batch
+- Those alone are good actions karmas which are done lovingly and with a peaceful and pure mind.md — no_body_diff_in_batch
+- Those who realized the self are always satisfied.md — no_body_diff_in_batch
+- Those who seek the Dharma must not seek from the Buddha.md — no_body_diff_in_batch
+- To arrest the mind — which tries to rush outwards — securely within, is the truly heroic act of the .md — no_body_diff_in_batch
+- To enjoy the fruits of the worship of the feet of the moon-crested Lord Siva.md — no_body_diff_in_batch
+- To perform one’s duty carefully is the greatest service to God.md — no_body_diff_in_batch
+- To put out of mind even the principle from which action springs is the true teaching of the Buddhas.md — no_body_diff_in_batch
+- Transform your intelligence into the purest of paper.md — no_body_diff_in_batch
+- Transforming yourself is a means of giving light to the whole world.md — no_body_diff_in_batch
+- Transforming yourself is a means of giving light to the whole world2.md — no_body_diff_in_batch
+- What is it to have skillful means with ones wisdom emancipated.md — no_body_diff_in_batch
+- When I once complained to Bhagavan about Chinna Swami, he instantly corrected me and I steadily stoo.md — no_body_diff_in_batch
+- When a person reaches a certain stage and becomes fit for enlightenment.md — no_body_diff_in_batch
+- When all these are stilled.md — no_body_diff_in_batch
+- When you are very quiet you have arrived at the basis of everything.md — no_body_diff_in_batch
+- Where is the place of enlightenment.md — no_body_diff_in_batch
+- Why look outward and go on explaining the phenomena which are endless.md — no_body_diff_in_batch
+- With what identity would you like to quit this world.md — no_body_diff_in_batch
+- You are asking Who am I and you are not going to get an answer because the one who will get the answ.md — no_body_diff_in_batch
+- You are not a foreigner in existence.md — no_body_diff_in_batch
+- You are the constant illumination that lights up both the experiences and the void.md — no_body_diff_in_batch
+- You begin to inquire. To whom do all these thoughts come.md — no_body_diff_in_batch
+- You can only perceive what true strength is when you yourself become truly strong.md — no_body_diff_in_batch
+- You have been given guidance through innate disposition.md — no_body_diff_in_batch
+- You who intend to celebrate the birthday.md — no_body_diff_in_batch
+- a thousand unholy vasanas will die out.md — frontmatter_only
+- absolute consciousness that there is no way to know that there is nothing to know that there is nobo.md — no_body_diff_in_batch
+- accept all of the pain.md — no_body_diff_in_batch
+- all that one is responsible for is the purity and disinterestedness of it.md — no_body_diff_in_batch
+- be aware of yourself and you will see light in the deepest recesses of your core part 2 Chidakash is.md — no_body_diff_in_batch
+- every species has love towards its own kind, hasn’t it_ A tiger loves a tiger, and a snake a snake.md — no_body_diff_in_batch
+- great secret of the five-fold duties.md — no_body_diff_in_batch
+- he is only a human whom that fire has completely engulfed.md — no_body_diff_in_batch
+- he knows with absolute certainty that nothing exists.md — no_body_diff_in_batch
+- heaven and its bounties are such as no eye has seen, nor has any ear heard, nor have they been conce.md — no_body_diff_in_batch
+- if you COMPLETELY SURRENDER ALL your responsibilities to ME.md — no_body_diff_in_batch
+- islands of pure consciousness.md — frontmatter_only
+- seeking out the Self by constant enquiry and search for the Witness as taught by Bhagavan.md — no_body_diff_in_batch
+- strong relationship with the Divine which a sword cannot cut asunder and fire cannot consume, nor ca.md — no_body_diff_in_batch
+- such a man becomes seated in the lap of God.md — no_body_diff_in_batch
+- the holy priest was preaching sometimes ten, even twelve sermons a day.md — no_body_diff_in_batch
+- the inner voice is not a voice it is silence.md — no_body_diff_in_batch
+- the primary and principal purpose of miracle is to demonstrate the difference between right and wron.md — no_body_diff_in_batch
+- the world is like a palace, the floor of which is paved with smooth slabs of glass, under which flow.md — no_body_diff_in_batch
+- there should be neither excess nor deficiency; it is the characteristic of a moral quality that it d.md — no_body_diff_in_batch
+- they are the true heroes who have brought under control the mind which is dominated by ignorance and.md — no_body_diff_in_batch
+- touch the divine Master seated within you.md — no_body_diff_in_batch
+- until you know nothing you will never know Self.md — no_body_diff_in_batch
+- water of divine revelation has fallen upon a human heart.md — no_body_diff_in_batch
+- when dhyana becomes deep and firm it leads to sahaja sthiti.md — no_body_diff_in_batch
+- worship can only be done by the one whom the love of God draws towards Himself to such a degree that.md — no_body_diff_in_batch
+- you have started the process of calling upon God and sadhana has begun.md — no_body_diff_in_batch

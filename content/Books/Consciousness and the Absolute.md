@@ -4,6 +4,11 @@ Author: Nisargadatta Maharaj
 title: Consciousness and the Absolute
 source: url
 tags:
+category: teaching
+tradition: Advaita Vedanta
+description: The final talks of Nisargadatta Maharaj, exploring what lies beyond consciousness itself. These conversations represent the most uncompromising expression of his teaching.
+difficulty: advanced
+teacher: "[[Nisargadatta Maharaj]]"
 draft: false
 ---
 

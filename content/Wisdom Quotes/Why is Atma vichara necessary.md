@@ -2,12 +2,13 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1395.JPEG
+image_name: IMG_1395.webp
 Source Type: 
 draft: false
 ShowImage: false
 tags:
   - self-knowledge
+title: "Why is Atma vichara necessary"
 ---
 
 D.: Why is Atma vichara necessary?

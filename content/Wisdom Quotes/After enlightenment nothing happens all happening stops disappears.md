@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Perfect Master, Vol 1]]"
 Page: "0"
-image_name: IMG_1156.PNG
+image_name: IMG_1156.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - liberation
   - mind
   - silence
+title: "After enlightenment nothing happens all happening stops..."
 ---
 
 I said, “You dont understand the word enlightenment. After enligntenment, nothing happens. All happening stops, disappears. One simply is.”

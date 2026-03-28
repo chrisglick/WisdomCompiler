@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Vigyan Bhairav Tantra Volume 1]]"
 Page: "371"
-image_name: IMG_0242.PNG
+image_name: IMG_0242.webp
 Source Type: 
 ShowImage: false
 tags:

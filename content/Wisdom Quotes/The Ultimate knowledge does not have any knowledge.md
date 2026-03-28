@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Consciousness and the Absolute]]"
 Page: "0"
-image_name: IMG_1166.PNG
+image_name: IMG_1166.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - death-impermanence
   - knowledge-wisdom
   - service
+title: "The Ultimate knowledge does not have any knowledge"
 ---
 
 that is not what you want. What you will receive is the true knowledge, even if what you are asking for is not the true knowledge.

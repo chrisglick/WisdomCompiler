@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1185.PNG
+image_name: IMG_1185.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - mind
   - nature-creation
   - surrender
+title: "The Self is not somewhere far away you are always that"
 ---
 
 Bhagavan: Where are you now? Where is the goal? What is the distance to be covered? The Self is not somewhere far away to be reached. You are always that. You have only to give up your habit, a long-standing one, of identifying yourself with the non-self. All effort is only for that. By turning the mind outwards, you have been seeing the world, the non-Self. If you turn it inwards you will see the Self.

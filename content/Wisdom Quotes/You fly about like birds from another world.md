@@ -2,11 +2,12 @@
 Edited: true
 source: "[[Guru Vachaka Kovai]]"
 Page: "0"
-image_name: IMG_1317.PNG
+image_name: IMG_1317.webp
 Source Type: []
 tags: []
 draft: false
 ShowImage: false
+title: "You fly about like birds from another world"
 ---
 
 58 Sri Muruganar  you, you fly about like birds from another [seeking His Darshan]. Con abiding still in the Heart, is the Sup  Sadhu Om: To seek Shiva Darshan outsi movement, but it is revealed here that to k means of seeking it.  191. The ship would be destroyed by th 

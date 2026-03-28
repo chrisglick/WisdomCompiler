@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Dropping Ashes On the Buddha]]"
 Page: "178"
-image_name: IMG_0413.PNG
+image_name: IMG_0413.webp
 Source Type:
 ShowImage: false
 tags:

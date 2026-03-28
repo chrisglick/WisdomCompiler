@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Silence of the Heart]]"
 Page: "266"
-image_name: IMG_0143.PNG
+image_name: IMG_0143.webp
 Source Type: 
 ShowImage: false
 tags:

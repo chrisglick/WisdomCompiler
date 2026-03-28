@@ -4,6 +4,11 @@ Author: Marshall Vian Summers
 title: Greater Community Spirituality
 source: https://archive.org/details/greatercommunity0000summ
 tags:
+category: teaching
+tradition: Contemporary
+description: "A contemporary revelation on humanity's spiritual purpose within a greater community of intelligent life in the universe."
+difficulty: intermediate
+teacher: ""
 draft: false
 ---
 

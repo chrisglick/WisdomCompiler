@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Nectar of Immortality]]"
 Page: "0"
-image_name: IMG_1574.JPEG
+image_name: IMG_1574.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - divine
   - guru-teacher
   - self-knowledge
+title: "After self-realization behavior expresses itself..."
 ---
 
 After self-realization, any behavior or actions expressed through the body of a sage are spontaneous and totally unconditioned. They cannot be bound to any disciplines. A realized sage may be discovered in an unkempt person reclin- ing in the ashes of a cremation ground, or on the cushioned bed in a palace as a king. He may be a butcher by vocation or a successful businessman. Nevertheless, a realized one, hav- ing transcended the realm of beingness, ever abides in the Eternal Absolute.

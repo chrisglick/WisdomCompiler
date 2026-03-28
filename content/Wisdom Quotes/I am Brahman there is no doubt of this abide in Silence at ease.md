@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Ribhu Gita]]"
 Page: "0"
-image_name: IMG_1422.JPEG
+image_name: IMG_1422.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - meditation
   - nature-creation
   - silence
+title: "I am Brahman there is no doubt of this abide in Silence..."
 ---
 
 TOPIC OF THE SUMMARY OF ALL SETTLED CONCLUSIONS 14.46

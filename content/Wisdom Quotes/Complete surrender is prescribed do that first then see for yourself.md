@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1189.PNG
+image_name: IMG_1189.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -15,6 +15,7 @@ tags:
   - nature-creation
   - self-knowledge
   - surrender
+title: "Complete surrender is prescribed do that first then see..."
 ---
 
 The Swami replied, “This exposition is all right with reference to Advaita. But there are other schools which do not insist on the disappearance of triputi (the three factors of knowledge) as the condition for Self-realization. There are schools which believe in the existence of two and even three eternal entities. There is the bhakta, for instance. That he may do bhakti, there must be a God.” Bhagavan replied, ““Whoever objects to one having a God to worship, so long as he requires such a separate God? Through bhakti he develops himself, and comes to feel that God alone exists and that he, the bhakta, does not count. He comes to a stage when he says, ‘Not I, but Thou’; ‘Not my will, but Thy will.’ When that stage is reached, which is called complete surrender in the bhakti marga, one finds effacement of ego is attainment of Self. We need not quarrel whether there are two entities, or more, or only one. Even according to Dvaitis and according to the bhakti marga, complete surrender is prescribed. Do that first, and then see for yourself whether the one Self alone exists, or whether there are two or more entities.” 

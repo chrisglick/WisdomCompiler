@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1404.JPEG
+image_name: IMG_1404.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - ego
   - mind
   - silence
+title: "What is concentration but the absolute consciousness of..."
 ---
 
 Talk 246.

@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Ramana Periya Purnam]]"
 Page: "205"
-image_name: IMG_0723.PNG
+image_name: IMG_0723.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -15,6 +15,7 @@ tags:
   - nature-creation
   - self-knowledge
   - service
+title: "The quest of the Self alone is the direct path to right..."
 ---
 
 What made Lakshmana Sarma give the book such a title? Towards the end of chapter nine of the book, a beautiful chapter called The Quest, Lakshmana Sarma reveals why he called it Mahayoga. “Bhagavan once said that the question ‘Who am I?’ is the quest that one has to undertake. Since all the yogas are included in the question ‘Who am I?’ it is called mahayoga.” As usual, Bhagavan did not buy the published version of the book. He said, “Who has the money to buy it?” As was his wont, he bound the final proofs of the manuscript and preserved it since he himself had spent many hours correcting the proofs. Around this time, while going through the ancient Kurmapurana, Bhagavan found a Sanskrit verse which he transcribed at the bottom of the ninth chapter. The Sanskrit verse read, “The yoga in which one sees the Self and which Lord Siva declares is ‘me’, the one immaculate, eternal bliss, is considered to be mahayoga pertaining to the supreme Lord.”

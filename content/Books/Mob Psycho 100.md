@@ -4,6 +4,11 @@ Author: ONE
 title: Mob Psycho 100
 source: url
 tags:
+category: manga
+tradition: Fiction
+description: "A manga about a psychic boy who discovers that spiritual power means nothing without genuine human kindness and self-improvement."
+difficulty: approachable
+teacher: "[[ONE]]"
 draft: false
 ---
 

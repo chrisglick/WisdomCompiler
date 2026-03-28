@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Vimalakirti Sutra]]"
 Page: "0"
-image_name: IMG_0049.JPEG
+image_name: IMG_0049.webp
 Source Type:
 ShowImage: false
 tags:

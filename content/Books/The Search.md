@@ -4,6 +4,11 @@ Author: Osho
 title: The Search
 source: url
 tags:
+category: teaching
+tradition: Zen
+description: "Osho's discourses on the Zen ox-herding pictures — the classic map of spiritual awakening from seeking to returning to the marketplace."
+difficulty: approachable
+teacher: "[[Osho]]"
 draft: false
 ---
 

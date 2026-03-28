@@ -4,6 +4,11 @@ Author: V. Ganesan
 title: Ramana Periya Purnam
 source: https://www.aham.com/RamanaPeriyaPuranam/
 tags:
+category: commentary
+tradition: Advaita Vedanta
+description: "Stories of Ramana Maharshi's devotees — how ordinary people were transformed by encountering the sage of Arunachala."
+difficulty: intermediate
+teacher: "[[Ramana Maharshi]]"
 draft: false
 ---
 

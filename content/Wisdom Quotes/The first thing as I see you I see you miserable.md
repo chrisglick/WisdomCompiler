@@ -2,13 +2,14 @@
 Edited: true
 source: "[[The New Dawn]]"
 Page: "0"
-image_name: IMG_1500.PNG
+image_name: IMG_1500.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - meditation
   - mind
+title: "The first thing as I see you I see you miserable"
 ---
 
 So the first thing: as | see you, | see you miserable. You may be thinking you are enjoying life. Think again, meditate on the fact — are you really enjoying it? If you are enjoying it, then there is no problem. Enjoy it with my blessings. But | Know you are not enjoying it. You simply believe... because to see the naked fact of your misery will be too much, unbearable. So you go on pretending to yourself that you are enjoying life.

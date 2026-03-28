@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Guru Vachaka Kovai]]"
 Page: "0"
-image_name: IMG_1330.JPEG
+image_name: IMG_1330.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -15,6 +15,7 @@ tags:
   - mind
   - nature-creation
   - self-knowledge
+title: "The Guru kills without killing with the glance of His eyes"
 ---
 
 281. Without killing the body, but by killing, with the glance of His eyes, the ego which poses as if it were really existing, the Guru in no time exposes the entire fiction [from the body to the whole universe] as non-existent, and reveals the shining of the one Supreme Self as the only real existence.

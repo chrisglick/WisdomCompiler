@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Zen Teaching of Huang Po]]"
 Page: "0"
-image_name: IMG_1134.PNG
+image_name: IMG_1134.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - nature-creation
   - service
   - surrender
+title: "Learn only how to avoid seeking for and attaching..."
 ---
 
 Sravaka-Buddhas. But to awaken suddenly to the fact that your own Mind is the Buddha, that there is nothing to be attained or a single action to be performed—this is the Supreme Way; this is really to be as a Buddha. It is only to be feared that you students of the Way, by the coming into existence of a single thought, may raise a barrier between yourselves and the Way. From thought-instant to thought-instant, no Form; from thought-instant to thought- instant, no activiry—that is to be a Buddha! If you students of the Way wish to become Buddhas, you need study no doctrines whatever, but learn only how to avoid seeking for and attaching yourselves to anything. Where nothing is sought this implies Mind unborn; where no attachment exists, this implies Mind not destroyed; and that which is neither born nor destroyed is the Buddha.

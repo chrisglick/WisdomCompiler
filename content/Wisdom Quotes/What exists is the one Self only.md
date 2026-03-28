@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "0"
-image_name: IMG_1694.JPEG
+image_name: IMG_1694.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -11,6 +11,7 @@ tags:
   - liberation
   - mind
   - nature-creation
+title: "What exists is the one Self only"
 ---
 
 Viel 28th DECEMBER 126

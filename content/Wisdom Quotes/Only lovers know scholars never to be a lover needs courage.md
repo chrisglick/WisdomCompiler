@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The New Dawn]]"
 Page: "0"
-image_name: IMG_1153.PNG
+image_name: IMG_1153.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - love-devotion
   - mind
   - nature-creation
+title: "Only lovers know scholars never to be a lover needs courage"
 ---
 
 Knowledge means the knower is separate from the known. We are not separate from existence — we ARE it. It is our suchness — how can we know it? The claim to know is the greatest conceit. The claim to know is the greatest ego there is. Hence the knowledgeable man goes on missing it. Only lovers know, scholars never. But to be a lover needs courage — you have to dissolve and disappear.

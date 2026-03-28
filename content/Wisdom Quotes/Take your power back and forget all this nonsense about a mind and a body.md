@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Silence of the Heart]]"
 Page: "0"
-image_name: IMG_0142.JPEG
+image_name: IMG_0142.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - mind
   - nature-creation
   - self-knowledge
+title: "Take your power back and forget all this nonsense about..."
 ---
 
 time to catch the I Am, the Absolute Reality. For at that moment, this is exactly what you are, Pure Awareness, and then the thought comes, it covers it up. So remember this: If you tell yourself when you go to sleep, “Tomorrow morning as I open my eyes I am going to identify with my source, I Am,” and you will. Even for a second, it will change your life.

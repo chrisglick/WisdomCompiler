@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1485.JPEG
+image_name: IMG_1485.webp
 Source Type: []
 draft: false
 ShowImage: false
@@ -10,6 +10,7 @@ tags:
   - divine
   - mind
   - silence
+title: "The sleep state is free from thoughts and the Self shines"
 ---
 
 Still more, the sleep state is free from thoughts and their impression to the individual. It cannot be altered by one’s will because effort is impossible in that condition. Although nearer to Pure Consciousness, it is not fit for efforts to realise the Self.

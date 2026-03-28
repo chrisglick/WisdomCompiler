@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Vagabond]]"
 Page: "0"
-image_name: IMG_1218.JPEG
+image_name: IMG_1218.webp
 Source Type:
 tags:
   - knowledge-wisdom

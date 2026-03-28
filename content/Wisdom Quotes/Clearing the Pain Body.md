@@ -2,7 +2,7 @@
 Edited: true
 source: "[[The Power of Now]]"
 Page: "0"
-image_name: IMG_0973.PNG
+image_name: IMG_0973.webp
 Source Type:
   - screenshot
 ShowImage: false

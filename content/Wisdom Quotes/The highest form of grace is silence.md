@@ -2,7 +2,7 @@
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
-image_name: IMG_1401.JPEG
+image_name: IMG_1401.webp
 Source Type: 
 draft: false
 ShowImage: false
@@ -12,6 +12,7 @@ tags:
   - meditation
   - mind
   - nature-creation
+title: "The highest form of grace is silence"
 ---
 
 Talks with Sri Ramana Maharshi
