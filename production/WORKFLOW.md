@@ -15,10 +15,12 @@ This vault is now **both** an Obsidian vault and a Quartz static site source. Ke
 
 ---
 
-## Day-to-Day: Editing a Screenshot Note
+## Day-to-Day: Editing a Quote Note
+
+> Quote notes live in `content/Wisdom Quotes/`. The scripts still call them "screenshot notes" because each one originated from a photo of a book page.
 
 1. **Open the vault** in Obsidian at `D:\Vaults\WisdomCompiler\`
-2. **Navigate** to `Screenshots/Notes/` and open a note
+2. **Navigate** to `Wisdom Quotes/` and open a note
 3. **Review and clean up** the `text::` field — fix OCR errors, formatting, attribution
 4. **Set frontmatter** when done editing:
    ```yaml
@@ -94,24 +96,30 @@ cd D:\Vaults\WisdomCompiler && npx quartz build && npx wrangler pages deploy pub
 
 ## Adding New Content
 
-### New Screenshot Note
+### New Quote Note
 
-1. Create a new `.md` file in `Screenshots/Notes/`
+1. Create a new `.md` file in `Wisdom Quotes/` (or copy `Wisdom Quotes/_screenshot_template.md`)
 2. Add frontmatter:
    ```yaml
    ---
    Edited: true
    source: "[[Book Name Here]]"
    Page: "0"
-   image_name: your-image.png
+   image_name: your-image.webp
    Source Type: []
    tags:
+   published:
+   publish_date:
+   last_posted:
+   draft: false
    ---
    ```
-3. Add the image embed: `![[your-image.png]]`
+3. Add the image embed: `![[your-image.webp]]`
 4. Add the text: `text::Your transcribed text here`
-5. Place the image file in `Screenshots/Images/`
+5. Place the image file in `Wisdom Quotes/Images/`
 6. Run the generate script (Step 1 above) to add it to the book page
+
+> Files whose name starts with `_` (e.g. `_screenshot_template.md`) are skipped by the build and the link generator.
 
 ### New Book
 
@@ -163,8 +171,8 @@ The script handles teachers the same way it handles books.
 
 | What | Where |
 |------|-------|
-| Screenshot notes | `content/Screenshots/Notes/` |
-| Screenshot images | `content/Screenshots/Images/` |
+| Quote notes | `content/Wisdom Quotes/` |
+| Quote images | `content/Wisdom Quotes/Images/` (`.webp`) |
 | Book pages | `content/Books/` |
 | Teacher pages | `content/Teachers/` |
 | Link generator script | `scripts/generate-book-links.py` |

@@ -14,24 +14,26 @@ Built with [Quartz v4](https://quartz.jzhao.xyz/) on top of an Obsidian vault. C
 
 ```
 content/
-  Books/                  # 30+ spiritual texts with curated passages and free reading links
+  Books/                  # ~50 spiritual texts with curated passages and free reading links
     index.md              # Books landing page (customizes folder listing)
     Ashtavakra Gita.md    # Individual book pages with [[wikilinks]] to quote notes
     ...
   Teachers/               # Teacher pages (Ramana Maharshi, etc.) with passage links
-  Wisdom Quotes/          # Landing page for quotes collection
-    index.md
-  Screenshots/            # Raw quote data — hidden from site navigation
-    Notes/                # 650+ transcribed quote notes (.md files)
-    Images/               # 654 source images (photos of book pages)
-  YouTube/                # Video teachings (draft — not yet published)
+    images/               # Teacher portraits
+  Wisdom Quotes/          # ~660 transcribed quote notes (.md files) + landing page
+    index.md              # Landing page for the quotes collection
+    Images/               # ~650 source images (.webp photos of book pages)
+    _screenshot_template.md  # Template for a new quote note (underscore = not built)
+  Concepts/               # Concept notes (draft)
   Websites/               # Spiritual website directory (draft — not yet published)
+  YouTube/                # Video teachings (draft — not yet published)
+  Social-Media/, Threads/ # Drafting/staging folders (hidden from the site)
   index.md                # Homepage
 ```
 
-**How quotes work:** Each quote is a markdown note in `Screenshots/Notes/` with a `source` field linking it to a book or teacher. Book and teacher pages contain `[[wikilinks]]` to these notes. Quartz resolves them using shortest-path matching.
+**How quotes work:** Each quote is a markdown note in `Wisdom Quotes/` (still referred to as a "screenshot note" in the scripts) with a `source` field linking it to a book or teacher. Book and teacher pages contain `[[wikilinks]]` to these notes. Quartz resolves them using shortest-path matching.
 
-**Draft control:** Any file with `draft: true` in frontmatter is excluded from the published site. The `Screenshots/` folder is hidden from the Explorer sidebar via a custom `filterFn` in `quartz.layout.ts`, but its pages are still built for link resolution.
+**Draft control:** Any file with `draft: true` in frontmatter is excluded from the published site. Selected folders (`images`, `social-media`, `about`, `tags`, `lakshmi the cow`) are hidden from the Explorer sidebar via a custom `filterFn` in `quartz.layout.ts`, but their pages are still built for link resolution.
 
 ## Build Pipeline
 
@@ -89,10 +91,12 @@ Note: The `.github/workflows/` CI files are inherited from upstream Quartz and g
 | `quartz.layout.ts` | Page layout: Explorer filter, sidebar components, RandomQuote placement |
 | `quartz/styles/custom.scss` | Custom CSS: mobile responsiveness, touch targets, text wrapping |
 | `quartz/styles/variables.scss` | Breakpoints ($mobile: 800px, $desktop: 1200px), grid layouts |
-| `quartz/components/RandomQuote.tsx` | Random wisdom quote component (shown on homepage only) |
-| `quartz/components/scripts/randomquote.inline.ts` | 149 vault-sourced quotes with randomization logic |
-| `scripts/generate-book-links.py` | Scans screenshot notes, regenerates passage lists on book/teacher pages |
-| `scripts/generate-quotes.py` | Extracts quotes from vault for the RandomQuote component |
+| `quartz/components/DailyWisdom.tsx` | Rotating quote shown on the homepage (data: `scripts/dailywisdom.inline.ts`) |
+| `quartz/components/WisdomQuiz.tsx` | Homepage "guess the source" quiz (data: `scripts/wisdomquiz.inline.ts`) |
+| `quartz/components/HomepageExplore.tsx` | Homepage browse/explore section |
+| `quartz/components/RandomQuote.tsx` | Legacy random-quote component (registered but no longer placed in the layout; data from `scripts/randomquote.inline.ts`) |
+| `scripts/generate-book-links.py` | Scans `Wisdom Quotes/` notes, regenerates passage lists on book/teacher pages |
+| `scripts/generate-quotes.py` | Extracts quotes from `Wisdom Quotes/` into `randomquote.inline.ts` |
 | `production/ai/SESSION-*.md` | AI-assisted development session notes |
 | `production/templates/NEW-BOOK.md` | Template and guide for adding a new book page |
 | `production/templates/NEW-TEACHER.md` | Template and guide for adding a new teacher page |
@@ -108,7 +112,7 @@ The sidebar Explorer hides certain folders via `filterFn` in `quartz.layout.ts`:
 filterFn: (node) => {
   const name = node.name?.toLowerCase()
   if (!name) return true
-  const excluded = ["tags", "screenshots", "social-media", "lakshmi the cow", "about"]
+  const excluded = ["tags", "images", "social-media", "lakshmi the cow", "about"]
   return !excluded.includes(name)
 }
 ```
