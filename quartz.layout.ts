@@ -45,6 +45,9 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.TagList(),
   ],
+  // Contemplative reading: no file-tree Explorer or Backlinks panel on content
+  // pages — just a minimal search/dark-mode toolbar. Breadcrumbs (in beforeBody)
+  // carry navigation. Folder index pages keep the Explorer (see list layout).
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -58,25 +61,8 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      filterFn: (node) => {
-        const name = node.name?.toLowerCase()
-        if (!name) return true
-        const excluded = [
-          "tags",
-          "images",
-          "social-media",
-          "lakshmi the cow",
-          "about",
-        ]
-        return !excluded.includes(name)
-      },
-    }),
   ],
-  right: [
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents())],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)

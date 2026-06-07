@@ -63,6 +63,10 @@ const SourceBanner: QuartzComponent = ({ fileData, allFiles }: QuartzComponentPr
   // Resolve link href (only for quote banners linking to source)
   const href = sourceSlug ? resolveRelative(slug, sourceSlug) : undefined
 
+  // Page number — only show when it's a real, meaningful value
+  const rawPage = String(fileData.frontmatter?.Page ?? "").trim()
+  const pageNum = rawPage && rawPage !== "0" ? rawPage : null
+
   const variantClass = isHero ? "source-banner--hero" : "source-banner--quote"
   const imageClass = imageSrc ? "" : "source-banner--no-image"
 
@@ -76,7 +80,15 @@ const SourceBanner: QuartzComponent = ({ fileData, allFiles }: QuartzComponentPr
           loading="lazy"
         />
       )}
-      <span class="source-banner__name">{sourceName}</span>
+      <span class="source-banner__text">
+        <span class="source-banner__name">
+          {sourceName}
+          {pageNum && <span class="source-banner__page">{` · p. ${pageNum}`}</span>}
+        </span>
+        {isQuotePage && href && (
+          <span class="source-banner__more">More from this source &rarr;</span>
+        )}
+      </span>
     </div>
   )
 
@@ -139,11 +151,45 @@ SourceBanner.css = `
   transform: scale(1.05);
 }
 
+.source-banner__text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  min-width: 0;
+}
+
 .source-banner--quote .source-banner__name {
   font-size: 0.9rem;
   font-weight: 500;
   color: var(--secondary);
   letter-spacing: 0.01em;
+}
+
+.source-banner__page {
+  font-weight: 400;
+  color: var(--gray);
+}
+
+.source-banner--quote .source-banner__more {
+  font-size: 0.72rem;
+  color: var(--gray);
+  letter-spacing: 0.02em;
+  opacity: 0;
+  transform: translateX(-2px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.source-banner__link:hover .source-banner--quote .source-banner__more {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* Always show the affordance on touch devices (no hover) */
+@media (hover: none) {
+  .source-banner--quote .source-banner__more {
+    opacity: 1;
+    transform: none;
+  }
 }
 
 /* ── Hero variant (teacher/book page — badge style) ── */
