@@ -1,5 +1,5 @@
 ---
-Edited: false
+Edited: true
 source: "[[Day by Day with Bhagavan]]"
 Page: "11"
 image_name: IMG_0800.webp
@@ -9,6 +9,9 @@ ShowImage: false
 tags:
   - knowledge-wisdom
   - nature-creation
+  - surrender
+  - ego
+  - liberation
 ---
 
 Which moulded us, what though without a flaw, To shape, which is against our being’s law.

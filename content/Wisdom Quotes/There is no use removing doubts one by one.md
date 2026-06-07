@@ -1,55 +1,49 @@
 ---
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
-Page: "0"
+Page: "260"
 image_name: IMG_1414.webp
 Source Type: 
 draft: false
 ShowImage: false
+title: "There is no use removing doubts one by one"
 tags:
   - divine
   - guru-teacher
   - knowledge-wisdom
   - nature-creation
+  - non-duality
   - scripture
-title: "There is no use removing doubts one by one"
 ---
 
-Talks with Sri Ramana Maharshi
+*akrthopasakah* (raw seekers) take longer to gain *drdha jnana* (unshaken knowledge). People ask: “How did ignorance (*avidya*) arise at all?” We have to say to them: “Ignorance never arose. It has no real being. That which is, is only *vidya* (knowledge).”
 
-akrthopasakah (raw seekers) take longer to gain drdha jnana (unshaken knowledge). People ask: “How did ignorance (avidya) arise at all?” We have to say to them: “Ignorance never arose. It has no real being. That which is, is only vidya (knowledge).”
+*D.:* Why then do I not realise it?
 
-D.: Why then do I not realise it?
+M.: Because of the *samskaras*. However, find out who does not realise and what he does not realise. Then it will be clear that there is no *avidya* (ignorance).
 
-M.: Because of the samskaras. However, find out who does not realise and what he does not realise. Then it will be clear that there is no avidya (ignorance).
+**Talk 290.**
+Mr. Sagarmull, a Marwari gentleman, a cotton merchant from Bombay, seems learned in Srimad Bhagavad Gita. He asked:
 
-Talk 290. Mr. Sagarmull, a Marwari gentleman, a cotton merchant from Bombay, seems learned in Srimad Bhagavad Gita. He asked:
+*D.:* Srimad Bhagavad Gita says: *mattah parataram nanyat kinchit* and later on *sutre manigana iva* - “there is nothing different from Me” and later on “like beads strung on a thread.” If there is nothing but Sri Krishna, how can the world be said to be like “beads on a string?”
 
-Srimad Bhagavad Gita says: mattah parataram nanyat kinchit and
+M.: It means that the *sutra* (string) and the *mani* (jewel beads) are not apart from ME. There are no *maniganah* (row of beads) apart from the string (*sutra*) and no string apart from Me. The *sloka* emphasises unity and not multiplicity which is only on the surface.
 
-later on sutre manigana iva - “there is nothing different from Me”
+*D.:* Unity can only be after merging into Bhagavan. True - but till then there must be diversity. That is *samsara*.
 
-and later on “like beads strung on a thread.” If there is nothing but Sri
+M.: Where are we now? Are we apart from Bhagavan? The *samsara* and we are all in Bhagavan.
 
-Krishna, how can the world be said to be like “beads on a string?”
+*D.:* But that is the experience of the *jnanis*. Differentiation persists until *jnana* dawns. So there is *samsara* for me.
 
-M.: It means that the sutra (string) and the mani (jewel beads) are not apart from ME. There are no maniganah (row of beads) apart from the string (sutra) and no string apart from Me. The s/oka emphasises unity and not multiplicity which is only on the surface.
+M.: *Samskara* (predisposition) is *samsara* (cycle of births and deaths).
 
-D.: Unity can only be after merging into Bhagavan. True - but till then there must be diversity. That is samsara.
-
-M.: Where are we now? Are we apart from Bhagavan? The samsara and we are all in Bhagavan.
-
-D.: But that is the experience of the jnanis. Differentiation persists until jnana dawns. So there is samsara for me.
-
-M.: Samskara (predisposition) is samsara (cycle of births and deaths).
-
-D..: Right. “All this is Vasudeva” - this truth has been forgotten by us. So we cannot identify ourselves with God.
+*D.:* Right. “All this is Vasudeva” - this truth has been forgotten by us. So we cannot identify ourselves with God.
 
 M.: Where is forgetfulness?
 
-D.: Like svapna.
+*D.:* Like *svapna*.
 
-M.: Whose svapna?
+M.: Whose *svapna*?
 
-D.: Jivas.
+*D.:* Jiva's.
 

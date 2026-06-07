@@ -1,30 +1,30 @@
 ---
 Edited: true
-source: "[[Ashtavakra Gita]]"
-Page: "0"
+source: "[[The Ribhu Gita]]"
+Page: "156"
 image_name: IMG_1502.webp
 Source Type: []
 draft: false
 ShowImage: false
+title: "All is Brahman — Ribhu Gita 18.29–36"
 tags:
+  - consciousness
   - divine
   - knowledge-wisdom
   - liberation
-  - mind
-  - nature-creation
+  - non-duality
   - scripture
-title: "Having recognised oneself as the ocean the sage walks in..."
 ---
 
 18.29
 
 RIBHU GITA
 
-29. | What the finger points out as “this” is a deceased thought; “this” is only of words and speech.
+29. What the finger points out as “this” is a deceased thought; “this” is only of words and speech.
 
 30. “All” is supposition. There is no doubt of this. “All” is unreal. There is no uncertainty of this. “All” is insignificant. There is no doubt of this. “All” is delusion. There is no doubt of this.
 
-31. You and I are Brahman. There is no doubt of this. “This” is only Brahman. There is no uncertainty of this. “AII” is mind. There is no doubt of this. “All” is Brahman. There is no uncertainty in this.
+31. You and I are Brahman. There is no doubt of this. “This” is only Brahman. There is no uncertainty of this. “All” is mind. There is no doubt of this. “All” is Brahman. There is no uncertainty in this.
 
 32. If illusion manifests itself apart from Brahman, all is illusion from one end to the other. There is neither body nor the five elements nor the mind, which is a mere misconception.
 
@@ -32,7 +32,7 @@ RIBHU GITA
 
 34. If egoity exists, know that it is unreal. If conceit exists, it is unreal. There is no remembrance or thought, no doubt, and no decay.
 
-35. The prana. . if there is a nose, there is a sense of smell. If there is eye, there is form. If there are ears, there is the bhava of hearing.
+35. The prana . . if there is a nose, there is a sense of smell. If there is eye, there is form. If there are ears, there is the bhava of hearing.
 
 36. If there is skin, there is the existence of touch. If there is a tongue, there is the ability to taste. If there is a jiva, there is life. If there are feet, then walking is present.
 

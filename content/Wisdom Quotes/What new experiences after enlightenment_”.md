@@ -1,7 +1,7 @@
 ---
-Edited: false
+Edited: true
 source: "[[The Perfect Master, Vol 1]]"
-Page: "0"
+Page: "150"
 image_name: IMG_1155.webp
 Source Type:
   - screenshot
@@ -11,17 +11,17 @@ tags:
   - liberation
   - mind
   - silence
+  - consciousness
 ---
 
-occurring? What more? What new experiences after enlightenment?”
+…occurring? What more? What new experiences after enlightenment?”
 
-I said, "You don’t understand the word ‘enlightenment’. After enlightenment, nothing happens. All happening stops, disappears. One simply is.”
+I said, “You don’t understand the word ‘enlightenment’. After enlightenment, nothing happens. All happening stops, disappears. One simply is.”
 
-He could not believe it. He said, ”I cannot believe it. Something MUST be happening. Twenty years have passed... something MUST have happened! How can it be that nothing has happened?”
+He could not believe it. He said, “I cannot believe it. Something MUST be happening. Twenty years have passed… something MUST have happened! How can it be that nothing has happened?”
 
-I said to him, ”You will be puzzled, but let me say it as it is: Before enlightenment nothing had ever happened, because all that had happened was just writing on water. After enlightenment also nothing has happened, because time has disappeared. So the first happening and the last happening was enlightenment. Before that, all that happened was valueless; now it makes no sense, it was like a dream. And once you are awakened, nothing ever happens again. Not that the sun does not rise, not that the night is not full of stars, not that the flowers don’t bloom any more — ALL this goes on! But nothing happens in you. All remains calm and quiet.”
+I said to him, “You will be puzzled, but let me say it as it is: Before enlightenment nothing had ever happened, because all that had happened was just writing on water. After enlightenment also nothing has happened, because time has disappeared. So the first happening and the last happening was enlightenment. Before that, all that happened was valueless; now it makes no sense, it was like a dream. And once you are awakened, nothing ever happens again. Not that the sun does not rise, not that the night is not full of stars, not that the flowers don’t bloom any more — ALL this goes on! But nothing happens in you. All remains calm and quiet.”
 
 After enlightenment there is no biography. After enlightenment all is silence — because all is eternity. Things happen in time. Mind creates time because mind hankers for things to happen; mind hankers for excitements, something has to happen. If nothing is happening, mind becomes very uneasy. If good is not happening, let it be bad. If happiness is not happening, then let it be misery. But something must be there so one remains occupied. If nothing is happening, then you are at a loss — then why exist at all?
 
-So mind goes on creating new ways, goes on projecting new events. "Tomorrow I have to do this, the day after tomorrow I have to do this.” Mind cannot remain without events, so it projects events. And when events are projected time is created — psychological time. When nothing is projected, time disappears.
-
+So mind goes on creating new ways, goes on projecting new events. “Tomorrow I have to do this, the day after tomorrow I have to do this.” Mind cannot remain without events, so it projects events. And when events are projected time is created — psychological time. When nothing is projected, time disappears.

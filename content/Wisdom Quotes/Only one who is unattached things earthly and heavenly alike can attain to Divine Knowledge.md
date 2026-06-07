@@ -8,6 +8,8 @@ ShowImage: false
 tags:
   - divine
   - knowledge-wisdom
+  - detachment
+  - liberation
 ---
 
-The five pranas, and for that one requires detatchment. The road to Brahman Jnana (Divine Knowledge) is hard to tread. Not all can tread it. When it dawns there will be light. Only one who is unattached things earthly and heavenly alike can attain to Divine Knowledge.’ 
+and the five *pranas*, and for that one requires detachment. The road to *Brahman Jnana* [Divine Knowledge] is hard to tread. Not all can tread it. When it dawns there will be light. Only one who is unattached to things earthly and heavenly alike can attain to Divine Knowledge.’

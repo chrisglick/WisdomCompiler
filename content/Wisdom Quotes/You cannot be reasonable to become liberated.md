@@ -7,11 +7,13 @@ Source Type: []
 draft: false
 ShowImage: false
 tags:
+  - liberation
   - mind
-  - nature-creation
+  - non-duality
+  - self-knowledge
 title: "You cannot be reasonable to become liberated"
 ---
 
 affairs, and everything else in the universe is a reflection. You become both. It appears that you act out your humanhood, but you’re not human. And this is the most difficult state to explain. For it is beyond words. It is beyond thoughts. It is beyond reasoning.
 
-You cannot be reasonable to become liberated. It’s beyond every human faculty. That’s why you can’t think about it, and you cannot try to explain it. And you can’t even discuss it. All you can do is to do whatever you have to do to get rid of all your stuff. That’s all. And everything else will take care of itself. 
+You cannot be reasonable to become liberated. It’s beyond every human faculty. That’s why you can’t think about it, and you cannot try to explain it. And you can’t even discuss it. All you can do is to do whatever you have to do to get rid of all your stuff. That’s all. And everything else will take care of itself.

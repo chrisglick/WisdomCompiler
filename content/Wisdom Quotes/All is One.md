@@ -4,10 +4,12 @@ source: "[[Vagabond]]"
 Page: "0"
 image_name: IMG_1232.webp
 Source Type:
-tags:
-  - self-knowledge
 ShowImage: true
 draft: true
+tags:
+  - non-duality
+  - self-knowledge
+  - consciousness
 ---
 
-All is one.
+ALL IS ONE.

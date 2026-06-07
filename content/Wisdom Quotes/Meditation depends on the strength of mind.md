@@ -9,8 +9,8 @@ ShowImage: false
 tags:
   - meditation
   - mind
-  - service
+  - self-knowledge
 title: "Meditation depends on the strength of mind"
 ---
 
-Talks with Sri Ramana Maharshi  M.: Meditation depends on strength of mind. It must be unceasing, even when one is engaged in work. Particular time is meant for novices. 
+*M.:* Meditation depends on strength of mind. It must be unceasing, even when one is engaged in work. Particular time is meant for novices.

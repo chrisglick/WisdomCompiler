@@ -7,6 +7,8 @@ Source Type:
 ShowImage: true
 tags:
   - love-devotion
+  - suffering
+  - needs-review
 ---
 
-I figured out a way! With my deep love, I must... accept all of the pain! I just need to take it all in!
+I FIGURED OUT A WAY! WITH MY DEEP LOVE, I MUST... ACCEPT ALL OF THE PAIN! I JUST NEED TO TAKE IT ALL IN!

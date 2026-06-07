@@ -6,11 +6,11 @@ image_name: IMG_0141.webp
 Source Type: 
 ShowImage: false
 tags:
+  - consciousness
   - knowledge-wisdom
   - mind
-  - nature-creation
+  - non-duality
   - silence
-  - surrender
 ---
 
-Thus, Gautama Buddha silently transmitted to Mahakasyapa the doctrine that the One Mind, which is the substance of all things, is co-extensive with the Void and fills the entire world of phenomena. This is called the Law of All the Buddhas. Discuss it as you may, how can you even hope to approach the truth through words? Nor can it be perceived either subjectively or objectively. So full understanding can come to you only through an inexpressible mystery. The approach to it is called the Gateway of the Stillness beyond all Activity. If you wish to understand, know that a sudden comprehension comes when the mind has been purged of all the clutter of conceptual and discriminatory thought-activity. Those who seek the truth by means of intellect and learning only get further and further away from it. Not till your thoughts cease all their branching here and there, not till you abandon all thoughts of seeking for something.
+Thus, Gautama Buddha silently transmitted to Mahākāsyapa the doctrine that the One Mind, which is the substance of all things, is co-extensive with the Void and fills the entire world of phenomena. This is called the Law of All the Buddhas. Discuss it as you may, how can you even hope to approach the truth through words? Nor can it be perceived either subjectively or objectively. So full understanding can come to you only through an inexpressible mystery. The approach to it is called the Gateway of the Stillness beyond all Activity. If you wish to understand, know that a sudden comprehension comes when the mind has been purged of all the clutter of conceptual and discriminatory thought-activity. Those who seek the truth by means of intellect and learning only get further and further away from it. Not till your thoughts cease all their branching here and there, not till you abandon all thoughts of seeking for something.

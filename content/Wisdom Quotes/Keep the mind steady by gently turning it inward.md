@@ -1,30 +1,29 @@
 ---
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
-Page: "0"
+Page: "210"
 image_name: IMG_1405.webp
 Source Type: 
 draft: false
 ShowImage: false
+title: "Keep the mind steady by gently turning it inward"
 tags:
   - death-impermanence
   - guru-teacher
   - liberation
+  - mind
   - silence
-title: "Keep the mind steady by gently turning it inward"
 ---
 
-Talks with Sri Ramana Maharshi
-
-D.: What is the difference between fainting and sleep?
+*D.: What is the difference between fainting and sleep?*
 
 M.: Sleep is sudden and overpowers the person forcibly. A faint is slower and there is a tingle of resistance kept up. Realisation is possible in a faint and impossible in sleep.
 
-D.: What is the state just before death?
+*D.: What is the state just before death?*
 
 M.: When a person gasps for breath it indicates that the person is unconscious of this body; another body has been held and the person swings to and fro. While gasping there is a more violent gasp at intervals and that indicates the oscillation between the two bodies due to the present attachment not having been completely snapped. I noticed it in the case of my mother and of Palaniswami.
 
-D.: Does the new body involved in that state represent the next re- incarnation of the person?
+*D.: Does the new body involved in that state represent the next re-incarnation of the person?*
 
 M.: Yes. While gasping the person is in something like a dream, not aware of the present environment.
 
@@ -32,5 +31,5 @@ M.: Yes. While gasping the person is in something like a dream, not aware of the
 
 Evidently the soul passes through a series of subtle experiences, and Sri Bhagavan’s touch generates a current which turns the soul back from its wandering into the Heart.
 
-The samskaras, however, persist and a struggle is kept up between the spiritual force set up by His touch and the innate samskaras, until the latter are entirely destroyed and the soul is led into the Heart to rest in eternal Peace, which is the same as Liberation. Its entry into the Heart is signified by a peculiar sensation perceptible to the Mahatma - similar to the tinkling of a bell. When Maharshi attended on Palaniswami on his death-bed, He took away His hand after the above signal. But Palaniswami’s eyes opened immediately, signifying that the spirit had escaped through them, thereby indicating a higher rebirth, but not Liberation.
+The samskaras, however, persist and a struggle is kept up between the spiritual force set up by His touch and the innate samskaras, until the latter are entirely destroyed and the soul is led into the Heart to rest in eternal Peace, which is the same as Liberation. Its entry into the Heart is signified by a peculiar sensation perceptible to the Mahatma — similar to the tinkling of a bell. When Maharshi attended on Palaniswami on his death-bed, He took away His hand after the above signal. But Palaniswami’s eyes opened immediately, signifying that the spirit had escaped through them, thereby indicating a higher rebirth, but not Liberation.
 

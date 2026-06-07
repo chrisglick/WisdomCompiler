@@ -1,15 +1,18 @@
 ---
 Edited: true
 source: "[[Tripura Rahasya]]"
-Page: "0"
+Page: "57"
 image_name: IMG_1432.webp
 Source Type: []
 draft: false
 ShowImage: false
+title: "Whatever has the impress of misery on it cannot be real"
 tags:
   - death-impermanence
   - knowledge-wisdom
-title: "Whatever has the impress of misery on it cannot be real"
+  - suffering
 ---
 
-Chapter VII 57  20-22. Whatever has the impress of misery on it cannot be good. Such are wealth, children, wife, kingdom, treasury, army, fame, learning, intellect, body, beauty and prosperity. For they are all transient and already in the jaws of death, otherwise called time.  23. Can that be good which is only the seed ready to sprout as pain and grow into misery? 
+20-22. Whatever has the impress of misery on it cannot be good. Such are wealth, children, wife, kingdom, treasury, army, fame, learning, intellect, body, beauty and prosperity. For they are all transient and already in the jaws of death, otherwise called time.
+
+23. Can that be good which is only the seed ready to sprout as pain and grow into misery?

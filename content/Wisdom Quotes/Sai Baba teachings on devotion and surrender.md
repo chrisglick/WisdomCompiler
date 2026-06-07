@@ -1,7 +1,7 @@
 ---
 Edited: true
 source: "[[The Incredible Sai Baba]]"
-Page: "0"
+Page: "83"
 image_name: IMG_1650.webp
 Source Type: []
 draft: true
@@ -9,29 +9,22 @@ ShowImage: false
 tags:
   - divine
   - guru-teacher
-  - mind
-  - nature-creation
-  - silence
+  - love-devotion
+  - consciousness
+  - service
+  - surrender
 ---
 
-CHAPTER TEN 83
+**Bhagavan:**
 
-Bhagavan:
+8. *Śānti* is for purifying one’s own mind, *śakti* for the progress of society. Society should be raised through śakti and then *śānti* established.
 
-8. Santi is for purifying one’s own mind, sakti for the progress of society. Society should be raised through Sakti and then sdnti established.
+*Yoganatha:*
 
-LIS GuIT oT :- Soren FTWeMwwUyM BMonoSwybd, selps ConuGsHGeS Hen0uyd Geusiorid. Slmemownh sepasongs ww SH WMowr AMWDSlow HlenaAlmicic Coucir Gd.
+*9. Oh Great Sage, what is the supreme goal on earth to be attained by human society as a whole?*
 
-Yoganatha: 9. Oh Great Sage, what is the supreme goal on earth to be attained by human society as a whole?
-
-Guire Ts co:-
-
-AaflecpnrGon! LU sosHled wolls saps Wancri sad amuiCs WMOML_SHEMu suwirhlene wig?
-
-Bhagavan:
+**Bhagavan:**
 
 10. Brotherhood based on a sense of equality is the supreme goal to be attained by human society as a whole.
 
-LIS GuIT oT :- Foajortayhom sGars7l unorenGu wells saps LOGOS ALD QHaGs wom_spefu Ff Hloncouwmd.
-
-11. Through brotherhood, supreme peace will prevail among mankind and then this entire planet will flourish like a single household. sMecdc amhaGor Gurmeat sCarsguunrctow Auisennd 2 S50ErHs) Hoa. sIGurips BuUuYo! (p(palbd et AG_arGa: gafl Slap. 
+11. Through brotherhood, supreme peace will prevail among mankind and then this entire planet will flourish like a single household.

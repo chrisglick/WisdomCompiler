@@ -1,24 +1,19 @@
 ---
 Edited: true
 source: "[[Tripura Rahasya]]"
-Page: "0"
+Page: "178"
 image_name: IMG_1669.webp
 Source Type: []
 draft: false
 ShowImage: false
+title: "The Self alone is real all else is imagined"
 tags:
   - divine
   - knowledge-wisdom
   - mind
-title: "The Self alone is real all else is imagined"
+  - suffering
 ---
 
-178 Tripura Rahasya
+126. What is this bondage? How can the pure uncontaminated Absolute Self be shackled by what look like images in the mirror of the Self?
 
-126. What is this bondage? How can the pure un- contaminated Absolute Self be shackled by what look like
-
-images in the mirror of the Self?
-
-127-30. To imagine that the Self is shackled by mental projections is to imagine that the fire reflected in a mirror can burn it. There is absolutely no bondage beyond the foolish certainty that you are bound and the difference of entity created by mind. Until these two blemishes are washed away by the holy waters of investigation into the Self, neither I, nor Brahma the Creator, nor Vishnu, nor Siva, nor even Sri Tripura, the Goddess of Wisdom, can help that person to be emancipated. Therefore, Rama,
-
-surmount these two hurdles and remain eternally happy. 
+127-30. To imagine that the Self is shackled by mental projections is to imagine that the fire reflected in a mirror can burn it. There is absolutely no bondage beyond the foolish certainty that you are bound and the difference of entity created by mind. Until these two blemishes are washed away by the holy waters of investigation into the Self, neither I, nor Brahma the Creator, nor Vishnu, nor Siva, nor even Sri Tripura, the Goddess of Wisdom, can help that person to be emancipated. Therefore, Rama, surmount these two hurdles and remain eternally happy.

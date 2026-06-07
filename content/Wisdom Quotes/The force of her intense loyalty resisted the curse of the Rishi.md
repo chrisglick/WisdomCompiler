@@ -1,20 +1,21 @@
 ---
 Edited: true
 source: "[[Tripura Rahasya]]"
-Page: "0"
+Page: "xvi"
 image_name: IMG_1429.jpeg
 Source Type: []
 draft: false
 ShowImage: false
 tags:
+  - love-devotion
+  - faith-trust
   - death-impermanence
+  - liberation
 title: "The force of her intense loyalty resisted the curse of..."
 ---
 
 Dattatreya
 
-There was once a dutiful wife whose husband was, however, a licentious wretch. This couple unwittingly dis- turbed Rishi Mandavya, who had been placed on a spear by a misguided king. The Rishi, who was in agony but not dying, cursed them, saying that the husband would die at sunrise and the wife be left a widow. Widowhood is most abhorrent to a Hindu lady and considered worse than death. By the force of her intense loyalty to her husband she resisted the curse of the Rishi: The Sun could not rise, and the Gods were rendered impotent.
+There was once a dutiful wife whose husband was, however, a licentious wretch. This couple unwittingly disturbed Rishi Mandavya, who had been placed on a spear by a misguided king. The Rishi, who was in agony but not dying, cursed them, saying that the husband would die at sunrise and the wife be left a widow. Widowhood is most abhorrent to a Hindu lady and considered worse than death. By the force of her intense loyalty to her husband she resisted the curse of the Rishi: The Sun could not rise, and the Gods were rendered impotent.
 
 The Gods in council resolved to approach Anasuya — the ideal of wifehood — to ask her to prevail on the other
-
-xvi 

@@ -1,7 +1,7 @@
 ---
 Edited: true
 source: "[[The New Dawn]]"
-Page: "0"
+Page: "318"
 image_name: IMG_1309.webp
 Source Type: []
 ShowImage: false
@@ -21,5 +21,5 @@ Questions and answers are just intellectual. You need a real encounter with exis
 
 Life is such an eternal miracle, and it opens its doors only to the magic of silence. Whoever has understood silence has known the science, the magic, the art, the knack of entering into reality as if it is your own home. In fact it is.
 
-Questions and answers will keep you outside the temple and will never allow you to enter the temple. Leave questions and answers where people leave their shoes, and enter into the silence of the temple. Silence is the way. That will bring you a new dawn, a new explosion of light, an overwhelming dance — a dance in which the stars and the trees and the ocean will be your partners. The whole existence will be your music. I don’t teach anything about God, I teach simply about experiencing the dance of this mysterious life ... and you will know about God. God is not a person, but only the fragrance when you have come
+Questions and answers will keep you outside the temple and will never allow you to enter the temple. Leave questions and answers where people leave their shoes, and enter into the silence of the temple. Silence is the way. That will bring you a new dawn, a new explosion of light, an overwhelming dance – a dance in which the stars and the trees and the ocean will be your partners. The whole existence will be your music. I don’t teach anything about God, I teach simply about experiencing the dance of this mysterious life ... and you will know about God. God is not a person, but only the fragrance when you have come
 

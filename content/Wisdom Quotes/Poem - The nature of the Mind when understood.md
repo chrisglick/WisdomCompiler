@@ -9,6 +9,11 @@ tags:
   - liberation
   - mind
   - nature-creation
+  - non-duality
+  - knowledge-wisdom
 ---
 
-The nature of the Mind when understood, No human speech can compass or disclose. Enlightenment is naught to be attained,  And he that gains it does not say he knows. 
+The nature of the Mind when understood,
+No human speech can compass or disclose.
+Enlightenment is naught to be attained,
+And he that gains it does not say he knows.

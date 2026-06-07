@@ -1,20 +1,20 @@
 ---
 Edited: true
 source: "[[Vidyeshvara Samhita]]"
-Page: "0"
+Page: "79"
 image_name: IMG_0123.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
   - service
+  - scripture
+  - meditation
 title: "Vidyeshvara Samhita on the four castes"
 ---
 
-Vidyefvarasamhita 79
+others are mere Kṣatriyas. A merchant dealing in grains etc. is a Vaiśya and others of his caste are mere “Vaṇiks”
 
-others are mere Ksatriyas. A merchant dealing in grains etc. is a Vaisya and others of his caste are mere ‘‘Vaniks”’
+6. A person rendering service to Brahmins, Kṣatriyas and Vaiśyas is called a Śūdra. A working agriculturist is a Vṛṣala and the others are Dasyus.
 
-6. A person rendering service to Brahmins, Ksatriyas and Vaisyas is called a Sidra. A working agriculturist is a Vrsala and the others are Dasyus.
-
-7. It is the duty of everyone of the four castes to get up early in the morning and sit facing the east and medi- tate on gods. He shall then think about the various acts of virtue, of matters regarding monetary dealings, the problems connected with them, the sources of income and the items of expenditure. 
+7. It is the duty of everyone of the four castes to get up early in the morning and sit facing the east and meditate on gods. He shall then think about the various acts of virtue, of matters regarding monetary dealings, the problems connected with them, the sources of income and the items of expenditure.

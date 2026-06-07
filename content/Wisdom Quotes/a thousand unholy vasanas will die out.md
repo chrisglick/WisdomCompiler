@@ -7,10 +7,9 @@ Source Type:
   - Meme
 ShowImage: true
 tags:
-  - death-impermanence
-  - guru-teacher
+  - meditation
   - mind
+  - liberation
+  - guru-teacher
 ---
-![](Images/44395896-a27c-41c5-a96a-756eb0f5fb79.webp)
-
-“Still the mind perfectly - even for a few minutes; a thousand unholy vasanas will die out.”
+“Still the mind perfectly — even for a few minutes; a thousand unholy vasanas will die out.”

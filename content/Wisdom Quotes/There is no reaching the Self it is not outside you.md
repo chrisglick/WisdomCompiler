@@ -9,13 +9,14 @@ ShowImage: false
 tags:
   - ego
   - mind
+  - self-knowledge
+  - non-duality
+  - liberation
 title: "There is no reaching the Self it is not outside you"
 ---
 
-Talks with Sri Ramana Maharshi
-
 Blankness is the evil result of searching the mind. The mind must be cut off, root and branch. See who the thinker is, who the seeker is. Abide as the thinker, the seeker. All thoughts will disappear.
 
-D.: Then there will be the ego - the thinker.
+*D.: Then there will be the ego — the thinker.*
 
-M.: That ego is pure Ego purged of thoughts. It is the same as the Self. So long as false identification persists doubts will persist, questions will arise, there will be no end of them. Doubts will cease only when the non-self is put an end to. That will result in realisation of the Self. There will remain no other there to doubt or ask. All these doubts should be solved within oneself. No amount of words will satisfy. Hold the thinker. Only when the thinker is not held do objects appear outside or doubts arise in the mind. 
+M.: That ego is pure Ego purged of thoughts. It is the same as the Self. So long as false identification persists doubts will persist, questions will arise, there will be no end of them. Doubts will cease only when the non-self is put an end to. That will result in realisation of the Self. There will remain no other there to doubt or ask. All these doubts should be solved within oneself. No amount of words will satisfy. Hold the thinker. Only when the thinker is not held do objects appear outside or doubts arise in the mind.

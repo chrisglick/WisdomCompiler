@@ -1,5 +1,5 @@
 ---
-Edited: false
+Edited: true
 source: "[[Swami Ishwarananda Giriji Maharaj]]"
 Page: "0"
 image_name: 66ca9034-5fd4-4d0c-93c1-6b15b02c40c5.webp
@@ -9,7 +9,7 @@ draft: true
 ShowImage: true
 tags:
   - guru-teacher
+  - knowledge-wisdom
+  - surrender
 ---
-![](Images/66ca9034-5fd4-4d0c-93c1-6b15b02c40c5.webp)
-
-"The Guru nourishes the shishya by  Shabda, Drishti, Sparsha and Sankalp."  ~ SWAMI SHRI ISHWARANANDA GIRI 
+"The Guru nourishes the shishya by Shabda, Drishti, Sparsha and Sankalp."

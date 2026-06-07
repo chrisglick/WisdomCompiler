@@ -7,9 +7,10 @@ Source Type: []
 tags:
   - divine
   - love-devotion
+  - needs-review
 draft: false
 ShowImage: false
 title: "The Almighty has no address nor location where He can be..."
 ---
 
-The Almighty has no address nor location where He can be found. @ 
+The Almighty has no address nor location where He can be found.

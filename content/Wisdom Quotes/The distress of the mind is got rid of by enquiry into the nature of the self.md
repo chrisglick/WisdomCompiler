@@ -6,12 +6,12 @@ image_name: IMG_1368.webp
 Source Type: 
 ShowImage: false
 tags:
+  - consciousness
   - knowledge-wisdom
   - mind
-  - nature-creation
   - self-knowledge
 ---
 
-MANDAVYA said:
+MĀNDAVYA said:
 
-All mental weaknesses come to an end by self-effort based on the wisdom which arises in one who is firmly rooted in self-knowledge. The distress of the mind is got rid of by enquiry into the nature of the self. When you have gained self-knowledge and when your consciousness has infinitely expanded, your mind no longer falls into the cesspool of this world. Not till one renounces everything is self-knowledge gained: when all points of view are abandoned, what remains is the self. This is true even of life in this world: one does not get what one desires unless the obstacle to it is removed. It is even more so in self-knowledge. 
+All mental weaknesses come to an end by self-effort based on the wisdom which arises in one who is firmly rooted in self-knowledge. The distress of the mind is got rid of by enquiry into the nature of the self. When you have gained self-knowledge and when your consciousness has infinitely expanded, your mind no longer falls into the cesspool of this world. **Not till one renounces everything is self-knowledge gained: when all points of view are abandoned, what remains is the self.** This is true even of life in this world: one does not get what one desires unless the obstacle to it is removed. It is even more so in self-knowledge.

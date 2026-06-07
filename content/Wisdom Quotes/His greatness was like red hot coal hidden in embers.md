@@ -8,7 +8,9 @@ draft: false
 ShowImage: false
 tags:
   - silence
+  - guru-teacher
+  - consciousness
 title: "His greatness was like red hot coal hidden in embers"
 ---
 
-9. His greatness was like red hot coal hidden in embers. Every inch of his body filled one with exhilaration so that I had a refreshing feeling in his mere proximity.  [Note: The sensation of peace or of ananda is the symptom of satsanga.] 
+9. His greatness was like red hot coal hidden in embers. Every inch of his body filled one with exhilaration so that I had a refreshing feeling in his mere proximity. [*Note:* The sensation of peace or of *ananda* is the symptom of *satsanga*.]

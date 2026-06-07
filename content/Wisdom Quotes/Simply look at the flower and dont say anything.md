@@ -1,15 +1,17 @@
 ---
 Edited: true
 source: "[[Coming Home to Yourself]]"
-Page: "0"
+Page: "105"
 image_name: IMG_1099.webp
 Source Type: []
 draft: false
 ShowImage: false
 tags:
-  - love-devotion
   - mind
   - nature-creation
+  - knowledge-wisdom
+  - silence
+  - needs-review
 title: "Simply look at the flower and dont say anything"
 ---
 
@@ -19,8 +21,8 @@ So the only way to reach truth is in learning how to be immediate in your vision
 
 If you are too excited then you are intoxicated, then you are not in your senses. Then whatever you see is just your projection. And there are as many worlds as there are minds, because every mind lives in its own world. You can laugh at others’ foolishnesses, but unless you start laughing at your own, you will not be able to become a man of Tao, a man of nature, a man of truth. So what to do?
 
-Try in small things not to bring the mind in. You look at a flower—simply look. Don't say, “Beautiful! Ugly!” Don’t say anything. Don’t bring words, don’t verbalize. Simply look. The mind will feel uncomfortable, uneasy. The mind would like to say something. Simply say to the mind, “Be silent! Let me see. I will just look.”
+Try in small things not to bring the mind in. You look at a flower—simply look. Don’t say, “Beautiful! Ugly!” Don’t say anything. Don’t bring words, don’t verbalize. Simply look. The mind will feel uncomfortable, uneasy. The mind would like to say something. Simply say to the mind, “Be silent! Let me see. I will just look.”
 
 In the beginning it will be difficult, but start with things in which you are not too much involved. It will be difficult to look at your wife without bringing words in. You are too much involved, too much emotionally attached. Angry or in love, but too much involved.
 
-Look at things that are neutral—a rock, a flower, a tree, the sun rising, a bird in flight, a 
+Look at things that are neutral—a rock, a flower, a tree, the sun rising, a bird in flight, a

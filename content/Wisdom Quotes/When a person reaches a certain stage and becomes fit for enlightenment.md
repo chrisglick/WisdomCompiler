@@ -9,6 +9,7 @@ tags:
   - divine
   - guru-teacher
   - liberation
+  - self-knowledge
 ---
 
-When a person reaches a certain stage and becomes fit for enlightenment, the same God whom he was worshipping comes as Guru and leads him on. That Guru comes only to tell him. ‘The God is within yourself. Dive within and realise.’ God, Guru and the Self are the same.  Ramana Maharshi 
+When a person reaches a certain stage and becomes fit for enlightenment, the same God whom he was worshipping comes as Guru and leads him on. That Guru comes only to tell him. ‘The God is within yourself. Dive within and realise.’ God, Guru and the Self are the same.

@@ -5,11 +5,15 @@ Page: "0"
 image_name: 5ba89a54-201c-4c7b-8ebd-4b9dc870534f.webp
 Source Type:
   - Meme
-ShowImage: true
+ShowImage: false
 tags:
   - knowledge-wisdom
   - mind
+  - self-knowledge
 ---
-![](Images/5ba89a54-201c-4c7b-8ebd-4b9dc870534f.webp)
-
-It is true wisdom for the mind to turn away From outer objects and behold Its own effulgent form.
+It is true wisdom
+For the mind
+to turn away
+From outer objects
+and behold
+Its own effulgent form

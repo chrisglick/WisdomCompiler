@@ -9,6 +9,8 @@ ShowImage: true
 tags:
   - nature-creation
   - silence
+  - self-knowledge
+  - non-duality
 ---
 ![](Images/32a6ef5a-eda5-409c-b15f-f22ff51eb6b2.webp)
 

@@ -1,18 +1,17 @@
 ---
 Edited: true
 source: "[[The Vimalakirti Sutra]]"
-Page: "0"
+Page: "554c"
 image_name: IMG_0050.webp
 Source Type:
 ShowImage: false
 tags:
+  - consciousness
   - death-impermanence
-  - divine
   - liberation
-  - meditation
-  - mind
+  - non-duality
   - scripture
-  - service
+  - suffering
 ---
 
 “Attaining the Buddha’s voice, one will be good in [acts of] body, speech, and mind. Attaining the deportments of the Buddha, one will profoundly cultivate the good qualities, with one’s practice becoming increasingly excellent. With the Mahayana teaching, one will become a bodhisattva monk. Without mental laxity, one will not fail in the host of goods. Practicing a Dharma such as this, one is called ‘a bodhisattva who does not exhaust the conditioned.’

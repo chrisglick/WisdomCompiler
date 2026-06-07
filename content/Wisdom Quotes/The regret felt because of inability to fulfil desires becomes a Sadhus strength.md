@@ -7,6 +7,8 @@ Source Type: []
 tags:
   - guru-teacher
   - self-knowledge
+  - suffering
+  - detachment
 draft: false
 ShowImage: false
 title: "The regret felt because of inability to fulfil desires..."

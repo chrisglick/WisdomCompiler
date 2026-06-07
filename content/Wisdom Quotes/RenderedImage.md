@@ -1,26 +1,28 @@
 ---
-Edited: false
-source: ""
+Edited: true
+source: "[[Ramana Maharshi]]"
 Page: "0"
 image_name: RenderedImage.webp
 Source Type: []
 draft: true
 ShowImage: false
+title: "Ocean of nectar full of grace, engulfing the universe"
 tags:
+  - consciousness
   - divine
   - guru-teacher
   - love-devotion
   - meditation
-  - mind
-  - nature-creation
+  - self-knowledge
+  - non-duality
 ---
 
-“Ocean of nectar full of grace, engulfing the universe, universal splendour, Oh Arunachala the supreme Seif, be thou the sun and open the lotus of my Heart in bliss.
+“Ocean of nectar full of grace, engulfing the universe, universal splendour, Oh Arunachala the supreme Self, be thou the sun and open the lotus of my Heart in bliss.
 
-Oh Arunachala, in thee the picture of the universe is formed, has its stay and is dissolved. This is the sublime truth. Thou art the inner Self who dances in the Heart as |-/, Heart is thy name, my Lord!”
+Oh Arunachala, in thee the picture of the universe is formed, has its stay and is dissolved. This is the sublime truth. Thou art the inner Self who dances in the Heart as I-I. Heart is thy name, my Lord!”
 
-He who turns inward with untroubled mind to search where the consciousness of ‘!’ arises, realizes the Self and rests in thee Arunachala, like a river when it joins the ocean.
+He who turns inward with untroubled mind to search where the consciousness of ‘I’ arises, realizes the Self and rests in thee Arunachala, like a river when it joins the ocean.
 
 Abandoning the outer world, with mind and breath control to meditate on thee within, the yogi sees the light, Oh Arunachala, and finds his delight in thee.
 
-He who dedicates his mind to thee, and seeing thee always beholds the universe as thy figure, he who at all times glorifies thee and loves thee as none other than the Self, he is the master without rival, being one with thee, Arunachala, eternally in thy bliss.” 
+He who dedicates his mind to thee, and seeing thee always beholds the universe as thy figure, he who at all times glorifies thee and loves thee as none other than the Self, he is the master without rival, being one with thee, Arunachala, eternally in thy bliss.”

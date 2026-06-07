@@ -6,14 +6,16 @@ image_name: IMG_0167.webp
 Source Type: []
 draft: false
 ShowImage: false
+title: "The doctrine of Advaita Non-duality taught by the..."
 tags:
   - divine
   - love-devotion
   - nature-creation
+  - non-duality
   - service
-title: "The doctrine of Advaita Non-duality taught by the..."
+  - needs-review
 ---
 
 All modes and levels of doctrine are comprised within Hinduism, all of them legitimate and corresponding to the various modes of approach required by people of varying temperament and development. The approach through love and worship of a Personal God exists, as it does in the Western or Semitic religions. So also does the approach through service, seeing God manifested in all His creatures and worshipping Him by serving them. However, the recognition of Pure Being as one’s Self and the Self of the universe and of all beings is the supreme and ultimate Truth, transcending all other levels of doctrine without denying their truth on their own plane. This is the doctrine of Advaita, Non-duality, taught by the ancient Rishis and pre-eminently by Shankaracharya. It is the simplest as well as the most profound, being the ultimate truth beyond all the complexities of cosmology.
 
-Non-duality means that only the Absolute is. The entire cosmos exists within the Absolute, having no intrinsic reality but merely manifesting the Absolute which, however, remains 
+Non-duality means that only the Absolute is. The entire cosmos exists within the Absolute, having no intrinsic reality but merely manifesting the Absolute which, however, remains

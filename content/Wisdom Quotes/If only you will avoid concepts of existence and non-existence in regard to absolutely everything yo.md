@@ -8,8 +8,8 @@ ShowImage: false
 tags:
   - liberation
   - mind
-  - nature-creation
-  - service
+  - non-duality
+  - consciousness
 ---
 
-If you wish to experience Enlightenment yourselves, you must not indulge in such conceptions. They are all environmental Dharmas concerning things which are and things which are not, based on existence and non-existence. If only you will avoid concepts of existence and non-existence in regard to absolutely everything, you will then perceive THE DHARMA. 
+…what is said to them. If you wish to experience Enlightenment yourselves, you must not indulge in such conceptions. They are all environmental Dharmas concerning things which are and things which are not, based on existence and non-existence. If only you will avoid concepts of existence and non-existence in regard to absolutely everything, you will then perceive the Dharma.

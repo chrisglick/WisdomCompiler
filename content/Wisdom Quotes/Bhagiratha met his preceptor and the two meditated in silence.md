@@ -6,14 +6,15 @@ image_name: IMG_1462.webp
 Source Type: []
 draft: false
 ShowImage: false
-tags:
-  - mind
-  - nature-creation
-  - service
-  - silence
 title: "Bhagiratha met his preceptor and the two meditated in..."
+tags:
+  - meditation
+  - mind
+  - silence
+  - detachment
+  - liberation
 ---
 
-Bhagiratha once again met his preceptor and the two of them roamed the coun- try, all the time engaged in spiritual dialogue: "Why do we still carry the burden of this physical body? On the other hand, why should it be discarded? Let it be as long as it will be!” They were devoid of sorrow and of rejoicing, nor could they be said to adhere to the middle path. Even if the gods and sages offered them wealth and psychic powers. they spurned them as blades of dry grass.
+Bhagiratha once again met his preceptor and the two of them roamed the country, all the time engaged in spiritual dialogue: “Why do we still carry the burden of this physical body? On the other hand, why should it be discarded? Let it be as long as it will be!” They were devoid of sorrow and of rejoicing, nor could they be said to adhere to the middle path. Even if the gods and sages offered them wealth and psychic powers, they spurned them as blades of dry grass.
 
-In a certain kingdom the king had died without an heir, and the ministers Were in search of a suitable ruler. Bhagiratha, clad in a loin-cloth, happened to be in that kingdom. The ministers declared that he was the person fit to ascend the throne, and surrounded him. Bhagiratha mounted the royai elephant. Soon he was crowned king. While he was ruling that kingdom the people of his previous king- dom approached him once again and prayed that he should rule that kingdom also. Bhagiratha accepted. Thus he became the emperor of the whole world. Remaining at peace within himself, with his mind silenced, free from desires and jealousy, he engaged himself in doing appropriate action in circumstances as they arose. 
+In a certain kingdom the king had died without an heir, and the ministers were in search of a suitable ruler. Bhagiratha, clad in a loin-cloth, happened to be in that kingdom. The ministers declared that he was the person fit to ascend the throne, and surrounded him. Bhagiratha mounted the royal elephant. Soon he was crowned king. While he was ruling that kingdom the people of his previous kingdom approached him once again and prayed that he should rule that kingdom also. Bhagiratha accepted. Thus he became the emperor of the whole world. **Remaining at peace within himself, with his mind silenced, free from desires and jealousy, he engaged himself in doing appropriate action in circumstances as they arose.**

@@ -6,27 +6,29 @@ image_name: IMG_1157.webp
 Source Type: []
 draft: false
 ShowImage: false
+title: "I am cool you throw fire at me and it becomes cool"
 tags:
+  - divine
   - ego
   - guru-teacher
-  - nature-creation
-title: "I am cool you throw fire at me and it becomes cool"
+  - non-duality
+  - suffering
 ---
 
-enemies! We want to uproot you and your doctrine completely. And you are feeling sorry for us?”
+enemies! We want to uproot you and your doctrine completely. And you are feeling sorry for us?"
 
-And Buddha said, "Yes. You may be hostile from your side. For example,” Buddha said, "you can throw a burning torch into the river — it remains fire TILL it touches the river. The moment it touches the river, it cools down. I am cool. You throw fire at me — it remains fire from your side, but the moment it touches me it becomes cool. It disappears! I am not hurt, you cannot hurt me — because the one who used to be hurt is no more. That ego is gone.
+And Buddha said, "Yes. You may be hostile from your side. For example," Buddha said, "you can throw a burning torch into the river — it remains fire TILL it touches the river. The moment it touches the river, it cools down. I am cool. You throw fire at me — it remains fire from your side, but the moment it touches me it becomes cool. It disappears! I am not hurt, you cannot hurt me — because the one who used to be hurt is no more. That ego is gone.
 
-”| have searched for it, and it has not been found. There is nobody inside me — how can you be hostile to me? I am not — how can you be hostile to me?”
+"I have searched for it, and it has not been found. There is nobody inside me — how can you be hostile to me? I am not — how can you be hostile to me?"
 
-THE DISCIPLE SAID, "THESE PEOPLE HAVE BEEN HOSTILE.”
+THE DISCIPLE SAID, "THESE PEOPLE HAVE BEEN HOSTILE."
 
-THE PEOPLE EXCLAIMED, "THAT IS NOT TRUE: WE WERE, ON THE CONTRARY, DOING HIM HONOUR FOR YOUR SAKE.”
+THE PEOPLE EXCLAIMED, "THAT IS NOT TRUE: WE WERE, ON THE CONTRARY, DOING HIM HONOUR FOR YOUR SAKE."
 
-"WHAT DID THEY SAY?” ASKED THE MASTER.
+"WHAT DID THEY SAY?" ASKED THE MASTER.
 
-"THEY SAID, HAIL, GREAT SCHOLAR!’ | WAS TELLING THEM THAT IT IS THE IGNORANCE OF THE SCHOLARS WHICH IS OFTEN RESPONSIBLE FOR THE CONFUSION AND DESPERATION OF MAN...
+"THEY SAID, 'HAIL, GREAT SCHOLAR!' I WAS TELLING THEM THAT IT IS THE IGNORANCE OF THE SCHOLARS WHICH IS OFTEN RESPONSIBLE FOR THE CONFUSION AND DESPERATION OF MAN...
 
-"And they told me, ’Hail, Great Scholar!’ And | was condemning scholars — as Sufis have always been doing — | was condemning scholars and scholarship. And these foolish people, they say, ‘Hail, Great Scholar!’ This is an insult. This is being hostile towards me.
+"And they told me, 'Hail, Great Scholar!' And I was condemning scholars — as Sufis have always been doing — I was condemning scholars and scholarship. And these foolish people, they say, 'Hail, Great Scholar!' This is an insult. This is being hostile towards me.
 
-”lam saying that scholars are the persons who have created the misery in the world, and they called me a scholar! These people have to be put right.” 
+"I am saying that scholars are the persons who have created the misery in the world, and they called me a scholar! These people have to be put right."

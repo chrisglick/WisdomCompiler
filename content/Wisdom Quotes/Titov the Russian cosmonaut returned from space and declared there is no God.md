@@ -9,11 +9,13 @@ ShowImage: false
 tags:
   - divine
   - nature-creation
+  - faith-trust
+  - needs-review
 title: "Titov the Russian cosmonaut returned from space and..."
 ---
 
-Titov, the Russian cosmonaut, returned from space and was asked by Nikita Khrushchev privately whether he had seen anyone there. The story goes that he replied, ”Yes, | really did see God,” to which Khrushchev answered: ”! know that already, but you know our policy, so please don’t tell anybody.”
+Titov, the Russian cosmonaut, returned from space and was asked by Nikita Khrushchev privately whether he had seen anyone there. The story goes that he replied, “Yes, I really did see God,” to which Khrushchev answered: “I know that already, but you know our policy, so please don’t tell anybody.”
 
-Later Titov was with the patriarch of the Russian Orthodox Church. The patriarch asked him whether he saw anyone in space. Titov, faithful to his instructions, replied, ’No, there was no one.”
+Later Titov was with the patriarch of the Russian Orthodox Church. The patriarch asked him whether he saw anyone in space. Titov, faithful to his instructions, replied, “No, there was no one.”
 
-"| know that already,” replied the church leader, "but you know our policy, so please don’t tell anybody.” 
+“I know that already,” replied the church leader, “but you know our policy, so please don’t tell anybody.”

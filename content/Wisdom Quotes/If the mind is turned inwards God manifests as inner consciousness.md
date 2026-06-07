@@ -1,30 +1,38 @@
 ---
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
-Page: "0"
+Page: "234"
 image_name: IMG_1411.webp
 Source Type: 
 draft: true
 ShowImage: false
 tags:
+  - consciousness
   - divine
   - meditation
   - mind
-  - nature-creation
-  - scripture
+  - non-duality
 ---
 
-LY... SALLY UIW SHU AUIDS TalWLIdl ALU ULIIELOELIU TLUTITT UL OUI.
+*D.: Are the sheaths material and different from the Self?*
 
-M.: There is no difference between matter and spirit. Modern science admits that all matter is energy. Energy is power or force (sakti). Therefore all are resolved in Siva and Sakti i.e., the Self and the Mind.
+M.: There is no difference between matter and spirit. Modern science admits that all matter is energy. Energy is power or force (*sakti*). Therefore all are resolved in Siva and *Sakti* i.e., the Self and the Mind.
 
-The kosas are mere appearances. There is no reality in them as such. D.: How many hours a day should one devote to meditation? M.: Your very nature is meditation. D.: It will be so when ripe, but not now.
+The *kosas* are mere appearances. There is no reality in them as such.
+
+*D.: How many hours a day should one devote to meditation?*
+
+M.: Your very nature is meditation.
+
+*D.: It will be so when ripe, but not now.*
 
 M.: You become conscious of it later. That does not mean that your nature is now different from meditation.
 
-D.: What about practice? M.: Meditation must always be practised.
+*D.: What about practice?*
 
-D.: A Persian mystic says: “There is nothing but God.” The Quran says: “God is immanent in all.”
+M.: Meditation must always be practised.
+
+*D.: A Persian mystic says: “There is nothing but God.” The Quran says: “God is immanent in all.”*
 
 M.: There is no ‘all’, apart from God, for Him to pervade. He alone is.
 

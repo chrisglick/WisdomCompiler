@@ -6,20 +6,18 @@ image_name: IMG_1200.webp
 Source Type: 
 ShowImage: false
 tags:
-  - divine
   - ego
-  - guru-teacher
+  - knowledge-wisdom
+  - liberation
   - mind
-  - nature-creation
   - service
-  - silence
 ---
 
-14 Chapter Concerning the Two Karmas— Good and Bad (Iru Vinai Tiran)
+14 Chapter Concerning the Two Karmas — Good and Bad (Iru Vinai Tiran)
 
-570. So long as one thinks ‘I, an individual, am existing’, it is proper to accept the theory that — on account of egoism, the attachment to the body - one certainly has to do [with a sense of doership] the two kinds of karma [good and bad] and to experience their fruits.
+570. So long as one thinks ‘I, an individual, am existing’, it is proper to accept the theory that — on account of egoism, the attachment to the body — one certainly has to do [with a sense of doership] the two kinds of karma [good and bad] and to experience their fruits.
 
-Sadhu Om: No one can deny the karma theory — the theory that everyone has to do actions [karmas] and reap [experience] their fruits — so long as there exists doership, which is the very nature of the ego. Refer also to verse 38 of Ulladu Narpadu in which Sri Bhagavan says, “Only if we are the doer of actions, will we have to experience the resulting fruit...”.
+Sadhu Om: No one can deny the karma theory — the theory that everyone has to do actions [karmas] and reap [experience] their fruits — so long as there exists doership, which is the very nature of the ego. Refer also to verse 38 of Ulladu Narpadu in which Sri Bhagavan says, “Only if we are the doer of actions, will we have to experience the resulting fruit…”.
 
 571. God, the Lord of the soul, has appointed the ghost, the ego, as a strange gaoler [or sentry] to protect the body and extend its lifetime until the soul experiences, without missing a bit, all the fruits of karma allotted to it in prarabdha.
 

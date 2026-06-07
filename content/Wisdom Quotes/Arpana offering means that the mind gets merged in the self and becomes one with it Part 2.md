@@ -10,7 +10,7 @@ tags:
   - guru-teacher
   - meditation
   - mind
-  - nature-creation
+  - non-duality
   - self-knowledge
   - surrender
 ---
@@ -20,4 +20,3 @@ should go on struggling unceasingly. It is only after trying again and again tha
 After that, he explained to us about Visishtadvaita: “When some devotees sang in terms of Advaita, some commentators twisted the meaning, interpreting it in terms of Visishtadvaita. That is all; it is nothing else. That is also the opinion of all the ancients. After all, what exactly is meant by Visishtadvaita? That which is Visishta (distinguished) and best is Vishnu. That is Ishwara, Sadasiva, Brahma and all.
 
 That which is, is only One. Some Vaishnavaites give it a name and a shape and do not admit that there could be any Sayuyjyam (absorption in the Supreme Being) except by way of living in the same world (Salokyam), in the same vicinity (Sameepyam), and the same form (Sarupyam) as the Supreme Being. They say, arpana, arpana (offering, offering). How can there be arpana unless there is a thing called ‘I’? Complete surrender cannot come about unless one knows who one is.
-

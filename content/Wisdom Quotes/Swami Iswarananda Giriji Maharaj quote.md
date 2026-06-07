@@ -1,15 +1,16 @@
 ---
-Edited: false
-source: ""
+Edited: true
+source: "[[Swami Ishwarananda Giriji Maharaj]]"
 Page: "0"
 image_name: 179c2fae-9f4d-4887-b665-63e1ac8fd484-1.webp
 Source Type:
   - Meme
 draft: true
-ShowImage: true
+ShowImage: false
 tags:
   - guru-teacher
+  - mind
+  - detachment
+  - self-knowledge
 ---
-![](Images/179c2fae-9f4d-4887-b665-63e1ac8fd484-1.webp)
-
-SHRI SAMVIT GNANANANDA KENDRA MAHESHWAR  
+"Let us change our attitudes and absorb ourselves not in happenings, but how we acquit ourselves in responding to them."

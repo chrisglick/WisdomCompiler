@@ -1,6 +1,6 @@
 ---
 Edited: true
-source: "[[sri ramana gita]]"
+source: "[[Sri Ramana Gita]]"
 Page: "47"
 image_name: IMG_0963.webp
 Source Type: 
@@ -13,4 +13,10 @@ tags:
 title: "when dhyana becomes deep and firm it leads to sahaja sthiti"
 ---
 
-When they become pure, the breath gets controlled gradually. Complete control of breath is called suddha kumbhaka. Others, that is, jnanis, define rechaka as giving up the idea ‘I-am-the-body’, pooraka as the quest for the Self, and kumbhaka as sahaja-sthiti or abidance in the Self. Also by repetition of mantras, the mind gets controlled. Then the mantra becomes one with the mind and also with the prana. When the syllables of the mantra become one with the prana, it is termed dhyana and when dhyana becomes deep and firm it leads to sahaja sthiti.
+When they become pure, the breath gets controlled gradually. Complete control of breath is called *suddha kumbhaka*.
+
+Others, that is, *jnānis*, define *rechaka* as giving up the idea ‘I-am-the-body’, *pooraka* as the quest for the Self, and *kumbhaka* as *sahaja-sthiti* or abidance in the Self.
+
+Also by repetition of *mantras*, the mind gets controlled. Then the *mantra* becomes one with the mind and also with the *prāna*.
+
+When the syllables of the *mantra* become one with the *prāna*, it is termed *dhyāna* and when *dhyāna* becomes deep and firm it leads to *sahaja sthiti*.

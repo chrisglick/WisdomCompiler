@@ -13,6 +13,4 @@ tags:
   - self-knowledge
   - surrender
 ---
-![](Images/662b6b4f-ad57-4bce-af6a-8c2b173bacf7.webp)
-
 Self-surrender is the same as Self-knowledge. The ego submits only when it recognizes the Higher Power.

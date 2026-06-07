@@ -1,11 +1,12 @@
 ---
 Edited: true
 source: "[[Vagabond]]"
-Page: "0"
+Page: "95"
 image_name: IMG_1219.webp
 Source Type:
 tags:
   - self-knowledge
+  - mind
 ShowImage: true
 ---
 

@@ -7,7 +7,8 @@ Source Type:
 tags:
   - scripture
   - nature-creation
+  - needs-review
 ShowImage: false
 ---
 
-1. Each gliding along in its orbit (Surah al-Anbiya, 21:34). [Publisher] 
+Each gliding along in *its* orbit (*Sūrah al-Anbiyā'*, 21:34). [Publisher]

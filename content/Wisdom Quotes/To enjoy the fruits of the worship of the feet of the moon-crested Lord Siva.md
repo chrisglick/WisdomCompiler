@@ -10,6 +10,7 @@ tags:
   - love-devotion
   - meditation
   - service
+  - liberation
 ---
 
-TOPIC OF THE SECRET INITIATION  To enjoy the fruits of the worship of the feet of the moon-crested Lord Siva, the concentrated Bliss, without any sensory organs, there is no other way such as yoga, or hearing of scriptures, let alone action, but only skillfully instructed inner experience.  
+To enjoy the fruits of the worship of the feet of the moon-crested Lord Siva, the concentrated Bliss, without any sensory organs, there is no other way such as yoga, or hearing of scriptures, let alone action, but only skillfully instructed inner experience.

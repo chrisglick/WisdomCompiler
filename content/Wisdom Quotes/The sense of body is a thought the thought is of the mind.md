@@ -1,27 +1,29 @@
 ---
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
-Page: "0"
+Page: "548"
 image_name: IMG_1480.webp
 Source Type: []
 draft: false
 ShowImage: false
+title: "The sense of body is a thought the thought is of the mind"
 tags:
   - ego
   - liberation
-  - meditation
-  - nature-creation
-  - scripture
-title: "The sense of body is a thought the thought is of the mind"
+  - mind
+  - non-duality
+  - self-knowledge
 ---
 
 Talks with Sri Ramana Maharshi
 
-Talk 570. A visitor: Nirguna upasana is said to be difficult and risky. He quoted the verse from Sri Bhagavad Gita, avyaktahi etc. (the manifest, etc.)
+Talk 570.
+
+*A visitor: Nirguna upasana is said to be difficult and risky. He quoted the verse from Sri Bhagavad Gita, avyaktahi etc. (the manifest, etc.)*
 
 M.: What is manifest is considered to be unmanifest and doubt is created. Can anything be more immediate and intimate than the Self? Can anything be more plain?
 
-D.: Saguna upasana seems easier.
+*D.: Saguna upasana seems easier.*
 
 M.: Do what is easy for you.
 
@@ -33,7 +35,7 @@ This argument does not convince the disputant.
 
 Again, there is the moon. Let anyone look at her from any place at any time; she is the same moon. Everyone knows it. Now suppose that there are several receptacles of water reflecting the moon. The images are all different from one another and from the moon herself. If one of the receptacles falls to pieces, that reflection disappears. Its disappearance does not affect the real moon or the other reflections. It is similar with an individual attaining Liberation. He alone is liberated.
 
-The sectarian of multiplicity makes this his argument against non-duality. “Tf the Self is single, if one man is liberated, that means that all souls are liberated. In practice it is not so. Therefore Advaita is not correct.”
+The sectarian of multiplicity makes this his argument against non-duality. “If the Self is single, if one man is liberated, that means that all souls are liberated. In practice it is not so. Therefore Advaita is not correct.”
 
 The weakness in the argument is that the reflected light of the Self is mistaken for the original Light of the Self. The ego, the world and the individuals are all due to the person’s vasanas. When they perish, that person’s hallucinations disappear, that is to say one pitcher is broken and the relative reflection is at an end.
 

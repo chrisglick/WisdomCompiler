@@ -10,7 +10,6 @@ tags:
   - ego
   - love-devotion
   - self-knowledge
+  - liberation
 ---
-![](Images/2e86f627-fee1-47f2-9f4c-977d70a6edb4.webp)
-
 Complete erasure of the ego is necessary to conquer destiny, whether you achieve this through self-enquiry or bhakti-marga.

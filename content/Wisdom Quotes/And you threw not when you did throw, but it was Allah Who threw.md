@@ -8,6 +8,8 @@ ShowImage: false
 tags:
   - divine
   - scripture
+  - faith-trust
+  - surrender
 ---
 
-181. And you threw not when you did throw, but it was Allah Who threw, (The Holy Quran, al-Anfal 8:18) 
+And you threw not when you did throw, but it was Allāh Who threw, (The Holy Quran, al-Anfāl 8:18)

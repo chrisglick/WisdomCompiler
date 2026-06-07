@@ -6,14 +6,16 @@ image_name: IMG_1662.webp
 Source Type: []
 draft: false
 ShowImage: false
+title: "Realisation of Self requires absolute purity of mind"
 tags:
+  - consciousness
+  - detachment
   - divine
   - love-devotion
   - meditation
   - mind
   - self-knowledge
   - service
-title: "Realisation of Self requires absolute purity of mind"
 ---
 
 47. Realisation of Self requires absolute purity only and no concentration of mind. For this reason, the Self is said to be unknowable (meaning not objectively knowable).
@@ -24,4 +26,4 @@ title: "Realisation of Self requires absolute purity of mind"
 
 50-51. Or, how is it possible for the Self not to be found gleaming in the pure mind? All the injunctions in the scriptures are directed towards this end alone. For instance, unselfish action, devotion and dispassion have no other purpose in view.
 
-52. Because transcendental consciousness, viz., the Self, is manifest only in the stain-free mind. 
+52. Because transcendental consciousness, *viz.*, the Self, is manifest only in the stain-free mind.

@@ -6,25 +6,23 @@ image_name: IMG_1472.webp
 Source Type: []
 draft: false
 ShowImage: false
-tags:
-  - guru-teacher
-  - liberation
-  - meditation
-  - nature-creation
-  - service
 title: "The world is mental and it will shine as reality only in..."
+tags:
+  - liberation
+  - ego
+  - detachment
+  - guru-teacher
+  - surrender
 ---
 
 Talk 530. The following is taken from the diary of Annamalai Swami, a good devotee of Sri Bhagavan and resident of Sri Ramanasramam:
 
-The Teachings of Sri Ramana Bhagavan.
+*The Teachings of Sri Ramana Bhagavan.*
 
-(1) That man who 1s active in the world and yet remains desireless, without losing sight of his own essential nature, is alone a true man. This was in answer to the Swami who wanted to retire into a cave for practising meditation.
+(1) That man who is active in the world and yet remains desireless, without losing sight of his own essential nature, is alone a true man. This was in answer to the Swami who wanted to retire into a cave for practising meditation.
 
-(2) He asked about sannyas. Should not a man renounce everything
+(2) He asked about *sannyas*. Should not a man renounce everything in order that he might get Liberation?
 
-in order that he might get Liberation?
+M.: Even better than the man who thinks “I have renounced everything” is the one who does his duty but does not think “I do this” or “I am the doer”. Even a *sannyasi* who thinks “I am a *sannyasi*” cannot be a true *sannyasi*, whereas a householder who does not think “I am a householder” is truly a *sannyasi*.
 
-M.: Even better than the man who thinks “I have renounced everything” is the one who does his duty but does not think “I do this” or “I am the doer”. Even a sannyasi who thinks “I am a sannyasi” cannot be a true sannyasi, whereas a householder who does not think “I am a householder” is truly a sannyasi.
-
-Talk 531. D.: One person says one thing one way. Another says the same thing 
+Talk 531. D.: One person says one thing one way. Another says the same thing

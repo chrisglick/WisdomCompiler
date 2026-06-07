@@ -9,7 +9,9 @@ ShowImage: false
 tags:
   - divine
   - love-devotion
-title: "With divine grace you can attain realisation even in an..."
+  - liberation
+  - guru-teacher
+title: "With divine grace you can attain realisation even by staying at home"
 ---
 
-With divine grace, you can attain realisation even by staying at home. @ 
+With divine grace, you can attain realisation even by staying at home.

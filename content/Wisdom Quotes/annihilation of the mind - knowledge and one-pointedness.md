@@ -6,6 +6,7 @@ image_name: IMG_1412.webp
 Source Type: 
 ShowImage: false
 tags:
+  - consciousness
   - divine
   - guru-teacher
   - knowledge-wisdom
@@ -20,13 +21,13 @@ When later he came to Tiruvannamalai he had some foreboding of similar experienc
 
 Sri Bhagavan said: “Is it so? No one told me this before.”
 
-A devotee asked, if it was not saktipata (descent of divine power)?
+*A devotee asked, if it was not saktipata (descent of divine power)?*
 
 M.: Yes it is. A madman clings to samskaras, whereas a Jnani does not. That is the only difference between the two. Jnana is madness of a kind.
 
-D.: But saktipata is said to occur in karmasamya, i.e., when merit and demerit are equal.
+*D.: But saktipata is said to occur in karmasamya, i.e., when merit and demerit are equal.*
 
-M.: Yes. Malaparipaka, karmasamya and saktipata mean the same, A man is running the course of his samskaras; when taught he is the Self, the teaching affects his mind and imagination runs riot. He feels helpless before the onrushing power. His experiences are only according to his imagination of the state “I am the Self”, whatever he may conceive it to be. Saktipata alone confers the true and right experience.
+M.: Yes. Malaparipaka, karmasamya and saktipata mean the same. A man is running the course of his samskaras; when taught he is the Self, the teaching affects his mind and imagination runs riot. He feels helpless before the onrushing power. His experiences are only according to his imagination of the state “I am the Self”, whatever he may conceive it to be. Saktipata alone confers the true and right experience.
 
 When the man is ripe for receiving the instruction and his mind is about to sink into the Heart, the instruction imparted works in a flash and he realises the Self all right. Otherwise, there is always the struggle.
 

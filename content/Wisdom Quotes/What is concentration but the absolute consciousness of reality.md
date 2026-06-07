@@ -6,11 +6,14 @@ image_name: IMG_1404.webp
 Source Type: 
 draft: false
 ShowImage: false
+title: "What is concentration but the absolute consciousness of reality"
 tags:
+  - consciousness
+  - divine
   - ego
+  - meditation
   - mind
   - silence
-title: "What is concentration but the absolute consciousness of..."
 ---
 
 Talk 246.
@@ -19,6 +22,6 @@ Language is only a medium for communicating one’s thoughts to another. It is c
 
 Silence is ever-speaking; it is a perennial flow of language; it is interrupted by speaking. These words obstruct that mute language. There is electricity flowing in a wire. With resistance to its passage, it glows as a lamp or revolves as a fan. In the wire it remains as electric energy. Similarly also, silence is the eternal flow of language, obstructed by words.
 
-What one fails to know by conversation extending to several years can be known in a trice in Silence, or in front of Silence - e.g., Dakshinamurti, and his four disciples.
+What one fails to know by conversation extending to several years can be known in a trice in Silence, or in front of Silence - *e.g.*, Dakshinamurti, and his four disciples.
 
-That is the highest and most effective language. 
+That is the highest and most effective language.

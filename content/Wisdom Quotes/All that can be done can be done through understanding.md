@@ -6,11 +6,11 @@ image_name: IMG_0242.webp
 Source Type: 
 ShowImage: false
 tags:
-  - death-impermanence
-  - divine
+  - consciousness
   - knowledge-wisdom
+  - liberation
   - meditation
-  - nature-creation
+  - non-duality
 ---
 
 A great musician is creating music. No father can feel so much fulfilled as a musician feels when great music is created, and no son can give so much happiness to any parent as a great piece of music can give to the musician, or great poetry can give to the poet. Because he is creating on higher realms, nature relieves him of lower creation: the energy has moved higher. Tantra says, do not fight with the energy, allow the energy to move higher. And there are many realms of higher movement and many dimensions.
@@ -26,6 +26,3 @@ Jesus says, unless a seed of corn falls to the ground and dies, nothing can happ
 Tantra says, do not try to control. Who are you to control, and how will you be able to control? Your control will be just illusory. Try to understand. Try to understand the inner nature, the phenomenon, the dynamics of the energies, and that understanding will automatically change you. Change is not an effort. If change is an effort, then it cannot create bliss.
 
 Bliss never happens through effort. Effort is always tension-creating; it gives anguish. Effort is always ugly because you are forcing something. Understanding is not an effort; it is beautiful, it is a spontaneous happening. Do not control. If you try, you will be a failure, and you will destroy yourself. Understand! Let understanding be the only law, the only SADHANA — spiritual practice. Leave everything to understanding. If understanding cannot do anything then it cannot be done, so forget it. All that can be done can be done through understanding.
-
-Vigyan Bhairav Tantra, Vol 1 371
-

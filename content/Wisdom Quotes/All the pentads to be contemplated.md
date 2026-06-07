@@ -1,32 +1,31 @@
 ---
 Edited: true
 source: "[[The Ribhu Gita]]"
-Page: "0"
+Page: "157"
 image_name: IMG_1503.webp
 Source Type: []
 draft: false
 ShowImage: false
+title: "All the pentads to be contemplated"
 tags:
   - divine
-  - love-devotion
-  - nature-creation
-  - service
-title: "All the pentads to be contemplated"
+  - consciousness
+  - non-duality
+  - liberation
+  - scripture
 ---
 
-DESCRIPTION OF THE TOPIC OF ALL THE PENTADS TO BE DISCARDED 18.44
-
-37. If there are hands, there is the existence of action. If there is a creator, creation is possible. If there is a thing to be pro- tected, there is Vishnu the protector. If there is something to be consumed, the consumer, Siva, exists.
+37. If there are hands, there is the existence of action. If there is a creator, creation is possible. If there is a thing to be protected, there is Vishnu the protector. If there is something to be consumed, the consumer, Siva, exists.
 
 38. All is Brahman. There is no doubt of this. All is Brahman alone. If there is a thing to be worshipped, worship also is present. If there is a manifestation, there is the manifester, Siva.
 
-39. Allis illusory. There is no doubt of this. All is Conscious- ness alone. If the cause is real, the effect also will “result.”
+39. All is illusory. There is no doubt of this. All is Consciousness alone. If the cause is real, the effect also will “result.”
 
 40. If all these do not exist, I am, without nonexistence. I am only Brahman, the goal. This only is the endless sorrow. This, indeed, is the changeless, never-ending joy.
 
-41. Life itself is endless; there is the possibility of endless struggle. All is total impurity. The Supreme, though, is the com- pletely pure.
+41. Life itself is endless; there is the possibility of endless struggle. All is total impurity. The Supreme, though, is the completely pure.
 
-42. | Wrong imagination is endless. I am totally pure. Error is ever endless; goodness is ever endless.
+42. Wrong imagination is endless. I am totally pure. Error is ever endless; goodness is ever endless.
 
 43. Brightness is ever endless. Impurity is ever endless. I am, also, ever endless. “This,” also, is ever endless.
 

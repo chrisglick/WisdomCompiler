@@ -6,17 +6,18 @@ image_name: IMG_1353.webp
 Source Type: 
 ShowImage: false
 tags:
+  - consciousness
   - death-impermanence
-  - mind
-  - nature-creation
+  - non-duality
   - self-knowledge
+  - liberation
 ---
 
 M: Yes, of course, I can do that, but you must listen to me, you must have complete faith in whatever I tell you about yourself, and you must behave accordingly. By nature I am non-manifest, yet I am manifested, but I am really not manifested. Can you live like that, as the non-manifest?
 
 As long as the attribute is there, the quality of the attribute, the "I Am", is there; therefore, I can speak like this. If it goes away, what happens? The sense of "I" has come and has gone, that is all, I am not going to die. One who has rejected this identity will understand.
 
-Q: Maharaj said that he is not going to die?
+*Q: Maharaj said that he is not going to die?*
 
 M: How can one who is not born, die?
 
@@ -24,6 +25,6 @@ When people first learned about this illness, those who have affection for me ca
 
 You are asking, "Who am I?" and you are not going to get an answer, because the one who will get the answer is false. You may have an idea, a concept, and you will think you have found yourself, but it is only a concept; you can never see your Self.
 
-Q: What is sat-chit-ananda?
+*Q: What is sat-chit-ananda?*
 
-M: It is words. You can take it that sat-chit-ananda is the limit which your mind can describe of that state which cannot be described. Your true state is non-manifest; the manifestation comes and the words come. The one who experiences sat-chit-ananda is there before the experience.
+M: It is words. You can take it that *sat-chit-ananda* is the limit which your mind can describe of that state which cannot be described. Your true state is non-manifest; the manifestation comes and the words come. The one who experiences *sat-chit-ananda* is there before the experience.

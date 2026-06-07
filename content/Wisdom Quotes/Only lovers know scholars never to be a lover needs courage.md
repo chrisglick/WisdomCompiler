@@ -1,7 +1,7 @@
 ---
 Edited: true
-source: "[[The New Dawn]]"
-Page: "0"
+source: "[[The Perfect Master, Vol 1]]"
+Page: "150"
 image_name: IMG_1153.webp
 Source Type: []
 draft: false
@@ -15,7 +15,7 @@ tags:
 title: "Only lovers know scholars never to be a lover needs courage"
 ---
 
-Knowledge means the knower is separate from the known. We are not separate from existence — we ARE it. It is our suchness — how can we know it? The claim to know is the greatest conceit. The claim to know is the greatest ego there is. Hence the knowledgeable man goes on missing it. Only lovers know, scholars never. But to be a lover needs courage — you have to dissolve and disappear.
+Knowledge means the knower is separate from the known. We are not separate from existence – we ARE it. It is our suchness – how can we know it? The claim to know is the greatest conceit. The claim to know is the greatest ego there is. Hence the knowledgeable man goes on missing it. Only lovers know, scholars never. But to be a lover needs courage – you have to dissolve and disappear.
 
 To be knowledgeable needs no courage. That is the hiding place of the cowards. All cowards become scholars. Because they cannot love, the only thing left for them is to try to know. And because knowledge is impossible in the very nature of things, all that they claim is false.
 

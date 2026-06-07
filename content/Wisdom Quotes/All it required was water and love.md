@@ -9,7 +9,8 @@ ShowImage: false
 tags:
   - love-devotion
   - mind
+  - nature-creation
 title: "All it required was water and love"
 ---
 
-All it required was water . . . and love.  Life changed those irascible wastes into shapes of grace and movement, he thought. That was the message of the desert. Contrast stunned him with realization. He wanted to turn to the aides massed in the sietch entrance, shout at them: If you need something to worship, then worship life—all life, every last crawling bit of it! We’re all in this beauty together! 
+All it required was water . . . and love. Life changed those irascible wastes into shapes of grace and movement, he thought. That was the message of the desert. Contrast stunned him with realization. He wanted to turn to the aides massed in the sietch entrance, shout at them: If you need something to worship, then worship life—all life, every last crawling bit of it! We’re all in this beauty together!

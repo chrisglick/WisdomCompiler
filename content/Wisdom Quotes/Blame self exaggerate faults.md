@@ -1,17 +1,30 @@
 ---
 Edited: true
 source: ""
-Page: "0"
+Page: "83"
 image_name: IMG_6703.webp
 Source Type: []
 draft: false
 ShowImage: false
-tags:
-  - divine
-  - ego
-  - service
-  - surrender
 title: "Blame self exaggerate faults"
+tags:
+  - ego
+  - surrender
+  - service
+  - detachment
+  - self-knowledge
 ---
 
-Blame self  Exaggerate faults Partial selec- tive view Self as loser  End of the road Unlovable  Error unfor- givable Narcissistic orientation Serve self Indulgent self-evalua- tion  Self as center of life  Blame ego’s ignorance Transcend limi- tations Balanced over- all view  Self as cor- rected Beginning of the new Worth as child of God  Error as lesson  Concern for others  Serve life  Let go of egois- tic position  Self as partici- pant in life 
+| | |
+|---|---|
+| Blame self | Blame ego’s ignorance |
+| Exaggerate faults | Transcend limitations |
+| Partial selective view | Balanced overall view |
+| Self as loser | Self as corrected |
+| End of the road | Beginning of the new |
+| Unlovable | Worth as child of God |
+| Error unforgivable | Error as lesson |
+| Narcissistic orientation | Concern for others |
+| Serve self | Serve life |
+| Indulgent self-evaluation | Let go of egoistic position |
+| Self as center of life | Self as participant in life |

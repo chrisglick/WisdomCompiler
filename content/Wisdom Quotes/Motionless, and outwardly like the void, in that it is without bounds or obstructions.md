@@ -1,19 +1,18 @@
 ---
-Edited: false
+Edited: true
 source: "[[The Zen Teaching of Huang Po]]"
-Page: "0"
+Page: "32"
 image_name: IMG_1133.webp
 Source Type:
   - screenshot
 draft: true
 ShowImage: false
 tags:
-  - knowledge-wisdom
-  - liberation
-  - love-devotion
+  - consciousness
   - mind
-  - nature-creation
-  - scripture
+  - non-duality
+  - liberation
+  - knowledge-wisdom
 ---
 
 motionless, and outwardly like the void, in that it is without bounds or obstructions. It is neither subjective nor objective, has no specific location, is formless, and cannot vanish. Those who hasten towards it dare not enter, fearing to hurtle down through the void with nothing to cling to or to stay their fall. So they look to the brink and retreat. This refers to all those who seek such a goal through cognition. Thus, those who seek the goal through cognition are like the fur (many), while those who obtain intuitive knowledge of the Way are like the horns (few)3

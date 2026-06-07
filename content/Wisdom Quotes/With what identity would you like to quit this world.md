@@ -6,11 +6,11 @@ image_name: IMG_1331.webp
 Source Type: 
 ShowImage: false
 tags:
+  - consciousness
   - ego
-  - knowledge-wisdom
-  - mind
-  - nature-creation
   - self-knowledge
+  - non-duality
+  - knowledge-wisdom
 ---
 
 In the consciousness hierarchy there are three stages:

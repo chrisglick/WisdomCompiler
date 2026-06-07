@@ -6,11 +6,12 @@ image_name: IMG_0988.webp
 Source Type: 
 draft: false
 ShowImage: false
+title: "Arunachala means Aruna-achala being unmoved"
 tags:
+  - consciousness
   - guru-teacher
   - mind
   - self-knowledge
-title: "Arunachala means Aruna-achala being unmoved"
 ---
 
-Arunachala means Aruna-achala. Aruna is being, aliveness, and achala means ‘unmoved’. When the mind remains unmoved, then it has no other choice but to dissolve itself in the Self, in Self awareness, in other words, that which is called ‘unmoved’. That is what Bhagavan meant when he said, “Everyone finally has to come to Arunachala.” If you want the truth you have to keep the moving mind immobile.  
+Arunachala means ***Aruna-achala***. *Aruna* is being, aliveness, and *achala* means ‘unmoved’. When the mind remains unmoved, then it has no other choice but to dissolve itself in the Self, in Self awareness, in other words, that which is called ‘unmoved’. That is what Bhagavan meant when he said, “Everyone finally has to come to Arunachala.” If you want the truth you have to keep the moving mind immobile.

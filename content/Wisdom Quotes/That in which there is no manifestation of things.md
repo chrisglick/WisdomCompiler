@@ -1,7 +1,7 @@
 ---
 Edited: true
 source: "[[The Ribhu Gita]]"
-Page: "0"
+Page: "215"
 image_name: IMG_1700.webp
 Source Type: []
 draft: false

@@ -1,5 +1,5 @@
 ---
-Edited: false
+Edited: true
 source: "[[Swami Ishwarananda Giriji Maharaj]]"
 Page: "0"
 image_name: 941be715-3a76-41cc-bc47-11fe486bd5fb.webp
@@ -7,8 +7,9 @@ Source Type: []
 draft: true
 ShowImage: false
 tags:
-  - guru-teacher
-  - mind
+  - divine
+  - love-devotion
+  - consciousness
 ---
 
-Ko  “Mother” is the first concept of life as it bursts into rosy baby- hood. If “Mother’ is the origin then she is the consummation as well. “Mother” is the perfection of life."  ~ SWAMI SHRI ISHWARANANDA GIRI 
+“Mother” is the first concept of life as it bursts into rosy babyhood. If “Mother” is the origin then she is the consummation as well. “Mother” is the perfection of life.

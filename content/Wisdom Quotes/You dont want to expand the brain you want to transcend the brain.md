@@ -1,59 +1,60 @@
 ---
 Edited: true
 source: "[[Silence of the Heart]]"
-Page: "0"
+Page: "342"
 image_name: IMG_1035.webp
 Source Type: []
 draft: false
 ShowImage: false
-tags:
-  - death-impermanence
-  - divine
-  - ego
-  - knowledge-wisdom
-  - love-devotion
-  - mind
 title: "You dont want to expand the brain you want to transcend..."
+tags:
+  - consciousness
+  - ego
+  - mind
+  - liberation
+  - non-duality
 ---
 
-Would hypnosis be useful as a means to breaking the hypnosis?
+*Would hypnosis be useful as a means to breaking the hypnosis?*
 
-No. Because hypnosis simply contacts the subconscious. It reinforces your ego. You're already hypnotized. So you don’t want to double your hypnosis. (laughter) Because then you have to get rid of the hypnotic trance as well as the waking trance.
+No. Because hypnosis simply contacts the subconscious. It reinforces your ego. You’re already hypnotized. So you don’t want to double your hypnosis. (laughter) Because then you have to get rid of the hypnotic trance as well as the waking trance.
 
-That’s how it appears that it should be. That’s how it appears that it should be? How’s that?
+*That’s how it appears that it should be.*
 
-That’s actually breaking the trance.
+That’s how it appears that it should be? How’s that?
 
-Hypnosis can’t break the trance. Only you can. By admit- ting and realizing there never was a trance. That you're already free and liberated now.
+*That’s actually breaking the trance.*
 
-Robert, scientists and psychologists and other people, they always try to unlock the limitations of the brain. We use only, say, ten percent of the brain. If we somehow get to the point of using one hundred percent of our brain, would that get us more immersed...
+Hypnosis can’t break the trance. Only you can. By admitting and realizing there never was a trance. That you’re already free and liberated now.
+
+*Robert, scientists and psychologists and other people, they always try to unlock the limitations of the brain. We use only, say, ten percent of the brain. If we somehow get to the point of using one hundred percent of our brain, would that get us more immersed . . .*
 
 More immersed in the ego.
 
-Yes, it is fortunate that we only use ten percent. (laughter)
+*Yes, it is fortunate that we only use ten percent.* (laughter)
 
-You're right. (laughter) Because after all, what is the brain? It’s an extension of the body. And the more you use the brain, the more lost you become in maya. So you don’t want to expand the brain. You want to transcend the brain.
+You’re right. (laughter) Because after all, what is the brain? It’s an extension of the body. And the more you use the brain, the more lost you become in maya. So you don’t want to expand the brain. You want to transcend the brain.
 
-Robert, you said you’re not the body, but yet every week I see you and your body looks different to me. Some weeks you look
-
-~342~
-
-very, very young, and some weeks you look very, very old. Yet I’ve read in the books that Jnanis have spontaneous transforma- tion, where they would get super rejuvenated. Like they were ready to die, and then all of a sudden they look thirty years younger and have many years to live.
+*Robert, you said you’re not the body, but yet every week I see you and your body looks different to me. Some weeks you look very, very young, and some weeks you look very, very old. Yet I’ve read in the books that Jnanis have spontaneous transformation, where they would get super rejuvenated. Like they were ready to die, and then all of a sudden they look thirty years younger and have many years to live.*
 
 That’s what you see.
 
-But when the person is enlightened, and one with this force, this Consciousness, would that have an effect on the appearance of the body?
+*But when the person is enlightened, and one with this force, this Consciousness, would that have an effect on the appearance of the body?*
 
-Only on your appearance. What you see is what you see. The Jnani has no appearance whatsoever. The Jnani is com- pletely empty.
+Only on your appearance. What you see is what you see. The Jnani has no appearance whatsoever. The Jnani is completely empty.
 
-You mean you are the invisible man? Ifyou see an invisible man, then I am. What you see is what Tam.
+*You mean you are the invisible man?*
 
-Sometimes you appear to have no head. Then I have no head.
+If you see an invisible man, then I am. What you see is what I am.
 
-It’s like the headless horseman. Whatever you see is what you get. You get what you see.
+*Sometimes you appear to have no head.*
 
-Robert, when you see someone that you love very much going down a very destructive path, how can you become detached?
+Then I have no head.
 
-You realize that the person does not belong to you. Belongs to God. Therefore, if you have the right wisdom, you'll do something to try to help that person. But then again, karmically, that person has been given to you for you to go through this experience. So the correct answer for this, of course, is to know
+*It’s like the headless horseman.*
 
-~343~ 
+Whatever you see is what you get. You get what you see.
+
+*Robert, when you see someone that you love very much going down a very destructive path, how can you become detached?*
+
+You realize that the person does not belong to you. Belongs to God. Therefore, if you have the right wisdom, you’ll do something to try to help that person. But then again, karmically, that person has been given to you for you to go through this experience. So the correct answer for this, of course, is to know

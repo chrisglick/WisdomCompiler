@@ -1,38 +1,16 @@
 ---
 Edited: true
 source: "[[Vivekachudamani]]"
-Page: "0"
+Page: "155"
 image_name: IMG_1737.webp
 Source Type: []
 draft: true
 ShowImage: false
 tags:
-  - death-impermanence
+  - ego
+  - non-duality
+  - self-knowledge
   - nature-creation
 ---
 
 The body is a product of food. It constitutes the food-sheath. It exists because of food and dies without it. It is a bundle of skin, flesh, blood, bones, and filth. Never can it be the self-existing, eternally pure Self.
-
-SNR NG
-
-Ya AAT arated
-
-TTT: HOTU S AAET ATE: |
-
-AN aD
-
-AAT SISAA YSIUNEAIATa:
-
-Taree He Vala ATaAHRAT tt 155 1
-
-purvam janeradhimrterapi nadyamasti
-
-jataksanah ksanaguno'ntyatasvabhavah |
-
-naiko jadasca ghatavatparidrsyamanah
-
-svatma katham bhavati bhavavikaravetta || 155| |
-
-qa purvam before wel: janeh birth arya: adhimrteh after death Sf api and, also Ana not AALayam this AeA asti exists Adal: jataksanab when born &RT: ksanagunah of fleeting nature lead FAAa: = aniyata svabhavah of uncertain
-
-natiron | a avor rhaanningn Dns, nnt Us ,-L,h, nnn we jah 

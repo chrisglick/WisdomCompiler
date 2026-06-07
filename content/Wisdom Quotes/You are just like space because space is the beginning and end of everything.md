@@ -6,20 +6,16 @@ image_name: IMG_1333.webp
 Source Type: 
 draft: false
 ShowImage: false
-tags:
-  - divine
-  - ego
-  - guru-teacher
-  - humility
-  - knowledge-wisdom
-  - mind
-  - nature-creation
 title: "You are just like space because space is the beginning..."
+tags:
+  - consciousness
+  - non-duality
+  - self-knowledge
+  - ego
+  - knowledge-wisdom
 ---
 
-106 / Consciousness and the Absolute
-
-Chidakash is that raw material by which you evaluate whatever you experience or whatever you observe. In the process of becoming more subtle, the external forms are dissolved into mahakash; no more names and forms. Simultaneously, the process of evaluation and mind functioning stops, dissolves itself into chidakash. When both mahakash and chidakash become still, it is space only and you are the space.
+*Chidakash* is that raw material by which you evaluate whatever you experience or whatever you observe. In the process of becoming more subtle, the external forms are dissolved into *mahakash*; no more names and forms. Simultaneously, the process of evaluation and mind functioning stops, dissolves itself into *chidakash*. When both *mahakash* and *chidakash* become still, it is space only and you are the space.
 
 Because of the external body, the "I Amness" is felt. However, in the absence of the body, the "I Amness" is still there without feeling "I Am". I am ever-prevailing.
 
@@ -27,13 +23,11 @@ June 23, 1981
 
 Maharaj: Just as you are not the clothes that you wear, similarly you are not this body. This is the most important step. You will slowly realize you are just like space, because space is the beginning and the end of everything. Suppose you are sick: you want to know all about your sickness, the more serious the sickness, the more you would like to know about it. Similarly, this "I Amness" is also like a sickness. Now you must begin to collect knowledge about that.
 
-Questioner: How do you begin?
+*Questioner: How do you begin?*
 
 M: Start with the body. From the body you get the knowledge of "I Am". In this process you become more and more subtle. When you are in a position to witness the knowledge "I Am", you have reached the highest. In this way you must try to understand, and the seeds of knowledge will sprout in you.
 
 When you come to the end of material world-knowledge, at that stage you transcend the observer and the observed.
-
-Talks of Nisargadatta Maharaj / 107
 
 That means that you are in a true state of beingness. Thereafter you enter the state of transcending beingness, where the identities of the observer and observed disappear.
 
@@ -47,4 +41,4 @@ Who is the one who recognizes this body-mind? This "I Amness" which recognizes t
 
 June 25, 1981
 
-Maharaj: I am inspired to talk but I have no energy. But whatever I say will be so profound that very few people will 
+Maharaj: I am inspired to talk but I have no energy. But whatever I say will be so profound that very few people will

@@ -7,14 +7,15 @@ Source Type: []
 draft: false
 ShowImage: false
 tags:
-  - divine
+  - non-duality
   - knowledge-wisdom
   - mind
-  - nature-creation
+  - consciousness
+  - liberation
 title: "Are there degrees of illusion"
 ---
 
-D..: Are there degrees of illusion?
+*D.: Are there degrees of illusion?*
 
 M.: Illusion is itself illusory. Illusion must be seen by one beyond it. Can such a seer be subject to illusion? Can he then speak of degrees of illusion?
 
@@ -26,4 +27,4 @@ Again reflections pass through a mirror; but the mirror is not in any way affect
 
 So the world is a phenomenon on the single Reality, which is not affected in any manner. Reality is only one.
 
-The discussion about illusion is due to the difference in the angle of vision. Change your angle of vision to one of jnana and then find the universe to be only Brahman. Being now in the world, you see the world as such. Get beyond it and this will disappear: the Reality alone will shine. 
+The discussion about illusion is due to the difference in the angle of vision. Change your angle of vision to one of *jnana* and then find the universe to be only Brahman. Being now in the world, you see the world as such. Get beyond it and this will disappear: the Reality alone will shine.

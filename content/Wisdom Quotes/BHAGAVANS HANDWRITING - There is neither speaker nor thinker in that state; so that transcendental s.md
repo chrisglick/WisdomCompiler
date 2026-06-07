@@ -1,7 +1,7 @@
 ---
 Edited: true
 source: "[[Ramana Maharshi]]"
-Page: "0"
+Page: "71"
 image_name: 60aef88c-0d1e-472b-8980-f7a00323d329.webp
 Source Type:
   - Meme
@@ -10,7 +10,6 @@ tags:
   - divine
   - guru-teacher
   - silence
+  - non-duality
 ---
-![](Images/60aef88c-0d1e-472b-8980-f7a00323d329.webp)
-
-BHAGAVAN'S HANDWRITING :  There is neither speaker nor thinker in that state; so that transcendental state is called Silence.  
+BHAGAVAN'S HANDWRITING: There is neither speaker nor thinker in that state; So that Transcendental State is called Silence.

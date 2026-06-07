@@ -6,26 +6,30 @@ image_name: IMG_1096.webp
 Source Type: []
 draft: false
 ShowImage: false
+title: "Your hunger and thirst for bliss is absolutely fulfilled"
 tags:
+  - consciousness
   - ego
   - nature-creation
-title: "Your hunger and thirst for bliss is absolutely fulfilled"
+  - non-duality
+  - suffering
+  - needs-review
 ---
 
 December 31, 1980
 
-Questioner: When you become one with everybody’s consciousness there is an emo- tional drain because you feel their sorrow and everything. Is that a right state in which to be?
+*Questioner: When you become one with everybody’s consciousness there is an emotional drain because you feel their sorrow and everything. Is that a right state in which to be?*
 
 Maharaj: It is one of the preliminary stages, but it is excellent. There is still separateness but gradually it will ripen into complete oneness.
 
-Q: I don't feel any desire anymore to strive Sor anything in the world.
+*Q: I don’t feel any desire anymore to strive for anything in the world.*
 
-M: There is nothing wrong in that. Your hunger and thirst for bliss or Joy is absolutely fulfilled and therefore you stop going after things.
+M: There is nothing wrong in that. Your hunger and thirst for bliss or joy is absolutely fulfilled and therefore you stop going after things.
 
-Q: Is there still some individuality left to continue one’s duties?
+*Q: Is there still some individuality left to continue one’s duties?*
 
-M: That individuality does not create any kind of discontent or fear. It so happens that there is no memory at all of that individual “I,” it goes on acting on its own energy. There is a memory that this is the total mani- festation but no memory of an individual acting.
+M: That individuality does not create any kind of discontent or fear. It so happens that there is no memory at all of that individual “I,” it goes on acting on its own energy. There is a memory that this is the total manifestation but no memory of an individual acting.
 
-Q: I feel that I am one with consciousness but it wavers.
+*Q: I feel that I am one with consciousness but it wavers.*
 
-M: You are not yet stabilized in consciousness; you are getting some 
+M: You are not yet stabilized in consciousness; you are getting some

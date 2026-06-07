@@ -1,35 +1,26 @@
 ---
 Edited: true
 source: "[[Kaivalya Navaneetam]]"
-Page: "0"
+Page: "25"
 image_name: IMG_1597.webp
 Source Type: []
 draft: false
 ShowImage: false
+title: "Ignorance uncertainty and wrong knowledge are the three..."
 tags:
-  - divine
-  - guru-teacher
   - knowledge-wisdom
   - liberation
   - meditation
-  - mind
-  - nature-creation
+  - non-duality
   - scripture
-title: "Ignorance uncertainty and wrong knowledge are the three..."
 ---
 
-89. Ignorance, uncertainty and wrong knowledge are obstacles resulting from long-standing habits in the innumerable incarnations of the past which cause trouble, and then the fruits of Realization slip away. Therefore, root
+89. Ignorance, uncertainty and wrong knowledge are obstacles resulting from long-standing habits in the innumerable incarnations of the past which cause trouble, and then the fruits of Realization slip away. Therefore, root them out by hearing the Truth, reasoning and meditation.<sup>37</sup>
 
-them out by hearing the Truth, reasoning and meditation.52
+90. Checked by incantations,<sup>38</sup> fire will not scorch. Likewise defective Realization will not put an end to bondage. Therefore devote yourself to hearing the Truth, reasoning and meditation and root out ignorance, uncertainty and wrong knowledge.
 
-90. Checked by incantations,38 fire will not scorch. Likewise defective Realization will not put an end to bondage. Therefore devote yourself to hearing the Truth, reasoning and meditation and root out ignorance,
+91. Ignorance veils the Truth that the Self is *Brahman* and shows forth multiplicity instead; uncertainty is the confusion resulting from lack of firm faith in the words of the Master; the illusion that the evanescent world is a reality and that the body is the Self is wrong knowledge. So say the Sages.
 
-uncertainty and wrong knowledge.
-
-91. Ignorance veils the Truth that the Self is Brahman and shows forth multiplicity instead; uncertainty is the confusion resulting from lack of firm faith in the words of the Master; the illusion that the evanescent world is a reality and that the body is the Self is wrong knowledge. So say the Sages.
-
-92. Hearing the Truth is to revert the mind repeatedly to the teaching: “That thou art’. Reasoning is rational investigation of the meaning of the text, as already heard. Meditation is one-pointedness of mind. If every day you do these, you will surely gain Liberation.
+92. Hearing the Truth is to revert the mind repeatedly to the teaching: ‘That thou art’. Reasoning is rational investigation of the meaning of the text, as already heard. Meditation is one-pointedness of mind. If every day you do these, you will surely gain Liberation.
 
 93. The practice must be kept up so long as the sense of knower and knowledge persists. No effort is necessary thereafter. Remaining as pure, eternal Consciousness, untainted like the ether and thus liberated while alive, one will live forever as ‘That’, after being disembodied also.
-
-TOC 25 

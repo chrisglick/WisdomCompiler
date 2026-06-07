@@ -1,7 +1,7 @@
 ---
 Edited: true
 source: "[[Vivekachudamani]]"
-Page: "0"
+Page: "164"
 image_name: IMG_1740.webp
 Source Type: []
 draft: true
@@ -9,28 +9,8 @@ ShowImage: false
 tags:
   - ego
   - mind
+  - self-knowledge
+  - non-duality
 ---
 
 Just as you would not identify yourself with your shadow, your reflection, your dream-body or the body in your mind’s imagination, so too, you should not identify yourself with your living body.
-
-N c ik D °
-
-FATES STAT TS
-
-Adeddecd Se at ACA,
-
-aad J Prd A GAHAN Ul 164 ti
-
-dehatmadhireva nrnamasaddhiyam
-
-janmadiduhkhaprabhavasya bijam |
-
-yatastatastvam jahi tam prayatnat
-
-tyakte tu citte na punarbhavasa || 164| |
-
-Dd . Po . .
-
-dates: dehatmadhih identification with the body Wa eva alone TNA nrnam for the men oa FATAL asat dhiyam attached to the
-
-unreal Grate janmadi of birth etc FRALbyam seed Fra WAACA 

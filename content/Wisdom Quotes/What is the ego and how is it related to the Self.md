@@ -1,15 +1,18 @@
 ---
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
-Page: "0"
+Page: "181"
 image_name: IMG_1398.webp
 Source Type: 
 draft: false
 ShowImage: false
-tags:
-  - divine
-  - surrender
 title: "What is the ego and how is it related to the Self"
+tags:
+  - consciousness
+  - ego
+  - non-duality
+  - surrender
+  - needs-review
 ---
 
 Talk 207.
@@ -19,4 +22,3 @@ Deep sleep is only the state of non-duality. Can the difference between the indi
 Talk 208.
 
 It is enough that one surrenders oneself. Surrender is to give oneself up to the original cause of one’s being. Do not delude yourself by imagining such source to be some God outside you. One’s source is within yourself. Give yourself up to it. That means that you should seek the source and merge in it. Because you imagine yourself to be out of it, you raise the question “Where is the source?” Some contend that the sugar cannot taste its own sweetness and that a taster must taste and enjoy it. Similarly, an individual cannot be the Supreme and enjoy the
-

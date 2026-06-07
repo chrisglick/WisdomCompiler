@@ -8,7 +8,10 @@ draft: false
 ShowImage: false
 tags:
   - humility
+  - detachment
+  - liberation
+  - self-knowledge
 title: "The more simple a life he leads the fewer needs he has"
 ---
 
-wanes  The more simple a life he leads, the fewer resources he needs, the more spiritual power he will have. 
+The more simple a life he leads, the fewer resources he needs, the more spiritual power he will have.

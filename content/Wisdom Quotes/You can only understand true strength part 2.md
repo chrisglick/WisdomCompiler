@@ -1,12 +1,14 @@
 ---
 Edited: false
-source: ""
+source: "[[Vagabond]]"
 Page: "0"
 image_name: IMG_1223.webp
 Source Type: []
-tags: []
+tags: ["knowledge-wisdom","non-duality","ego","suffering","liberation"]
 draft: true
-ShowImage: false
+ShowImage: true
 ---
 
-THE TRUTH IS OBVIOUS  YET EVER ELUSIVE//  LETS SAY THERE WILL COME A TIME WHEN YOU FINALLY UNDER- STAND TRUE STRENGTH...  
+The truth is obvious yet ever elusive!!
+
+…Let's say there will come a time when you finally understand true strength…

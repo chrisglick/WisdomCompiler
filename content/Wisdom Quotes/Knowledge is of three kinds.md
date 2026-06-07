@@ -9,4 +9,4 @@ tags:
   - knowledge-wisdom
 ---
 
-1. Knowledge is of three kinds: (1) First: “lmul-yaqin, [knowledge by inference] which is akin to seeing smoke rise from a distance and deducing that there must be a fire at that spot; (2) Second: ainul-yagin [certainty by sight], which is akin to seeing that fire with one’s own eyes; and (3) Third: haqqul-yagqin, [true certainty] which is akin to feeling its heat by putting one’s hand in that fire. (Author) 
+Knowledge is of three kinds: (1) First: *’ilmul-yaqīn,* [knowledge by inference] which is akin to seeing smoke rise from a distance and deducing that there must be a fire at that spot; (2) Second: *’ainul-yaqīn* [certainty by sight], which is akin to seeing that fire with one’s own eyes; and (3) Third: *ḥaqqul-yaqīn,* [true certainty] which is akin to feeling its heat by putting one’s hand in that fire. (Author)

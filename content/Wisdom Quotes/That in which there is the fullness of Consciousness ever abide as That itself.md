@@ -1,16 +1,18 @@
 ---
 Edited: true
 source: "[[The Ribhu Gita]]"
-Page: "0"
+Page: "217"
 image_name: IMG_1281.webp
 Source Type: []
 draft: false
 ShowImage: false
-tags:
-  - divine
-  - nature-creation
-  - silence
 title: "That in which there is the fullness of Consciousness..."
+tags:
+  - consciousness
+  - non-duality
+  - liberation
+  - silence
+  - self-knowledge
 ---
 
 TOPIC OF THE INSTRUCTION OF ABIDING AS THAT ITSELF

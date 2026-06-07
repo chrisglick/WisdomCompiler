@@ -6,38 +6,32 @@ image_name: IMG_1380.webp
 Source Type: 
 draft: false
 ShowImage: false
+title: "Restrain each single thought from arising then the..."
 tags:
+  - consciousness
   - liberation
   - mind
-  - nature-creation
-  - scripture
-  - service
+  - non-duality
   - silence
-title: "Restrain each single thought from arising then the..."
+  - knowledge-wisdom
+  - needs-review
 ---
-
-THE ZEN TEACHING OF HUANG PO
 
 preaching of the Dharma is at one and the same time both vocal and silent. Though one talks the day long, no word is spoken. This being so, only silence belongs to the Essential.
 
-* * *
+---
 
-46. Q: Is it true that the Sravakas! can only merge their forms into the formless sphere which still belongs to the transitory Triple World, and that they are incapable of losing themselves utterly in Bodhi?
+*46. Q: Is it true that the Sravakas¹ can only merge their forms into the formless sphere which still belongs to the transitory Triple World, and that they are incapable of losing themselves utterly in Bodhi?*
 
-A: Yes. Form implies matter. Those saints are only proficient in casting off worldly views and activities, by which means they escape from worldly delusions and afflictions. They cannot lose themselves utterly in Bodhi; thus, there is still the danger that demons may come and pluck them from within the orbit of Bodhi itself. Aloofly seated in their forest dwellings, they perceive the Bodhi- Mind but vaguely. Whereas those who are vowed to become Bodhisattvas and who are already within the Bodhi of the Three Worlds, neither reject nor grasp at anything. Non-grasping, it were vain to seek them upon any plane; non-rejecting, demons will strive in vain to find them.
+A: Yes. Form implies matter. Those saints are only proficient in casting off worldly views and activities, by which means they escape from worldly delusions and afflictions. They cannot lose themselves utterly in Bodhi; thus, there is still the danger that demons may come and pluck them from within the orbit of Bodhi itself. Aloofly seated in their forest dwellings, they perceive the Bodhi-Mind but vaguely. Whereas those who are vowed to become Bodhisattvas and who are already within the Bodhi of the Three Worlds, neither reject nor grasp at anything. Non-grasping, it were vain to seek them upon any plane; non-rejecting, demons will strive in vain to find them.
 
-Nevertheless, with the merest desire to attach yourselves to this or that, a mental symbol is soon formed, such symbols in turn giving rise to all those ‘sacred writings’ which lead you back to undergo the various kinds of re- birth. So let your symbolic conception be that of a void, for then the wordless teaching of Zen will make itself apparent to you. Know only that you must decide to
+Nevertheless, with the merest desire to attach yourselves to this or that, a mental symbol is soon formed, such symbols in turn giving rise to all those ‘sacred writings’ which lead you back to undergo the various kinds of rebirth. So let your symbolic conception be that of a void, for then the wordless teaching of Zen will make itself apparent to you. Know only that you must decide to eschew all symbolizing whatever, for by this eschewal is ‘symbolized’ the Great Void in which there is neither unity nor multiplicity—that Void which is not really void, that Symbol which is no symbol. Then will the Buddhas of all the vast world-systems manifest themselves to you in a flash; you will recognize the hosts of squirming, wriggling sentient beings as no more than shadows! Continents as innumerable as grains of dust will seem no more to you than a single drop in the great ocean. To you, the profoundest doctrines ever heard will seem but dreams and illusions. You will recognize all minds as One and behold all things as One—including those thousands of sacred books and myriads of pious commentaries! All of them are just your One Mind. Could you but cease your groping after forms, all these true perceptions would be yours! Therefore is it written: ‘Within the Thusness of the One Mind, the various means to Enlightenment are no more than showy ornaments.’
 
-1 Theravadin saints who do not accept the doctrine of void, but follow the literal meaning of the sitras.
-THE WAN LING RECORD
+---
 
-eschew all symbolizing whatever, for by this eschewal is ‘symbolized’ the Great Void in which there is neither unity nor multiplicity—that Void which is not really void, that Symbol which is no symbol. Then will the Buddhas of all the vast world-systems manifest themselves to you in a flash; you will recognize the hosts of squirming, wriggling sentient beings as no more than shadows! Continents as innumerable as grains of dust will seem no more to you than a single drop in the great ocean. To you, the pro- foundest doctrines ever heard will seem but dreams and illusions. You will recognize all minds as One and behold all things as One—including those thousands of sacred books and myriads of pious commentaries! All of them are just your One Mind. Could you but cease your groping after forms, all these true perceptions would be yours! Therefore is it written: ‘Within the Thusness of the One Mind, the various means to Enlightenment are no more than showy ornaments.’
+*47. Q: But what if in previous lives I have behaved like Kaliraja, slicing the limbs from living men?*
 
-* * *
+A: The holy sages tortured by him represent your own Mind, while Kaliraja symbolizes that part of you which goes out SEEKING. Such unkingly behaviour is called lust for personal advantage. If you students of the Way, without making any attempt to live virtuously, just want to make a study of everything you perceive, then how are you different from him?! By allowing your gaze to linger
 
-47. Q: But what if in previous lives I have behaved like Kaliraja, slicing the limbs from living men?
-
-A: The holy sages tortured by him represent your own Mind, while Kaliraja symbolizes that part of you which goes out SEEKING. Such unkingly behaviour is called lust for personal advantage. If you students of the Way, with- out making any attempt to live virtuously, just want to make a study of everything you perceive, then how are you different from him?! By allowing your gaze to linger
-
-1 This passage is sufficient answer to those critics of Zen who affirm that Zen disregards the necessity for virtuous: living. It does not dis- regard it at all, but does deny that Enlightenment may be gained by it— which is quite a different thing.
+¹ Theravadin saints who do not accept the doctrine of void, but follow the literal meaning of the sūtras.
 

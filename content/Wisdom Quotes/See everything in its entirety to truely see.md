@@ -7,7 +7,14 @@ Source Type:
 tags:
   - knowledge-wisdom
   - self-knowledge
+  - mind
 ShowImage: true
 ---
 
-Don’t be preoccupied with a single spot. See everything in its entirety… effortlessly… THAT IS WHAT IT MEANS... TO TRULY “SEE.”  
+DON’T BE PREOCCUPIED WITH A SINGLE SPOT.
+
+SEE EVERYTHING IN ITS ENTIRETY…
+
+…EFFORTLESSLY
+
+THAT IS WHAT IT MEANS… TO TRULY “SEE.”

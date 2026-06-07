@@ -8,6 +8,8 @@ draft: true
 ShowImage: false
 tags:
   - love-devotion
+  - surrender
+  - needs-review
 ---
 
-Ub blue Fel Pet  SELF-NEGATION AND ULTIMATE TRUTH ARE THE SLOGANS OF LOVE 
+Self-negation and ultimate truth are the slogans of love.

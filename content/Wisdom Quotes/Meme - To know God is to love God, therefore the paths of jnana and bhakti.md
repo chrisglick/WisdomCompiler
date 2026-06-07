@@ -1,6 +1,6 @@
 ---
 Edited: true
-source: "[[Whatsapp - Maji]]"
+source: "[[Ramana Maharshi]]"
 Page: "32"
 image_name: 0c5c6fc9-e7f2-4fdd-99ba-ebd2fe76c3d4.webp
 Source Type:

@@ -10,6 +10,4 @@ tags:
   - divine
   - nature-creation
 ---
-![](Images/377fb013-2a04-4198-bf7e-7aa2cc24a877.webp)
-
 Let not a day pass without communion with nature which is so divine! The trees, the flowers, the birds, the sky! Be alert and subtle to receive and respond to the divinity around you.

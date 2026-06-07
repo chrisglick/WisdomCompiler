@@ -13,6 +13,6 @@ tags:
 title: "After self-realization behavior expresses itself..."
 ---
 
-After self-realization, any behavior or actions expressed through the body of a sage are spontaneous and totally unconditioned. They cannot be bound to any disciplines. A realized sage may be discovered in an unkempt person reclin- ing in the ashes of a cremation ground, or on the cushioned bed in a palace as a king. He may be a butcher by vocation or a successful businessman. Nevertheless, a realized one, hav- ing transcended the realm of beingness, ever abides in the Eternal Absolute.
+After self-realization, any behavior or actions expressed through the body of a sage are spontaneous and totally unconditioned. They cannot be bound to any disciplines. A realized sage may be discovered in an unkempt person reclining in the ashes of a cremation ground, or on the cushioned bed in a palace as a king. He may be a butcher by vocation or a successful businessman. Nevertheless, a realized one, having transcended the realm of beingness, ever abides in the Eternal Absolute.
 
-February 4th 1980 
+February 4th 1980

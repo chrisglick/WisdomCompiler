@@ -8,9 +8,9 @@ draft: false
 ShowImage: false
 tags:
   - knowledge-wisdom
-  - love-devotion
-  - nature-creation
-  - service
+  - ego
+  - mind
+  - liberation
 title: "If knowledge is given to all nobody will gain anything"
 ---
 
@@ -26,5 +26,4 @@ ciple. If knowledge is given to all, nobody will get any. If it is preserved amo
 
 "There are periods in the life of humanity, which generally coincide with the beginning of the fall of cultures and civilizations, when the masses irretrievably lose their reason and begin to destroy everything that has been created by centuries and millenniums of culture. Such periods of mass madness, often coinciding with geological cataclysms, climatic changes, and similar phenomena of a planetary character, release a very great quantity of the matter of knowledge. This, in its turn, necessitates the work of collecting this matter of knowledge which would otherwise be lost. Thus the work of collecting scattered matter of knowledge frequently coincides with the beginning of the destruction and fall of cultures and civilizations.
 
-"This aspect of the question is clear. The crowd neither wants nor seeks knowledge, and the leaders of the crowd, in their own interests, try to strengthen its fear and dislike of everything new and unknown. The slavery in which mankind lives is based upon this fear. It is even difficult to imagine all the horror of this slavery. We do not understand what people are losing. But in order to understand the cause of this slavery it is enough to see how people live, what constitutes the aim of their existence, the object of their desires, passions, and aspirations, of what they think, of what they talk, what they serve and what they worship.
-
+"This aspect of the question is clear. The crowd neither wants nor seeks knowledge, and the leaders of the crowd, in their own interests, try to strengthen its fear and dislike of everything new and unknown. The slavery in which mankind lives is based upon this fear. It is even difficult to imagine all the horror of this slavery. We do not understand *what* people are losing. But in order to understand the cause of this slavery it is enough to see how people live, what constitutes the aim of their existence, the object of their desires, passions, and aspirations, of what they think, of what they talk, what they serve and what they worship.

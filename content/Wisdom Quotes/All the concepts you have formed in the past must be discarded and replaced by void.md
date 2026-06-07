@@ -8,10 +8,15 @@ ShowImage: false
 tags:
   - liberation
   - mind
-  - nature-creation
-  - service
+  - non-duality
+  - consciousness
+  - needs-review
 ---
 
-Sword of Thusness’. All the concepts you have formed in the past must be discarded and replaced by void. Where dualism ceases, there is the Void of the Womb of Tathagatas. The term ‘Womb of Tathagatas’ implies that not the smallest hairsbreadth of anything can exist there. That is why the Dharma Raja (the Buddha), who broke down the notion of objective existence, manifested himself in this... 1 This passage contains another famous Taoist term—wu WEI, sometimes mistranslated ‘non-action’. In fact, it means no calculated action, nothing but spontaneous actions required to meet the demands of the passing moment.
+Sword of Thusness’. All the concepts you have formed in the past must be discarded and replaced by void. Where dualism ceases, there is the Void of the Womb of Tathāgatas. The term ‘Womb of Tathāgatas’ implies that not the smallest hairsbreadth of anything can exist there. That is why the Dharma Rāja *(the Buddha)*, who broke down the notion of objective existence, manifested himself in this
 
-* Literacy is by no means essential to the mastery of Zen. The Tibetan Book of the Great Liberation makes the same point.
+---
+
+¹ This passage contains another famous Taoist term—wu wei, sometimes mistranslated ‘non-action’. In fact, it means no calculated action, nothing but spontaneous actions required to meet the demands of the passing moment.
+
+² Literacy is by no means essential to the mastery of Zen. The *Tibetan Book of the Great Liberation* makes the same point.

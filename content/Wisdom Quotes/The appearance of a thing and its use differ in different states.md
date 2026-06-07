@@ -8,7 +8,11 @@ draft: false
 ShowImage: false
 tags:
   - knowledge-wisdom
+  - non-duality
+  - consciousness
 title: "The appearance of a thing and its use differ in..."
 ---
 
-155. Therefore the appearance of a thing and its utility do not determine the reality of a thing or otherwise.  All knowledge is secondary and unreliable. There is no doubt about it.  156-159. The greatest of all delusions is the convic- tion that knowledge is not a delusion. 
+155. Therefore the appearance of a thing and its utility do not determine the reality of a thing or otherwise. All knowledge is secondary and unreliable. There is no doubt about it.
+
+156-159. The greatest of all delusions is the conviction that knowledge is not a delusion.

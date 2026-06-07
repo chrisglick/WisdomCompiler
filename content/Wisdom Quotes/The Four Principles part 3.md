@@ -9,7 +9,8 @@ tags:
   - divine
   - humility
   - mind
-  - nature-creation
+  - liberation
+  - non-duality
   - service
   - silence
 ---
