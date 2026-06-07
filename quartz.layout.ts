@@ -5,7 +5,9 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  // RelatedQuotes self-gates to quote pages (returns null elsewhere): shows
+  // "Kindred passages" ranked by same source, then shared topics.
+  afterBody: [Component.RelatedQuotes()],
   footer: Component.Footer({
     links: {
       "GitHub": "https://github.com/chrisglick/WisdomCompiler",

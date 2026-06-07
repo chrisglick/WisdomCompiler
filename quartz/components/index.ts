@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import RandomQuote from "./RandomQuote"
 import DailyWisdom from "./DailyWisdom"
 import SourceBanner from "./SourceBanner"
+import RelatedQuotes from "./RelatedQuotes"
 import ArticleImage from "./ArticleImage"
 import BookGrid from "./BookGrid"
 import TeacherGrid from "./TeacherGrid"
@@ -70,4 +71,5 @@ export {
   RandomQuote,
   DailyWisdom,
   SourceBanner,
+  RelatedQuotes,
 }
