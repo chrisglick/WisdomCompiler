@@ -11,7 +11,7 @@ A **Quartz v4.5.2** static site generated from an Obsidian vault. Content source
 - **Concepts** (`content/Concepts/`): theme pages (was a single `Concepts.md`, restructured to a folder 2026-06-10).
 
 ### Draft / publish model (IMPORTANT — was previously mis-documented)
-650 notes split roughly: **234 `draft: false`** + **229 `draft: true`** + **~187 with no `draft` field** (Quartz publishes those by default). So ≈421 are public, 229 hidden. A `quartz build` reports "Filtered out 242 files" — that's the drafts + templates being excluded. **Do not assume "all notes are draft:true."** Publishing policy: keep the 229 hidden; flip `draft:false` per-note, manually, deliberately — never bulk-publish.
+650 notes split roughly: **234 `draft: false`** + **229 `draft: true`** + **~187 with no `draft` field** (Quartz publishes those by default). So ≈421 are public, 229 hidden. A `quartz build` reports "Filtered out 242 files" — that's the drafts + templates being excluded. **Do not assume "all notes are draft:true."** Publishing policy (2026-10-21): mechanical Publish rule in `ai/quote-review/EDIT-RULES.md` (Edited true + canonical source + no needs-* tag). As of 2026-10-21: 341 `draft:false`, 116 `draft:true`, 534 quote pages built. New: `/Themes` page from `quartz/components/ThemeIndex.tsx` (build-time, gated on slug `Themes` in `afterBody`); quote-page typography scoped by `body[data-slug^="Wisdom-Quotes/"]` in `custom.scss`.
 
 ## Component model (custom)
 Custom Quartz components in `quartz/components/`, wired in `quartz.layout.ts`, exported from `quartz/components/index.ts`:

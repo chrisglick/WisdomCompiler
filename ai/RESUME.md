@@ -15,21 +15,22 @@ template_version: 1
 > Trust order: this file → latest `ai/journal/*.md` → `git log` → the code itself.
 
 ## ▶ Start Here (next actions)
-1. **OCR verification pass (2026-10-21) is COMMITTED (`6498d94`), not yet deployed.** Read `ai/reviews/2026-10-21-ocr-verification.md`, decide on the ~45 non-quote notes (delete?) and the non-canonical sources (add *Mandala* / MySaiBaba to vocab, or delete), then `git diff -- "content/Wisdom Quotes"`, commit, build, deploy. Pick-up state, decisions and the exact commit command: `ai/sessions/SESSION-2026-10-21-ocr-verification.md`. Open items: `ai/plans/2026-10-21-known-gaps.md`. To re-run a pass: `ai/quote-review/OCR-RUNBOOK.md`.
+1. **Decide the 19 already-public notes that fail the publish rule** (downgraded by the OCR pass, mostly cleared wrong attributions): unpublish per rule, or leave. Then the OCR decision lists. Read `ai/reviews/2026-10-21-ocr-verification.md`, decide on the ~45 non-quote notes (delete?) and the non-canonical sources (add *Mandala* / MySaiBaba to vocab, or delete), then `git diff -- "content/Wisdom Quotes"`, commit, build, deploy. Pick-up state, decisions and the exact commit command: `ai/sessions/SESSION-2026-10-21-ocr-verification.md`. Open items: `ai/plans/2026-10-21-known-gaps.md`. To re-run a pass: `ai/quote-review/OCR-RUNBOOK.md`.
 2. **Teacher enrichment** (`production/WORKFLOW-TEACHERS.md`): Ramana / Nisargadatta / Huang Po article drafts sit in the working tree, uncommitted since 2026-06-12. Review and commit.
 3. Roadmap items 5–9 (typography, unify voice, OG/RSS, build-time aggregation, concept threads): `project_ux_council_roadmap.md`.
 4. After any content/code change: `node ./quartz/bootstrap-cli.mjs build` (from project root; `npx quartz build` is broken, see Key Pointers) then deploy.
 
 ## 🧭 Current State
+- **2026-10-21 evening, DEPLOYED LIVE:** 107 notes published per the new publish rule (534 public quote pages, was 427), `/Themes` browse-by-theme page, contemplative typography on quote pages. Commits `1bc4234`, `3d0c9a3` + themes fix. Analytics still OFF: needs the Cloudflare Pages dashboard toggle (Workers & Pages → wisdom-compiler → Metrics → Web Analytics); nothing in code.
 - **Roadmap items 1–4 DONE, committed (`f0e6455`, `0eb072f`, `dd630dd`), AND DEPLOYED LIVE** to wisdomcompiler.com (2026-06-11). Production verified: Kindred passages, "More from this source", chrome removed — all confirmed live.
 - Live build preview of the deployed state: https://446e0fc4.wisdom-compiler.pages.dev
-- git tip: `6498d94` (OCR pass + `ai/` folder, 2026-10-21). Working tree: 3 teacher drafts + `scripts/extract-keywords.py` modified since June, untracked `scripts/audit-teachers.py`, `production/WORKFLOW-TEACHERS.md`. Live site still serves pre-pass bodies until the next deploy.
+- git tip: see `git log -1`; 8 commits ahead of origin/v4, NOT PUSHED. Working tree: 3 teacher drafts + `scripts/extract-keywords.py` modified since June, untracked `scripts/audit-teachers.py`, `production/WORKFLOW-TEACHERS.md`. Live site still serves pre-pass bodies until the next deploy.
 - The site now serves the cleaned, attributed content (was serving pre-cleanup content before this).
 - `ai/` is tracked since `6498d94`. Transcript archives in `ai/sessions/raw/` are gitignored on purpose (public repo) and exist only on this laptop.
 
 ## 🧵 Active Threads
 - **Roadmap items 5–9 remain:** typography (5), unify voice (6), OG cards + daily permalink + RSS (7), replace static Python link-scripts with build-time aggregation (8), curated concept-threads (9).
-- **Publish policy:** 229 `draft:true` notes deliberately hidden. Selective publishing (flip `draft:false` per note) is future + manual — never bulk-flip.
+- **Publish policy (rewritten 2026-10-21):** mechanical rule in `ai/quote-review/EDIT-RULES.md`: `Edited: true` + canonical wikilink source + no `needs-*` tag → `draft: false`. 116 notes remain hidden because they fail it. Re-apply the rule after each verification pass.
 - **OCR flags after 2026-10-21:** 80 promoted clean, 98 `needs-source` (text verified, no canonical attribution), 24 `needs-manual-review` (non-quotes / unreadable). IMG_6941 and IMG_6944 are clean now (quote-only bodies).
 
 ## ❓ Open Questions / Decisions Pending
