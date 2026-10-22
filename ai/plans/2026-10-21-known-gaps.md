@@ -13,8 +13,7 @@ highest weight first. Strike items as they close; do not renumber.
    the canonical list and re-attribute, or delete the notes.
 5. **29 recognition-only attributions.** What: `source` set because the passage was recognised, image
    shows no title. Where: list B. Fix: confirm or clear; clearing means `Edited: false` + `needs-source`.
-6. **96 `needs-source` notes.** What: text verified, author unknown. Fix: research task, could be a
-   web-search agent pass over the first sentence of each body. Not started.
+6. **98 `needs-source` notes.** Web-research pass done 2026-10-21 (`ai/reviews/2026-10-21-source-research.md`): 3 high, 13 medium, 22 low, 59 none; only 4 map to canonical names. The rest are non-canon works (sutras, Bloom County, Le Guin, Musashi, I Ching, GTD, Mandala). Remaining decision: add those works to the canon or leave the tag.
 7. **Teacher enrichment drafts (Huang Po, Nisargadatta, Ramana).** What: modified since 2026-06-12,
    uncommitted. Where: `content/Teachers/`, workflow in `production/WORKFLOW-TEACHERS.md`. Fix: review, commit.
 8. **`npx quartz build` broken.** What: `npm error code EMISSINGTARGET` from `package-lock.json`
