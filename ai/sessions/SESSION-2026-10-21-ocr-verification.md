@@ -96,3 +96,41 @@ Teacher drafts and scripts are a separate decision and a separate commit.
 - The 72 medium-confidence and 1 low-confidence verdicts (filter by `confidence` in the results JSON).
 - The 29 recognition-only attributions in list B.
 - Page numbers set by agents were taken from the image where visible; where the field is null, none was visible.
+
+---
+
+## 8. Continuation, same day (evening and night) — deploy, publish, UX, research, canon
+Source: `ai/sessions/raw/1d21ff51-6169-4115-b4dd-c3fe43b3ea7f.md` (re-archived at the final close-out; 217 turns).
+
+### What got done
+- **Publish rule written and applied** (`ai/quote-review/EDIT-RULES.md`, "Publish rule"): `draft: false` iff `Edited: true` + canonical `[[wikilink]]` source + no `needs-*` tag. First application published 107 notes (`1bc4234`). Review agents never touch `draft`; publishing is this one mechanical step.
+- **Browse by theme** (`/Themes`): `quartz/components/ThemeIndex.tsx` + `styles/themeIndex.scss`, wired in `quartz.layout.ts` behind `ConditionalRender` on slug `Themes`; card on the homepage. 21 vocab tags, up to 5 samples each, each quote used at most once per page (FNV-1a spread). `3d0c9a3`.
+- **Contemplative typography** on quote pages only (`quartz/styles/custom.scss`, section dated 2026-10-21): serif stack, 36rem measure, larger leading, footer aligned to the quote column. `3d0c9a3`, polish `63a484e`, `fbddeae`, `49c888b`. Browser QA (Playwright, 12 captures) passed.
+- **Source research pass** over 98 `needs-source` notes, 13 sonnet agents, web search only, nothing edited: 3 high, 13 medium, 22 low, 59 none. Brief now in repo: `ai/quote-review/SOURCE-RESEARCH-BRIEF.md`; results `ai/reviews/2026-10-21-source-research.{md,json}`. `6fc693b`.
+- **Canon widened** on Krishna's word ("I have wide interests"): 12 Book pages (11 new + the Claret article moved from `content/Websites/`), 18 notes attributed and published. Three researcher attributions were corrected against the images before applying (Mahaparinirvana, not Lankavatara; King's *Papers*, not *Strength to Love*; IMG_1547 is a Bequeathed Teachings line). `4afbbbf`. `vocab.json` and the EDIT-RULES canon list: 60 books.
+- **Deployed** four times, last to https://a2d03084.wisdom-compiler.pages.dev (wisdomcompiler.com). **Pushed** to `origin/v4` (first push since June); branch level with origin at close.
+
+### Findings in prose
+- Counts at close: `draft: false` 356 of 650 quote notes; 549 public quote pages built; `needs-source` 81; `needs-manual-review` 23; Book pages 63.
+- The remaining 81 unsourced notes are unsourced because they are not from any book in the vault, not because the canon was missed. Research found nothing for 59 of them.
+- Analytics cannot be enabled from code or the wrangler token (account read + pages write only). It is one toggle in the Cloudflare dashboard: Workers & Pages, wisdom-compiler, Metrics, Web Analytics.
+- 19 notes were already public before the rule existed and fail it (mostly attributions the OCR pass cleared). They are still live. Decision pending.
+- `verify-ocr-pass.py` compares `draft` against the pre-pass worklist; after a publish flip it reports `DRAFT CHANGED` for every flipped note (37 now). That is the expected signal, not a defect; any other problem class is real.
+
+### PICK-UP STATE
+- **Complete, committed, pushed, live:** everything above. Content tip at close: `5a31bac`.
+- **Still uncommitted (since June, not this session):** 3 teacher drafts, `scripts/extract-keywords.py`, untracked `production/WORKFLOW-TEACHERS.md`, `scripts/audit-teachers.py`.
+- **Deferred, Krishna's call:** backlog items 3, 4, 5, 13 to 17 in `ai/plans/2026-10-21-known-gaps.md`.
+- **Single next action:** decide items 13 and 14 (duplicate Claret note; retitle the Le Guin note), then the 19 rule-failing public notes (item 15). Each is a one-line edit plus the standard build and deploy.
+
+### Decisions and why
+- **Publish by rule, not by hand.** Why: hand-picking notes re-litigates every pass; the rule makes publishing reproducible and reviewable as a diff.
+- **Themes page is build-time, not client-side.** Why: same reason as ADR-20260610 (Kindred passages): static, crawlable, no JS, deterministic samples.
+- **Typography scoped to quote pages only.** Why: the rest of the site is reference material; the quote page is the reading experience.
+- **Canon widened instead of leaving `needs-source`.** Why: Krishna said so; a passage with a true non-canon source is better attributed than tagged forever. Attributions were applied only where the image or verbatim text confirmed the research.
+- **Research results committed before any were applied.** Why: a wrong attribution is worse than none; applying needed a separate, image-checked step.
+
+### Not trustworthy yet
+- List B of the research doc (22 low-confidence guesses): unverified; do not apply without the image.
+- The 29 recognition-only attributions (list B of the OCR review doc) are unchanged.
+- IMG_6954 (Blake): plate 13 by reading, page field left empty.

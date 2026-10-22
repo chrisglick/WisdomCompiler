@@ -13,7 +13,9 @@ highest weight first. Strike items as they close; do not renumber.
    the canonical list and re-attribute, or delete the notes.
 5. **29 recognition-only attributions.** What: `source` set because the passage was recognised, image
    shows no title. Where: list B. Fix: confirm or clear; clearing means `Edited: false` + `needs-source`.
-6. **98 `needs-source` notes.** Web-research pass done 2026-10-21 (`ai/reviews/2026-10-21-source-research.md`): 3 high, 13 medium, 22 low, 59 none; only 4 map to canonical names. The rest are non-canon works (sutras, Bloom County, Le Guin, Musashi, I Ching, GTD, Mandala). Remaining decision: add those works to the canon or leave the tag.
+6. **81 `needs-source` notes (was 98).** Research pass 2026-10-21 (`ai/reviews/2026-10-21-source-research.md`) found
+   nothing for 59 and low-confidence guesses for 22 (list B, unverified). The 16 high/medium matches were applied and the
+   canon widened to 60 books (`4afbbbf`). Fix for the rest: leave the tag, or check list B against the images one by one.
 7. **Teacher enrichment drafts (Huang Po, Nisargadatta, Ramana).** What: modified since 2026-06-12,
    uncommitted. Where: `content/Teachers/`, workflow in `production/WORKFLOW-TEACHERS.md`. Fix: review, commit.
 8. **`npx quartz build` broken.** What: `npm error code EMISSINGTARGET` from `package-lock.json`
@@ -30,3 +32,10 @@ highest weight first. Strike items as they close; do not renumber.
     instead. Fix: run `/lk-init-ai-workspace` only if the extra structure is wanted; the current layout works.
 13. **Duplicate Claret note.** `His vocational detour...` and `Yet, his vocational detour...` are the same passage from IMG_0009, both public. Fix: delete one (owner's call).
 14. **Mis-titled note.** `He could not move as the force of Bhagavans presence held him.md` is Le Guin's *Rocannon's World*; the filename/title still says Bhagavan. Fix: add a `title:` from the passage.
+15. **19 public notes fail the publish rule.** What: `draft: false` set before the rule existed; the OCR pass cleared their
+    attribution or flagged them. Where: list every `draft: false` note and test it against the rule in `EDIT-RULES.md`.
+    Fix: set `draft: true` (unpublish) or confirm each by image; owner's call.
+16. **Web Analytics OFF.** What: no code path; the wrangler token lacks the scope. Fix: Cloudflare dashboard, Workers & Pages,
+    wisdom-compiler, Metrics, Web Analytics, enable. One click, Krishna only.
+17. **Questioner-line indent has no emitter.** What: a `p.questioner` rule exists in `custom.scss`; nothing adds the class.
+    Fix: a small Quartz transformer tagging `<p>` whose only child is `<em>` on quote pages.

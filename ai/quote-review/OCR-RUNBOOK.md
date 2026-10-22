@@ -79,3 +79,29 @@ first (stale env vars override the login). No secrets live in this repo.
 - The harness Agent tool does not stall; the June 2026 Workflow runtime did. Prefer Agent.
 - Haiku is good enough as a fidelity reader; it caught 4 slips in 83 bodies that sonnet/opus missed.
 - `cd` inside a Bash call persists to the next call; use absolute paths.
+
+## Publish pass (separate step, after any verification pass)
+The rule lives in `EDIT-RULES.md` under "Publish rule": a note gets `draft: false` iff `Edited: true`,
+`source` is a canonical `"[[Name]]"`, and no `needs-*` tag is present. Apply it mechanically over
+`content/Wisdom Quotes/*.md`, changing only the `draft` line; never hand-pick notes. Before flipping,
+check every candidate's `source` resolves to a `content/Books/` or `content/Teachers/` page whose
+`title` equals the wikilink (`SourceBanner.tsx` matches on title). Count `draft: false` before and
+after and name the delta in the commit message. Notes that were public before the rule and fail it are
+not auto-unpublished; they are a listed decision (backlog item 15). First run 2026-10-21: 107 notes
+(`1bc4234`); second after the canon widening: 18 (`4afbbbf`).
+
+## Source research pass (web search, edits nothing)
+For notes tagged `needs-source`. Brief: `SOURCE-RESEARCH-BRIEF.md`. Steps: worklist with
+`build-ocr-worklist.py <out> --tags needs-source`; batches of about 8 per `sonnet` agent with the
+WebSearch tool; each agent writes one JSON report (keys in the brief); aggregate into
+`ai/reviews/YYYY-MM-DD-source-research.{json,md}` with high / medium / low / none tables; commit the
+results **before** applying anything. Applying is a second, image-checked step: open the image for
+every high/medium hit, create the Book page (`title` = filename, `draft: false`, `category`,
+`tradition`) if the work is to join the canon, add it to the Canonical BOOKS list in `EDIT-RULES.md`
+and `vocab.json`, set `source`/`Page`/`Edited: true`, drop the tag, then run the Publish pass. On
+2026-10-21 three of sixteen researcher attributions were wrong at the work level and were caught only
+by the image; treat search hits as leads, not findings.
+
+## Known false alarm
+After a publish flip, `verify-ocr-pass.py` reports `DRAFT CHANGED` for every flipped note because it
+compares against the pre-pass worklist snapshot. Any other problem class is real.
