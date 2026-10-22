@@ -27,6 +27,7 @@ import RandomQuote from "./RandomQuote"
 import DailyWisdom from "./DailyWisdom"
 import SourceBanner from "./SourceBanner"
 import RelatedQuotes from "./RelatedQuotes"
+import ThemeIndex from "./ThemeIndex"
 import ArticleImage from "./ArticleImage"
 import BookGrid from "./BookGrid"
 import TeacherGrid from "./TeacherGrid"
@@ -72,4 +73,5 @@ export {
   DailyWisdom,
   SourceBanner,
   RelatedQuotes,
+  ThemeIndex,
 }

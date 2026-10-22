@@ -34,6 +34,12 @@ const cards: ExploreCard[] = [
     slug: "tags",
   },
   {
+    emoji: "\u{1F33F}",
+    title: "Browse by Theme",
+    description: "Every theme with its count and a few passages to begin with",
+    slug: "Themes",
+  },
+  {
     emoji: "\u{1F9F5}",
     title: "Wisdom Threads",
     description: "Cross-tradition explorations of the same eternal truths",

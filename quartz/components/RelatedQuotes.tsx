@@ -31,12 +31,13 @@ const topicTags = (fm: Record<string, unknown> | undefined): string[] => {
     .filter((t) => t && !NOISE_TAGS.has(t))
 }
 
-const isQuoteSlug = (slug: string): boolean =>
+// Shared with ThemeIndex so "what is a quote page" has one definition.
+export const isQuoteSlug = (slug: string): boolean =>
   slug.startsWith("Wisdom-Quotes/") &&
   slug !== "Wisdom-Quotes/index" &&
   !slug.includes("Images/")
 
-const displayTitle = (fm: Record<string, unknown> | undefined, slug: string): string => {
+export const displayTitle = (fm: Record<string, unknown> | undefined, slug: string): string => {
   const t = fm?.title
   if (t && String(t).trim()) return String(t)
   // Fall back to the last path segment, de-slugified.

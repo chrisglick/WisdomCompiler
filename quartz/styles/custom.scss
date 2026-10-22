@@ -152,3 +152,142 @@ body {
     overflow-x: auto;
   }
 }
+
+// --- Contemplative typography (2026-10-21) ---
+// Quote pages read like a well-set book: one serif column, centred, with the
+// passage as the centre of the page. Scope: Quartz writes the slug onto
+// <body data-slug>, and SPA navigation morphs body attributes, so the scope
+// holds across client-side navigation. `#quartz-body` lifts specificity above
+// base.scss's `.page > #quartz-body …` rules without !important. `.center >`
+// keeps link popovers (which also contain an <article>) untouched.
+$quotePage: 'body[data-slug^="Wisdom-Quotes/"]:not([data-slug="Wisdom-Quotes/index"])';
+// System serifs only, no new font download. Iowan leads so Apple devices get
+// it (Georgia exists there too and would shadow it); Android falls to `serif`.
+$quoteSerif: "Iowan Old Style", Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+// About 65-70 characters of serif prose at 18px. In rem, not ch, so the banner,
+// title, passage and footer share one column (ch changes with font and size).
+$quoteMeasure: 36rem;
+$dialogueIndent: 1.25em;
+$dialogueIndentMobile: 0.75em;
+
+#{$quotePage} #quartz-body .center {
+  > .page-header,
+  > article,
+  > .page-footer {
+    max-width: $quoteMeasure;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  // Air between the attribution banner and the title. The link is inline by
+  // default, so make it a block so the banner's margin behaves.
+  .source-banner__link {
+    display: block;
+  }
+
+  .source-banner--quote {
+    margin: 0 0 2.5rem;
+  }
+
+  .article-title {
+    font-family: $quoteSerif;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.3;
+    letter-spacing: normal;
+    text-transform: none;
+    text-wrap: balance;
+  }
+
+  > article {
+    margin-top: 2rem;
+    font-family: $quoteSerif;
+    font-size: 1.125rem;
+    line-height: 1.7;
+
+    // base.scss fixes p/li at line-height 1.6rem; the mobile block fixes size.
+    p,
+    li {
+      font-size: inherit;
+      line-height: inherit;
+    }
+
+    p {
+      margin: 0 0 1.15em;
+    }
+
+    h1,
+    h2,
+    h3 {
+      font-family: $quoteSerif;
+      font-weight: 500;
+    }
+
+    // Quoted speech reads as dialogue, not as a nested citation: an indent,
+    // no rule.
+    blockquote:not(.callout) {
+      margin: 1.5em 0 1.5em $dialogueIndent;
+      padding: 0;
+      border-left: none;
+
+      > p:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    // Questioner lines in dialogues (`*italic*` paragraphs). CSS cannot tell a
+    // fully italic paragraph from "*Maharshi* observed: …", so this waits on a
+    // build-time hook that adds class="questioner" to a <p> whose only content
+    // is one <em>. Until that hook exists this rule matches nothing.
+    p.questioner {
+      margin-left: $dialogueIndent;
+      color: color-mix(in srgb, var(--darkgray) 80%, var(--gray));
+    }
+  }
+
+  // Section breaks (the rule before the footer, and `* * *` in a passage)
+  // become a short centred mark, as in a book.
+  > hr,
+  > article hr {
+    width: 3rem;
+    margin: 3rem auto 2.5rem;
+    background-color: var(--gray);
+  }
+
+  // The rule above already separates the passage; drop the second line.
+  .related-quotes {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+  }
+
+  @media all and ($mobile) {
+    .source-banner--quote {
+      margin-bottom: 1.75rem;
+    }
+
+    .article-title {
+      font-size: 1.35rem;
+    }
+
+    > article {
+      margin-top: 1.5rem;
+      font-size: 1.0625rem;
+      line-height: 1.65;
+
+      blockquote:not(.callout) {
+        margin: 1.25em 0 1.25em $dialogueIndentMobile;
+        padding: 0;
+      }
+
+      p.questioner {
+        margin-left: $dialogueIndentMobile;
+      }
+    }
+
+    > hr,
+    > article hr {
+      margin: 2.25rem auto 2rem;
+    }
+  }
+}

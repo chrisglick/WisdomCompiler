@@ -7,7 +7,14 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   // RelatedQuotes self-gates to quote pages (returns null elsewhere): shows
   // "Kindred passages" ranked by same source, then shared topics.
-  afterBody: [Component.RelatedQuotes()],
+  // ThemeIndex renders the "Browse by theme" listing under content/Themes.md only.
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.ThemeIndex(),
+      condition: (page) => page.fileData.slug === "Themes",
+    }),
+    Component.RelatedQuotes(),
+  ],
   footer: Component.Footer({
     links: {
       "GitHub": "https://github.com/chrisglick/WisdomCompiler",

@@ -1,0 +1,97 @@
+@use "../../styles/variables.scss" as *;
+
+/* Mobile-first: base rules are the narrow layout; wider screens only scale type. */
+.theme-index {
+  margin: 1.5rem 0 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.theme-index__theme {
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+.theme-index__heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.2rem 0.7rem;
+  margin: 0 0 0.8rem 0;
+  font-size: 1.2rem;
+  line-height: 1.3;
+  color: var(--dark);
+}
+
+.theme-index__count {
+  font-size: 0.78rem;
+  font-weight: $normalWeight;
+  letter-spacing: 0.04em;
+  color: var(--gray);
+}
+
+.theme-index__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.theme-index__item {
+  margin: 0;
+}
+
+.theme-index__link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.6rem 0.8rem;
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--light) 92%, var(--lightgray));
+  text-decoration: none !important;
+  background-image: none !important;
+  transition: background 0.18s ease;
+
+  &:hover {
+    background: color-mix(in srgb, var(--light) 80%, var(--lightgray));
+    color: inherit;
+  }
+}
+
+.theme-index__title {
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: var(--darkgray);
+  overflow-wrap: anywhere;
+}
+
+.theme-index__source {
+  font-size: 0.74rem;
+  color: var(--gray);
+  letter-spacing: 0.02em;
+}
+
+.theme-index__more {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.2rem;
+  margin: 0.8rem 0 0 0;
+  font-size: 0.85rem;
+}
+
+.theme-index__thread {
+  color: var(--secondary);
+}
+
+@media (min-width: 800px) {
+  .theme-index__heading {
+    font-size: 1.35rem;
+  }
+
+  .theme-index__title {
+    font-size: 0.98rem;
+  }
+}
