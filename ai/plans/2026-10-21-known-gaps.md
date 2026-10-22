@@ -3,12 +3,8 @@
 Backlog of loose ends after the OCR verification pass. One line of *what / why / where / fix* each,
 highest weight first. Strike items as they close; do not renumber.
 
-1. **191 quote edits uncommitted.** What: the whole OCR pass sits in the working tree. Why: owner review
-   required before anything ships. Where: `git diff -- "content/Wisdom Quotes"`. Fix: review, then the
-   commit in `ai/sessions/SESSION-2026-10-21-ocr-verification.md` §5.
-2. **`ai/` folder untracked.** What: every review doc, runbook, decision and RESUME since June is not in
-   git. Why: never added. Where: `git status --short | grep '^??'`. Fix: `git add ai RESUME.md` in the
-   same commit as item 1.
+1. ~~191 quote edits uncommitted.~~ Committed `6498d94` on 2026-10-21. Still to do: push, build, deploy.
+2. ~~`ai/` folder untracked.~~ Tracked since `6498d94`.
 3. **~45 non-quote notes.** What: game subtitles, picture plates, lyric searches, a physics paper.
    Why: screenshots swept in with the quotes. Where: list A in `ai/reviews/2026-10-21-ocr-verification.md`.
    Fix: delete the `.md` and `.webp` pairs, or keep as image-only pages; owner's call.

@@ -9,7 +9,7 @@
 
 ## 1. What got done
 
-### A. Verification of all 203 flagged notes — 191 files modified, UNCOMMITTED
+### A. Verification of all 203 flagged notes — 191 files modified, committed as `6498d94`
 - Worklist: 160 `needs-review`, 41 `needs-manual-review`, 2 untagged garbled notes (IMG_6941, IMG_6944).
 - 20 sonnet batches of 8 for the ordinary cards; 43 single-note opus/sonnet runs for the hard tier.
 - Verdicts: 80 verified-clean, 96 verified-no-source, 25 non-quote, 2 unreadable. 86 bodies rewritten.
@@ -49,14 +49,12 @@ fails on this machine with an npm lock-file error that predates the session. Not
 
 ## 3. PICK-UP STATE
 - **Complete:** verification, QA, checker, docs, runbook, transcript archive.
-- **Half-done by design:** the 191 content edits are in the working tree, not committed. Krishna wanted
-  to review before anything ships, and nothing may be published without him.
+- **Committed** as `6498d94` on Krishna's instruction after the close-out (content + `ai/` folder). Not pushed, not deployed.
 - **Deferred to Krishna (lists in the review doc):**
   1. Delete the ~45 non-quotes or keep them as image-only pages (list A).
   2. *Mandala* (29) and MySaiBaba (10): add to the canonical vocabulary and re-attribute, or delete (list D).
   3. Confirm or clear 29 recognition-only attributions (list B).
-- **Single next action:** `git diff --stat -- "content/Wisdom Quotes"` then spot-check 5 bodies against
-  their images, then commit (command in §5).
+- **Single next action:** build with `node ./quartz/bootstrap-cli.mjs build` and deploy with wrangler so the 80 cleaned public notes go live; then the three decisions.
 
 ## 4. NEXT (prioritised)
 1. Commit the OCR pass plus the `ai/` knowledge folder. Why: both are untracked; a disk failure or a
@@ -70,9 +68,8 @@ fails on this machine with an npm lock-file error that predates the session. Not
 ## 5. Durability audit
 | Path | State | Risk |
 |---|---|---|
-| `content/Wisdom Quotes/*.md` (191) | modified, uncommitted | lost on clone or reset |
-| `ai/` (RESUME, reviews, journal, quote-review, sessions, context, decisions, html) | **untracked** | lost on clone |
-| `RESUME.md`, `production/WORKFLOW-TEACHERS.md`, `scripts/audit-teachers.py` | untracked | lost on clone |
+| `content/Wisdom Quotes/*.md` (191), `ai/`, `RESUME.md` | committed `6498d94`, not pushed | safe locally; push to reach GitHub |
+| `production/WORKFLOW-TEACHERS.md`, `scripts/audit-teachers.py` | untracked | lost on clone |
 | `content/Teachers/*.md` (3), `scripts/extract-keywords.py` | modified since June | lost on reset |
 | `ai/sessions/raw/*` | gitignored by design (public repo) | this machine only |
 | `~/.claude/projects/D--Vaults-WisdomCompiler/memory/` | in-memory store | this machine only |
