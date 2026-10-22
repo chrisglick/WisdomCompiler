@@ -4,7 +4,7 @@ source: "[[Ramana Maharshi]]"
 Page: "0"
 image_name: RenderedImage.webp
 Source Type: []
-draft: true
+draft: false
 ShowImage: false
 title: "Ocean of nectar full of grace, engulfing the universe"
 tags:

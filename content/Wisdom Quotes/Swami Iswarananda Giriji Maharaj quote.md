@@ -5,7 +5,7 @@ Page: "0"
 image_name: 179c2fae-9f4d-4887-b665-63e1ac8fd484-1.webp
 Source Type:
   - Meme
-draft: true
+draft: false
 ShowImage: false
 tags:
   - guru-teacher

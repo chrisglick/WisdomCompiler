@@ -9,7 +9,7 @@ tags:
   - silence
   - detachment
 ShowImage: true
-draft: true
+draft: false
 ---
 
 I feel so alone…

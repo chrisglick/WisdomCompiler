@@ -4,7 +4,7 @@ source: "[[Silence of the Heart]]"
 Page: "252"
 image_name: IMG_0495.webp
 Source Type: 
-draft: true
+draft: false
 ShowImage: false
 tags:
   - silence

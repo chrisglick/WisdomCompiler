@@ -4,7 +4,7 @@ source: "[[Guru Vachaka Kovai]]"
 Page: "0"
 image_name: IMG_1379.webp
 Source Type: 
-draft: true
+draft: false
 ShowImage: false
 tags:
   - guru-teacher

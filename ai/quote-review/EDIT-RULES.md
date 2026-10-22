@@ -17,7 +17,7 @@ You are a meticulous editor. Clean ONE quote note IN PLACE, using its source ima
 6. **Title:** if the FILENAME is a UUID or `IMG_####`, add `title: "<short ≤70-char phrase from the quote>"`. Do NOT rename the file. If the filename is already descriptive, leave title alone.
 7. **Tags:** ensure `tags` lists 1–5 lowercase theme tags from the vocabulary below. Remove a junk `screenshot` tag.
 8. **ShowImage:** if it's a MANGA/COMIC panel or a MEME (the picture itself is the content), set `ShowImage: true`. Otherwise leave ShowImage as-is.
-9. **Flags (PUBLISH CONTROL — NEVER set draft:false; NEVER publish):**
+9. **Flags (PUBLISH CONTROL — agents doing a review pass NEVER set draft:false; publishing happens only via the Publish rule below, as a separate step):**
    - If originally `Edited=false`: set `Edited: true` ONLY if the result is a clean, complete, confident quote with a known source; otherwise set `Edited: false` and add tag `needs-review` (or `needs-manual-review` + do not fabricate text if unreadable).
    - If originally `Edited=true`: keep `Edited: true` (you are only cleaning OCR; never downgrade).
    - NEVER change the `draft` line.
@@ -32,3 +32,9 @@ Arthur Osborne · Ashtavakra · Bill Watterson · Eckhart Tolle · Hazrat Mirza 
 
 ## Tag vocabulary
 nature-creation · mind · divine · guru-teacher · knowledge-wisdom · love-devotion · consciousness · service · meditation · self-knowledge · suffering · liberation · silence · death-impermanence · ego · scripture · faith-trust · surrender · non-duality · detachment · humility
+
+## Publish rule (2026-10-21)
+A quote note is published (`draft: false`) when and only when ALL hold: `Edited: true`, `source` is a canonical wikilink (`[[...]]`), and no `needs-*` tag is present.
+Notes failing any of these stay `draft: true`.
+The flip is done per this rule, never by hand-picking individual notes.
+First application on 2026-10-21 published 107 notes.

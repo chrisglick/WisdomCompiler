@@ -5,7 +5,7 @@ Page: "150"
 image_name: IMG_1155.webp
 Source Type:
   - screenshot
-draft: true
+draft: false
 ShowImage: false
 tags:
   - liberation

@@ -4,7 +4,7 @@ source: "[[Ramana Periya Purnam]]"
 Page: "284"
 image_name: IMG_1285.webp
 Source Type: []
-draft: true
+draft: false
 ShowImage: false
 tags:
   - guru-teacher

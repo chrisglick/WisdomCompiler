@@ -4,7 +4,7 @@ source: "[[Day by Day with Bhagavan]]"
 Page: "10"
 image_name: IMG_0799.webp
 Source Type: 
-draft: true
+draft: false
 ShowImage: false
 tags:
   - death-impermanence

@@ -4,7 +4,7 @@ source: "[[Yoga Vasistha]]"
 Page: "225"
 image_name: IMG_1389.webp
 Source Type: 
-draft: true
+draft: false
 ShowImage: false
 tags:
   - consciousness

@@ -5,7 +5,7 @@ Page: "0"
 image_name: IMG_1220.webp
 Source Type: []
 tags: ["self-knowledge","ego","humility","meditation"]
-draft: true
+draft: false
 ShowImage: true
 ---
 

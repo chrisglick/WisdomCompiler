@@ -4,7 +4,7 @@ source: "[[Talks with Ramana Maharshi]]"
 Page: "97"
 image_name: IMG_1391.webp
 Source Type: 
-draft: true
+draft: false
 ShowImage: false
 tags:
   - consciousness

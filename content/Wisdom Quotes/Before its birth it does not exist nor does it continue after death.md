@@ -4,7 +4,7 @@ source: "[[Vivekachudamani]]"
 Page: "172"
 image_name: IMG_1738.webp
 Source Type: []
-draft: true
+draft: false
 ShowImage: false
 tags:
   - consciousness

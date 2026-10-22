@@ -9,7 +9,7 @@ tags:
   - humility
   - non-duality
 ShowImage: true
-draft: true
+draft: false
 ---
 
 I'm nothing.

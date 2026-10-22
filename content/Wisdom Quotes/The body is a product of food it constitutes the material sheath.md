@@ -4,7 +4,7 @@ source: "[[Vivekachudamani]]"
 Page: "155"
 image_name: IMG_1737.webp
 Source Type: []
-draft: true
+draft: false
 ShowImage: false
 tags:
   - ego

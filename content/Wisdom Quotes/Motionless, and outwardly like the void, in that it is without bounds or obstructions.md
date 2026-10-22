@@ -5,7 +5,7 @@ Page: "32"
 image_name: IMG_1133.webp
 Source Type:
   - screenshot
-draft: true
+draft: false
 ShowImage: false
 tags:
   - consciousness

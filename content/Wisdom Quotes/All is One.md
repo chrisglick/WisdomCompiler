@@ -5,7 +5,7 @@ Page: "0"
 image_name: IMG_1232.webp
 Source Type:
 ShowImage: true
-draft: true
+draft: false
 tags:
   - non-duality
   - self-knowledge

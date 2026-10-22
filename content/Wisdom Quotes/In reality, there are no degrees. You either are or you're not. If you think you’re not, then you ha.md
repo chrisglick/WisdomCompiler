@@ -4,7 +4,7 @@ source: "[[Silence of the Heart]]"
 Page: "257"
 image_name: IMG_1171.webp
 Source Type: 
-draft: true
+draft: false
 ShowImage: false
 tags:
   - non-duality

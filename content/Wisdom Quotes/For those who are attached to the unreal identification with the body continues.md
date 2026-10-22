@@ -4,7 +4,7 @@ source: "[[Vivekachudamani]]"
 Page: "0"
 image_name: IMG_1741.webp
 Source Type: []
-draft: true
+draft: false
 ShowImage: false
 tags:
   - detachment

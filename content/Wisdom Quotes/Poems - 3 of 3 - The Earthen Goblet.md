@@ -5,7 +5,7 @@ Page: "12"
 image_name: IMG_0801.webp
 Source Type: 
 model: local@llama3:8b
-draft: true
+draft: false
 ShowImage: false
 tags:
   - divine

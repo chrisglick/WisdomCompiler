@@ -4,7 +4,7 @@ source: "[[Day by Day with Bhagavan]]"
 Page: "96"
 image_name: IMG_1186.webp
 Source Type: []
-draft: true
+draft: false
 ShowImage: false
 tags:
   - consciousness

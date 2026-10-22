@@ -4,7 +4,7 @@ source: "[[Letters from Sri Ramanasramam]]"
 Page: "0"
 image_name: IMG_1613.webp
 Source Type: []
-draft: true
+draft: false
 ShowImage: false
 tags:
   - guru-teacher

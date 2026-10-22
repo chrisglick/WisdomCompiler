@@ -4,7 +4,7 @@ source: "[[Ramana Periya Purnam]]"
 Page: "240"
 image_name: IMG_0566.webp
 Source Type: 
-draft: true
+draft: false
 ShowImage: false
 tags:
   - ego

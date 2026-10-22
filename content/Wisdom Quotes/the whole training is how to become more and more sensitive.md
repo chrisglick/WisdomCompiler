@@ -4,7 +4,7 @@ source: "[[The Search]]"
 Page: "48"
 image_name: IMG_0687.webp
 Source Type: []
-draft: true
+draft: false
 ShowImage: false
 tags:
   - meditation

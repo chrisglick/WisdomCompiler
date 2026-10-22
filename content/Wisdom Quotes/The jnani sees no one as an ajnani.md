@@ -5,7 +5,7 @@ source: "[[Letters from Sri Ramanasramam]]"
 Page: "111"
 image_name: IMG_1624.webp
 Source Type: []
-draft: true
+draft: false
 ShowImage: false
 tags:
   - ego
