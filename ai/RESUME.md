@@ -24,7 +24,7 @@ template_version: 1
 - **2026-10-21 evening, DEPLOYED LIVE:** 107 notes published per the new publish rule (534 public quote pages, was 427), `/Themes` browse-by-theme page, contemplative typography on quote pages. Commits `1bc4234`, `3d0c9a3` + themes fix. Analytics still OFF: needs the Cloudflare Pages dashboard toggle (Workers & Pages → wisdom-compiler → Metrics → Web Analytics); nothing in code.
 - **Roadmap items 1–4 DONE, committed (`f0e6455`, `0eb072f`, `dd630dd`), AND DEPLOYED LIVE** to wisdomcompiler.com (2026-06-11). Production verified: Kindred passages, "More from this source", chrome removed — all confirmed live.
 - Live build preview of the deployed state: https://446e0fc4.wisdom-compiler.pages.dev
-- git tip: see `git log -1`; 8 commits ahead of origin/v4, NOT PUSHED. Working tree: 3 teacher drafts + `scripts/extract-keywords.py` modified since June, untracked `scripts/audit-teachers.py`, `production/WORKFLOW-TEACHERS.md`. Live site still serves pre-pass bodies until the next deploy.
+- git tip: see `git log -1`; pushed to origin/v4 on 2026-10-21 (first push since June). Working tree: 3 teacher drafts + `scripts/extract-keywords.py` modified since June, untracked `scripts/audit-teachers.py`, `production/WORKFLOW-TEACHERS.md`. Live site still serves pre-pass bodies until the next deploy.
 - The site now serves the cleaned, attributed content (was serving pre-cleanup content before this).
 - `ai/` is tracked since `6498d94`. Transcript archives in `ai/sessions/raw/` are gitignored on purpose (public repo) and exist only on this laptop.
 
