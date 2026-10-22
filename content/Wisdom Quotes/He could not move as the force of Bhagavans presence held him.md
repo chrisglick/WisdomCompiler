@@ -1,6 +1,6 @@
 ---
-Edited: false
-source: ""
+Edited: true
+source: "[[Rocannon's World]]"
 Page: "0"
 image_name: IMG_1516.webp
 Source Type: []
@@ -11,7 +11,6 @@ tags:
   - knowledge-wisdom
   - mind
   - silence
-  - needs-source
 title: "He could not move as the force of Bhagavans presence..."
 ---
 

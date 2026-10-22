@@ -1,6 +1,6 @@
 ---
-Edited: false
-source: ""
+Edited: true
+source: "[[The Flowing Bridge]]"
 Page: "0"
 image_name: IMG_1147.webp
 Source Type: 
@@ -9,8 +9,7 @@ tags:
   - divine
   - consciousness
   - meditation
-  - needs-source
-draft: true
+draft: false
 ShowImage: false
 ---
 

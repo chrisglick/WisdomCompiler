@@ -1,5 +1,5 @@
 ---
-Edited: false
+Edited: true
 source: "[[A Very Special Patron - Saint Anthony Mary Claret]]"
 Page: "0"
 image_name: IMG_0009.webp
@@ -10,7 +10,6 @@ tags:
   - love-devotion
   - service
   - humility
-  - needs-source
 title: "His vocational detour to the Society of Jesus had not been without purpose"
 ---
 

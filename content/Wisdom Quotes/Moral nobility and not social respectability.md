@@ -1,6 +1,6 @@
 ---
-Edited: false
-source: ""
+Edited: true
+source: "[[The Papers of Martin Luther King Jr]]"
 Page: "0"
 image_name: IMG_5317.webp
 Source Type: []
@@ -10,7 +10,6 @@ tags:
   - faith-trust
   - scripture
   - non-duality
-  - needs-source
 title: "Moral nobility and not social respectability"
 ---
 
