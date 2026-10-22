@@ -179,6 +179,12 @@ $dialogueIndentMobile: 0.75em;
     margin-right: auto;
   }
 
+  // The inner <footer> shrink-wraps and floats centred otherwise (QA 2026-10-21).
+  > .page-footer footer {
+    width: 100%;
+    text-align: left;
+  }
+
   // Air between the breadcrumb and the attribution banner.
   .breadcrumb-container {
     margin-bottom: 1rem;
