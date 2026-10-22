@@ -28,3 +28,5 @@ highest weight first. Strike items as they close; do not renumber.
 12. **No `ai/CAPTURE.md` / `ai/memory/` bundle.** What: lk-doctor reports 4 WARN (missing okf shim and
     memory bundle). Why: the project predates the lk knowledge layout and uses `ai/journal` + `ai/sessions`
     instead. Fix: run `/lk-init-ai-workspace` only if the extra structure is wanted; the current layout works.
+13. **Duplicate Claret note.** `His vocational detour...` and `Yet, his vocational detour...` are the same passage from IMG_0009, both public. Fix: delete one (owner's call).
+14. **Mis-titled note.** `He could not move as the force of Bhagavans presence held him.md` is Le Guin's *Rocannon's World*; the filename/title still says Bhagavan. Fix: add a `title:` from the passage.
