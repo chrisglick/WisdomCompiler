@@ -11,7 +11,6 @@ tags:
   - knowledge-wisdom
   - love-devotion
   - nature-creation
-  - needs-review
 title: "He is the ocean of love and sympathy"
 ---
 

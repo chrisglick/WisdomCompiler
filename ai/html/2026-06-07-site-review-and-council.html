@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>WisdomCompiler — Site Review &amp; Council Debate · 2026-06-07</title>
+<style>
+  :root {
+    --bg: #faf8f3;
+    --paper: #fffefb;
+    --ink: #2a2722;
+    --muted: #6b655c;
+    --line: #e4ddd0;
+    --accent: #8a6d3b;
+    --accent-soft: #f3ecdd;
+    --warn-bg: #fbf0e6;
+    --warn-bd: #e0b98f;
+    --good: #4d7c5a;
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    --sans: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--serif);
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 820px; margin: 0 auto; padding: 3rem 1.5rem 5rem; }
+  header.masthead {
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 1.2rem;
+    margin-bottom: 2.2rem;
+  }
+  .kicker {
+    font-family: var(--sans);
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    font-size: 0.72rem;
+    color: var(--accent);
+    font-weight: 600;
+  }
+  h1 { font-size: 2.4rem; line-height: 1.15; margin: 0.3rem 0 0.5rem; }
+  .meta { font-family: var(--sans); font-size: 0.85rem; color: var(--muted); }
+  h2 {
+    font-size: 1.5rem;
+    margin: 2.6rem 0 0.8rem;
+    padding-top: 1.4rem;
+    border-top: 1px solid var(--line);
+  }
+  h2 .n { color: var(--accent); font-variant-numeric: tabular-nums; margin-right: 0.5rem; }
+  h3 { font-size: 1.05rem; font-family: var(--sans); margin: 1.6rem 0 0.4rem; }
+  p { margin: 0.7rem 0; }
+  a { color: var(--accent); }
+
+  table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: 0.95rem; }
+  th, td { text-align: left; padding: 0.55rem 0.7rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-family: var(--sans); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+  tbody tr:hover { background: var(--accent-soft); }
+
+  .callout {
+    background: var(--warn-bg);
+    border: 1px solid var(--warn-bd);
+    border-left: 4px solid var(--accent);
+    border-radius: 6px;
+    padding: 1rem 1.2rem;
+    margin: 1.4rem 0;
+    font-size: 0.97rem;
+  }
+  .callout strong { color: var(--accent); }
+
+  blockquote {
+    margin: 1.4rem 0;
+    padding: 0.4rem 0 0.4rem 1.3rem;
+    border-left: 3px solid var(--accent);
+    font-style: italic;
+    color: var(--ink);
+    font-size: 1.15rem;
+  }
+
+  .voices { display: grid; gap: 0.9rem; margin: 1.2rem 0; }
+  .voice {
+    background: var(--paper);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 0.9rem 1.1rem;
+  }
+  .voice .who { font-family: var(--sans); font-weight: 600; font-size: 0.9rem; display: block; margin-bottom: 0.2rem; }
+  .voice p { margin: 0; font-size: 0.97rem; }
+  .voice .em { font-size: 1.3rem; margin-right: 0.4rem; }
+
+  ol.road { list-style: none; counter-reset: step; padding: 0; }
+  ol.road li {
+    counter-increment: step;
+    position: relative;
+    background: var(--paper);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 0.9rem 1.1rem 0.9rem 3.4rem;
+    margin: 0.6rem 0;
+  }
+  ol.road li::before {
+    content: counter(step);
+    position: absolute;
+    left: 0.85rem; top: 0.85rem;
+    width: 1.8rem; height: 1.8rem;
+    background: var(--ink); color: var(--bg);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-family: var(--sans); font-weight: 700; font-size: 0.9rem;
+  }
+  ol.road li.win::before { background: var(--good); }
+  ol.road .title { font-family: var(--sans); font-weight: 600; }
+  ol.road .tag {
+    font-family: var(--sans); font-size: 0.68rem; text-transform: uppercase;
+    letter-spacing: 0.06em; color: var(--muted);
+    border: 1px solid var(--line); border-radius: 20px; padding: 0.05rem 0.5rem; margin-left: 0.4rem;
+  }
+  ol.road .why { display: block; color: var(--muted); font-size: 0.9rem; margin-top: 0.25rem; }
+
+  .pill { font-family: var(--sans); font-size: 0.7rem; padding: 0.1rem 0.55rem; border-radius: 20px; font-weight: 600; }
+  .pill.s { background: #e3efe6; color: var(--good); }
+  .pill.m { background: #fdf3e0; color: #9a7320; }
+  .pill.l { background: #f6e3e3; color: #a85151; }
+
+  footer { margin-top: 3rem; padding-top: 1.2rem; border-top: 1px solid var(--line); font-family: var(--sans); font-size: 0.82rem; color: var(--muted); }
+  code { background: var(--accent-soft); padding: 0.05rem 0.35rem; border-radius: 4px; font-size: 0.85em; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="kicker">Site Review &amp; Council Debate</div>
+    <h1>WisdomCompiler</h1>
+    <div class="meta">2026-06-07 · Reviewer: Gyges (PAI) · Method: live-site audit + 5-agent Council debate</div>
+  </header>
+
+  <section>
+    <h2><span class="n">1</span>Status snapshot</h2>
+    <table>
+      <tbody>
+        <tr><th>Live site</th><td><a href="https://wisdomcompiler.com">wisdomcompiler.com</a> — 500 published pages</td></tr>
+        <tr><th>Breakdown</th><td>427 Wisdom-Quotes · 49 Books · 16 Teachers · 4 Threads · about · Concepts · Updates</td></tr>
+        <tr><th>Framework</th><td>Quartz v4.5.2 (static site from Obsidian vault), branch <code>v4</code></td></tr>
+        <tr><th>Deploy</th><td>Local CLI only (<code>quartz build</code> + <code>wrangler pages deploy</code>) — owner decision</td></tr>
+        <tr><th>Last work</th><td>2026-06-02 multi-agent cleanup of <strong>all 647</strong> quote notes (OCR-fixed, attributed, titled, tagged)</td></tr>
+      </tbody>
+    </table>
+
+    <div class="callout">
+      <strong>⚠️ Critical gap:</strong> the cleaned 647 notes are <strong>uncommitted</strong> and <code>draft:true</code>.
+      The live site still serves the <strong>older, uncleaned</strong> content. Publishing it is the single
+      highest-leverage action available.
+    </div>
+
+    <h3>What the live site shows today (un-cleaned state)</h3>
+    <ul>
+      <li>Quote pages: raw passages titled by first line, <strong>no visible attribution</strong>.</li>
+      <li>Book pages: passage links <strong>truncated mid-word</strong> ("…that comes from duty be hap").</li>
+      <li>Teacher pages: walls of truncated titles with <strong>visible duplicates</strong>.</li>
+      <li>Homepage vs. About: <strong>contradictory voice</strong> ("shrine" vs. "community directory"; About cites a Media section that doesn't exist).</li>
+      <li>Default Quartz <strong>developer chrome</strong> (Explorer sidebar, graph view, backlinks panel).</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="n">2</span>The Council</h2>
+    <p class="meta">Five agents reviewed the live site as evidence and debated across 3 rounds. Final positions distilled below.</p>
+    <div class="voices">
+      <div class="voice"><span class="who"><span class="em">🏛️</span>Serena · Architect</span><p>"A near-flat namespace masquerading as an information architecture — filesystem folders are not a taxonomy." Model Teacher / Source / Concept as real entities; dedup + stable IDs <em>before</em> the publish wave, because indexed URLs are immutable.</p></div>
+      <div class="voice"><span class="who"><span class="em">🎨</span>Aditi · Designer</span><p>"This site wears a developer's clothes to a meditation." Kill the chrome; contemplative typography, one centered column, a serif with soul. Truncated titles &amp; duplicates are unforgivable. Pick one voice. The words are the design.</p></div>
+      <div class="voice"><span class="who"><span class="em">⚙️</span>Marcus · Engineer</span><p>The static Python link-scripts guarantee drift — stale pages, duplicates, the <code>draft</code>→404 footgun. Killing the chrome is "an afternoon in <code>quartz.layout.ts</code> — highest ROI." Commit the cleaned 647; buy the cheap 80%.</p></div>
+      <div class="voice"><span class="who"><span class="em">🔍</span>Ava · Researcher</span><p>Attribution is the SEO moat (Goodreads: stable URL + source + tags). Ritual drives retention — a daily-quote permalink, à la The Marginalian. "Depth is the moat, not cards. Card converts strangers; concept-threads retain seekers."</p></div>
+      <div class="voice"><span class="who"><span class="em">🌱</span>Dev · First-time visitor</span><p>"Beautiful words, but who <em>said</em> this? No author, no breadcrumb, no next-quote — I'd bounce in four seconds." The chrome "looks like someone's private notebook I wasn't supposed to see." Wants attribution + "give me another" everywhere.</p></div>
+    </div>
+
+    <blockquote>"Build the moat, ship the doorknob first." &mdash; the council's converged sequencing</blockquote>
+
+    <p><strong>Convergence:</strong> clean before publish (stable IDs before indexing) · attribution ships now, not "year three" · kill the developer chrome · card-then-depth as the funnel.<br>
+    <strong>Remaining tension:</strong> how much of the formal entity model to build now (Marcus/Dev: defer; Serena/Ava: model it correctly even if rendered quietly).</p>
+  </section>
+
+  <section>
+    <h2><span class="n">3</span>Prioritized roadmap</h2>
+    <p class="meta">Doorknob first, moat second. <span class="pill s">S</span> small · <span class="pill m">M</span> medium · <span class="pill l">L</span> large</p>
+    <ol class="road">
+      <li class="win"><span class="title">Commit the cleaned 647; finish the 2 garbled notes; run the publish wave</span> <span class="pill m">M</span><span class="why">Unblocks everything. Live site serves stale content; stable URLs must land before indexing.</span></li>
+      <li class="win"><span class="title">Strip developer chrome</span> <span class="tag">quartz.layout.ts</span> <span class="pill s">S</span><span class="why">"An afternoon." Highest immediate ROI — stops the site reading as a private notebook.</span></li>
+      <li class="win"><span class="title">Attribution line on every quote page</span> + "more from this teacher" <span class="pill s">S</span><span class="why">Kills the #1 bounce cause; the SEO moat. Data already in the new frontmatter.</span></li>
+      <li class="win"><span class="title">"Give me another" button on every quote page</span> <span class="tag">extend RandomQuote</span> <span class="pill s">S</span><span class="why">Turns one landing into a session — the engagement loop visitors demanded.</span></li>
+      <li><span class="title">Contemplative typography pass</span> <span class="pill s">S</span><span class="why">~65ch measure, serif quote text, AA contrast. First impression; sloppy type reads "amateur."</span></li>
+      <li><span class="title">Unify homepage/About voice</span> around "one seeker's shrine" <span class="pill s">S</span><span class="why">Remove the phantom Media section; resolve the identity conflict that confuses seekers and crawlers.</span></li>
+      <li><span class="title">OG quote-card images + daily-quote permalink (+ optional RSS)</span> <span class="pill m">M</span><span class="why">Shareability + the return-visit ritual.</span></li>
+      <li><span class="title">Replace static Python link-scripts with Quartz build-time aggregation</span> <span class="pill l">L</span><span class="why">Kills the drift/404 footgun permanently; single source of truth.</span></li>
+      <li><span class="title">Hand-curated cross-tradition concept-threads</span> <span class="pill l">L</span><span class="why">The retention moat — depth a million quote sites can't match.</span></li>
+    </ol>
+    <div class="callout"><strong>Headline insight:</strong> "Card converts strangers; concept-threads retain seekers." Kill the <em>auto-generated</em> machinery, but keep <em>editorial</em> related-passage links.</div>
+  </section>
+
+  <section>
+    <h2><span class="n">4</span>Recommended next move</h2>
+    <p>Item&nbsp;1 is ~95% done, sitting uncommitted in the working tree (645 modified notes). Start with the diff review &rarr; commit on <code>v4</code> &rarr; finish the 2 garbled notes (<code>IMG_6941.md</code>, <code>IMG_6944.md</code>) &rarr; selectively flip <code>draft:false</code>. Then items 2&ndash;4 are a single short session.</p>
+  </section>
+
+  <footer>
+    Full report: <code>ai/reviews/2026-06-07-site-review-and-council.md</code> ·
+    See also <code>RESUME.md</code>, <code>ai/sessions/SESSION-2026-06-02-quote-review.md</code>, <code>production/WORKFLOW.md</code>.
+  </footer>
+
+</div>
+</body>
+</html>

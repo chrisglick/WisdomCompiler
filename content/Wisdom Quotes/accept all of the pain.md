@@ -8,7 +8,6 @@ ShowImage: true
 tags:
   - love-devotion
   - suffering
-  - needs-review
 ---
 
 I FIGURED OUT A WAY! WITH MY DEEP LOVE, I MUST... ACCEPT ALL OF THE PAIN! I JUST NEED TO TAKE IT ALL IN!

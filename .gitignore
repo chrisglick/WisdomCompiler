@@ -9,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# lk-end-session transcript archive (archive=local; public repo)
+ai/sessions/raw/*.jsonl
+ai/sessions/raw/*.md

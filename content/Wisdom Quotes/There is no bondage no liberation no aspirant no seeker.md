@@ -11,7 +11,6 @@ tags:
   - self-knowledge
   - consciousness
   - non-duality
-  - needs-review
 ---
 
 last he feels disgusted and gives up houses and the life connected with them. He then realises that his own Self is the best of all and, with an intensity of feeling, enquires about his own Self, realises the truth and stays within his Self. When that happens, who is the Seer?" said Bhagavan.

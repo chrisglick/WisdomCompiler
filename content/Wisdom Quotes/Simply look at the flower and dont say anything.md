@@ -11,7 +11,6 @@ tags:
   - nature-creation
   - knowledge-wisdom
   - silence
-  - needs-review
 title: "Simply look at the flower and dont say anything"
 ---
 

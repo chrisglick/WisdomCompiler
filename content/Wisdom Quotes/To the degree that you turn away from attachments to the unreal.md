@@ -13,7 +13,6 @@ tags:
   - non-duality
   - detachment
   - mind
-  - needs-review
 ---
 
 *Master:* Though the reflection in a pool of water appears head downwards and tremulous, yet when the figure on the ground is considered, which remains upright and steady, that worthless image is then seen as unreal.

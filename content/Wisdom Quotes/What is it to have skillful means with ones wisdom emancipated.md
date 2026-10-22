@@ -10,7 +10,6 @@ tags:
   - knowledge-wisdom
   - liberation
   - suffering
-  - needs-review
 ---
 
 “What is it to have skillful means with one’s wisdom emancipated? It is not to use affection to ornament the buddha lands and accomplish [the liberation of] sentient beings, and to control oneself so as to be without aversion within [the three emancipations of] emptiness, signlessness, and wishlessness. This is called having skillful means with one’s wisdom emancipated.

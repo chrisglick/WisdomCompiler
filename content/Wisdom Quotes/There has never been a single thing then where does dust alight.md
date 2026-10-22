@@ -12,7 +12,6 @@ tags:
   - mind
   - consciousness
   - liberation
-  - needs-review
 ---
 
 is expressed in these perceptions, it neither forms part of them nor is separate from them. You should not start REASONING from these perceptions, nor allow them to give rise to conceptual thought; yet nor should you seek the One Mind apart from them or abandon them in your pursuit of the Dharma. Do not keep them nor abandon them nor dwell in them nor cleave to them. Above, below and around you, all is spontaneously existing, for there is nowhere which is outside the Buddha-Mind.

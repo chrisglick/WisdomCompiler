@@ -12,7 +12,6 @@ tags:
   - guru-teacher
   - love-devotion
   - mind
-  - needs-review
 ---
 
 60. Sri Guru! Ocean of Mercy, can anyone drenched with Thy kindness ever be afflicted by ailments, even if destiny so decree?

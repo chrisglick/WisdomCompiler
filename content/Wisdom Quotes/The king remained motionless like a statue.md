@@ -12,7 +12,6 @@ tags:
   - knowledge-wisdom
   - self-knowledge
   - liberation
-  - needs-review
 ---
 
 scriptures that Self-knowledge can be obtained within the short space of time taken by a person to place his other foot in the second stirrup after the first foot has been placed in the first stirrup. I have therefore put them all in jail. I have done so to find out the truth of that statement,’ said the king. ‘How absurd!’ said the Muni, ‘can we say that what is stated in the scriptures is untrue merely because it cannot be proved? I declare that each word therein is true,’ said the Muni. ‘If that is so, I shall send for the horse just now. I pray that you favour me by proving that what is said in the scriptures is true,’ said the king. ‘As your desire is a good one, I am happy. But I suppose you know that initiation into realization cannot be given to one who is not fit for it. If you want that initiation you must have the fullest confidence in me and first release the pandits who are in jail. After that, if you come to the forest on a horseback, I shall judge your fitness and then give you upadesa (initiation)’ said the Muni.

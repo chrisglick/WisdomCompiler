@@ -12,10 +12,9 @@ tags:
   - suffering
   - ego
   - liberation
-  - needs-review
 ---
 
-I didn't say much else, allowing her to be with the experience. Later she came to understand that the moment she stopped identifying with the feeling, the old painful emotion that lived in her, the moment she put her attention on it directly without trying to resist it, it could no longer control her thinking and so become mixed up with a mentally constructed story called “The Unhappy Me.” Another dimension had come into her life that transcended her personal past — the dimension of Presence. Since you cannot be unhappy without an unhappy story, this was the end of her unhappiness. It was also the beginning of the end of her pain-body. Emotion in itself is not unhappiness. Only emotion plus an unhappy story is unhappiness.
+I didn't say much else, allowing her to be with the experience. Later she came to understand that the moment she stopped identifying with the feeling, the old painful emotion that lived in her, the moment she put her attention on it directly without trying to resist it, it could no longer control her thinking and so become mixed up with a mentally constructed story called “The Unhappy Me.” Another dimension had come into her life that transcended her personal past – the dimension of Presence. Since you cannot be unhappy without an unhappy story, this was the end of her unhappiness. It was also the beginning of the end of her pain-body. Emotion in itself is not unhappiness. Only emotion plus an unhappy story is unhappiness.
 
 When our session came to an end, it was fulfilling to know that I had just witnessed the arising of Presence in another human being. The very reason for our existence in human form is to bring that dimension of consciousness into this world. I had also witnessed a diminishment of the pain-body, not through fighting it but through bringing the light of consciousness to it.
 

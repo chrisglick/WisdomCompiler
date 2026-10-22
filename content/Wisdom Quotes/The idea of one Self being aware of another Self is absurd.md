@@ -4,7 +4,7 @@ source: "[[Talks with Ramana Maharshi]]"
 Page: "0"
 image_name: IMG_1455.webp
 Source Type: []
-tags: ["non-duality","liberation","self-knowledge","needs-review"]
+tags: ["non-duality","liberation","self-knowledge"]
 draft: false
 ShowImage: false
 title: "The idea of one Self being aware of another Self is absurd"

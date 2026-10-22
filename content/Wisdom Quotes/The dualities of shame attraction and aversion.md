@@ -1,5 +1,5 @@
 ---
-Edited: true
+Edited: false
 source: ""
 Page: "82"
 image_name: IMG_6702.webp
@@ -12,7 +12,7 @@ tags:
   - surrender
   - suffering
   - ego
-  - needs-review
+  - needs-source
 ---
 
 **THE DUALITIES OF SHAME**

@@ -14,7 +14,6 @@ tags:
   - mind
   - self-knowledge
   - suffering
-  - needs-review
 ---
 
 M: Don't even accept the concept that you have to do anything.

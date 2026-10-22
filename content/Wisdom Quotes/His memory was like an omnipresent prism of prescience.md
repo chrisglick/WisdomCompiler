@@ -9,7 +9,6 @@ ShowImage: false
 tags:
   - mind
   - knowledge-wisdom
-  - needs-review
 title: "His memory was like an omnipresent prism of prescience"
 ---
 

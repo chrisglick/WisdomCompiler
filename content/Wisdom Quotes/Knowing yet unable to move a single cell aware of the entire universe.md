@@ -1,5 +1,5 @@
 ---
-Edited: true
+Edited: false
 source: "[[Dune]]"
 Page: "0"
 image_name: IMG_1487.webp
@@ -10,7 +10,7 @@ title: "Knowing yet unable to move a single cell aware of the..."
 tags:
   - nature-creation
   - consciousness
-  - needs-review
+  - needs-source
 ---
 
 —knowing yet unable to move a single cell, aware in an endless dream.”

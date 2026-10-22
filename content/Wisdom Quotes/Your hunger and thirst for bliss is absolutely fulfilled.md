@@ -13,7 +13,6 @@ tags:
   - nature-creation
   - non-duality
   - suffering
-  - needs-review
 ---
 
 December 31, 1980

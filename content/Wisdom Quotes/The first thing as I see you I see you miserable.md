@@ -13,7 +13,6 @@ tags:
   - mind
   - non-duality
   - suffering
-  - needs-review
 ---
 
 So the first thing: as I see you, I see you miserable. You may be thinking you are enjoying life. Think again, meditate on the fact – are you really enjoying it? If you are enjoying it, then there is no problem. Enjoy it with my blessings. But I know you are not enjoying it. You simply believe... because to see the naked fact of your misery will be too much, unbearable. So you go on pretending to yourself that you are enjoying life.

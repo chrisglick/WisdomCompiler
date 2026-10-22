@@ -11,7 +11,6 @@ tags:
   - consciousness
   - liberation
   - self-knowledge
-  - needs-review
 title: "Spiritual perfection changes even the body"
 ---
 

@@ -1,5 +1,5 @@
 ---
-Edited: true
+Edited: false
 source: "[[Guru Vachaka Kovai]]"
 Page: "58"
 image_name: IMG_1317.webp
@@ -11,9 +11,9 @@ tags:
   - nature-creation
   - divine
   - self-knowledge
-  - needs-review
+  - needs-manual-review
 ---
 
 you, you fly about like birds from another [seeking His *Darshan*]. […] abiding still in the Heart, is the Sup[reme…]
 
-**Sadhu Om:** To seek *Shiva Darshan* outsid[e…] movement, but it is revealed here that to k[eep…] means of seeking it.
+**Sadhu Om:** To seek *Shiva Darshan* outsid[e…] movement, but it is revealed here that to b[…] means of seeking it.

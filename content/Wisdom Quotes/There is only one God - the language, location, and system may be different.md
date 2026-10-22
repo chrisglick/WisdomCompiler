@@ -1,6 +1,6 @@
 ---
-Edited: true
-source: "[[A Yogi's Insights into the Life & Miracles of Shirdi Sai Baba]]"
+Edited: false
+source: ""
 Page: "0"
 image_name: IMG_1657.webp
 Source Type: 
@@ -10,7 +10,7 @@ tags:
   - divine
   - non-duality
   - faith-trust
-  - needs-review
+  - needs-source
 title: "There is only one God - the language, location, and..."
 ---
 

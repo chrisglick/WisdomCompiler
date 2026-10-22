@@ -10,7 +10,6 @@ tags:
   - knowledge-wisdom
   - love-devotion
   - faith-trust
-  - needs-review
 ---
 
 their True Beloved. In short, no bitterness can frighten them nor can any carnal pleasure hinder them from God, nor can any relationship interfere with their relationship with God.

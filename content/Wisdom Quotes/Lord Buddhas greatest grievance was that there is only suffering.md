@@ -1,5 +1,5 @@
 ---
-Edited: true
+Edited: false
 source: ""
 Page: ""
 image_name: IMG_1300.webp
@@ -10,7 +10,7 @@ title: "Lord Buddha's greatest grievance was that there is only suffering in the
 tags:
   - suffering
   - liberation
-  - needs-review
+  - needs-source
 ---
 
 Lord Buddha's greatest grievance was that there is only suffering in the world.

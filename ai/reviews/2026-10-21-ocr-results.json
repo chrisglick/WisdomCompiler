@@ -1,0 +1,1829 @@
+{
+ "IMG_1025.md": {
+  "file": "IMG_1025.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Image is a legible iPad Google-search screenshot (query 'the lonely loner seems to free') showing a YouTube result and the Lyrics panel for Kid Cudi 'Day n Night'. It is copyrighted song lyrics in search UI, not a book/teacher quote, and has no canonical source. Body ('(image not legible)') and flags left untouched per the brief. Owner should decide whether to delete it or keep it as a personal note."
+ },
+ "IMG_1026.md": {
+  "file": "content/Wisdom Quotes/IMG_1026.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Image is legible but is an iPad screenshot of a Google search result showing song lyrics (Kid Cudi 'Day 'n' Nite', LyricFind), not a wisdom quote or book page; body/flags left untouched (body says 'image not legible', which is inaccurate). Full copyrighted lyrics not transcribed. Owner should decide whether to delete the note."
+ },
+ "IMG_1539.md": {
+  "file": "IMG_1539.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Image is a Project Zomboid game screenshot whose only quote text is a truncated in-game subtitle (cut off mid-sentence in the image); transcribed exactly, ShowImage true (screenshot is the context), tagged needs-source. In-game media label appears to read 'Philosophical Quotes - the Buddha' but Buddha is not canonical. Owner may prefer to drop it as non-quote."
+ },
+ "IMG_1540.md": {
+  "file": "IMG_1540.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Project Zomboid game screenshot; only legible text is a subtitle fragment '...we will be slaves to the five desires which stem from the five senses.' Replaced '(image not legible)' with it, ShowImage true, title added. In-game radio ticker reads '...HICAL QUOTES - THE BUDDHA - PHILOS...' (Buddha, not a canonical name) so tagged needs-source; owner may prefer to treat as non-quote since it is a partial sentence."
+ },
+ "IMG_1542.md": {
+  "file": "content/Wisdom Quotes/IMG_1542.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Image is a Project Zomboid gameplay screenshot (Retromation) with one legible caption line: \"In all things, there is neither male nor female.\" Replaced '(image not legible)' with that line; treated as meme-style screenshot (ShowImage: true); no canonical source visible; tags non-duality + needs-source. Owner may prefer to drop it as a game screenshot."
+ },
+ "IMG_1543.md": {
+  "file": "IMG_1543.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Image is a Project Zomboid gameplay screenshot (Retromation watermark), not unreadable: the only text is an in-game subtitle from a media disc. Replaced '(image not legible)' with that line and treated it as a meme (ShowImage: true). Opening quote mark only, as shown. Owner may judge it non-quote; the line resembles Buddhist sutra text, but no canonical source applies."
+ },
+ "IMG_1544.md": {
+  "file": "content/Wisdom Quotes/IMG_1544.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Image is a Project Zomboid game screenshot whose only content text is a single blue subtitle line, fully legible: 'One who eats meat kills the seed of great compassion.' Replaced '(image not legible)' with it, dropping a stray closing quote mark from the game subtitle. The line matches the Buddhist Mahaparinirvana/Lankavatara sutra teaching on meat-eating, but no canonical source fits, so source is left empty and tagged needs-source. Added a title; Page and draft untouched. ShowImage was left false; the owner may want it true if the game-screenshot context matters."
+ },
+ "IMG_1546.md": {
+  "file": "content/Wisdom Quotes/IMG_1546.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Project Zomboid game screenshot; only text is a legible subtitle fragment from an in-game 'Philosophical Quotes' disc: '...old age, sickness, and death. He is also like a great bright lamp...'. Replaced the wrong 'not legible' placeholder with that fragment, ShowImage true, needs-manual-review -> needs-source, added title + suffering tag. It is a FRAGMENT (likely a Buddhist sutra line, not identifiable among canonical books), so the owner may prefer to drop it as non-quote."
+ },
+ "IMG_1547.md": {
+  "file": "IMG_1547.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Project Zomboid gameplay screenshot (Retromation video, inventory/loot UI); only quote-like text is a partial in-game subtitle fragment '...in the darkness of ignorance, a good medicine for all kinds of illnesses...' with no speaker/source. Note left untouched; owner should decide whether to keep or delete."
+ },
+ "IMG_1548.md": {
+  "file": "IMG_1548.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Project Zomboid game screenshot; legible subtitle fragment transcribed (replaced '(image not legible)'). In-game media bar reads 'THE BUDDHA - PHILOSOPHICAL MOTIV...' (a Buddha documentary), not a canonical source -> needs-source. Fragment only; owner may judge whether worth keeping or ShowImage:true."
+ },
+ "IMG_1549.md": {
+  "file": "IMG_1549.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Image is a Project Zomboid game screenshot (Retromation video) whose only quote text is one truncated in-game subtitle; replaced '(image not legible)' with that line verbatim incl. trailing '...', ShowImage true (screenshot is the content), tags needs-source+suffering, title added. Radio media label looks like 'Buddha - Philosophical Motivation' but too pixelated to confirm and Buddha is not canonical. Quote is incomplete in the image - owner may prefer to treat as non-quote."
+ },
+ "IMG_1550.md": {
+  "file": "IMG_1550.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Image is a video-game screenshot (Project Zomboid, RetroMation watermark) with only a subtitle fragment '...from suffering and tend to cling to pleasure.' and an in-game radio ticker; not a transcribable quote. Note left untouched (Edited:false, needs-manual-review kept). Owner may delete or source the full audio line."
+ },
+ "IMG_1551.md": {
+  "file": "IMG_1551.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "game screenshot (Project Zomboid, Retromation video); body set to legible subtitle 'But suffering is inseparable from pleasure.'; ShowImage: true; needs-manual-review -> needs-source; no on-screen attribution"
+ },
+ "IMG_1552.md": {
+  "file": "IMG_1552.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "game screenshot (Project Zomboid, Retromation video); body replaced with the legible subtitle line 'Therefore, the more we seek pleasure and avoid suffering...'; ShowImage true; needs-manual-review -> needs-source; title + suffering tag added; source unknown (radio/media audio, no attribution visible)"
+ },
+ "IMG_1553.md": {
+  "file": "IMG_1553.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "game screenshot (Project Zomboid, RetroMation video, PortaDisc playing a philosophy audio track): subtitle line transcribed exactly as shown incl. trailing close-quote; ShowImage: true; needs-manual-review -> needs-source + tags suffering, non-duality; speaker/source not identifiable from image."
+ },
+ "IMG_1554.md": {
+  "file": "IMG_1554.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "game screenshot (Project Zomboid, PortaDisc audio subtitle); replaced '(image not legible)' with the legible subtitle exactly as shown (truncated with ellipsis in-game); ShowImage: true; needs-manual-review -> needs-source + surrender; speaker/source not shown in image"
+ },
+ "IMG_1625.md": {
+  "file": "IMG_1625.md",
+  "verdict": "non-quote",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Not a wisdom quote and not a game screenshot: crisp excerpt from an engineering paper on flywheel energy storage (section 2.2.2 Electric Machine). Replaced false '(image not legible)' placeholder with exact transcription; frontmatter untouched (Edited false, needs-manual-review kept, 'divine' tag is wrong). Owner should likely delete this note."
+ },
+ "IMG_1651.md": {
+  "file": "IMG_1651.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Not a game screenshot: illustrated Tibetan manuscript scroll (meditating/reclining figures, mandalas, colored circles) with short handwritten Tibetan (cursive um\u00ea) captions only, no English quote text; Tibetan captions not reliably transcribable without fabrication. Note left untouched (body '(image not legible)', tags needs-manual-review, draft unchanged). Owner decision: keep as image-only art (ShowImage) or drop."
+ },
+ "IMG_1661.md": {
+  "file": "content/Wisdom Quotes/IMG_1661.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Not a game screenshot and has no text: black-and-white photo of Ramana Maharshi (seated on a tiger skin by a boulder) with a bearded standing companion. Body and flags left unchanged (needs-manual-review kept); owner should decide whether to keep it as an image-only post (ShowImage) or remove the note."
+ },
+ "IMG_6337.md": {
+  "file": "IMG_6337.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "100",
+  "confidence": "high",
+  "note": "Not a game screenshot: Bloom County Sunday strip by Berke Breathed (April 17, 1983, book p.100), photographed sideways. Replaced '(image not legible)' with full dialogue (sentence-cased from comic lettering), ShowImage true, title added. Removed WRONG source [[Calvin and Hobbes]] (set to empty); Bloom County/Berke Breathed not canonical, so tagged needs-source. Also arguably not wisdom content (political gag) - owner may want to drop it."
+ },
+ "IMG_6890.md": {
+  "file": "IMG_6890.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "184",
+  "confidence": "high",
+  "note": "Not a game screenshot: a legible book page, running header 'Awakened Leadership' p.184 (leadership-coaching text, not in the canonical list). Replaced '(image not legible)' placeholder with the full 4-paragraph transcription (ends mid-sentence as on the page); swapped needs-manual-review for needs-source, added title + tags."
+ },
+ "IMG_6918.md": {
+  "file": "IMG_6918.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "12",
+  "confidence": "high",
+  "note": "Mandala (Arguelles) p.12: prose + photos + set-off Lao Tzu quotation; body is only the quotation; Lao Tzu not canonical, Mandala not canonical so source left empty, tagged needs-source."
+ },
+ "IMG_6919.md": {
+  "file": "IMG_6919.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": "13",
+  "confidence": "medium",
+  "note": "Photographed Mandala (Arguelles) p.13: left-cropped prose about Now/center/Mandala plus three captioned figures (Snow crystal; A flat representation of Gold (Element 79); Photomicrograph of a cross section of a twig). No set-off quotation, prose cut off mid-word at left edge so no faithful standalone passage; body left as-is, ShowImage true, tags kept needs-manual-review."
+ },
+ "IMG_6920.md": {
+  "file": "IMG_6920.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "16",
+  "confidence": "low",
+  "note": "Page of Mandala (Arguelles) with plan of Mousgoum homestead, OM and yin-yang pictures, prose under 'The Center and the Polarities', and a set-off italic quotation by Robert S. De Ropp; right edge is cut off by the page curl, so quote is partial (gaps marked with ellipses, not guessed); source Mandala not canonical so needs-source."
+ },
+ "IMG_6921.md": {
+  "file": "IMG_6921.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": "18",
+  "confidence": "high",
+  "note": "Full-page picture (photomicrograph of a diatom, caption only: 'Photomicrograph of the Arachnoidisus Ehrenbergii', p.18, likely Mandala); no quote text; body left alone, ShowImage true, title added, needs-manual-review + needs-source kept."
+ },
+ "IMG_6922.md": {
+  "file": "IMG_6922.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Prose-only book page (appears to be Mandala, Arguelles, not a canonical source; no page number visible); body is one ~55-word excerpt, not full page; ShowImage true, needs-source."
+ },
+ "IMG_6931.md": {
+  "file": "IMG_6931.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Book page (Mandala-style prose with diagrams, one set-off italic I Ching quotation 'Duration'); body = only that quotation; source not a canonical name; page number cut off."
+ },
+ "IMG_6932.md": {
+  "file": "IMG_6932.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "67",
+  "confidence": "high",
+  "note": "Book page (Mandala, p.67) with prose, 2 diagrams, and a set-off italic quotation by Dane Rudhyar; body is only that quotation + attribution; Mandala and Rudhyar are not canonical so source left empty, tagged needs-source."
+ },
+ "IMG_6933.md": {
+  "file": "IMG_6933.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Rotated photo of a full-page illustrated diagram (zodiac signs, elements, solstices/equinoxes, +/- wedges; likely Mandala) with labels only and no prose or quotation; body untouched, ShowImage true, title added, tags nature-creation + needs-source + needs-manual-review."
+ },
+ "IMG_6934.md": {
+  "file": "IMG_6934.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": "69",
+  "confidence": "high",
+  "note": "Rotated page of Mandala (running foot 'Mandala of Bio-cyclic Rhythms', p.69): mostly an I Ching/zodiac mandala diagram plus technical prose about hexagram kua; no set-off quotation, so body left alone; Mandala is not a canonical source."
+ },
+ "IMG_6936.md": {
+  "file": "content/Wisdom Quotes/IMG_6936.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Image is a full-page Tibetan thangka plate (wrathful Mahakala) photographed sideways; only text is a cropped plate caption ('Plate 8: Mahakala. Courtesy of Samuel Bercholz.' / 'Plate 9: Wheel of ... Courtesy ... Jack W...'), no quote passage. Note left untouched (still draft:true, needs-manual-review); owner may want to delete it or keep it as ShowImage art."
+ },
+ "IMG_6937.md": {
+  "file": "content/Wisdom Quotes/IMG_6937.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Image is a photo of a full-page Tibetan Wheel of Life (Bhavachakra) thangka painting in a book, rotated 90 degrees; only a few tiny, illegible caption fragments at the page edge, no quote text. Note left untouched, needs-manual-review kept; owner may want to delete it or keep it as an image-only note (ShowImage)."
+ },
+ "IMG_6938.md": {
+  "file": "IMG_6938.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Fallback mode: body is only the Kwaja Pulad of Erivan quotation; full page shown via ShowImage; book Mandala not canonical so needs-source."
+ },
+ "IMG_6941.md": {
+  "file": "IMG_6941.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Fallback mode: book page (Purification / Centering sections, no set-off quotation, no visible title/page number; likely Mandala, Arguelles, but not set as no canonical entry). Body replaced with one short Centering passage."
+ },
+ "IMG_6944.md": {
+  "file": "IMG_6944.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Fallback mode: page is a 5-stanza tantric song (Eastern/Southern/Western/Northern Continent, Center), each ending 'Hum Hum Hum / Phat!', with mandala symbols in margin, no title/attribution/page number printed; body = first stanza + ellipsis, ShowImage true, needs-source."
+ },
+ "IMG_6945.md": {
+  "file": "content/Wisdom Quotes/IMG_6945.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Fallback mode: photographed prose page (not a set-off quote) that looks like Mandala (Arguelles, not a canonical source). Body replaced with the opening 3 sentences of the first paragraph (the Holy Circle / guru passage) only; the page's printed number is cropped at the edge and not confidently read, so Page left at 0. Set ShowImage true, added title, tags guru-teacher/divine/consciousness, needs-manual-review replaced with needs-source, Edited false, source empty. Passage rendered from a gutter-clipped photo: first letters inferred from context (consecrated, powers)."
+ },
+ "IMG_6947.md": {
+  "file": "IMG_6947.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Rotated book page, chapter 'Absorption' (Mandala): prose plus decorative pictures, no set-off quote; body = closing 2-sentence passage; no page number visible; source not canonical so needs-source."
+ },
+ "IMG_6950.md": {
+  "file": "IMG_6950.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Rotated book page (chapter 'Actualization', Mandala) of full prose, no set-off quote; body = single closing-paragraph sentence; no page number visible; source not in canonical list."
+ },
+ "IMG_6953.md": {
+  "file": "IMG_6953.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Page = mandala diagram (Curve of Developing Consciousness) plus prose, no set-off quote; body is one ~55-word passage on individualism; no page number visible; book likely Mandala (Arguelles) but not a canonical source so source left empty, tagged needs-source."
+ },
+ "IMG_6955.md": {
+  "file": "IMG_6955.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Picture-only page (Plate 13 Shath Chakra chart + Plate 14 painting, captions only; no prose or set-off quotation); body left alone, ShowImage true, title and tag consciousness added, needs-manual-review kept."
+ },
+ "IMG_6956.md": {
+  "file": "IMG_6956.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Page is two full-page color mandala figure plates (Plate 15 Radiant Woman, Jose Arguelles; Plate 16 Radiant Man, Miriam Arguelles) with captions only, no prose or quotation; note left untouched, flags kept (needs-manual-review, draft untouched)."
+ },
+ "IMG_7315.md": {
+  "file": "IMG_7315.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Photo of a book page (running head 'The Power of the Key Principles | Part Three', business/productivity book on in-baskets/trust, likely David Allen, not canonical); body = the set-off sidebar pull quote only, unattributed; page number not visible."
+ },
+ "IMG_7316.md": {
+  "file": "IMG_7316.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "234",
+  "confidence": "medium",
+  "note": "Photo of a printed book page (running header 'The Power of the Key Principles | Part Three', a productivity/organization book, first-person author with wife Kathryn); dense prose not transcribed; body is only the set-off margin pull-quote; no canonical source, so needs-source."
+ },
+ "A fire leaps up from our inside like lightning and another fire descends upon us from above.md": {
+  "file": "A fire leaps up from our inside like lightning and another fire descends upon us from above.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Philosophy of the Teachings of Islam]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches image; no header visible, source kept (Ahmad's text, recognizable); no page visible; removed needs-review."
+ },
+ "After some time, Ashtavakra Muni happened to pass that side and, while he was about to take rest und.md": {
+  "file": "After some time, Ashtavakra Muni happened to pass that side and, while he was about to take rest und.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": "403",
+  "confidence": "high",
+  "note": "Added italics for brahmin/Durbar per image; header and page 403 visible."
+ },
+ "All the concepts you have formed in the past must be discarded and replaced by void.md": {
+  "file": "All the concepts you have formed in the past must be discarded and replaced by void.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Zen Teaching of Huang Po]]",
+  "page": "56",
+  "confidence": "high",
+  "note": "Body incl. footnotes matches image; page 56 visible."
+ },
+ "As for future bondages.md": {
+  "file": "As for future bondages.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Added missing final line 'Whosoever is released from these three'; no header visible, source kept on content (Bhagavan, Vasudeva/Bharata)."
+ },
+ "Becoming a reminder of human foolishness.md": {
+  "file": "Becoming a reminder of human foolishness.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Video subtitle frame of Acharya Prashant (not a canonical teacher); wrong source Ramana Periya Purnam cleared to empty, Edited false, tag needs-source. Owner may add Acharya Prashant as a source."
+ },
+ "Bhagavan said his state of being was beyond subject and object.md": {
+  "file": "Bhagavan said his state of being was beyond subject and object.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": "402",
+  "confidence": "high",
+  "note": "Added italics (Gita, upadesa, sastras, brahmin); header and page 402 visible."
+ },
+ "Bhagavans silence was his direct teaching he taught Self Enquiry to those who could not comprehend.md": {
+  "file": "Bhagavans silence was his direct teaching he taught Self Enquiry to those who could not comprehend.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Ramana Periya Purnam]]",
+  "page": "284",
+  "confidence": "medium",
+  "note": "Italicized samadhi; body matches (image top has a cut-off partial line, omitted). Source not stated in image, kept existing; page 284 visible. Owner should confirm source."
+ },
+ "Bondages of the past the future and the present.md": {
+  "file": "Bondages of the past the future and the present.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches image (heading '(147) THE OMNIPRESENT'); no header/page visible, source kept on content/format."
+ },
+ "But when we look into the faculties of man and try to discover what is their highest reach, we find .md": {
+  "file": "But when we look into the faculties of man and try to discover what is their highest reach, we find .md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Philosophy of the Teachings of Islam]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches image; cut-off last line retained; removed needs-review."
+ },
+ "Clearing the Pain Body.md": {
+  "file": "Clearing the Pain Body.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[The Power of Now]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Em dash to en dash per image; printed typos 'th'/'pan-bodies' left corrected; removed needs-review."
+ },
+ "Crying is an act of atonement.md": {
+  "file": "Crying is an act of atonement.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Subtitle frame of MySaiBaba.com sadhu video, not a Day by Day book page; cleared wrong source, Edited false, needs-source."
+ },
+ "Despite so much development taking place sorrow has not decreased.md": {
+  "file": "Despite so much development taking place sorrow has not decreased.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Video subtitle frame (MySaiBaba.com); body matches; no canonical source; needs-source."
+ },
+ "Do not be so sorrow stricken the master takes care.md": {
+  "file": "Do not be so sorrow stricken the master takes care.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Restored missing words (Narayana Iyer's wife, relatives pressurized, went to, take its own course); page 90 kept; existing Letters from Sri Ramanasramam source is doubtful (narrator's mother Nagalakshmi) so Edited false + needs-source, source left unchanged."
+ },
+ "Each gliding along in its orbit.md": {
+  "file": "Each gliding along in its orbit.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[The Philosophy of the Teachings of Islam]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Footnote text; apostrophe fixed, italics kept; source inferred from [Publisher] footnote; removed needs-review."
+ },
+ "Enquiry is not the only way.md": {
+  "file": "Enquiry is not the only way.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches image exactly; kept existing source; removed needs-review."
+ },
+ "Five thousand years of human minds evolution has not demystified existence.md": {
+  "file": "Five thousand years of human minds evolution has not demystified existence.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The New Dawn]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches (image misprint 'Medic' kept as 'Vedic'); removed needs-review."
+ },
+ "Food consecration mantra from the Bhagavad Gita.md": {
+  "file": "Food consecration mantra from the Bhagavad Gita.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "418",
+  "confidence": "medium",
+  "note": "Fixed wrong opening curly quote, added line breaks in mantra list; book is a practice guide quoting the Gita (not the Gita itself), unidentified, so source cleared and tagged needs-source; first line cropped in image"
+ },
+ "God has fashioned human nature such that it is like a receptacle that cannot remain empty of some fo.md": {
+  "file": "God has fashioned human nature such that it is like a receptacle that cannot remain empty of some fo.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Haqiqatul-Wahi - The Philosophy of Divine Revelation]]",
+  "page": "70",
+  "confidence": "high",
+  "note": "Body matches image; running header confirms source"
+ },
+ "He could not move as the force of Bhagavans presence held him.md": {
+  "file": "He could not move as the force of Bhagavans presence held him.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches (image typo 'hi his arms' kept as 'in'); passage is novel-style prose, not Letters from Sri Ramanasramam; source cleared, needs-source"
+ },
+ "He is the ocean of love and sympathy.md": {
+  "file": "He is the ocean of love and sympathy.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches; source kept on content (Arunachala, Guru as Bestower, Nagamma letters style), not stated in image"
+ },
+ "He is washed and cleansed and God inscribes love of virtue upon his heart and casts out from it the .md": {
+  "file": "He is washed and cleansed and God inscribes love of virtue upon his heart and casts out from it the .md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Philosophy of the Teachings of Islam]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches; source kept on content (soul at rest stages), not stated in image"
+ },
+ "He who is always in pursuit of happiness but finds only sorrow.md": {
+  "file": "He who is always in pursuit of happiness but finds only sorrow.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Subtitle from a Sai Baba video (MySaiBaba.com watermark), not a canonical book; needs-source"
+ },
+ "His memory was like an omnipresent prism of prescience.md": {
+  "file": "His memory was like an omnipresent prism of prescience.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Dune]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches; Leto/Ghanima/Stilgar is from Children of Dune, nearest canonical is Dune"
+ },
+ "His obsession with trade approached delirium.md": {
+  "file": "His obsession with trade approached delirium.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Removed leading ellipsis and invented em dash to match image; source (Claret booklet) not canonical so cleared, needs-source"
+ },
+ "His vocational detour to the Society of Jesus had not been without purpose.md": {
+  "file": "His vocational detour to the Society of Jesus had not been without purpose.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches image; existing source is not canonical and image has no attribution; Edited->false, needs-source. Source key left unchanged."
+ },
+ "I exist is the only permanent self-evident experience of everyone.md": {
+  "file": "I exist is the only permanent self-evident experience of everyone.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Day by Day with Bhagavan]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Merged Swami/Bhagavan reply into one paragraph per image; source kept (not visible in image, plausible); removed needs-review."
+ },
+ "IMG_1146.md": {
+  "file": "IMG_1146.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches image exactly; no attribution visible; needs-source."
+ },
+ "IMG_1203.md": {
+  "file": "IMG_1203.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Calvin and Hobbes]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Strip dialogue matches image; Edited true, needs-review removed."
+ },
+ "IMG_1212.md": {
+  "file": "IMG_1212.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Body rewritten from handwritten notebook page (original garbled): main text plus captions; source not in canonical list; needs-source."
+ },
+ "IMG_1226.md": {
+  "file": "IMG_1226.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Vagabond]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Body matched; italicized emphasized KNEW; Edited true, needs-review removed."
+ },
+ "IMG_1234.md": {
+  "file": "IMG_1234.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": "12",
+  "confidence": "medium",
+  "note": "Silent Vagabond panels (page 12 visible), no text; existing body is a scene description, left untouched, flags kept."
+ },
+ "IMG_1239.md": {
+  "file": "IMG_1239.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Vagabond]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Added missing Heheh. bubble, normalized I'm... no one.; Edited true, needs-review removed."
+ },
+ "IMG_1277.md": {
+  "file": "IMG_1277.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Fixed Samvedansheelta spelling; video subtitle (MySaiBaba.com clip), no source"
+ },
+ "IMG_1278.md": {
+  "file": "IMG_1278.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches subtitle; video clip, no source"
+ },
+ "IMG_1286.md": {
+  "file": "IMG_1286.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[The Path of Self Knowledge]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Fixed 'in the pure' -> 'in me pure' (cut-off top line); kept existing source, not confirmable from image"
+ },
+ "IMG_1292.md": {
+  "file": "IMG_1292.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches subtitle; video clip, no source"
+ },
+ "IMG_1293.md": {
+  "file": "IMG_1293.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches subtitle; video clip, no source"
+ },
+ "IMG_1296.md": {
+  "file": "IMG_1296.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches subtitle; video clip, no source"
+ },
+ "IMG_1298.md": {
+  "file": "IMG_1298.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches subtitle; video clip, no source"
+ },
+ "IMG_1299.md": {
+  "file": "IMG_1299.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Only caption '(...laughter...)'; left untouched, flags kept"
+ },
+ "IMG_1303.md": {
+  "file": "IMG_1303.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Video subtitle (MySaiBaba.com) matches; speaker unidentified, no canonical source; tag needs-source."
+ },
+ "IMG_1305.md": {
+  "file": "IMG_1305.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Video subtitle fragment matches; speaker unidentified; tag needs-source."
+ },
+ "IMG_1309.md": {
+  "file": "IMG_1309.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[The New Dawn]]",
+  "page": "318",
+  "confidence": "high",
+  "note": "Footer says The New Dawn/Osho p318; body matched, fixed en dash; added title; first line is a cropped fragment, last line cut mid-sentence as in image."
+ },
+ "IMG_1349.md": {
+  "file": "IMG_1349.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[The Zen Teaching of Huang Po]]",
+  "page": "103",
+  "confidence": "high",
+  "note": "Rejoined pro-fundity, removed leading * * * divider; footnote omitted."
+ },
+ "IMG_1362.md": {
+  "file": "IMG_1362.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Vagabond]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Manga panel text Here! Now! One stroke of the sword. matches; Vagabond source pre-set."
+ },
+ "IMG_1417.md": {
+  "file": "IMG_1417.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Berzerk]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Bubble text matches (readberserk.site ch.291)."
+ },
+ "IMG_1419.md": {
+  "file": "IMG_1419.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Berzerk]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Replaced placeholder with bubble text (I see now / What I wanted more was / That light / Just like that light / I); bubble reading order slightly uncertain; title changed to quoted."
+ },
+ "IMG_1421.md": {
+  "file": "IMG_1421.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Berzerk]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Fixed punctuation/capitalization of the list (classes and ranks, other religions, ...)."
+ },
+ "IMG_1423.md": {
+  "file": "IMG_1423.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches image; Borges Library of Babel text, not a canonical source; tagged needs-source"
+ },
+ "IMG_1424.md": {
+  "file": "IMG_1424.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Video-still subtitle (MySaiBaba.com footage, not a game screenshot); subtitle matches; ShowImage true; needs-source"
+ },
+ "IMG_1427.md": {
+  "file": "IMG_1427.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Himalayan Institute web page (Dakshinamurti story); body matches; no canonical source; needs-source"
+ },
+ "IMG_1428.md": {
+  "file": "IMG_1428.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Replaced '[text cut off]' with ellipsis after 'inner self will' (image cut off there); Himalayan Institute page; needs-source"
+ },
+ "IMG_1541.md": {
+  "file": "IMG_1541.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "game screenshot (Project Zomboid, subtitle); subtitle matches; ShowImage true; needs-source"
+ },
+ "IMG_1545.md": {
+  "file": "IMG_1545.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "game screenshot (Project Zomboid, subtitle); subtitle matches; ShowImage true; needs-source"
+ },
+ "IMG_1557.md": {
+  "file": "IMG_1557.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": "18",
+  "confidence": "medium",
+  "note": "Manga translator note page 18 (Rikudou); body matches; series not identified with confidence (possibly Vagabond); needs-source"
+ },
+ "IMG_1622.md": {
+  "file": "IMG_1622.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Sanskrit verse plus translation matches image; likely Ramana-related but no on-page attribution; needs-source"
+ },
+ "IMG_1623.md": {
+  "file": "IMG_1623.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Split into 3 paragraphs, curly quotes/italics restored, completed truncated last line; source Letters from Sri Ramanasramam already set; image is a cropped page excerpt with no page number"
+ },
+ "IMG_1629.md": {
+  "file": "IMG_1629.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": "43",
+  "confidence": "high",
+  "note": "Body matches image; text is Musashi's Book of the Void (Book of Five Rings), not a canonical book, so tagged needs-source"
+ },
+ "IMG_1630.md": {
+  "file": "IMG_1630.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Vagabond]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Manga panel dialogue matches; removed needs-review"
+ },
+ "IMG_1632.md": {
+  "file": "IMG_1632.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Vagabond]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Manga bubbles match in reading order; Edited true, added nature-creation tag, removed needs-review"
+ },
+ "IMG_1658.md": {
+  "file": "IMG_1658.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Video still of a sadhu before a sun mural, no text; left untouched, flags kept"
+ },
+ "IMG_1660.md": {
+  "file": "IMG_1660.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Video still (documentary, not a game) with subtitle; body matches the subtitle; ShowImage true, needs-source"
+ },
+ "IMG_1706.md": {
+  "file": "IMG_1706.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Blue Exorcist manga page (readblueexorcist.com), not canonical; body matches; needs-source"
+ },
+ "IMG_1707.md": {
+  "file": "IMG_1707.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Mob Psycho 100]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches single bubble; kept earlier-assigned Mob Psycho 100 source, which I could not independently confirm from the image"
+ },
+ "IMG_1714.md": {
+  "file": "IMG_1714.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body already matches subtitle (the image says 'stop myself from internally suffering'; body matches). YouTube screenshot of Acharya Prashant interview, not a canonical teacher; tagged needs-source."
+ },
+ "IMG_1735.md": {
+  "file": "IMG_1735.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches. Testament of St John of Rila from Byzantine Monastic Foundation Documents (Dumbarton Oaks), not canonical; needs-source."
+ },
+ "IMG_1746.md": {
+  "file": "IMG_1746.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Siva Purana]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches image; source already Siva Purana (verses 12-22, Mahadeva weekdays); no page number visible; Edited true."
+ },
+ "IMG_1770.md": {
+  "file": "IMG_1770.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Path of Self Knowledge]]",
+  "page": "195",
+  "confidence": "high",
+  "note": "Body matches; header reads Path of Self-Knowledge by Arthur Osborne, p.195; Edited true."
+ },
+ "IMG_6032.md": {
+  "file": "IMG_6032.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Dropping Ashes On the Buddha]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches (source typo 'nit like that' rendered as 'not'); Seung Sahn passage, source recognized by passage, not literally printed; no page visible; Edited true."
+ },
+ "IMG_6336.md": {
+  "file": "IMG_6336.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "79",
+  "confidence": "medium",
+  "note": "Bloom County (Berkeley Breathed) strip, not canonical; body reordered to panel order, one line per balloon; panel order of last three balloons somewhat ambiguous; needs-source."
+ },
+ "IMG_6338.md": {
+  "file": "IMG_6338.md",
+  "verdict": "unreadable",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Bloom County panel cropped; only fragments visible ('...ran ...nd said, you saved ...h Reagan's'); body replaced with not-legible placeholder; needs-manual-review kept."
+ },
+ "IMG_6339.md": {
+  "file": "IMG_6339.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "177",
+  "confidence": "high",
+  "note": "Bloom County (Oct 9 1983), not canonical; fixed 'speed snake'->'jumbo-sized snake', 'their being survives on survival cooperation'->'their very survival depends on mutual cooperation', fixed panel order, added missing lines; needs-source."
+ },
+ "IMG_6434.md": {
+  "file": "IMG_6434.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Web page screenshot (sribalajicafee.com blurb); kept the single quoted sentence; no canonical source."
+ },
+ "IMG_6704.md": {
+  "file": "IMG_6704.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "83",
+  "confidence": "medium",
+  "note": "Table matches image; removed header row not visible in image (blank header); book unidentified."
+ },
+ "IMG_6719.md": {
+  "file": "IMG_6719.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Ramana Maharshi]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Removed truncated trailing 'Learn to [text continues on next page]'; Ramana (Bhagavan) quote kept as source; hosting book unidentified."
+ },
+ "IMG_6888.md": {
+  "file": "IMG_6888.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "149",
+  "confidence": "high",
+  "note": "Walking on Sunshine p149 (non-canonical); reduced to the 3-sentence passage, ShowImage true, needs-source."
+ },
+ "IMG_6891.md": {
+  "file": "IMG_6891.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "186",
+  "confidence": "high",
+  "note": "Awakened Leadership p186; body was upside-down OCR garbage; replaced with the italic set-off sentence, ShowImage true."
+ },
+ "IMG_6892.md": {
+  "file": "IMG_6892.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "187",
+  "confidence": "high",
+  "note": "Everybody Into the Pool p187 (Awakened Leadership chapter); reduced to 2-sentence passage, added title, ShowImage true."
+ },
+ "IMG_6893.md": {
+  "file": "IMG_6893.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "187",
+  "confidence": "high",
+  "note": "Same page as 6892; reduced to the set-off Bob Anderson passage plus attribution, ShowImage true."
+ },
+ "IMG_6917.md": {
+  "file": "IMG_6917.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": "10",
+  "confidence": "high",
+  "note": "Mandala (Arguelles) illustration page with lettered inscription; body matches; ShowImage true, needs-source."
+ },
+ "IMG_6925.md": {
+  "file": "IMG_6925.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": "39",
+  "confidence": "medium",
+  "note": "Mandala of the Ages plate, no real text; Mandala (Arguelles); page set 39; kept needs-manual-review, ShowImage true"
+ },
+ "IMG_6926.md": {
+  "file": "IMG_6926.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Illustration only, no caption; kept needs-manual-review"
+ },
+ "IMG_6927.md": {
+  "file": "IMG_6927.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": "56",
+  "confidence": "medium",
+  "note": "Diagram with caption only; kept needs-manual-review"
+ },
+ "IMG_6928.md": {
+  "file": "IMG_6928.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Diagram with caption only; kept needs-manual-review"
+ },
+ "IMG_6929.md": {
+  "file": "IMG_6929.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Ouroboros diagram labels only; kept needs-manual-review"
+ },
+ "IMG_6930.md": {
+  "file": "IMG_6930.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": "64",
+  "confidence": "medium",
+  "note": "Diagrams with captions only; kept needs-manual-review"
+ },
+ "IMG_6935.md": {
+  "file": "IMG_6935.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Mandala (Arguelles) rotated page; body trimmed to one 3-sentence passage; needs-source"
+ },
+ "IMG_6939.md": {
+  "file": "IMG_6939.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Epigraph by Tilopa (not canonical); body = quote + attribution; title added; needs-source"
+ },
+ "IMG_6940.md": {
+  "file": "IMG_6940.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Mandala (Arguelles) diagram page; body reduced to caption + petal labels, removed misattributed G. Tucci line; ShowImage on"
+ },
+ "IMG_6946.md": {
+  "file": "IMG_6946.md",
+  "verdict": "non-quote",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Picture-only mandala plate with caption; kept needs-manual-review, ShowImage on"
+ },
+ "IMG_6948.md": {
+  "file": "IMG_6948.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Mandala 'Destruction' chapter; replaced placeholder with one ~60-word passage; removed unsupported Vidyeshvara Samhita source; page not visible"
+ },
+ "IMG_6949.md": {
+  "file": "IMG_6949.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Mandala 'Reintegration' page; trimmed to single best paragraph (quote-only treatment)"
+ },
+ "IMG_6951.md": {
+  "file": "IMG_6951.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "106",
+  "confidence": "high",
+  "note": "Mandala calligraphic plate; fixed text to 'And Through the Sun Beyond / What Even Man Or Flower Knows', page 106"
+ },
+ "IMG_6952.md": {
+  "file": "IMG_6952.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "109",
+  "confidence": "medium",
+  "note": "Mandala p109 dense page; trimmed to one ~55-word passage"
+ },
+ "IMG_6954.md": {
+  "file": "IMG_6954.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Blake set-off quote kept with attribution; removed Mandala commentary; Blake not canonical"
+ },
+ "IMG_7314.md": {
+  "file": "IMG_7314.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": "233",
+  "confidence": "medium",
+  "note": "Not Mandala: Getting Things Done (Allen), non-canonical; quote-only 3-sentence passage, page 233"
+ },
+ "IMG_7317.md": {
+  "file": "IMG_7317.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Dense page of a modern copyrighted book (GTD-style, ch.11 Collection Habit), not canonical; trimmed body to 2 sentences, ShowImage true, needs-source."
+ },
+ "In olden days, when we were doing the cooking during summer, we used to have a pot into which we put.md": {
+  "file": "In olden days, when we were doing the cooking during summer, we used to have a pot into which we put.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": "328",
+  "confidence": "high",
+  "note": "Body matched image; footer reads Letters from Sri Ramanasramam p.328; removed needs-review."
+ },
+ "In truth there is no unalterable Dharma which the Tathagata could have taught.md": {
+  "file": "In truth there is no unalterable Dharma which the Tathagata could have taught.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[The Zen Teaching of Huang Po]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Fixed Dipamkara to Dipamkara with diacritic (Dipa\u1e43kara); header Chun Chou Record; page not visible; removed needs-review."
+ },
+ "Jnani conducts himself according to the wishes of others.md": {
+  "file": "Jnani conducts himself according to the wishes of others.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches image; source not printed in image, kept existing attribution (typeface and 'said Bhagavan' style match Letters); Edited set true."
+ },
+ "Knowing yet unable to move a single cell aware of the entire universe.md": {
+  "file": "Knowing yet unable to move a single cell aware of the entire universe.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches the one-line crop; image shows no source, Dune attribution unverifiable so left source untouched but Edited false + needs-source."
+ },
+ "Kunju Swami meets Bhagavan for the first time.md": {
+  "file": "Kunju Swami meets Bhagavan for the first time.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Added italics for Sanskrit terms, replaced [text continues] placeholder with the visible end of the sentence (up to mahavakyas); image cropped at bottom; source not shown, existing Ramana Periya Purnam left untouched, Edited false + needs-source."
+ },
+ "Like the sky he provides shelter under his shade.md": {
+  "file": "Like the sky he provides shelter under his shade.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Philosophy of the Teachings of Islam]]",
+  "page": "171",
+  "confidence": "high",
+  "note": "Body matches; header confirms book and page 171; removed needs-review."
+ },
+ "Lord Buddhas greatest grievance was that there is only suffering.md": {
+  "file": "Lord Buddhas greatest grievance was that there is only suffering.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Video frame subtitle (MySaiBaba.com watermark), body matches; no canonical book identifiable; Edited false, needs-source."
+ },
+ "Meditation is possible only if the ego is kept up.md": {
+  "file": "Meditation is possible only if the ego is kept up.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": null,
+  "page": "418",
+  "confidence": "high",
+  "note": "Body matches image (header Talks with Sri Ramana Maharshi); set Page 418, removed needs-review."
+ },
+ "Moral nobility and not social respectability.md": {
+  "file": "Moral nobility and not social respectability.md",
+  "verdict": "verified-no-source",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Rejoined 'cre- ative'; text is a Christian sermon (footnotes cite King, Strength to Love) not Path of Self Knowledge, so cleared wrong source to empty, Edited false, tag needs-source."
+ },
+ "Non-duality means that only the Absolute is.md": {
+  "file": "Non-duality means that only the Absolute is.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": null,
+  "page": "95",
+  "confidence": "high",
+  "note": "Body matches; reader header confirms Path of Self-Knowledge (Osborne); removed needs-review."
+ },
+ "Our original Buddha-Nature is, in highest truth, devoid of any atom of objectivity.md": {
+  "file": "Our original Buddha-Nature is, in highest truth, devoid of any atom of objectivity.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Completed truncated ending ('Had there been'); Huang Po source already set, passage 8 recognizable; no page visible."
+ },
+ "People understand what knowledge means but they understand it differently.md": {
+  "file": "People understand what knowledge means but they understand it differently.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body text matched; restored italics emphasis; source In Search of the Miraculous kept (recognizable Gurdjieff passage), not literally stated in image."
+ },
+ "Present bondages are said to be of four types.md": {
+  "file": "Present bondages are said to be of four types.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Fixed first line (wrongly all-italic, wrong opening quote); only Panchadasi italic. Source Letters from Sri Ramanasramam kept, not stated in image."
+ },
+ "Restrain each single thought from arising then the Eighteen Sense Realms vanish.md": {
+  "file": "Restrain each single thought from arising then the Eighteen Sense Realms vanish.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": null,
+  "page": "122",
+  "confidence": "high",
+  "note": "Fixed diacritics (Sr\u0101vakas, Kalir\u0101ja, Therav\u0101din), 'him?!' to 'him?\u00b9', added second footnote; Page 122 from running head Zen Teaching of Huang Po."
+ },
+ "Sahaja Nishta.md": {
+  "file": "Sahaja Nishta.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Added missing leading 'us,' and trailing 'Subsequently, the same'; source Letters from Sri Ramanasramam kept, not stated in image."
+ },
+ "Self-negation and ultimate truth.md": {
+  "file": "Self-negation and ultimate truth.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Urdu/Punjabi video subtitle frame; body matches; removed wrong Vivekachudamani source"
+ },
+ "Simply look at the flower and dont say anything.md": {
+  "file": "Simply look at the flower and dont say anything.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": null,
+  "page": "105",
+  "confidence": "high",
+  "note": "Body matches pp.105-106; Coming Home to Yourself kept"
+ },
+ "So many things in this world cannot be expressed with words. Some things can not be explained.md": {
+  "file": "So many things in this world cannot be expressed with words. Some things can not be explained.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Vagabond manga dialogue matches; panel order ambiguous, kept"
+ },
+ "Sorrow is all there is there is nothing other than sorrow.md": {
+  "file": "Sorrow is all there is there is nothing other than sorrow.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "MySaiBaba.com video subtitle; no canonical source"
+ },
+ "Spiritual perfection changes even the body.md": {
+  "file": "Spiritual perfection changes even the body.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches; header Ramana Periya Puranam; no page number visible"
+ },
+ "Sri Guru ocean of mercy can anyone drenched with Thy kindness ever be afflicted.md": {
+  "file": "Sri Guru ocean of mercy can anyone drenched with Thy kindness ever be afflicted.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": null,
+  "page": "8",
+  "confidence": "high",
+  "note": "Body matches; Tripura Rahasya header p.8"
+ },
+ "Su Tung-p\u2018o wrote the follow  The roaring waterfall  is the Buddha\u2019s golden mouth.md": {
+  "file": "Su Tung-p\u2018o wrote the follow  The roaring waterfall  is the Buddha\u2019s golden mouth.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Poem matches; book not identifiable; removed unsupported Huang Po source"
+ },
+ "That is because surrender means the Self itself.md": {
+  "file": "That is because surrender means the Self itself.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": null,
+  "page": "413",
+  "confidence": "high",
+  "note": "Body matches; Letters from Sri Ramanasramam p.413"
+ },
+ "That which rises as I is the mind it is only the mind.md": {
+  "file": "That which rises as I is the mind it is only the mind.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Talks with Ramana Maharshi]]",
+  "page": "259",
+  "confidence": "high",
+  "note": "Body matched; removed running-header text from first line (kept date); cleared needs-review."
+ },
+ "The Almighty has no address nor location where He can be found.md": {
+  "file": "The Almighty has no address nor location where He can be found.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Video subtitle frame (MySaiBaba.com); no canonical source; Edited false, needs-source."
+ },
+ "The Self remains untainted how can there be the distinctions of caste.md": {
+  "file": "The Self remains untainted how can there be the distinctions of caste.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Kaivalya Navaneetam]]",
+  "page": "34",
+  "confidence": "high",
+  "note": "Text matched; italicized disciple turns (opening fragment and Q19) per dialogue rule; cleared needs-review."
+ },
+ "The Vedas contain the truth but the truth cannot be expressed in words.md": {
+  "file": "The Vedas contain the truth but the truth cannot be expressed in words.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": "524",
+  "confidence": "high",
+  "note": "Body matches image; cleared needs-review."
+ },
+ "The approach to it is called the Gateway of the Stillness beyond all Activity.md": {
+  "file": "The approach to it is called the Gateway of the Stillness beyond all Activity.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Zen Teaching of Huang Po]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches image (Q/A format intact); no page number visible; cleared needs-review."
+ },
+ "The doctrine of Advaita Non-duality taught by the ancient Rishis.md": {
+  "file": "The doctrine of Advaita Non-duality taught by the ancient Rishis.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Path of Self Knowledge]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches image; existing source kept (not stated in image); cleared needs-review."
+ },
+ "The dualities of shame attraction and aversion.md": {
+  "file": "The dualities of shame attraction and aversion.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": "82",
+  "confidence": "high",
+  "note": "Table matches image; source not identifiable; Edited false, needs-source."
+ },
+ "The fear is created by the ego and the ego has to face this fear coal charcoal gunpowder.md": {
+  "file": "The fear is created by the ego and the ego has to face this fear coal charcoal gunpowder.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Ramana Periya Purnam]]",
+  "page": "240",
+  "confidence": "high",
+  "note": "Body matches image; running header says Ramana Periya Puranam; set Page 240; draft untouched."
+ },
+ "The first thing as I see you I see you miserable.md": {
+  "file": "The first thing as I see you I see you miserable.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The New Dawn]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches image (cuts off at 'they always'); image has no attribution, kept existing source (Osho text); removed needs-review."
+ },
+ "The idea of one Self being aware of another Self is absurd.md": {
+  "file": "The idea of one Self being aware of another Self is absurd.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Talks with Ramana Maharshi]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches image; header reads Talks with Sri Ramana Maharshi; removed needs-review."
+ },
+ "The king remained motionless like a statue.md": {
+  "file": "The king remained motionless like a statue.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": "404",
+  "confidence": "high",
+  "note": "Added truncated final word 'is'; header and page 404 confirmed; removed needs-review."
+ },
+ "The king said that he was at the very moment placing at the feet of the Guru his body, his mind, his.md": {
+  "file": "The king said that he was at the very moment placing at the feet of the Guru his body, his mind, his.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": "405",
+  "confidence": "high",
+  "note": "Body matches image; header and page 405 confirmed; removed needs-review."
+ },
+ "The sage is unattached to anything or anybody.md": {
+  "file": "The sage is unattached to anything or anybody.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Yoga Vasistha]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches image; no header in image, kept existing Yoga Vasistha source (Venkatesananda-style text); removed needs-review."
+ },
+ "The universe is a university to educate the soul.md": {
+  "file": "The universe is a university to educate the soul.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches image; no attribution visible and no canonical source identifiable; tag needs-source; draft left true."
+ },
+ "The universe is nothing but consciousness.md": {
+  "file": "The universe is nothing but consciousness.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Tripura Rahasya]]",
+  "page": "241",
+  "confidence": "high",
+  "note": "Added missing closing bracket after 'eternal.'; page 241 confirmed; removed needs-review."
+ },
+ "There has never been a single thing then where does dust alight.md": {
+  "file": "There has never been a single thing then where does dust alight.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Zen Teaching of Huang Po]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches image; header 'The Chun Chou Record' confirms Huang Po; no page number shown; removed needs-review."
+ },
+ "There is a remedy for sorrow.md": {
+  "file": "There is a remedy for sorrow.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "MySaiBaba.com video subtitle frame; body matches; Edited false, needs-source."
+ },
+ "There is no bondage no liberation no aspirant no seeker.md": {
+  "file": "There is no bondage no liberation no aspirant no seeker.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": "525",
+  "confidence": "high",
+  "note": "Body incl. Sanskrit and Upadesa Saram verse 15 matches page header/525; removed needs-review."
+ },
+ "There is only one God - the language, location, and system may be different.md": {
+  "file": "There is only one God - the language, location, and system may be different.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Video subtitle frame; body matches; cleared non-canonical source; Edited false, needs-source."
+ },
+ "They teach the three emancipations of emptiness, signlessness, wishlessness and nonactivation.md": {
+  "file": "They teach the three emancipations of emptiness, signlessness, wishlessness and nonactivation.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[The Vimalakirti Sutra]]",
+  "page": "556c",
+  "confidence": "high",
+  "note": "Removed trailing [...] not in image; rest matches; removed needs-review."
+ },
+ "This chapter deals with all the preparatory steps which were needed before the creation of bio-units.md": {
+  "file": "This chapter deals with all the preparatory steps which were needed before the creation of bio-units.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Revelation, Rationality, Knowledge & Truth]]",
+  "page": "369",
+  "confidence": "medium",
+  "note": "Body matches image, page 369 visible; source kept (Quranic/jinn/clay content, Tahir Ahmad book); removed needs-review."
+ },
+ "This course would have been better for every seeker.md": {
+  "file": "This course would have been better for every seeker.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches; crane-incident text is not Tripura Rahasya so cleared wrong source; added tag mind; Edited false, needs-source."
+ },
+ "Three ways to describe truth - The same truth has to be expressed in different ways to suit the capa.md": {
+  "file": "Three ways to describe truth - The same truth has to be expressed in different ways to suit the capa.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[Day by Day with Bhagavan]]",
+  "page": "174",
+  "confidence": "medium",
+  "note": "Restored missing closing 'The letter continued, \"In the' and italicised Sanskrit terms; page 174 visible; source unproven by image but already set (Bhagavan/Dr.M. dialogue)."
+ },
+ "Titov the Russian cosmonaut returned from space and declared there is no God.md": {
+  "file": "Titov the Russian cosmonaut returned from space and declared there is no God.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches; Ramana Periya Purnam clearly wrong so cleared; no source identifiable; Edited false, needs-source."
+ },
+ "To the degree that you turn away from attachments to the unreal.md": {
+  "file": "To the degree that you turn away from attachments to the unreal.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Kaivalya Navaneetam]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches image (cropped mid-sentence, as in image); source kept from earlier pass (Master/numbered verses), no page visible."
+ },
+ "What is it to have skillful means with ones wisdom emancipated.md": {
+  "file": "What is it to have skillful means with ones wisdom emancipated.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Vimalakirti Sutra]]",
+  "page": "112",
+  "confidence": "high",
+  "note": "Body matches image; image is dBET Vimalakirti PDF p112."
+ },
+ "What is the ego and how is it related to the Self.md": {
+  "file": "What is the ego and how is it related to the Self.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Talks with Ramana Maharshi]]",
+  "page": "181",
+  "confidence": "high",
+  "note": "Talks 207-208 match image exactly; p181 visible."
+ },
+ "When I enquired what it was Bhagavan led me to see.md": {
+  "file": "When I enquired what it was Bhagavan led me to see.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Letters from Sri Ramanasramam]]",
+  "page": "386",
+  "confidence": "high",
+  "note": "Body matches image; running header and p386 visible."
+ },
+ "Where is the place of enlightenment.md": {
+  "file": "Where is the place of enlightenment.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[The Vimalakirti Sutra]]",
+  "page": "111",
+  "confidence": "high",
+  "note": "Fixed wrong-direction nested quotes (\u201c\u2019 to \u201c\u2018) in verses 7 and 8; rest matched."
+ },
+ "Why fall into nirvikalpa samadhi, without gaining the fruit of its wisdom!.md": {
+  "file": "Why fall into nirvikalpa samadhi, without gaining the fruit of its wisdom!.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches verses 108-110; image has no title/header and typeface differs from the 105-106 Kaivalya Navaneetam image, so source not confidently identified."
+ },
+ "Yet, his vocational detour to the Society of Jesus had not been without purpose.md": {
+  "file": "Yet, his vocational detour to the Society of Jesus had not been without purpose.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches e-reader screenshot; biography of Saint Anthony Claret, not a canonical source."
+ },
+ "You fly about like birds from another world.md": {
+  "file": "You fly about like birds from another world.md",
+  "verdict": "unreadable",
+  "body_changed": true,
+  "source_set": "[[Guru Vachaka Kovai]]",
+  "page": "58",
+  "confidence": "medium",
+  "note": "Image is cropped at right edge; fixed fabricated 'to k[eep' to 'to b[\u2026]'; set Edited false + needs-manual-review since quote is a fragment (source/page 58 retained)."
+ },
+ "Your hunger and thirst for bliss is absolutely fulfilled.md": {
+  "file": "Your hunger and thirst for bliss is absolutely fulfilled.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Consciousness and the Absolute]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Body matched image; Nisargadatta dialogue, source already set; removed needs-review"
+ },
+ "Your true identity is beyond all concepts.md": {
+  "file": "Your true identity is beyond all concepts.md",
+  "verdict": "verified-clean",
+  "body_changed": true,
+  "source_set": "[[The Nectar of Immortality]]",
+  "page": "92",
+  "confidence": "high",
+  "note": "Italicized avatars per image; running header confirms book/page"
+ },
+ "accept all of the pain.md": {
+  "file": "accept all of the pain.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[One Punch Man]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Manga panel dialogue matches; image shows onepunchmanmanga URL"
+ },
+ "be aware of yourself and you will see light in the deepest recesses of your core.md": {
+  "file": "be aware of yourself and you will see light in the deepest recesses of your core.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Consciousness and the Absolute]]",
+  "page": "90",
+  "confidence": "high",
+  "note": "Two-page spread matches body; header confirms book"
+ },
+ "d5ff7981-9d8c-4885-8d2f-13b44091f9a2.md": {
+  "file": "d5ff7981-9d8c-4885-8d2f-13b44091f9a2.md",
+  "verdict": "verified-no-source",
+  "body_changed": false,
+  "source_set": null,
+  "page": null,
+  "confidence": "high",
+  "note": "Shiva meme text matches; no attributable source; tagged needs-source"
+ },
+ "great secret of the five-fold duties.md": {
+  "file": "great secret of the five-fold duties.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[Siva Purana]]",
+  "page": null,
+  "confidence": "high",
+  "note": "Body matches image; no page number visible"
+ },
+ "such a man becomes seated in the lap of God.md": {
+  "file": "such a man becomes seated in the lap of God.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Philosophy of the Teachings of Islam]]",
+  "page": null,
+  "confidence": "medium",
+  "note": "Body matches; source previously set, recognizable passage; no page visible"
+ },
+ "the inner voice is not a voice it is silence.md": {
+  "file": "the inner voice is not a voice it is silence.md",
+  "verdict": "verified-clean",
+  "body_changed": false,
+  "source_set": "[[The Search]]",
+  "page": "94",
+  "confidence": "high",
+  "note": "Body matches; footer shows The Search / 94 / Osho"
+ }
+}

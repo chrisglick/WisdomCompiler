@@ -10,7 +10,6 @@ tags:
   - guru-teacher
   - meditation
   - self-knowledge
-  - needs-review
 title: "Enquiry is not the only way"
 ---
 

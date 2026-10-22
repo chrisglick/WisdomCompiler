@@ -10,7 +10,6 @@ tags:
   - divine
   - guru-teacher
   - knowledge-wisdom
-  - needs-review
 title: "When I enquired what it was Bhagavan led me to see"
 ---
 

@@ -11,7 +11,6 @@ tags:
   - mind
   - non-duality
   - silence
-  - needs-review
 ---
 
 *14. Q: If that is so, what Dharma do all the Buddhas teach when they manifest themselves in the world?*

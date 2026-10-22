@@ -12,7 +12,6 @@ tags:
   - ego
   - non-duality
   - surrender
-  - needs-review
 ---
 
 Talk 207.

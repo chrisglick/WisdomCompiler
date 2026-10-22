@@ -1,10 +1,10 @@
 ---
-Edited: true
-source: "[[Tripura Rahasya]]"
+Edited: false
+source: ""
 Page: "0"
 image_name: IMG_1439.webp
 Source Type: []
-tags: ["needs-review"]
+tags: ["mind", "needs-source"]
 draft: false
 ShowImage: false
 title: "This course would have been better for every seeker"

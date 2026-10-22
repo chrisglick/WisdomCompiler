@@ -1,7 +1,7 @@
 ---
 Edited: true
 source: "[[The Zen Teaching of Huang Po]]"
-Page: "0"
+Page: "122"
 image_name: IMG_1380.webp
 Source Type: 
 draft: false
@@ -14,14 +14,13 @@ tags:
   - non-duality
   - silence
   - knowledge-wisdom
-  - needs-review
 ---
 
 preaching of the Dharma is at one and the same time both vocal and silent. Though one talks the day long, no word is spoken. This being so, only silence belongs to the Essential.
 
 ---
 
-*46. Q: Is it true that the Sravakas¹ can only merge their forms into the formless sphere which still belongs to the transitory Triple World, and that they are incapable of losing themselves utterly in Bodhi?*
+*46. Q: Is it true that the Śrāvakas¹ can only merge their forms into the formless sphere which still belongs to the transitory Triple World, and that they are incapable of losing themselves utterly in Bodhi?*
 
 A: Yes. Form implies matter. Those saints are only proficient in casting off worldly views and activities, by which means they escape from worldly delusions and afflictions. They cannot lose themselves utterly in Bodhi; thus, there is still the danger that demons may come and pluck them from within the orbit of Bodhi itself. Aloofly seated in their forest dwellings, they perceive the Bodhi-Mind but vaguely. Whereas those who are vowed to become Bodhisattvas and who are already within the Bodhi of the Three Worlds, neither reject nor grasp at anything. Non-grasping, it were vain to seek them upon any plane; non-rejecting, demons will strive in vain to find them.
 
@@ -29,9 +28,11 @@ Nevertheless, with the merest desire to attach yourselves to this or that, a men
 
 ---
 
-*47. Q: But what if in previous lives I have behaved like Kaliraja, slicing the limbs from living men?*
+*47. Q: But what if in previous lives I have behaved like Kalirāja, slicing the limbs from living men?*
 
-A: The holy sages tortured by him represent your own Mind, while Kaliraja symbolizes that part of you which goes out SEEKING. Such unkingly behaviour is called lust for personal advantage. If you students of the Way, without making any attempt to live virtuously, just want to make a study of everything you perceive, then how are you different from him?! By allowing your gaze to linger
+A: The holy sages tortured by him represent your own Mind, while Kalirāja symbolizes that part of you which goes out SEEKING. Such unkingly behaviour is called lust for personal advantage. If you students of the Way, without making any attempt to live virtuously, just want to make a study of everything you perceive, then how are you different from him?¹ By allowing your gaze to linger
 
-¹ Theravadin saints who do not accept the doctrine of void, but follow the literal meaning of the sūtras.
+¹ Theravādin saints who do not accept the doctrine of void, but follow the literal meaning of the sūtras.
+
+¹ This passage is sufficient answer to those critics of Zen who affirm that Zen disregards the necessity for virtuous living. It does not disregard it at all, but does deny that Enlightenment may be gained by it—which is quite a different thing.
 

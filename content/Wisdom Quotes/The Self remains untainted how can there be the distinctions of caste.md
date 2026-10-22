@@ -13,12 +13,11 @@ tags:
   - liberation
   - knowledge-wisdom
   - non-duality
-  - needs-review
 ---
 
-*Brahman*, and remains untainted, how can there be the manifold or movements in the mind? Tell me.
+*Brahman, and remains untainted, how can there be the manifold or movements in the mind? Tell me.*
 
-*19. Disciple:* How then can the wise, liberated while alive, exhaust their *prarabdha* if their mind has lost itself in *Brahman* and become one with It? Is it not done only by experiencing its results? Such experience would certainly require the mind. There cannot be any kind of experience in the absence of the mind. If the mind persists, how can it be said to be liberated? I am confused on this point. Be pleased to clear this doubt of mine, for I cannot be liberated unless all my doubts are cleared away.
+*19. Disciple: How then can the wise, liberated while alive, exhaust their prarabdha if their mind has lost itself in Brahman and become one with It? Is it not done only by experiencing its results? Such experience would certainly require the mind. There cannot be any kind of experience in the absence of the mind. If the mind persists, how can it be said to be liberated? I am confused on this point. Be pleased to clear this doubt of mine, for I cannot be liberated unless all my doubts are cleared away.*
 
 20. *Master:* The annihilation of the mind is of two grades: namely, of the mind pattern and of the mind itself. The former applies to Sages liberated while alive; the latter to disembodied Sages. Elimination of *rajas* and *tamas*, leaving *sattva* alone is the dissolution of the pattern of the mind. When *sattva* vanishes along with the subtle body, the mind itself is said to have perished too.
 

@@ -10,7 +10,6 @@ tags:
   - mind
   - non-duality
   - consciousness
-  - needs-review
 ---
 
 Sword of Thusness’. All the concepts you have formed in the past must be discarded and replaced by void. Where dualism ceases, there is the Void of the Womb of Tathāgatas. The term ‘Womb of Tathāgatas’ implies that not the smallest hairsbreadth of anything can exist there. That is why the Dharma Rāja *(the Buddha)*, who broke down the notion of objective existence, manifested himself in this

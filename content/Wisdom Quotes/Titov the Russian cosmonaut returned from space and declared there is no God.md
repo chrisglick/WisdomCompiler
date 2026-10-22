@@ -1,6 +1,6 @@
 ---
-Edited: true
-source: "[[Ramana Periya Purnam]]"
+Edited: false
+source: ""
 Page: "0"
 image_name: IMG_1493.webp
 Source Type: []
@@ -10,7 +10,7 @@ tags:
   - divine
   - nature-creation
   - faith-trust
-  - needs-review
+  - needs-source
 title: "Titov the Russian cosmonaut returned from space and..."
 ---
 

@@ -12,7 +12,6 @@ tags:
   - faith-trust
   - mind
   - nature-creation
-  - needs-review
 ---
 
 Just watch: five thousand years of human mind’s evolution – has it helped in any way to demystify existence? Existence has become far more mysterious than it has ever been before. Go back five thousand years: there was a limited number of stars, because by the bare naked eye you cannot count more than three thousand stars in the night. When the night is dark and full of stars and there are no clouds, at the most you can count three thousand stars, not more than that, by the bare naked eye. How many stars are there? Now they say, “We have counted three thousand billion stars. We used to see only three thousand, now there are three thousand billion stars. And this is not the end: this is just the beginning of the counting.”

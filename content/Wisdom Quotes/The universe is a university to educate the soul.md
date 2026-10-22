@@ -11,7 +11,7 @@ tags:
   - knowledge-wisdom
   - consciousness
   - liberation
-  - needs-review
+  - needs-source
 ---
 
 The universe is a university to educate the soul. Before we go any higher and awaken, we have to have these little realizations where we begin to feel that there is nothing wrong. There is absolutely no thing wrong. All the good of the universe is yours. There is absolutely nothing wrong—nothing.

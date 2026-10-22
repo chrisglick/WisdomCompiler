@@ -1,7 +1,7 @@
 ---
 Edited: true
 source: "[[Talks with Ramana Maharshi]]"
-Page: "0"
+Page: "418"
 image_name: IMG_1452.webp
 Source Type: []
 draft: false
@@ -17,7 +17,6 @@ tags:
   - mind
   - non-duality
   - silence
-  - needs-review
 ---
 
 M.: Dvaita and advaita are relative terms. They are based on the sense of duality. The Self is as it is. There is neither dvaita nor advaita. I AM THAT I AM. Simple Being is the Self.

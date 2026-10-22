@@ -8,7 +8,6 @@ ShowImage: true
 tags:
   - nature-creation
   - knowledge-wisdom
-  - needs-review
 ---
 
 So many things in this world...

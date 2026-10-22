@@ -1,6 +1,6 @@
 ---
-Edited: true
-source: "[[Letters from Sri Ramanasramam]]"
+Edited: false
+source: ""
 Page: "0"
 image_name: IMG_1516.webp
 Source Type: []
@@ -11,7 +11,7 @@ tags:
   - knowledge-wisdom
   - mind
   - silence
-  - needs-review
+  - needs-source
 title: "He could not move as the force of Bhagavans presence..."
 ---
 

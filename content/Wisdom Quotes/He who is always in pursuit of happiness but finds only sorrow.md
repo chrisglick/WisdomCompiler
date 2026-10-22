@@ -1,5 +1,5 @@
 ---
-Edited: true
+Edited: false
 source: ""
 Page: "0"
 image_name: IMG_1291.webp
@@ -11,7 +11,7 @@ tags:
   - suffering
   - mind
   - liberation
-  - needs-review
+  - needs-source
 ---
 
 He who is always in pursuit of happiness, but finds only sorrow at the end of every quest, this makes him sad and restless.

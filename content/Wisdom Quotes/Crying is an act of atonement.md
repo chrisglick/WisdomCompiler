@@ -1,10 +1,10 @@
 ---
-Edited: true
-source: "[[Day by Day with Bhagavan]]"
+Edited: false
+source: ""
 Page: "0"
 image_name: IMG_1459.webp
 Source Type: []
-tags: ["suffering","faith-trust","needs-review"]
+tags: ["suffering","faith-trust","needs-source"]
 draft: true
 ShowImage: false
 ---

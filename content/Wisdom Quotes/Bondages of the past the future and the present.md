@@ -11,7 +11,6 @@ tags:
   - guru-teacher
   - scripture
   - liberation
-  - needs-review
 ---
 
 (147) THE OMNIPRESENT

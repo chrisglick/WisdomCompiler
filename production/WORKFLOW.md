@@ -164,6 +164,7 @@ The script handles teachers the same way it handles books.
 | Regenerate book links | `python scripts/generate-book-links.py` |
 | Build site locally | `npx quartz build --serve` (then open localhost:8080) |
 | Build for deploy | `npx quartz build` |
+| Build when `npx quartz build` fails with npm `EMISSINGTARGET` | `node ./quartz/bootstrap-cli.mjs build` (or repair: `rm package-lock.json && npm install`) |
 | Deploy | `npx wrangler pages deploy public --project-name=wisdom-compiler --commit-dirty=true --branch=v4` |
 | Git push | `git add -A && git commit -m "Update content" && git push` |
 

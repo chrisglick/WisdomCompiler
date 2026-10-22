@@ -12,7 +12,6 @@ tags:
   - self-knowledge
   - non-duality
   - guru-teacher
-  - needs-review
 ---
 
 *The Swami then asked, “What is the best means for Self-realisation?”*

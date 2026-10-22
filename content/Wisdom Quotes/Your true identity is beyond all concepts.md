@@ -12,14 +12,13 @@ tags:
   - ego
   - self-knowledge
   - liberation
-  - needs-review
 ---
 
 *V: There are many gurus and many paths. How do we select a right guru and a correct path?*
 
 M: Many visitors come here. And many of them are mainly interested in subjects connected with body and mind, but I am not interested in these topics. Rarely someone wants knowledge of the Self. My present subject matter is: Whatever is gone, does not vanish and die, but disperses and manifests into multiplicity. While the consciousness leaves the body, it remains ample, widespread and manifest.
 
-In the manifest world, avatars and social workers have for thousands of years been trying to bring about a change. But in spite of their collective efforts, there has been no improvement at all. Human beings all have the same type of mind and intellect in which they are embroiled and caught up. But no improvement is possible in that state. I always go by the basic principle in the background. Unknowingly, everything is happening against that background, from that principle. A person is normally engaged in activities that may be considered good or bad, but are actually just mental occupation.
+In the manifest world, *avatars* and social workers have for thousands of years been trying to bring about a change. But in spite of their collective efforts, there has been no improvement at all. Human beings all have the same type of mind and intellect in which they are embroiled and caught up. But no improvement is possible in that state. I always go by the basic principle in the background. Unknowingly, everything is happening against that background, from that principle. A person is normally engaged in activities that may be considered good or bad, but are actually just mental occupation.
 
 Everybody is trying to protect and preserve the time factor—that is, the consciousness. So long as time is there, consciousness is there; and time is there so long as the body is present.
 

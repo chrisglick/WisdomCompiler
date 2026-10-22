@@ -1,6 +1,6 @@
 ---
-Edited: true
-source: "[[Bhagavad Gita]]"
+Edited: false
+source: ""
 Page: "418"
 image_name: IMG_0161.webp
 Source Type: []
@@ -11,7 +11,7 @@ tags:
   - scripture
   - service
   - love-devotion
-  - needs-review
+  - needs-source
 title: "Food consecration mantra from the Bhagavad Gita"
 ---
 
@@ -21,21 +21,21 @@ OM ANNAM BRAHMA RASO BISHMUR BHOKTA DEBO JANARDANAHI AWAEM GYANTWA TO YO BHUNKT 
 
 which means: Food is *Brahma*. Its rasa (juice) is *Vishnu*. The whole world (Life Being) is its user. Having this thought makes ineffective the evils connected with this food.
 
-(c) There is a state of mind suitable for taking of food—calmness. There is a *Sufi* saying: **”If a person eats with anger, the food turns to poison.”**
+(c) There is a state of mind suitable for taking of food—calmness. There is a *Sufi* saying: **“If a person eats with anger, the food turns to poison.”**
 
 5. Finally, consecrate the food you take. Such food is called *prasad*. Consecrating food means to offer the food up. Another way of saying this is that the taking of the food should be considered as part of one’s spiritual work of ???. In the West we sometimes say grace before meals. This is one form of consecrating the food. All you have to do now is continue to say grace, but now **listen to it.**
 
 A Sanskrit consecration of food taken from the *Gita* is as follows:
 
-BRAHMAPANAM - BRAHMA HAVIRE
-BRAHMAGNI - BRAHMAN A HOTA
-BRAHMAI - TAN - GANI BYAM
-BRAHMA - KARMA - SAMADHINAH
-GURU BRAHMA - GURU VISHNU - GURU
-DAWVO MAHISH WARA
-GURU SAKSHAT
-PARAM BRAHMA TUS MA EE
-SHRI GURU VEY NA MA HA
+BRAHMAPANAM - BRAHMA HAVIRE  
+BRAHMAGNI - BRAHMAN A HOTA  
+BRAHMAI - TAN - GANI BYAM  
+BRAHMA - KARMA - SAMADHINAH  
+GURU BRAHMA - GURU VISHNU - GURU  
+DAWVO MAHISH WARA  
+GURU SAKSHAT  
+PARAM BRAHMA TUS MA EE  
+SHRI GURU VEY NA MA HA  
 OM SHANTI SHANTI SHANTI
 
 **Translation:** This ritual is *Brahma*. The food is *Brahma*. He who offers the food is

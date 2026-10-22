@@ -11,7 +11,6 @@ tags:
   - ego
   - liberation
   - mind
-  - needs-review
 title: "The Vedas contain the truth but the truth cannot be..."
 ---
 

@@ -13,11 +13,10 @@ tags:
   - guru-teacher
   - knowledge-wisdom
   - mind
-  - needs-review
   - self-knowledge
 ---
 
-Talks with Sri Ramana Maharshi — 30th November, 1936
+30th November, 1936
 
 Talk 289.
 

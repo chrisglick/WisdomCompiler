@@ -10,10 +10,9 @@ tags:
   - guru-teacher
   - meditation
   - mind
-  - needs-review
 ---
 
-*”I have not read the Panchadasi,” said the devotee.*
+“I have not read the *Panchadasi*,” said the devotee.
 
 “Then I will tell you,” said Bhagavan, and proceeded to expound it:
 

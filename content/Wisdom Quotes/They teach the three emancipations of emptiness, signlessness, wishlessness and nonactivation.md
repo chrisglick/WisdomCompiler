@@ -12,7 +12,6 @@ tags:
   - liberation
   - scripture
   - suffering
-  - needs-review
 ---
 
 11. “They are without self, without person, without sentient being, without lifespan. They [teach the three emancipations of] emptiness, signlessness, wishlessness and nonactivation.
@@ -29,4 +28,4 @@ tags:
 
 “They are praised by all the buddhas, worthies, and sages. They reject the suffering of samsara and reveal the joy of nirvana. They are explained by all the buddhas of the ten directions and three periods of time.
 
-“One who hears such sutras, and devoutly understands, accepts and maintains, and reads and recites them, will with the power of skillful means [...]
+“One who hears such sutras, and devoutly understands, accepts and maintains, and reads and recites them, will with the power of skillful means

@@ -1,6 +1,6 @@
 ---
-Edited: true
-source: "[[Vivekachudamani]]"
+Edited: false
+source: ""
 Page: "0"
 image_name: IMG_1783.webp
 Source Type: []
@@ -9,7 +9,7 @@ ShowImage: false
 tags:
   - love-devotion
   - surrender
-  - needs-review
+  - needs-source
 ---
 
 Self-negation and ultimate truth are the slogans of love.

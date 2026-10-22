@@ -1,7 +1,7 @@
 ---
-Edited: false
+Edited: true
 source: "[[Ramana Periya Purnam]]"
-Page: "0"
+Page: "240"
 image_name: IMG_0566.webp
 Source Type: 
 draft: true
@@ -12,7 +12,6 @@ tags:
   - meditation
   - self-knowledge
   - liberation
-  - needs-review
 ---
 
 Chadwick moved closely with Bhagavan. He did not take any action simple, small or big without consulting Bhagavan. Although Bhagavan never approved or disapproved verbally, all the old devotees of Bhagavan could tell from Bhagavan’s expression what his response was. If he approved, he would nod his head. If he disapproved, he would go into his royal silence. Once, Chadwick had a bad toothache. In those days, Pondicherry was the closest town where one could find a good dentist. He went and told Bhagavan, “Bhagavan, I have a very bad toothache. May I go to Pondicherry to have a dentist treat it?” There was that royal silence and Chadwick did not go. Within three days, his toothache miraculously disappeared. He told me, “One should always be in tune with the master. His answer is there. It doesn’t have to be a verbal ‘yes’ or ‘no’. If you adhere to that, then even if his answer is in the negative, a positive action of healing flows from it.”

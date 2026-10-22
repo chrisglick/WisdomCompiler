@@ -10,7 +10,6 @@ tags:
   - nature-creation
   - divine
   - scripture
-  - needs-review
 ---
 
 *Śiva said* :—
