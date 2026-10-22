@@ -179,6 +179,11 @@ $dialogueIndentMobile: 0.75em;
     margin-right: auto;
   }
 
+  // Air between the breadcrumb and the attribution banner.
+  .breadcrumb-container {
+    margin-bottom: 1rem;
+  }
+
   // Air between the attribution banner and the title. The link is inline by
   // default, so make it a block so the banner's margin behaves.
   .source-banner__link {
@@ -251,7 +256,8 @@ $dialogueIndentMobile: 0.75em;
   > article hr {
     width: 3rem;
     margin: 3rem auto 2.5rem;
-    background-color: var(--gray);
+    // Pulled toward --darkgray so it reads on the dark background too.
+    background-color: color-mix(in srgb, var(--gray) 60%, var(--darkgray));
   }
 
   // The rule above already separates the passage; drop the second line.
@@ -259,6 +265,18 @@ $dialogueIndentMobile: 0.75em;
     margin-top: 0;
     padding-top: 0;
     border-top: none;
+  }
+
+  // One step larger and darker than the component defaults (--gray was too
+  // faint, especially in dark mode).
+  .related-quotes__heading {
+    font-size: 0.82rem;
+    color: color-mix(in srgb, var(--darkgray) 70%, var(--gray));
+  }
+
+  .related-quotes__source {
+    font-size: 0.85rem;
+    color: var(--darkgray);
   }
 
   @media all and ($mobile) {
@@ -290,4 +308,13 @@ $dialogueIndentMobile: 0.75em;
       margin: 2.25rem auto 2rem;
     }
   }
+}
+
+// The site footer sits outside .center; give it the same column on quote pages.
+// base.scss sets min-width: 100% on it, which would beat max-width.
+#{$quotePage} #quartz-body > footer {
+  max-width: $quoteMeasure;
+  min-width: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
